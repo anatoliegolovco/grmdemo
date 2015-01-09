@@ -1,0 +1,7 @@
+#!/bin/bash
+
+
+F="extract.osm.pbf"
+
+
+/opt/osmosis/bin/osmosis --read-apidb host="localhost" database="openstreetmap" user="root" validateSchemaVersion="no" --write-pbf file=$F
