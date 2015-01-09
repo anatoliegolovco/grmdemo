@@ -316,10 +316,10 @@ nl:
       edit: Bewerken
     feed:
       user:
-        title: OpenStreetMap dagboekberichten van %{user}
-        description: Recente OpenStreetMap dagboekberichten van %{user}
+        title: GRM dagboekberichten van %{user}
+        description: Recente GRM dagboekberichten van %{user}
       language:
-        title: OpenStreetMap dagboekberichten in het %{language_name}
+        title: GRM dagboekberichten in het %{language_name}
         description: Recente dagboekberichten van OpenStreetMap-gebruikers in het
           %{language_name}
       all:
@@ -339,7 +339,7 @@ nl:
       area_to_export: Te exporteren gebied
       manually_select: Handmatig een ander gebied selecteren
       format_to_export: Bestandsformaat
-      osm_xml_data: OpenStreetMap XML-gegevens
+      osm_xml_data: GRM XML-gegevens
       map_image: Kaartafbeelding (geeft de standaard laag weer)
       embeddable_html: HTML-code
       licence: Licentie
@@ -349,7 +349,7 @@ nl:
       too_large:
         advice: 'Als het exporteren mislukt, overweeg dan een van de onderstaande
           bronnen te gebruiken:'
-        body: Dit gebied is te groot om als OpenStreetMap XML-gegevens te exporteren.
+        body: Dit gebied is te groot om als GRM XML-gegevens te exporteren.
           Zoom in of selecteer een kleiner gebied.
         planet:
           title: Planet OSM
@@ -936,7 +936,7 @@ nl:
     edit_with: Bewerken met %{editor}
     tag_line: De vrije wikiwereldkaart
     intro_header: Welkom bij OpenStreetMap!
-    intro_text: OpenStreetMap is een kaart van de wereld, gemaakt door mensen zoals
+    intro_text: GRM is een kaart van de wereld, gemaakt door mensen zoals
       u en vrij te gebruiken onder een open licentie.
     intro_2_create_account: Maak een gebruiker aan
     partners_html: De hosting wordt ondersteund door %{ucl}, %{ic} en %{bytemark},
@@ -949,7 +949,7 @@ nl:
       het uitvoeren van onderhoudswerkzaamheden.
     osm_read_only: De OpenStreetMap-database kan op het moment niet gewijzigd worden
       wegens het uitvoeren van onderhoudswerkzaamheden.
-    donate: Ondersteun OpenStreetMap door te %{link} aan het Hardware Upgrade-fonds.
+    donate: Ondersteun GRM door te %{link} aan het Hardware Upgrade-fonds.
     help: Hulp
     about: Over
     copyright: Auteursrechten
@@ -957,9 +957,9 @@ nl:
     community_blogs: Gemeenschapsblogs
     community_blogs_title: Blogs van leden van de OpenStreetMap-gemeenschap
     foundation: Stichting
-    foundation_title: De OpenStreetMap Foundation
+    foundation_title: De GRM Foundation
     make_a_donation:
-      title: Steun OpenStreetMap met een donatie
+      title: Steun GRM met een donatie
       text: Doneren
     learn_more: Meer lezen
     more: Meer
@@ -979,12 +979,12 @@ nl:
     legal_babble:
       title_html: Auteursrechten en licentie
       intro_1_html: |-
-        OpenStreetMap is <i>open data</i>, gelicenseerd onder de <a
+        GRM is <i>open data</i>, gelicenseerd onder de <a
         href="http://opendatacommons.org/licenses/odbl/">Open Data
         Commons Open Database License</a> (ODbL).
       intro_2_html: |-
         Het staat u vrij onze gegevens te kopiëren, te distribueren,
-        weer te geven en aan te passen, zo lang als u OpenStreetMap en haar
+        weer te geven en aan te passen, zo lang als u GRM en haar
         auteurs vermeldt. Als u onze kaarten of gegevens wijzigt of erop verder bouwt,
         mag u de resultaten onder dezelfde licentie distribueren. In de
         volledige <a href="http://opendatacommons.org/licenses/odbl/1.0/">juridische
@@ -993,7 +993,7 @@ nl:
         De cartografie in onze kaarttegels en onze documentatie zijn
         gelicenseerd onder de licentie <a href="http://creativecommons.org/licenses/by-sa/2.0/">Creative
         Commons Naamsvermelding-Gelijk delen 2.0</a> license (CC-BY-SA).
-      credit_title_html: Hoe OpenStreetMap te vermelden
+      credit_title_html: Hoe GRM te vermelden
       credit_1_html: |-
         Wij vereisen dat u het volgende vermeld bij gebruik:
         &ldquo;Kaartgegevens &copy; OpenStreetMap-auteurs&rdquo;.
@@ -1010,7 +1010,7 @@ nl:
         Voor een doorbladerbare kaart, moet de naamsvermelding in een hoek van de kaart weergegeven worden.
         Bijvoorbeeld:
       attribution_example:
-        alt: Voorbeeld van hoe de naamsvermelding voor OpenStreetMap toe te passen
+        alt: Voorbeeld van hoe de naamsvermelding voor GRM toe te passen
           op een webpagina
         title: Voorbeeld naamsvermelding
       more_title_html: Meer informatie
@@ -1019,7 +1019,7 @@ nl:
         href="http://wiki.openstreetmap.org/wiki/Legal_FAQ">Veelgestelde juridische
         vragen</a>.
       more_2_html: |-
-        Hoewel OpenStreetMap open data is, kunnen we geen gratis
+        Hoewel GRM open data is, kunnen we geen gratis
         kaart-API voor derde partijen aanbieden.
         Zie ons <a href="http://wiki.openstreetmap.org/wiki/API_usage_policy">API-gebruikbeleid</a>,
         <a href="http://wiki.openstreetmap.org/wiki/Tile_usage_policy">Tegelgebruikbeleid</a>
@@ -1064,10 +1064,10 @@ nl:
         Voor meer gegevens over deze en andere bronnen die gebruikt zijn
         voor het verbeteren van OpenStreetMap, kunt u de <a
         href="http://wiki.openstreetmap.org/wiki/Contributors">pagina met Bijdragers</a>
-        op de OpenStreetMap Wiki raadplegen.
+        op de GRM Wiki raadplegen.
       contributors_footer_2_html: |-
-        Opname van gegevens in OpenStreetMap betekent niet dat de originele
-        gegevensverstrekker OpenStreetMap ondersteunt, enige vorm van garantie geeft, of
+        Opname van gegevens in GRM betekent niet dat de originele
+        gegevensverstrekker GRM ondersteunt, enige vorm van garantie geeft, of
         aansprakelijkheid aanvaardt.
       infringement_title_html: Auteursrechtenschending
       infringement_1_html: |-
@@ -1076,7 +1076,7 @@ nl:
         zonder expliciete toestemming van de auteursrechtenhouders.
       infringement_2_html: |-
         Als u van mening bent dat auteursrechtelijk beschermd en niet vrij gelicenseerd materiaal
-        ongeoorloofd aan de database van OpenStreetMap is toegevoegd, raadpleeg dan
+        ongeoorloofd aan de database van GRM is toegevoegd, raadpleeg dan
         onze <a href="http://www.osmfoundation.org/wiki/License/Takedown_procedure">takedownprocedure</a>
         of meld het direct en formeel via onze <a href="http://dmca.openstreetmap.org/">online claimpagina</a>.
   welcome_page:
@@ -1087,7 +1087,7 @@ nl:
     whats_on_the_map:
       title: Wat is er op de kaart?
       on_html: |-
-        OpenStreetMap is plaats voor het in kaart brengen van dingen die <em>echt en actueel</em> zijn -
+        GRM is plaats voor het in kaart brengen van dingen die <em>echt en actueel</em> zijn -
         we hebben een kaart met miljoenen gebouwen, wegen en andere details over plaatsen.
         U kunt alles uit de echte wereld waar u interesse in hebt in kaart brengen.
       off_html: |-
@@ -1095,7 +1095,7 @@ nl:
         kunt u niet kopiëren uit kaarten die u online of op papier kunt vinden.
     basic_terms:
       title: Basisbegrippen voor cartografie
-      paragraph_1_html: OpenStreetMap heeft een eigen jargon. Hier volgen een aantal
+      paragraph_1_html: GRM heeft een eigen jargon. Hier volgen een aantal
         woorden die van pas gaan komen.
       editor_html: Een <strong>editor</strong> is een programma of website die u kunt
         gebruiken om de kaart te bewerken.
@@ -1128,7 +1128,7 @@ nl:
         title: Word lid van onze gemeenschap
         explanation_html: Als u een probleem met onze kaartgegevens hebt gevonden
           (er ontbreekt bijvoorbeeld een weg of uw adres staat er niet in) dan kunt
-          u zich het beste bij OpenStreetMap inschrijven en de gegevens zelf toevoegen
+          u zich het beste bij GRM inschrijven en de gegevens zelf toevoegen
           of corrigeren.
       add_a_note:
         instructions_html: |-
@@ -1163,20 +1163,20 @@ nl:
     next: Volgende
     copyright_html: <span>&copy;</span>OpenStreetMap-<br />bijdragers
     used_by: '%{name} levert gegevens voor honderden websites, mobiele apps en hardwareimplementaties'
-    lede_text: OpenStreetMap wordt gemaakt door een gemeenschap van kaartenmakers
+    lede_text: GRM wordt gemaakt door een gemeenschap van kaartenmakers
       die gegevens over wegen, paden, cafés, treinstations en nog veel meer, over
       de hele wereld bijdragen en onderhouden.
     local_knowledge_title: Lokale kennis
-    local_knowledge_html: OpenStreetMap legt de nadruk op lokale kennis. Bijdragers
+    local_knowledge_html: GRM legt de nadruk op lokale kennis. Bijdragers
       gebruiken luchtfoto's, GPS-apparaten, en low-tech veldkaarten om te controleren
       of OSM accuraat en bij de tijd is.
     community_driven_title: Communitygedreven
     community_driven_html: |-
-      De gemeenschap van OpenStreetMap is divers, gepassioneerd en groeiende dagelijks. Onder onze bijdragers zitten mensen die kaarten maken als hobby, GIS-professionals, IT-specialisten die de servers van OSM draaiende houden, filantropen die rampgebieden in kaart brengen en nog veel meer.
+      De gemeenschap van GRM is divers, gepassioneerd en groeiende dagelijks. Onder onze bijdragers zitten mensen die kaarten maken als hobby, GIS-professionals, IT-specialisten die de servers van OSM draaiende houden, filantropen die rampgebieden in kaart brengen en nog veel meer.
       Bekijk de <a href='%{diary_path}'>gebruikersdagboeken</a> of de <a href='http://blogs.openstreetmap.org/'>gemeenschapsblogs</a> voor meer informatie over de gemeenschap of de website van de <a href='http://www.osmfoundation.org/'>OSM Foundation</a>.�
     open_data_title: Open data
-    open_data_html: 'OpenStreetMap is <i>open data</i>: u mag de gegevens gebruiken
-      voor ieder doel, als u de naam van OpenStreetMap en haar bijdragers maar vermeldt.
+    open_data_html: 'GRM is <i>open data</i>: u mag de gegevens gebruiken
+      voor ieder doel, als u de naam van GRM en haar bijdragers maar vermeldt.
       Als u de gegevens wijzigt of uitbouwt op bepaalde manieren, dan mag u het resultaat
       alleen onder dezelfde licentie verder verspreiden. Zie de <a href=''%{copyright_path}''>pagina
       over Auteursrechten en Licentie</a> voor details.'
@@ -1191,7 +1191,7 @@ nl:
         op %{commenturl} of antwoorden op %{replyurl}
     message_notification:
       hi: Hallo %{to_user},
-      header: '%{from_user} heeft u een bericht gezonden via OpenStreetMap met het
+      header: '%{from_user} heeft u een bericht gezonden via GRM met het
         onderwerp %{subject}:'
       footer_html: U kunt het bericht ook lezen op %{readurl} en u kunt antwoorden
         op %{replyurl}
@@ -1359,12 +1359,12 @@ nl:
     index:
       js_1: U gebruikt een browser die JavaScript niet ondersteunt, of u hebt JavaScript
         uitgeschakeld.
-      js_2: OpenStreetMap gebruikt JavaScript voor de slippy-kaart.
+      js_2: GRM gebruikt JavaScript voor de slippy-kaart.
       permalink: Permanente koppeling
       shortlink: Korte koppeling
       createnote: Opmerking toevoegen
       license:
-        copyright: Copyright OpenStreetMap en bijdragers, onder een open licentie
+        copyright: Copyright GRM en bijdragers, onder een open licentie
       remote_failed: Bewerken is mislukt. Zorg dat JOSM of Merkaartor is geladen en
         dat de instelling voor Remote Control is ingeschakeld
     edit:
@@ -1376,7 +1376,7 @@ nl:
       flash_player_required: U hebt Flash-player nodig om Potlatch, de OpenStreetMap
         Flash-editor te gebruiken. U kunt <a href="http://www.adobe.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">Flash-player
         van Adobe.com downloaden</a>. <a href="http://wiki.openstreetmap.org/wiki/Editing">Er
-        zijn ook andere opties</a> om OpenStreetMap te bewerken.
+        zijn ook andere opties</a> om GRM te bewerken.
       potlatch_unsaved_changes: U hebt wijzigingen gemaakt die nog niet zijn opgeslagen.
         Om op te slaan in Potlach, deselecteert u de huidige weg of het huidige punt
         als u in livemodus bewerkt, of klikt u op de knop Opslaan.
@@ -1589,7 +1589,7 @@ nl:
       message: Het systeem voor het opslaan en uploaden van GPX-bestanden is op het
         moment niet beschikbaar.
     georss:
-      title: OpenStreetMap GPS-traces
+      title: GRM GPS-traces
     description:
       description_with_count:
         one: GPX-bestand met één punt van %{user}
@@ -1706,8 +1706,8 @@ nl:
       with username: 'Hebt u al een gebruiker bij OpenStreetMap? Meld aan met uw gebruikersnaam
         en wachtwoord:'
       with openid: 'U kunt ook aanmelden met uw OpenID:'
-      new to osm: Is OpenStreetMap nieuw voor u?
-      to make changes: Om wijzigingen in OpenStreetMap te maken, moet u een gebruiker
+      new to osm: Is GRM nieuw voor u?
+      to make changes: Om wijzigingen in GRM te maken, moet u een gebruiker
         hebben.
       create account minute: Maak een gebruiker aan. Dat is snel gebeurd.
       no account: Hebt u geen gebruiker?
@@ -1770,7 +1770,7 @@ nl:
       about:
         header: Open en te bewerken
         html: |-
-          <p>In tegenstelling tot andere kaarten, is OpenStreetMap volledig gemaakt door mensen net als u en iedereen kan correcties maken, en de kaart bijwerken of downloaden en gebruiken.</p>
+          <p>In tegenstelling tot andere kaarten, is GRM volledig gemaakt door mensen net als u en iedereen kan correcties maken, en de kaart bijwerken of downloaden en gebruiken.</p>
           <p>Registreer u om te beginnen met bijdragen. We sturen een e-mail om uw registratie te bevestigen.</p>
       license_agreement: Als u een gebruiker aan wilt maken, moet u akkoord gaan met
         de <a href="http://www.osmfoundation.org/wiki/License/Contributor_Terms">voorwaarden
@@ -2159,7 +2159,7 @@ nl:
       reopened_at_html: '%{when} geleden opnieuw geactiveerd'
       reopened_at_by_html: '%{when} geleden opnieuw geactiveerd door %{user}'
     rss:
-      title: OpenStreetMap opmerkingen
+      title: GRM opmerkingen
       description_area: Een lijst met opmerkingen en reacties in uw gebied [(%{min_lat}|%{min_lon})
         -- (%{max_lat}|%{max_lon})]
       description_item: Een RSS-feed voor opmerking %{id}

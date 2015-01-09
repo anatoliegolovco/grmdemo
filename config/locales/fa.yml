@@ -309,11 +309,11 @@ fa:
       edit: ویرایش
     feed:
       user:
-        title: ورودی های یادداشت روزانه ی OpenStreetMap برای %{user}
-        description: ورودی های یادداشت روزانه ی OpenStreetMap اخیر از %{user}
+        title: ورودی های یادداشت روزانه ی GRM برای %{user}
+        description: ورودی های یادداشت روزانه ی GRM اخیر از %{user}
       language:
-        title: ورودی های یادداشت روزانه ی OpenStreetMap در %{language_name}
-        description: یادداشت روزانه های اخیر کاربران OpenStreetMap در %{language_name}
+        title: ورودی های یادداشت روزانه ی GRM در %{language_name}
+        description: یادداشت روزانه های اخیر کاربران GRM در %{language_name}
       all:
         title: یادداشت روزانه های OpenStreetMap
         description: یادداشت روزانه های اخیر کاربران OpenStreetMap
@@ -335,12 +335,12 @@ fa:
       map_image: تصویر نقشه (لایه استاندارد را نشان میدهد)
       embeddable_html: HTML قابل درج
       licence: مجوز
-      export_details: داده های OpenStreetMap دارای مجوز زیر هستند <a href="http://opendatacommons.org/licenses/odbl/1.0/">داده
+      export_details: داده های GRM دارای مجوز زیر هستند <a href="http://opendatacommons.org/licenses/odbl/1.0/">داده
         های باز عمومی  مجوز دیتابیس باز</a> (ODbL).
       too_large:
         advice: 'اگر برون‌بری بالا ناموفق بود، لطفاً از یکی از منابع ذکر شده در زیر
           استفاده کنید:'
-        body: این منطقه برای خارج‌سازی به‌عنوان داده‌های XML OpenStreetMap خیلی بزرگ
+        body: این منطقه برای خارج‌سازی به‌عنوان داده‌های XML GRM خیلی بزرگ
           است. لطفاً بزرگنمایی کنید یا یک منطقه کوچکتر را انتخاب کنید، یا برای دریافت
           داده‌های انبوه یکی از منابع فهرست زیر را استفاده کنید.
         planet:
@@ -923,8 +923,8 @@ fa:
     user_diaries_tooltip: مشاهده یادداشت های روزانه ی کاربر
     edit_with: ویرایش با %{editor}
     tag_line: ویکی رایگان نقشهٔ جهان
-    intro_header: به OpenStreetMap خوش آمدید!
-    intro_text: OpenStreetMap یک نقشه از جهان است، که توسط افرادی مثل شما ایجاد شده
+    intro_header: به GRM خوش آمدید!
+    intro_text: GRM یک نقشه از جهان است، که توسط افرادی مثل شما ایجاد شده
       و برای استفاده رایگان است تحت یک مجوز باز.
     intro_2_create_account: ایجاد حساب کاربری
     partners_html: میزبانی وب پشتیبانی شده توسط %{ucl}، %{ic} و %{bytemark}، و سایر
@@ -933,11 +933,11 @@ fa:
     partners_ic: کالج سلطنتی لندن
     partners_bytemark: میزبانی Bytemark
     partners_partners: شرکای تجاری
-    osm_offline: دیتابیس OpenStreetMap در حال حاضر آفلاین است در حالی که کار تعمیر
+    osm_offline: دیتابیس GRM در حال حاضر آفلاین است در حالی که کار تعمیر
       و نگهداری دیتابیس ضروری انجام میگیرد.
-    osm_read_only: دیتابیس OpenStreetMap در حال حاضر روی حالت فقط خواندنی است در حالی
+    osm_read_only: دیتابیس GRM در حال حاضر روی حالت فقط خواندنی است در حالی
       که کار نگهداری و تعمیر دیتابیس ضروری انجام میگیرد.
-    donate: OpenStreetMap را با %{link} پشتیبانی کنید تا سخت افزار صندوق بروز رسانی
+    donate: GRM را با %{link} پشتیبانی کنید تا سخت افزار صندوق بروز رسانی
       شوند.
     help: کمک
     about: درباره
@@ -948,7 +948,7 @@ fa:
     foundation: بنیاد
     foundation_title: بنیاد OpenStreetMap
     make_a_donation:
-      title: OpenStreetMap را با کمک های مالی پولی حمایت کنید
+      title: GRM را با کمک های مالی پولی حمایت کنید
       text: کمک مالی
     learn_more: اطلاعات بیشتر
     more: بیشتر
@@ -968,18 +968,18 @@ fa:
     legal_babble:
       title_html: حق نشر و مجوز
       intro_1_html: |-
-        OpenStreetMap <i> داده باز است</i>، تحت مجوز <a
+        GRM <i> داده باز است</i>، تحت مجوز <a
         href="http://opendatacommons.org/licenses/odbl/">Open Data
         Commons Open Database License</a> (ODbL).
       intro_2_html: شما برای کپی برداری، توزیع، انتقال و انطباق داده های ما آزاد هستید،
-        تا زمانی که معتبران و همکاران OpenStreetMap باشید. اگر شما تغییر دهید یا بسازید
+        تا زمانی که معتبران و همکاران GRM باشید. اگر شما تغییر دهید یا بسازید
         داده های ما را، شما باید نتایج را فقط تحت همین مجوز توزیع کنید. اطلاعات کامل
         <a href="http://opendatacommons.org/licenses/odbl/1.0/">کد قانونی</a> حقوق
         و وظایف شما را توضیح میدهد.
       intro_3_html: |-
         نقشه کشی در کاشی های نقشه ی ما، و مدارک ما، تحت مجوز <a href="http://creativecommons.org/licenses/by-sa/2.0/">Creative
         Commons Attribution-ShareAlike 2.0</a>هستند ، مجوز (CC BY-SA).
-      credit_title_html: چگونه از OpenStreetMap اعتبار بگیریم
+      credit_title_html: چگونه از GRM اعتبار بگیریم
       credit_1_html: ما نیاز داریم که شما استفاده کنید از اعتبار &ldquo;&copy; همکاران
         OpenStreetMap&rdquo;.
       credit_2_html: همچنین مطمئن باشید که پاک کردن داده ها تحت یک مجوز دیتابیس باز
@@ -995,14 +995,14 @@ fa:
         برای یک نقشه الکترونیکی قابل مرور، اعتبار باید در گوشه ای از نقشه ظاهر شود.
         برای مثال:
       attribution_example:
-        alt: مثال برای چگونه OpenStreetMap را در صفحه ی وبی نسبت دهیم
+        alt: مثال برای چگونه GRM را در صفحه ی وبی نسبت دهیم
         title: مثال انتساب
       more_title_html: پیدا کردن اطلاعات بیشتر
       more_1_html: |-
         درباره استفاده از داده های ما، و چگونه به ما اعتبار دهید بیشتر بخوانید، در <a
         href="http://wiki.openstreetmap.org/wiki/Legal_FAQ">Legal
         FAQ</a>.
-      more_2_html: اگرچه OpenStreetMap داده باز است، ما نمی توانیم API نقشه را به
+      more_2_html: اگرچه GRM داده باز است، ما نمی توانیم API نقشه را به
         رایگان در اختیار توسعه دهندگان شخص ثالث قرار دهیم. <a href="http://wiki.openstreetmap.org/wiki/API_usage_policy">API
         Usage Policy</a> ما را ببینید، <a href="http://wiki.openstreetmap.org/wiki/Tile_usage_policy">Tile
         Usage Policy</a> و <a href="http://wiki.openstreetmap.org/wiki/Nominatim#Usage_Policy">Nominatim
@@ -1046,25 +1046,25 @@ fa:
         2010-12.
       contributors_footer_1_html: برای اطلاعات بیشتر درباره این منابع و سایر منابع
         مورد استفاده برای پیشرفت اوپن‌استریت‌مپ، لطفاً این پیوند را نگاه کنید.
-      contributors_footer_2_html: ورود داده‌ها در OpenStreetMap به این معنی نیست که
-        ارائه‌دهندهٔ اصلی داده‌ها توسط OpenStreetMap تأییدشده، هر گونه ضمانتی فراهم
+      contributors_footer_2_html: ورود داده‌ها در GRM به این معنی نیست که
+        ارائه‌دهندهٔ اصلی داده‌ها توسط GRM تأییدشده، هر گونه ضمانتی فراهم
         می‌کند، یا هر گونه مسئولیت را می‌پذیرد.
       infringement_title_html: نقض کپی رایت
       infringement_1_html: شرکای OSM یادآوری میکنند هرگز داده ای را از منابع حق نشر
         اضافه نکنید(مثلا نقشه های گوگل یا نقشه های چاپ شده) بدون اجازه صریح از دارندگان
         حق تکثیر.
       infringement_2_html: اگر فکر می‌کنید که این حق نشر داده شده به‌طور نامناسب به
-        پایگاه داده‌های OpenStreetMap یا این سایت اضافه شده‌است، لطفاً به <a href="http://www.osmfoundation.org/wiki/License/Takedown_procedure">رویهٔ
+        پایگاه داده‌های GRM یا این سایت اضافه شده‌است، لطفاً به <a href="http://www.osmfoundation.org/wiki/License/Takedown_procedure">رویهٔ
         حذف</a> ما یا پرونده مستقیم در <a href="http://dmca.openstreetmap.org/">صفحهٔ
         بایگانی برخط</a> ما مراجعه کنید.
   welcome_page:
     title: خوش آمدید!
-    introduction_html: به OpenStreetMap خوش آمدید، نقشه‌ای رایگان و قابل ویرایش از
+    introduction_html: به GRM خوش آمدید، نقشه‌ای رایگان و قابل ویرایش از
       جهان. حالا که شما وارد سامانه شده‌اید، شما همهٔ شروط نقشه‌کشی را دارید. اینجا
       یک راهنمایی سریع هست با مهمترین چیزهایی که شما به دانستنش نیاز دارید.
     whats_on_the_map:
       title: داخل نقشه چیست
-      on_html: OpenStreetMap مکانی برای کارهای نقشه کشی است که هر دو <em> واقعی و
+      on_html: GRM مکانی برای کارهای نقشه کشی است که هر دو <em> واقعی و
         حاضر</em> اند- شامل میلیون ها ساختمان، جاده، و سایر جزئیات در مورد مکان هاست.
         شما میتوانید هرچه که در دنیای واقعی برایتان جالب است  را نقشه کنید.
       off_html: آنچه <em>شامل نمیشود</em> داده های خودرای مثل رتبه بندی، ویژگی های
@@ -1072,7 +1072,7 @@ fa:
         کپی نکنید، مگر اینکه اجازه ی ویژه داشته باشید.
     basic_terms:
       title: شرایط اساسی برای نقشه برداری
-      paragraph_1_html: OpenStreetMap مقداری زبان ویژه خود دارد. اینجا چند کلمه ی
+      paragraph_1_html: GRM مقداری زبان ویژه خود دارد. اینجا چند کلمه ی
         کلیدی هست که بصورت  دستی آمده اند.
       editor_html: <strong>ویرایشگر</strong> یک برنامه یا وبسایت است که با استفاده
         از آن میتوانید نقشه را ویرایش کنید.
@@ -1085,7 +1085,7 @@ fa:
     questions:
       title: سؤالی هست؟
       paragraph_1_html: |-
-        OpenStreetMap چندین منبع برای یادگیری پیرامون پروژه، پرسش و پاسخ به پرسش، و بحث مشترک و مباحث نقشه برداری مستند دارد.
+        GRM چندین منبع برای یادگیری پیرامون پروژه، پرسش و پاسخ به پرسش، و بحث مشترک و مباحث نقشه برداری مستند دارد.
         <a href='%{help_url}'>برای کمک اینجا بروید</a>.
     start_mapping: شروع نقشه کشی
     add_a_note:
@@ -1116,12 +1116,12 @@ fa:
         working group</a> تماس بگیرید.
   help_page:
     title: کمک گرفتن
-    introduction: OpenStreetMap چندین منبع برای یادگیری پیرامون پروژه، پرسش و پاسخ
+    introduction: GRM چندین منبع برای یادگیری پیرامون پروژه، پرسش و پاسخ
       به پرسش، و بحث مشترک و مباحث نقشه برداری مستند دارد.
     welcome:
       url: /welcome
       title: به OSM خوش آمدید
-      description: با این آموزش ساده که در بر دارنده مبانی OpenStreetMap است آغاز
+      description: با این آموزش ساده که در بر دارنده مبانی GRM است آغاز
         کنید.
     help:
       url: https://help.openstreetmap.org/
@@ -1136,21 +1136,21 @@ fa:
     copyright_html: <span>&copy;</span>OpenStreetMap<br>contributors
     used_by: '%{name} در صدها وب سایت، برنامه های موبایل، و وسایل سخت افزاری داده
       های نقشه را قدرت داده است'
-    lede_text: OpenStreetMap توسط جامعه ای از نقشه کشان ساخته شده که نگه داری و کمک
+    lede_text: GRM توسط جامعه ای از نقشه کشان ساخته شده که نگه داری و کمک
       میکنند داده ها یی درباره ی جاده ها، مسیر های پیاده روی، کافه ها، ایستگاه های
       راه آهن، و خیلی بیشتر، در سرتاسر جهان.
     local_knowledge_title: دانش محلی
-    local_knowledge_html: OpenStreetMap بر  دانش محلی تاکید دارد. همکاران از تصاویر
+    local_knowledge_html: GRM بر  دانش محلی تاکید دارد. همکاران از تصاویر
       هوایی، دستگاه های GPS، و نقشه های حوزه تکنولوژی پایین بمنظور دقت و بروز بودن
       OSM استفاده میکنند.
     community_driven_title: نوع جامعه گرایی
     community_driven_html: |-
-      انجمن OpenStreetMap گوناگون، پرشور، و هر روز در حال رشد است.
+      انجمن GRM گوناگون، پرشور، و هر روز در حال رشد است.
       همکاران ما عبارت اند از: نقشه کشان علاقه مند، متخصصان GIS، مهندسین اجرایی در سرور های OSM، نقشه کشی بشردوستان در مناطق فاجعه زده، و خیلی بیشتر.
       برای یادگیری بیشتر درباره ی انجمن، <a href='%{diary_path}'>یادداشت های روزانه کاربر</a>، <a href='http://blogs.openstreetmap.org/'>وبلاگ های انجمن</a>، و وبسایت <a href='http://www.osmfoundation.org/'>بنیاد OSM</a> را ببینید.
     open_data_title: داده های باز
-    open_data_html: 'OpenStreetMap <i>داده باز</i>است: شما آزادید آنرا برای هر منظور
-      و مقصودی استفاده کنید تا وقتی که اعتبار OpenStreetMap و همکارانش را دارید. اگر
+    open_data_html: 'GRM <i>داده باز</i>است: شما آزادید آنرا برای هر منظور
+      و مقصودی استفاده کنید تا وقتی که اعتبار GRM و همکارانش را دارید. اگر
       شما داده ها را در روش های خاص تغییر دهید یا بسازید، شما باید نتایج را تحت همین
       مجوز توزیع کنید. <a href=''%{copyright_path}''>صفحه ی حق نشر و مجوز</a>  را
       برای راهنمایی ببینید.'
@@ -1159,19 +1159,19 @@ fa:
     diary_comment_notification:
       subject: '[OpenStreetMap] %{user} در یادداشت روزانه شما نظر داد'
       hi: سلام %{to_user} ،
-      header: '%{from_user} روی آخرین یادداشت روزانه ی OpenStreetMap شما با موضوع
+      header: '%{from_user} روی آخرین یادداشت روزانه ی GRM شما با موضوع
         %{subject} نظر داد:'
       footer: همچنین میتوانید نظر را در %{readurl} بخوانید و میتوانید در %{commenturl}
         نظر دهید یا در %{replyurl} پاسخ دهید
     message_notification:
       hi: سلام %{to_user},
-      header: '%{from_user} از طریق OpenStreetMap یک پیام با موضوع %{subject} برای
+      header: '%{from_user} از طریق GRM یک پیام با موضوع %{subject} برای
         شما فرستاده:'
       footer_html: همپنین میتوانید پیام را در %{readurl} بخوانید و میتوانید در %{replyurl}
         پاسخ دهید
     friend_notification:
       subject: '[OpenStreetMap] %{user} شما را بعنوان دوست اضافه کرد'
-      had_added_you: '%{user} در OpenStreetMap شما را بعنوان دوست افزود.'
+      had_added_you: '%{user} در GRM شما را بعنوان دوست افزود.'
       see_their_profile: میتوانید نمایه کاربری اش را در %{userurl} ببینید.
       befriend_them: همچنین میتوانید در %{befriendurl} او را بعنوان دوست اضافه کنید.
     gpx_notification:
@@ -1191,7 +1191,7 @@ fa:
         loaded_successfully: با موفقیت لود شد با %{trace_points} از %{possible_points}
           نقاط ممکن.
     signup_confirm:
-      subject: '[OpenStreetMap] به OpenStreetMap خوش آمدید'
+      subject: '[OpenStreetMap] به GRM خوش آمدید'
       greeting: ‎سلام،
       created: کسی (امیدواریم شما) یک حساب در %{site_url} ایجاد کرد.
       confirm: 'قبل از اینکه ما کار دیگری انجام دهیم، نیاز داریم که تأیید شود این
@@ -1332,12 +1332,12 @@ fa:
     index:
       js_1: شما در حال استفاده از مرورگری هستید که جاوا اسکریپت را پشتیبانی نمی کند،
         یا جاوا اسکریپت را غیر فعال کرده اید.
-      js_2: OpenStreetMap برای لیز خوردن نقشه هایش از جاوا اسکریپت استفاده می کند.
+      js_2: GRM برای لیز خوردن نقشه هایش از جاوا اسکریپت استفاده می کند.
       permalink: پیوند ثابت
       shortlink: پیوند کوتاه
       createnote: افزودن یادداشت
       license:
-        copyright: حق نشر OpenStreetMap و شرکا، تحت یک مجوز باز است
+        copyright: حق نشر GRM و شرکا، تحت یک مجوز باز است
       remote_failed: ویرایش ناموفق - مطمئن شوید JOSM یا Merkaartor لوذ شده و گزینه
         ی کنترل از راه دور فعال است
     edit:
@@ -1350,7 +1350,7 @@ fa:
       flash_player_required: برای استفاده از  Potlatch, ویرایشگر فلش  OpenStreetMap
         به فلش پلیر نیاز دارید. میتوانید <a href="http://www.adobe.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">آنرا
         از  Adobe.com دانلود کنید</a>. <a href="http://wiki.openstreetmap.org/wiki/Editing">همچنین
-        چندین گزینه ی دیگر</a> برای ویرایش OpenStreetMap موجود است.
+        چندین گزینه ی دیگر</a> برای ویرایش GRM موجود است.
       potlatch_unsaved_changes: شما تغییرات ذخیره نشده دارید. (برای ذخیره در Potlatch،
         اگر ویرایش در حالت زنده است، باید راه یا نقطه ی فعلی را عدم انتخاب کنید، یا
         اگر دکمه ی ذخیره دارید روی آن کلیک کنید.)
@@ -1677,10 +1677,10 @@ fa:
       lost password link: کلمه عبور خود را فراموش کرده اید؟
       login_button: ورود
       register now: اکنون ثبت نام شود
-      with username: 'از قبل حساب OpenStreetMap دارید؟ لطفاً با نام کاربری و رمز عبورتان
+      with username: 'از قبل حساب GRM دارید؟ لطفاً با نام کاربری و رمز عبورتان
         وارد شوید:'
       with openid: 'متناوبا، برای وارد شدن از OpenID استفاده کنید:'
-      new to osm: در OpenStreetMap تازه‌وارد هستید؟
+      new to osm: در GRM تازه‌وارد هستید؟
       to make changes: برای ایجاد تغییرات در داده های OpenStreetMap، شما باید یک حساب
         داشته باشید.
       create account minute: یک حساب بسازید. فقط یک دقیقه زمان می برد.
@@ -1744,7 +1744,7 @@ fa:
       about:
         header: رایگان و قابل ویرایش
         html: |-
-          <p>بر خلاف سایر نقشه‌ها، OpenStreetMap کاملاً توسط افرادی مثل شما ساخته‌شده و برای تعمیر، به‌روزرسانی، دریافت و استفاده برای هر کسی آزاد است.</p>
+          <p>بر خلاف سایر نقشه‌ها، GRM کاملاً توسط افرادی مثل شما ساخته‌شده و برای تعمیر، به‌روزرسانی، دریافت و استفاده برای هر کسی آزاد است.</p>
           <p>برای شروع کمک ثبت نام کنید. برای تأیید حساب‌تان رایانامه‌ای می‌فرستیم.</p>
       license_agreement: وقتی رایانامه‌یتان را تأیید کردید نیاز است که با <a href="http://www.osmfoundation.org/wiki/License/Contributor_Terms">شرایط
         همکاری</a> موافقت کنید.
@@ -1763,9 +1763,9 @@ fa:
       openid no password: با OpenID رمز عبور درخواست نمیشود، اما برخی ابزارهای اضافی
         یا سرویس دهنده هنوز به یکی نیاز دارند.
       openid association: |-
-        <p>OpenID شما هنوز با یک حساب OpenStreetMap همراه نیست.</p>
+        <p>OpenID شما هنوز با یک حساب GRM همراه نیست.</p>
         <ul>
-         <li>اگر در OpenStreetMap جدید هستید، لطفاً از زیر یک حساب بسازید.</li>
+         <li>اگر در GRM جدید هستید، لطفاً از زیر یک حساب بسازید.</li>
         <li>
         اگر از قبل حسابی دارید، می‌توانید با استفاده از نام کاربری و رمز عبورتان وارد حسابتان شوید و سپس حسابتان را در تنظیمات کاربری به OpenID وابسته سازید.
         </li>

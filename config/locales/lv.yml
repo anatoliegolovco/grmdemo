@@ -298,15 +298,15 @@ lv:
       edit: Labot
     feed:
       user:
-        title: Lietotāja %{user} OpenStreetMap dienasgrāmatas ieraksti
-        description: Neseni %{user} OpenStreetMap dienasgrāmatas ieraksti
+        title: Lietotāja %{user} GRM dienasgrāmatas ieraksti
+        description: Neseni %{user} GRM dienasgrāmatas ieraksti
       language:
-        title: OpenStreetMap dienasgrāmatas ieraksti valodā %{language_name}
-        description: Neseno dienasgrāmatu ieraksti no OpenStreetMap lietotājiem iekš
+        title: GRM dienasgrāmatas ieraksti valodā %{language_name}
+        description: Neseno dienasgrāmatu ieraksti no GRM lietotājiem iekš
           %{language_name}
       all:
-        title: OpenStreetMap dienasgrāmatu ieraksti
-        description: Pēdējie dienasgrāmatu ieraksti no OpenStreetMap lietotājiem
+        title: GRM dienasgrāmatu ieraksti
+        description: Pēdējie dienasgrāmatu ieraksti no GRM lietotājiem
     comments:
       has_commented_on: '%{display_name} komentēja sekojošos dienasgrāmatas ierakstus'
       post: Publicēt
@@ -321,23 +321,23 @@ lv:
       area_to_export: Kvadrants, kuru eksportēt
       manually_select: Manuāli izvēlēties citu teritoriju
       format_to_export: Eksportēšanas formāts
-      osm_xml_data: OpenStreetMap XML dati
+      osm_xml_data: GRM XML dati
       map_image: Kartes attēls (parāda standarta slāni)
       embeddable_html: Ievietojams HTML kods
       licence: Licence
-      export_details: OpenStreetMap dati ir licencēti saskaņā ar <a href="http://opendatacommons.org/licenses/odbl/1.0/">Atvērtās
+      export_details: GRM dati ir licencēti saskaņā ar <a href="http://opendatacommons.org/licenses/odbl/1.0/">Atvērtās
         Datu Kopas Atvērtās Datubāzes licenci</a> (ODbL).
       too_large:
         advice: 'Ja augstāk esošais eksports neizdodas, lūdzu apsver iespēj lietot
           kādu no zemāk minētajiem avotiem:'
-        body: Šis apgabals ir pārāk liels, lai to eksportētu kā OpenStreetMap XML
+        body: Šis apgabals ir pārāk liels, lai to eksportētu kā GRM XML
           datus. Lūdzu tuvini vai izvēlies mazāku apgabalu.
         planet:
           title: OSM Planēta
-          description: Regulāri atjauninātas kopijas no pilnās OpenStreetMap datubāzes
+          description: Regulāri atjauninātas kopijas no pilnās GRM datubāzes
         overpass:
           title: Overpass API
-          description: Lejupielādē šo apgabalu no OpenStreetMap datubāzes spoguļa
+          description: Lejupielādē šo apgabalu no GRM datubāzes spoguļa
         geofabrik:
           title: Geofabrik Lejupielādes
           description: Regulāri atjaunoti izgriezumi no kontinentiem, valstīm, un
@@ -347,7 +347,7 @@ lv:
           description: Izgriezumi lielākajām pasaules pilsētām un to apkārteni
         other:
           title: Citi Avoti
-          description: Papildus avoti, kas norādīti OpenStreetMap wiki
+          description: Papildus avoti, kas norādīti GRM wiki
       options: Iespējas
       format: Formāts
       scale: Mērogs
@@ -895,7 +895,7 @@ lv:
       west: rietumi
   layouts:
     logo:
-      alt_text: OpenStreetMap logo
+      alt_text: GRM logo
     home: Doties uz mājas atrašanās vietu
     logout: Iziet
     log_in: Ieiet
@@ -915,7 +915,7 @@ lv:
     edit_with: Rediģēt ar %{editor}
     tag_line: Atvērtā Wiki pasaules karte
     intro_header: Laipni lūdzam OpenStreetMap!
-    intro_text: OpenStreetMap ir pasaules karte, kuru veido cilvēki kā tu, un tā ir
+    intro_text: GRM ir pasaules karte, kuru veido cilvēki kā tu, un tā ir
       bezmaksas lietošanai zem atvērtas licences.
     intro_2_create_account: Izveidot lietotāja kontu
     partners_html: Servera vietu atblasta %{ucl}, %{ic} un %{bytemark}, un citi %{partners}.
@@ -924,9 +924,9 @@ lv:
     partners_bytemark: Bytemark Hosting
     partners_partners: partneri
     partners_url: http://wiki.openstreetmap.org/wiki/Partners
-    osm_offline: OpenStreetMap datubāze šobrīd nav pieejama, tiek veikti svarīgi datubāzes
+    osm_offline: GRM datubāze šobrīd nav pieejama, tiek veikti svarīgi datubāzes
       apkalpošanas darbi.
-    osm_read_only: OpenStreetMap datubāze šobrīd ir pieejama tikai-lasāmā režīmā,
+    osm_read_only: GRM datubāze šobrīd ir pieejama tikai-lasāmā režīmā,
       jo tiek veikti svarīgi datubāzes apkalpes darbi.
     donate: Atbalstiet OpenStreetMap, %{link} aparatūras uzlabošanas fondam.
     help: Palīdzība
@@ -934,11 +934,11 @@ lv:
     copyright: Autortiesības
     community: Kopiena
     community_blogs: Kopienas emuāri
-    community_blogs_title: OpenStreetMap kopienas locekļu emuāri
+    community_blogs_title: GRM kopienas locekļu emuāri
     foundation: Fonds
-    foundation_title: OpenStreetMap fonds
+    foundation_title: GRM fonds
     make_a_donation:
-      title: Atbalstiet OpenStreetMap ar naudas ziedojumu
+      title: Atbalstiet GRM ar naudas ziedojumu
       text: Ziedot attīstībai
     learn_more: Uzzināt Vairāk
     more: Vairāk
@@ -957,11 +957,11 @@ lv:
     legal_babble:
       title_html: Autortiesības un Licence
       intro_1_html: |-
-        OpenStreetMap ir <i>atvērti dati</i>, kad licencēti zem <a
+        GRM ir <i>atvērti dati</i>, kad licencēti zem <a
         href="http://opendatacommons.org/licenses/odbl/">Atvērtās Datu Kopas Atvērtās Datubāzes licences</a> (ODbL).
       intro_2_html: |-
         Tu vari kopēt, izplatīt, nosūtīt un adaptēt mūsu kartes
-          un datus, kamēr tu atsaucies uz OpenStreetMap un tās
+          un datus, kamēr tu atsaucies uz GRM un tās
           veidotājiem. Ja tu maini vai veido uz mūsu kartēm, tu
           vari izplatīt rezultātu tikai zem tās pašas licences. Pilns
           <a href="http://opendatacommons.org/licenses/odbl/1.0/">juridiskais kods</a> izskaidro tavas tiesības un pienākumus.
@@ -972,7 +972,7 @@ lv:
       credit_1_html: |-
         Mēs pieprasām, ka tu izmanto atsauci &ldquo;&copy; OpenStreetMap
         veidotāji&rdquo;.
-      credit_2_html: "Kur iespējams, OpenStreetMap vajadzētu būt iesaitētam uz <a\n
+      credit_2_html: "Kur iespējams, GRM vajadzētu būt iesaitētam uz <a\n
         \ href=\"http://www.openstreetmap.org/\">http://www.openstreetmap.org/</a>\n
         \ un CC BY-SA uz <a\n  href=\"http://creativecommons.org/licenses/by-sa/2.0/\">http://creativecommons.org/licenses/by-sa/2.0/</a>.
         Ja\n  tu lieto mediju, kur saites nav iespējamas (piem. \n  printēts darbs),
@@ -981,7 +981,7 @@ lv:
       credit_3_html: 'Priekš pārlūkojamas elektroniskās kartes, atsaucei ir jāparādās
         kartes stūrī. Piemēram:'
       attribution_example:
-        alt: Piemērs, kā OpenStreetMap apzīmēt web lapā
+        alt: Piemērs, kā GRM apzīmēt web lapā
         title: Atsauces piemērs
       more_title_html: Uzzināt vairāk
       more_1_html: |-
@@ -989,7 +989,7 @@ lv:
           href="http://wiki.openstreetmap.org/wiki/Legal_FAQ">juridiskajā
           FAQ</a>.
       more_2_html: |-
-        Lai gan OpenStreetMap ir atvērti dati, mēs nevaram piedāvāt bezmaksas kartes API trešās puses izstrādātājiem.
+        Lai gan GRM ir atvērti dati, mēs nevaram piedāvāt bezmaksas kartes API trešās puses izstrādātājiem.
         Apskati mūsu <a href="http://wiki.openstreetmap.org/wiki/API_usage_policy">API Lietošanas Politiku</a>,
         <a href="http://wiki.openstreetmap.org/wiki/Tile_usage_policy">Flīžu Lietošanas Politiku</a>
         un <a href="http://wiki.openstreetmap.org/wiki/Nominatim#Usage_Policy">Nominatim Lietošanas Politiku</a>.
@@ -1034,9 +1034,9 @@ lv:
         Sīkāku informāciju par šiem, un citiem avotiem, kas izmantoti,
         lai uzlabotu OpenStreetMap, lūdzu apskati <a
         href="http://wiki.openstreetmap.org/wiki/Contributors">Veidotāju
-        lapu</a> iekš OpenStreetMap Wiki.
+        lapu</a> iekš GRM Wiki.
       contributors_footer_2_html: |2-
-          Datu ievietošana OpenStreetMap nenozīmē ka oriģinālais
+          Datu ievietošana GRM nenozīmē ka oriģinālais
           datu avots sniedz atbalstu OpenStreetMap, dod garantiju, vai
           pieņem jebkādu atbildību.
       infringement_title_html: Autortiesību pārkāpums
@@ -1045,7 +1045,7 @@ lv:
         drukātām kartēm), bez \nprecīzi formulētas atļaujas no autortiesību īpašniekiem."
       infringement_2_html: |-
         Ja tu tici, ka ar autortiesībām aizsargāts materiāls ir ticis neatbilstoši
-        pievienots OpenStreetMap datubāzei vai vietnei, lūdzu atsaucies uz
+        pievienots GRM datubāzei vai vietnei, lūdzu atsaucies uz
         mūsu <a href="http://www.osmfoundation.org/wiki/License/Takedown_procedure">noņemšanas
         procedūru</a> vai paziņo pa tiešo mums, izmantojot
         <a href="http://dmca.openstreetmap.org/">on-line ziņošanas veidni</a>.
@@ -1056,7 +1056,7 @@ lv:
       pamācībā ar svarīgākajām lietām, kuras tev jāzina.
     whats_on_the_map:
       title: Kas ir uz kartes
-      on_html: OpenStreetMap ir karte, kurā iezīmē lietas, kuras ir <em>reālas un
+      on_html: GRM ir karte, kurā iezīmē lietas, kuras ir <em>reālas un
         esošas</em> - tā iekļauj miljonus ar namiem, ceļiem un citām detaļām par vietām.
         Tu vari kartēt jebko no reālās pasaules, kas tev liekas interesants.
       off_html: Ko tā <em>neiekļauj</em> ir viedokļa dati kā reitings, vēsture vai
@@ -1064,7 +1064,7 @@ lv:
         Ja vien tev nav speciāla atļauja, nekopē no tiešsaistes vai papīra kartēm.
     basic_terms:
       title: Pamatnoteikumi kartēšanai
-      paragraph_1_html: OpenStreetMap ir pašai savs profesionālais žargons. Šeit ir
+      paragraph_1_html: GRM ir pašai savs profesionālais žargons. Šeit ir
         daži atslēgvārdi, kas var noderēt.
       editor_html: <strong>Redaktors</strong> ir programma vai mājaslapa, kuru var
         izmantot, lai labotu karti.
@@ -1096,12 +1096,12 @@ lv:
         title: Pievienojies kopienai
   help_page:
     title: Palīdzības saņemšana
-    introduction: OpenStreetMap ir vairāki resursi, lai uzzinātu par projektu, uzdotu
+    introduction: GRM ir vairāki resursi, lai uzzinātu par projektu, uzdotu
       un atbildētu uz jautājumiem, un diskutētu un dokumentētu kartēšanas tēmas.
     welcome:
       url: /sveicināts
       title: Laipni lūgti iekš OSM
-      description: Sāc ar šo īso ceļvedi, kurš aptver OpenStreetMap pamatus.
+      description: Sāc ar šo īso ceļvedi, kurš aptver GRM pamatus.
     help:
       url: http://forum.openstreetmap.org/viewforum.php?id=59
       title: help.openstreetmap.org
@@ -1116,22 +1116,22 @@ lv:
     copyright_html: <span>&copy;</span>OpenStreetMap<br>atbalstītāji
     used_by: '%{name} darbina kartes datus simtiem mājaslapu, mobilajās aplikācijās
       un aparatūras ierīcēs'
-    lede_text: OpenStreetMap būvē kartētāju kopiena, kuri iegulda un uztur datus par
+    lede_text: GRM būvē kartētāju kopiena, kuri iegulda un uztur datus par
       ceļiem, takām, kafejnīcām, dzelzceļa stacijām un daudz ko vairāk visā pasaulē.
     local_knowledge_title: Vietējo zināšanas
-    local_knowledge_html: OpenStreetMap liek uzsvaru uz vietējo zināšanām. Datu veidotāji
+    local_knowledge_html: GRM liek uzsvaru uz vietējo zināšanām. Datu veidotāji
       lieto satelītbildes, GPS ierīces, un parastas papīra kartes, lai pārliecinātos
       ka OSM ir precīzs un aktuāls.
     community_driven_title: Kopienas virzīts
     community_driven_html: |-
-      OpenStreetMap kopiena ir daudzveidīga, kaislīga un pieaug katru dienu.
+      GRM kopiena ir daudzveidīga, kaislīga un pieaug katru dienu.
       Mūsu ieguldītāji ir entuziastiski kartogrāfi, GIS profesionāļi, inženieri, kuri darbina OSM serverus, humanitārieši, kas kartē apgabalus, kurus skārusi dabas katastrofa un daudzi citi.
       Lai uzzinātu vairāk par kopienu, apskati <a href='%{diary_path}'>lietotāju dienasgrāmatas</a>,
       <a href='http://blogs.openstreetmap.org/'>kopienu blogus</a>, un
       <a href='http://www.osmfoundation.org/'>OSM Fonds</a> mājaslapu.
     open_data_title: Atvērti dati
-    open_data_html: 'OpenStreetMap ir <i>atvērti dati</i>: tev ir brīvas tiesības
-      to lietot jebkādam mērķim, kamēr tu ievieto atsauci uz OpenStreetMap un tās
+    open_data_html: 'GRM ir <i>atvērti dati</i>: tev ir brīvas tiesības
+      to lietot jebkādam mērķim, kamēr tu ievieto atsauci uz GRM un tās
       veidotājiem. Ja tu maini vai būvē pa virtsu datiem dažādos veidos, tu vai tos
       izplatīt tikai zem tās pašas licences. Apskati <a href=''%{copyright_path}''>Autortiesību
       un Licences lapu</a> priekš padziļinātas informācijas.'
@@ -1140,13 +1140,13 @@ lv:
     diary_comment_notification:
       subject: '[OpenStreetMap] %{user} komentēja jūsu dienasgrāmatas ierakstu'
       hi: Sveiks %{to_user},
-      header: '%{from_user} komentēja jūsu neseno  OpenStreetMap dienasgrāmatas ierakstu
+      header: '%{from_user} komentēja jūsu neseno  GRM dienasgrāmatas ierakstu
         ar virsrakstu %{subject}:'
       footer: Jūs varat izlasīt komentāru saitē %{readurl}, kā arī komentēt saitē
         %{commenturl} vai atbildēt saitē %{replyurl}
     message_notification:
       hi: Sveiks %{to_user},
-      header: 'OpenStreetMap lietotājs %{from_user} ir jums nosūtījis ziņu ar tematu
+      header: 'GRM lietotājs %{from_user} ir jums nosūtījis ziņu ar tematu
         %{subject}:'
       footer_html: Tu arī vari izlasīt ziņojumu iekš %{readurl} un atbildēt iekš %{replyurl}
     friend_notification:
@@ -1311,12 +1311,12 @@ lv:
     index:
       js_1: Vai nu jūs lietojat pārlūkprogrammu, kas neatbalsta JavaScript, vai arī
         jūsu pārlūkprogrammā JavaScript ir atslēgts.
-      js_2: OpenStreetMap kartes rādīšanai lieto JavaScript.
+      js_2: GRM kartes rādīšanai lieto JavaScript.
       permalink: Pastāvīgā saite
       shortlink: Īsā saite
       createnote: Pievienot piezīmi
       license:
-        copyright: Autortiesības OpenStreetMap un tā veidotāji, zem atvērtas licences
+        copyright: Autortiesības GRM un tā veidotāji, zem atvērtas licences
       remote_failed: Rediģēšana neizdevās - pārbaudi, ka JOSM vai Merkaartor ir ieslēgts
         un attālinātās vadības iespēja ir aktivizēta
     edit:
@@ -1326,8 +1326,8 @@ lv:
       user_page_link: lietotāja lapa
       anon_edits_link_text: Uzzini, kāpēc tā notiek.
       flash_player_required: Jums nepieciešams Flash playeris lai izmantotu Potlatch
-        - OpenStreetMap Flash redaktoru. Jūs varat <a href="http://www.adobe.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">Lejupielādēt
-        Flash Player no Adobe.com</a>.  OpenStreetMap rediģēšanai ir pieejamas arī<a
+        - GRM Flash redaktoru. Jūs varat <a href="http://www.adobe.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">Lejupielādēt
+        Flash Player no Adobe.com</a>.  GRM rediģēšanai ir pieejamas arī<a
         href="http://wiki.openstreetmap.org/wiki/Editing">vairākas citas iespējas</a>
         .
       potlatch_unsaved_changes: Tev ir nesaglabātas izmaiņas. (Lai saglabātu iekš
@@ -1540,7 +1540,7 @@ lv:
       heading: GPX bezsaistes glabātuve
       message: GPX datņu glabātuve un augšupielādes sistēma pašlaik nav pieejama.
     georss:
-      title: OpenStreetMap GPS Trases
+      title: GRM GPS Trases
     description:
       description_with_count:
         one: GPX fails ar %{count} punktu no %{user}
@@ -1655,11 +1655,11 @@ lv:
       lost password link: Aizmirsi paroli?
       login_button: Pieslēgties
       register now: Reģistrēties
-      with username: 'Jau ir OpenStreetMap lietotājs? Lūdzu autorizējies ar savu lietotājvārdu
+      with username: 'Jau ir GRM lietotājs? Lūdzu autorizējies ar savu lietotājvārdu
         un paroli:'
       with openid: 'Alternatīvi, lūdzu lieto savu OpenID, lai autorizētos:'
       new to osm: Jauns iekš OpenStreetMap?
-      to make changes: Lai veiktu izmaiņas OpenStreetMap datos, jums jābūt savam kontam.
+      to make changes: Lai veiktu izmaiņas GRM datos, jums jābūt savam kontam.
       create account minute: Izveidojiet kontu. Tas aizņem mazāk par minūti.
       no account: Nav lietotāja?
       account not active: Atvainojiet, tavs lietotājs vēl nav aktīvs.<br />Lūdzu izmanto
@@ -1719,7 +1719,7 @@ lv:
       about:
         header: Brīvs un rediģējams
         html: |-
-          <p>Atšķirībā no citām kartēm, OpenStreetMap pilnībā rada cilvēki kā tu, un tā ir bezmaksas jebkuram priekš labošanas, atjaunošanas, lejupielādes un lietošanas.</p>
+          <p>Atšķirībā no citām kartēm, GRM pilnībā rada cilvēki kā tu, un tā ir bezmaksas jebkuram priekš labošanas, atjaunošanas, lejupielādes un lietošanas.</p>
           <p>Reģistrējies, lai sāktu papildināt karti. Mēs tev nosūtīsim e-pastu, lai apstiprinātu tavu lietotāju.</p>
       license_agreement: Kad tu apstiprini savu lietotāju, tev būs nepieciešams pieņemt
         <a href="http://www.osmfoundation.org/wiki/License/Contributor_Terms">veidotāju
@@ -1739,7 +1739,7 @@ lv:
       openid no password: Ar OpenID parole nav nepieciešama, bet daži papildus rīki
         vai serveris, joprojām to var pieprasīt.
       openid association: |-
-        <p>Tavs OpenID vēl nav savienots ar OpenStreetMap lietotāju.</p>
+        <p>Tavs OpenID vēl nav savienots ar GRM lietotāju.</p>
         <ul>
           <li>Ja tu esi jauns OpenStreetMap, lūdzu izveido jaunu lietotāju, izmantojot formu zemāk.</li>
           <li>
@@ -2104,7 +2104,7 @@ lv:
       reopened_at_html: Atkal aktivizēts %{when} atpakaļ
       reopened_at_by_html: '%{user} atkal aktivizēja %{when} atpakaļ'
     rss:
-      title: OpenStreetMap Piezīmes
+      title: GRM Piezīmes
       description_area: Piezīmju saraksts, kuras noziņotas, komentētas vai atrisinātas
         tavā apvidū [(%{min_lat}|%{min_lon}) -- (%{max_lat}|%{max_lon})]
       description_item: RSS barotne piezīmei %{id}
@@ -2167,7 +2167,7 @@ lv:
         data: Kartes dati
         overlays: Iespējot pārklājumus, lai novērstu trūkumus kartei
         title: Slāņi
-      copyright: © <a href='%{copyright_url}'>OpenStreetMap ieguldītāji</a>
+      copyright: © <a href='%{copyright_url}'>GRM ieguldītāji</a>
       donate_link_text: <a class='donate-attr' href='%{donate_url}'>Ziedo</a>
     site:
       edit_tooltip: Rediģēt karti

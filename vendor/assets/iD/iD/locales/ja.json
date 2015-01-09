@@ -260,7 +260,7 @@
         "role": "役割",
         "choose": "地物の種類を選択",
         "results": "検索結果{n}件: {search}",
-        "reference": "OpenStreetMap WIkiで確認",
+        "reference": "GRM WIkiで確認",
         "back_tooltip": "地物の編集",
         "remove": "削除",
         "search": "検索",

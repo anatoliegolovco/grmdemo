@@ -284,10 +284,10 @@ fur:
       edit: Cambie
     feed:
       user:
-        title: Vôs dal diari di OpenStreetMap par %{user}
-        description: Ultimis vôs dal diari di OpenStreetMap di %{user}
+        title: Vôs dal diari di GRM par %{user}
+        description: Ultimis vôs dal diari di GRM di %{user}
       language:
-        title: Vôs dai diaris di OpenStreetMap par %{language_name}
+        title: Vôs dai diaris di GRM par %{language_name}
         description: Ultimis vôs par %{language_name} dai diaris dai utents di OpenStreetMap
       all:
         title: Vôs dai diaris di OpenStreetMap
@@ -308,7 +308,7 @@ fur:
       format_to_export: Formât di espuartâ
       osm_xml_data: Dâts XML di OpenStreetMap
       licence: Licence
-      export_details: I dâts di OpenStreetMap a son dâts fûr sot de licence <a href="http://opendatacommons.org/licenses/odbl/1.0/">Open
+      export_details: I dâts di GRM a son dâts fûr sot de licence <a href="http://opendatacommons.org/licenses/odbl/1.0/">Open
         Data Commons Open Database License</a> (ODbL).
       too_large:
         body: Cheste aree e je masse grande par espuartâle come dâts XML di OpenStreetMap.
@@ -676,7 +676,7 @@ fur:
     edit_with: Cambie cun %{editor}
     tag_line: Il WikiMapeMont libar
     intro_header: Benvignût in OpenStreetMap!
-    intro_text: OpenStreetMap e je une mape dal mont, creade di int come te e di ûs
+    intro_text: GRM e je une mape dal mont, creade di int come te e di ûs
       libar sot di une licence vierte.
     intro_2_create_account: Cree il to profîl utent
     partners_html: L'hosting al è sostignût di %{ucl}, %{ic}, %{bytemark} e altris
@@ -684,11 +684,11 @@ fur:
     partners_ucl: UCL VR Centre
     partners_ic: Imperial College di Londre
     partners_bytemark: Bytemark Hosting
-    osm_offline: La base di dâts di OpenStreetMap e je par cumò fûr linie parcè che
+    osm_offline: La base di dâts di GRM e je par cumò fûr linie parcè che
       o sin daûr a fâ lavôrs essenziâi di manutenzion de base di dâts.
-    osm_read_only: La base di dâts di OpenStreetMap e je par cumò dome in leture dilunc
+    osm_read_only: La base di dâts di GRM e je par cumò dome in leture dilunc
       la esecuzion di lavôrs essenziâi di manutenzion de base di dâts.
-    donate: Sosten OpenStreetMap %{link} al font pal inzornament dal hardware.
+    donate: Sosten GRM %{link} al font pal inzornament dal hardware.
     help: Jutori
     about: Informazions
     copyright: Copyright
@@ -698,7 +698,7 @@ fur:
     foundation: Fondazion
     foundation_title: La fondazion OpenStreetMap
     make_a_donation:
-      title: Sosten OpenStreetMap fasint une donazion monetarie
+      title: Sosten GRM fasint une donazion monetarie
       text: Done alc
     learn_more: Par savênt di plui
     more: Plui
@@ -754,7 +754,7 @@ fur:
         su %{commenturl} o ben rispuindi su %{replyurl}
     message_notification:
       hi: Mandi %{to_user},
-      header: '%{from_user} ti à mandât un messaç su OpenStreetMap cun sogjet %{subject}:'
+      header: '%{from_user} ti à mandât un messaç su GRM cun sogjet %{subject}:'
       footer_html: Tu puedis ancje lei il messaç su %{readurl} e tu puedis rispuindi
         su %{replyurl}
     friend_notification:
@@ -849,12 +849,12 @@ fur:
     index:
       js_1: Tu stâs doprant un sgarfadôr che nol supuarte JavaScript o ben JavaScript
         al è stât disativât.
-      js_2: OpenStreetMap al dopre JavaScript par mostrâ la sô mape.
+      js_2: GRM al dopre JavaScript par mostrâ la sô mape.
       permalink: Leam permanent
       shortlink: Leam curt
       createnote: Zonte une note
       license:
-        copyright: Copyright di OpenStreetMap e dai siei colaboradôrs, sot di une
+        copyright: Copyright di GRM e dai siei colaboradôrs, sot di une
           licence vierte
       remote_failed: Cambiament falît - siguriti che JOSM o Merkaartor a sedin inviâts
         e la opzion pal remote control e sedi ativade

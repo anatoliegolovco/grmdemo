@@ -33,7 +33,7 @@ zh-TW:
   editinglive: 在線編輯
   editingoffline: 離線編輯
   emailauthor: \n\n請寄一封程式錯誤報告的電子郵件給 richard\@systemeD.net，並說明當時您在做什麼動作。
-  error_connectionfailed: 抱歉 - 對 OpenStreetMap 伺服器的連線失敗了。任何最新的變更將不會儲存。\n\n您是否要再試一次？
+  error_connectionfailed: 抱歉 - 對 GRM 伺服器的連線失敗了。任何最新的變更將不會儲存。\n\n您是否要再試一次？
   error_nosharedpoint: 路徑 $1 和 $2 不再分享共同 point，因此我無法復原此分離動作。
   error_noway: 找不到路徑 $1 (perhaps you've panned away?) ，因此我不能復原它。
   existingrelation: 加入既存的關係

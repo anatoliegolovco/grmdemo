@@ -7,11 +7,11 @@ start_time = Time.now
 puts "<html>"
 puts "<head>"
 puts "<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />"
-puts "<title>OpenStreetMap Statistics</title>"
+puts "<title>GRM Statistics</title>"
 puts "<style>th { text-align: left }</style>"
 puts "</head>"
 puts "<body>"
-puts "<h2>OpenStreetMap stats report run at #{start_time.to_s}</h2>"
+puts "<h2>GRM stats report run at #{start_time.to_s}</h2>"
 
 begin
   ActiveRecord::Base.transaction do

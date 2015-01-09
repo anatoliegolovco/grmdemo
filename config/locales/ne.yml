@@ -322,7 +322,7 @@ ne:
       area_to_export: निर्यात गर्ने क्षेत्र
       manually_select: आफै अर्को क्षेत्र छान्नुहोस
       format_to_export: निर्यात गर्ने ढाँचा
-      osm_xml_data: OpenStreetMap XML डेटा
+      osm_xml_data: GRM XML डेटा
       map_image: नक्साको तस्वीर (सर्वस्वीकृत सतहहरू देखाउँछ)
       embeddable_html: थप्नलायक HTML
       licence: इजाजतपत्र

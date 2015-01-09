@@ -184,14 +184,14 @@ class ChangesetControllerTest < ActionController::TestCase
     get :read, :id => changeset_id
     assert_response :success, "cannot get first changeset"
 
-    assert_select "osm[version=#{API_VERSION}][generator=\"OpenStreetMap server\"]", 1
+    assert_select "osm[version=#{API_VERSION}][generator=\"GRM server\"]", 1
     assert_select "osm>changeset[id=#{changeset_id}]", 1
     assert_select "osm>changeset>discussion", 0
 
     get :read, :id => changeset_id, :include_discussion => true
     assert_response :success, "cannot get first changeset with comments"
 
-    assert_select "osm[version=#{API_VERSION}][generator=\"OpenStreetMap server\"]", 1
+    assert_select "osm[version=#{API_VERSION}][generator=\"GRM server\"]", 1
     assert_select "osm>changeset[id=#{changeset_id}]", 1
     assert_select "osm>changeset>discussion", 1
   end
@@ -425,7 +425,7 @@ EOF
       "can't upload a simple valid creation to changeset: #{@response.body}"
 
     # check the returned payload
-    assert_select "diffResult[version=#{API_VERSION}][generator=\"OpenStreetMap server\"]", 1
+    assert_select "diffResult[version=#{API_VERSION}][generator=\"GRM server\"]", 1
     assert_select "diffResult>node", 1
     assert_select "diffresult>way", 1
     assert_select "diffResult>relation", 1
@@ -631,7 +631,7 @@ EOF
       "can't do a conditional delete of in use objects: #{@response.body}"
 
     # check the returned payload
-    assert_select "diffResult[version=#{API_VERSION}][generator=\"OpenStreetMap server\"]", 1
+    assert_select "diffResult[version=#{API_VERSION}][generator=\"GRM server\"]", 1
     assert_select "diffResult>node", 1
     assert_select "diffresult>way", 1
     assert_select "diffResult>relation", 1
@@ -1207,7 +1207,7 @@ EOF
       "failed to return error in XML format"
 
     # check the returned payload
-    assert_select "osmError[version=#{API_VERSION}][generator=\"OpenStreetMap server\"]", 1
+    assert_select "osmError[version=#{API_VERSION}][generator=\"GRM server\"]", 1
     assert_select "osmError>status", 1
     assert_select "osmError>message", 1
 

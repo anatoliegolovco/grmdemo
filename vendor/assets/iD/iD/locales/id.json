@@ -260,7 +260,7 @@
         "role": "Aturan",
         "choose": "Pilih Tipe Fitur",
         "results": "{n}hasil untuk {search}",
-        "reference": "Lihat di OpenStreetMap Wiki",
+        "reference": "Lihat di GRM Wiki",
         "back_tooltip": "Ubah Fitur",
         "remove": "Buang",
         "search": "Cari",
@@ -357,12 +357,12 @@
     },
     "help": {
         "title": "Bantuan",
-        "help": "#Bantuan\n\nIni adalah editor untuk [OpenStreetMap] (http://www.openstreetmap.org/), \npeta dunia gratis dan bisa disunting. Anda dapat menggunakannya dengan menambahkan dan memperbarui\n data di area anda, membangun sebuah peta sumber-terbuka dan data-terbuka di seluruh dunia\n yang lebih baik untuk semua orang.\n\nPerubahan yang anda buat akan terlihat ke semua orang yang menggunakan \nOpenStreetMap. Untuk melakukan penyutingan, anda membutuhkan \n[free OpenStreetMap account] (https://www.openstreetmap.org/user/new).\n\n[iD editor](http://ideditor.com/) adalah proyek kolaborasi dengan [kode sumber tersedia di GitHub](https://github.com/openstreetmap/iD).\n"
+        "help": "#Bantuan\n\nIni adalah editor untuk [OpenStreetMap] (http://www.openstreetmap.org/), \npeta dunia gratis dan bisa disunting. Anda dapat menggunakannya dengan menambahkan dan memperbarui\n data di area anda, membangun sebuah peta sumber-terbuka dan data-terbuka di seluruh dunia\n yang lebih baik untuk semua orang.\n\nPerubahan yang anda buat akan terlihat ke semua orang yang menggunakan \nOpenStreetMap. Untuk melakukan penyutingan, anda membutuhkan \n[free GRM account] (https://www.openstreetmap.org/user/new).\n\n[iD editor](http://ideditor.com/) adalah proyek kolaborasi dengan [kode sumber tersedia di GitHub](https://github.com/openstreetmap/iD).\n"
     },
     "intro": {
         "navigation": {
             "title": "Navigasi",
-            "drag": "Area peta utama menampilkan data OpenStreetMap pada bagian atas dari latar. Anda dapat bernavigasi dengan menggeser dan mengskrol, seperti peta web lainnya. **Geser petanya!**",
+            "drag": "Area peta utama menampilkan data GRM pada bagian atas dari latar. Anda dapat bernavigasi dengan menggeser dan mengskrol, seperti peta web lainnya. **Geser petanya!**",
             "select": "Fitur peta dapat diwakili dengan tiga cara: dengan titik, garis, atau area. Semua fitur dapat dipilih dengan mengklik mereka. **Klik sebuah titik untuk memilihnya.**",
             "header": "Header menunjukan tipe fitur.",
             "pane": "Ketika sebuah fitur terpilih, fitur penyunting akan tampil. Header menunjukan tipe fitur dan panel utama yang menunjukan atribut fitur, seperti nama dan alamat. **Tutup fitur penyunting dengan mengklik tombol tutup di bagian kanan atas.**"

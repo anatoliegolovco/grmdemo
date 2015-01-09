@@ -159,13 +159,13 @@ af:
       edit: Wysig
     feed:
       user:
-        title: OpenStreetMap dagboekinskrywings van %{user}
-        description: Onlangse OpenStreetMap dagboekinskrywings van %{user}
+        title: GRM dagboekinskrywings van %{user}
+        description: Onlangse GRM dagboekinskrywings van %{user}
       language:
-        title: OpenStreetMap dagboekinskrywings in %{language_name}
+        title: GRM dagboekinskrywings in %{language_name}
         description: Onlangse dagboekinskrywings van OpenStreetMap-gebruikers in %{language_name}
       all:
-        title: OpenStreetMap dagboekinskrywings
+        title: GRM dagboekinskrywings
         description: Onlangse dagboekinskrywings van OpenStreetMap-gebruikers
     comments:
       when: Wanneer
@@ -174,10 +174,10 @@ af:
       area_to_export: Area om te eksporteer
       manually_select: Kies 'n ander gebied handmatig
       format_to_export: Lêerformaat
-      osm_xml_data: OpenStreetMap XML-data
+      osm_xml_data: GRM XML-data
       embeddable_html: HTML-kode
       licence: Lisensie
-      export_details: OpenStreetMap se data is gelisensieer onder die <a href="http://creativecommons.org/licenses/by-sa/2.0/deed.af">Creative
+      export_details: GRM se data is gelisensieer onder die <a href="http://creativecommons.org/licenses/by-sa/2.0/deed.af">Creative
         Commons Erkenning-Insgelyks Deel 2.0 lisensie</a>.
       options: Voorkeure
       format: 'Formaat:'
@@ -597,10 +597,10 @@ af:
     tag_line: Die vrye wiki-wêreldkaart
     osm_read_only: Die OpenStreetMap-databasis kan op die oomblik slegs gelees word
       aangesien noodsaaklik onderhoud tans uitgevoer word.
-    donate: Ondersteun OpenStreetMap deur aan die Hardeware Opgradeer-fonds te %{link}.
+    donate: Ondersteun GRM deur aan die Hardeware Opgradeer-fonds te %{link}.
     copyright: Outeursreg & lisensie
     make_a_donation:
-      title: Ondersteun OpenStreetMap met'n geldelike donasie
+      title: Ondersteun GRM met'n geldelike donasie
       text: Maak 'n donasie
   license_page:
     foreign:
@@ -902,7 +902,7 @@ af:
       auth failure: Jammer, kon nie met hierdie inligting aanmeld nie.
     logout:
       title: Teken af
-      heading: Teken van OpenStreetMap af
+      heading: Teken van GRM af
       logout_button: Teken af
     lost_password:
       title: Wagwoord vergeet
@@ -920,7 +920,7 @@ af:
     new:
       title: Skep rekening
       license_agreement: Deur 'n rekening hier te skep bevestig u dat u akkoord gaan
-        met voorwaarde dat al die werk wat u na OpenStreetMap oplaai onder die <a
+        met voorwaarde dat al die werk wat u na GRM oplaai onder die <a
         href="http://creativecommons.org/licenses/by-sa/2.0/deed.af">Creative Commons-lisensie
         (by-sa)</a> gelisensieer word (nie-eksklusief).
       email address: 'E-posadres:'

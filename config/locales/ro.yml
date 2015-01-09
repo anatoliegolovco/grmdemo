@@ -238,10 +238,10 @@ ro:
       edit: Modifică
     feed:
       user:
-        title: Înregistrări în jurnalul OpenStreetMap pentru %{user}
-        description: Înregistrări recente în jurnalul OpenStreetMap de la %{user}
+        title: Înregistrări în jurnalul GRM pentru %{user}
+        description: Înregistrări recente în jurnalul GRM de la %{user}
       language:
-        title: Înregistrări recente în jurnalul OpenStreetMap în %{language_name}
+        title: Înregistrări recente în jurnalul GRM în %{language_name}
         description: Înregistrări recente în jurnale de la utilizatorii OpenStreetMap
           în limba %{language_name}
       all:
@@ -685,7 +685,7 @@ ro:
     foundation: Fundația
     foundation_title: Fundația OpenStreetMap
     make_a_donation:
-      title: Sprijiniți OpenStreetMap printr-o donație în bani
+      title: Sprijiniți GRM printr-o donație în bani
       text: Faceți o donație
     learn_more: Aflați mai multe
     more: Mai multe

@@ -63,12 +63,12 @@ ast:
   editingoffline: Editando con guardáu
   emailauthor: \n\nPor favor, manda un corréu a richard@systemeD.net con un informe de fallu diciendo lo que tabes faciendo nesi momentu.
   error_anonymous: Nun pues comunicate con un mapeador anónimu.
-  error_connectionfailed: Perdón - la conexón col sirvidor OpenStreetMap falló. Dellos cambeos recientes nun se guardaron.\n\n¿Quedríes volver a tentalo?
+  error_connectionfailed: Perdón - la conexón col sirvidor GRM falló. Dellos cambeos recientes nun se guardaron.\n\n¿Quedríes volver a tentalo?
   error_microblog_long: "Falló espublizar en $1:\nCódigu HTTP: $2\nMensaxe d'error: $3\nError $1: $4"
   error_nopoi: El PDI nun se pue alcontrar (¿movisti'l mapa, seique?) y, poro, nun puedo desfacer.
   error_nosharedpoint: Les víes $1 y $2 yá nun comparten un puntu común, y poro, nun puedo desfacer la dixebra.
   error_noway: La vía $1 nun se pue alcontrar (¿movisti'l mapa, seique?) y, poro, nun puedo desfacer.
-  error_readfailed: Lo siento - el sirvidor d'OpenStreetMap nun respondió al pidí-y datos.\n\n¿Quies tentalo otra vuelta?
+  error_readfailed: Lo siento - el sirvidor d'GRM nun respondió al pidí-y datos.\n\n¿Quies tentalo otra vuelta?
   existingrelation: Amestar a una rellación esistente
   findrelation: Alcontrar una rellación que contién
   gpxpleasewait: Espera mientres se procesa la traza GPX.
@@ -179,7 +179,7 @@ ast:
   prompt_editsave: Editar con guardáu
   prompt_helpavailable: ¿Usuariu nuevu? Mira l'ayuda abaxo a manzorga.
   prompt_launch: Llanzar URL esterna
-  prompt_live: Nel mou en vivo, cada elementu que camudes de guardará nel intre na base de datos d'OpenStreetMap - nun ta recomendao pa principiantes. ¿Tas seguru?
+  prompt_live: Nel mou en vivo, cada elementu que camudes de guardará nel intre na base de datos d'GRM - nun ta recomendao pa principiantes. ¿Tas seguru?
   prompt_manyways: Esti ye un área con munchos detalles y llevará tiempu enforma cargala. ¿Preferiríes ampliala?
   prompt_microblog: Mandar corréu a $1 (queden $2)
   prompt_revertversion: "Tornar a una versión anterior guardada:"

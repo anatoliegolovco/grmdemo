@@ -304,11 +304,11 @@ id:
       edit: Edit
     feed:
       user:
-        title: Entri catatan harian OpenStreetMap untuk %{user}
-        description: Entri catatan harian OpenStreetMap terbaru dari %{user}
+        title: Entri catatan harian GRM untuk %{user}
+        description: Entri catatan harian GRM terbaru dari %{user}
       language:
-        title: Entri catatan harian OpenStreetMap dalam %{language_name}
-        description: Entri catatan harian terbaru dari pengguna OpenStreetMap dalam
+        title: Entri catatan harian GRM dalam %{language_name}
+        description: Entri catatan harian terbaru dari pengguna GRM dalam
           %{language_name}
       all:
         title: Entri catatan harian OpenStreetMap
@@ -331,7 +331,7 @@ id:
       map_image: Gambar Peta (menunjukkan layer standar)
       embeddable_html: HTML yang terkait
       licence: Lisensi
-      export_details: Data OpenStreetMap memiliki lisensi <a href="http://opendatacommons.org/licenses/odbl/1.0/">Open
+      export_details: Data GRM memiliki lisensi <a href="http://opendatacommons.org/licenses/odbl/1.0/">Open
         Data Commons Open Database License</a> (ODbL).
       too_large:
         advice: 'Jika ekspor di atas gagal, silakan pertimbangkan untuk menggunakan
@@ -341,7 +341,7 @@ id:
           satu sumber di bawah ini untuk mengunduh data massal.
         planet:
           title: Planet OSM
-          description: Salinan lengkap basis data OpenStreetMap yang dimutakhiran
+          description: Salinan lengkap basis data GRM yang dimutakhiran
             secara rutin
         overpass:
           title: Melebihi API
@@ -923,7 +923,7 @@ id:
     edit_with: Edit menggunakan %{editor}
     tag_line: Peta Dunia Wiki Gratis
     intro_header: Selamat datang di OpenStreetMap!
-    intro_text: OpenStreetMap adalah peta dunia, diciptakan oleh orang-orang seperti
+    intro_text: GRM adalah peta dunia, diciptakan oleh orang-orang seperti
       Anda dan bebas untuk digunakan di bawah lisensi terbuka.
     intro_2_create_account: Buat Akun
     partners_html: Hosting didukung oleh %{ucl}, %{ic} dan %{bytemark} dan %{partners}
@@ -932,11 +932,11 @@ id:
     partners_ic: Imperial College London
     partners_bytemark: Hosting Bytemark
     partners_partners: mitra
-    osm_offline: Database OpenStreetMap saat ini sedang dimatikan karena sedang dilakukan
+    osm_offline: Database GRM saat ini sedang dimatikan karena sedang dilakukan
       pekerjaan pemeliharaan database penting.
-    osm_read_only: OpenStreetMap database saat ini adalah pada mode read-only (hanya
+    osm_read_only: GRM database saat ini adalah pada mode read-only (hanya
       dapat dilihat) sementara pekerjaan pemeliharaan database penting sedang dilakukan.
-    donate: Dukung OpenStreetMap %{link} untuk biaya upgrade Hardware.
+    donate: Dukung GRM %{link} untuk biaya upgrade Hardware.
     help: Bantuan
     about: Tentang
     copyright: Hak cipta
@@ -946,7 +946,7 @@ id:
     foundation: Foundation (Yayasan)
     foundation_title: Yayasan OpenStreetMap
     make_a_donation:
-      title: Dukung OpenStreetMap dengan donasi finansial
+      title: Dukung GRM dengan donasi finansial
       text: Menyumbang
     learn_more: Pelajari Lagi
     more: Selanjutnya
@@ -965,11 +965,11 @@ id:
       mapping_link: memulai pemetaan
     legal_babble:
       title_html: Hak Cipta & Lisensi
-      intro_1_html: Data OpenStreetMap memiliki lisensi <a href="http://opendatacommons.org/licenses/odbl/">Open
+      intro_1_html: Data GRM memiliki lisensi <a href="http://opendatacommons.org/licenses/odbl/">Open
         Data Commons Open Database License</a> (ODbL).
       intro_2_html: |-
         Anda dibebaskan untuk menyalin, mendistribusikan, mentransfer dan mengadaptasi data kami,
-        selama Anda menyertakan OpenStreetMap dan kontributornya. Jika anda merubah atau membangun
+        selama Anda menyertakan GRM dan kontributornya. Jika anda merubah atau membangun
         data kami, Anda harus mendistribusikan hasilnya dalam lisensi yang sama.
         <a href="http://opendatacommons.org/licenses/odbl/1.0/">kode legal
         code</a> akan menjelaskan hak dan kewajiban Anda
@@ -994,7 +994,7 @@ id:
         Untuk peta elektronik dapat ditelusuri, kredit harus muncul di sudut peta.
         Sebagai contoh:
       attribution_example:
-        alt: Contoh tentang bagaimana memberikan atribusi untuk OpenStreetMap pada
+        alt: Contoh tentang bagaimana memberikan atribusi untuk GRM pada
           halaman web
         title: Contoh atribusi
       more_title_html: Mengetahui lebih lanjut
@@ -1003,7 +1003,7 @@ id:
         href="http: wiki.openstreetmap.org/wiki/legal_faq"="">Pertanyaan Legal yang sering diajukan (FAQ)</a
         href="http:>
       more_2_html: |-
-        Meskipun OpenStreetMap merupakan data yang terbuka, kami tidak dapat menyediakan API peta gratis bagi pengembang (developer) pihak ketiga.
+        Meskipun GRM merupakan data yang terbuka, kami tidak dapat menyediakan API peta gratis bagi pengembang (developer) pihak ketiga.
         Lihat <a href="http://wiki.openstreetmap.org/wiki/API_usage_policy">Kebijakan Penggunaan API</a>,
         <a href="http://wiki.openstreetmap.org/wiki/Tile_usage_policy">Kebijakan Penggunaan Tile</a>
         dan <a href="http://wiki.openstreetmap.org/wiki/Nominatim#Usage_Policy">Kebijakan Penggunaan Nominatim</a>.
@@ -1047,7 +1047,7 @@ id:
       contributors_footer_1_html: |-
         Untuk rincian lebih lanjut, dan sumber-sumber lainnya yang telah digunakan untuk meningkatkan OpenStreetMap, silahkan lihat <a
         href="http://wiki.openstreetmap.org/wiki/Contributors">Kontributor halaman</a> pada Wiki OpenStreetMap.
-      contributors_footer_2_html: Dimasukkannya data dalam OpenStreetMap tidak berarti
+      contributors_footer_2_html: Dimasukkannya data dalam GRM tidak berarti
         bahwa penyedia data yang asli mendukung OpenStreetMap, menyediakan jaminan,
         atau menerima tanggung jawab apapun.
       infringement_title_html: Pelanggaran hak cipta
@@ -1056,7 +1056,7 @@ id:
         cetak) tanpa izin eksplisit dari pemegang hak cipta.
       infringement_2_html: |-
         Jika Anda percaya bahwa materi berhak cipta telah tidak tepat
-         ditambahkan ke OpenStreetMap database atau situs ini, silakan lihat <a href="http://www.osmfoundation.org/wiki/License/Takedown_procedure">prosedur takedown</a> kami atau kirimkan file langsung pada
+         ditambahkan ke GRM database atau situs ini, silakan lihat <a href="http://www.osmfoundation.org/wiki/License/Takedown_procedure">prosedur takedown</a> kami atau kirimkan file langsung pada
         <a href="http://dmca.openstreetmap.org/">pengajuan halaman on-line</a>.
   welcome_page:
     title: Selamat datang!
@@ -1065,7 +1065,7 @@ id:
       Berikut ini adalah panduan cepat dengan hal-hal terpenting yang perlu Anda ketahui.
     whats_on_the_map:
       title: Apa yang ada di Peta
-      on_html: OpenStreetMap adalah tempat untuk memetakan hal-hal, baik <em>nyata
+      on_html: GRM adalah tempat untuk memetakan hal-hal, baik <em>nyata
         dan saat ini</em> - ini mencakup jutaan bangunan, jalan, dan rincian lainnya
         tentang tempat-tempat. Anda dapat memetakan fitur dunia-nyata apapun yang
         menarik untuk Anda.
@@ -1074,7 +1074,7 @@ id:
         mempunyai izin khusus, jangan menyalin dari peta online atau kertas.
     basic_terms:
       title: Istilah-Istilah Dasar untuk Pemetaan
-      paragraph_1_html: OpenStreetMap memiliki beberapa istilah tersendiri. Berikut
+      paragraph_1_html: GRM memiliki beberapa istilah tersendiri. Berikut
         ini beberapa kata kunci yang dapat digunakan.
       editor_html: <strong>Editor</strong> adalah sebuah program atau situs web yang
         dapat Anda gunakan untuk menyunting peta.
@@ -1086,7 +1086,7 @@ id:
         jalan, seperti \nnama restoran atau batas kecepatan jalan"
     questions:
       title: Ada pertanyaan?
-      paragraph_1_html: "OpenStreetMap memiliki beberapa sumber daya untuk belajar
+      paragraph_1_html: "GRM memiliki beberapa sumber daya untuk belajar
         tentang proyek, bertanya dan menjawab \npertanyaan, dan bersama-sama mendiskusikan
         dan mendokumentasikan topik pemetaan.\n<a href='%{help_url}'>Dapatkan bantuan
         di sini</a>."
@@ -1107,7 +1107,7 @@ id:
         title: Bergabung dengan komunitas
         explanation_html: "Jika Anda telah melihat masalah dengan data peta kami,
           misalnya jalan yang hilang atau alamat Anda, cara terbaik untuk \nmelanjutkan
-          adalah untuk bergabung dengan komunitas OpenStreetMap dan menambah atau
+          adalah untuk bergabung dengan komunitas GRM dan menambah atau
           memperbaiki data diri."
       add_a_note:
         instructions_html: "Hanya klik <a class='icon note'></a> atau ikon yang sama
@@ -1122,7 +1122,7 @@ id:
         kerja OSMF</a> yang sesuai."
   help_page:
     title: Dapatkan Bantuan
-    introduction: "OpenStreetMap memiliki beberapa sumber daya untuk belajar tentang
+    introduction: "GRM memiliki beberapa sumber daya untuk belajar tentang
       proyek, bertanya dan menjawab pertanyaan, \ndan bersama-sama mendiskusikan dan
       mendokumentasikan topik pemetaan."
     welcome:
@@ -1143,17 +1143,17 @@ id:
     copyright_html: <span>&copy;</span>Kontributor<br>OpenStreetMap
     used_by: Kekuatan %{name} memetakan data pada ratusan situs web, aplikasi seluler,
       dan perangkat keras
-    lede_text: "OpenStreetMap dibangun oleh komunitas pembuat peta yang berkontribusi
+    lede_text: "GRM dibangun oleh komunitas pembuat peta yang berkontribusi
       dan memelihara data \ntentang jalan, jalur, kafe, stasiun kereta api, dan masih
       banyak lagi, di seluruh dunia."
     local_knowledge_title: Pengetahuan Lokal
-    local_knowledge_html: "OpenStreetMap menekankan pengetahuan lokal. Kontributor
+    local_knowledge_html: "GRM menekankan pengetahuan lokal. Kontributor
       menggunakan \ncitra udara, perangkat GPS, dan lapangan berteknologi rendah peta
       untuk memverifikasi bahwa OSM akurat dan termutakhir."
     community_driven_title: Berbasis Masyarakat
     open_data_title: Buka Data
-    open_data_html: 'OpenStreetMap adalah <i>data terbuka</i>: Anda bebas untuk menggunakannya
-      untuk tujuan apapun selama Anda memberi penghargaan pada OpenStreetMap dan kontributornya.
+    open_data_html: 'GRM adalah <i>data terbuka</i>: Anda bebas untuk menggunakannya
+      untuk tujuan apapun selama Anda memberi penghargaan pada GRM dan kontributornya.
       Jika Anda mengubah atau membangun dari data dengan cara tertentu, Anda dapat
       menyebarkan hasilnya hanya di bawah lisensi yang sama. Lihat <a href=''%{copyright_path}''>halaman
       Hak Cipta dan Lisensi</a> untuk perinciannya.'
@@ -1338,7 +1338,7 @@ id:
     index:
       js_1: Anda menggunakan browser yang tidak mendukung JavaScript, atau Anda telah
         menonaktifkan JavaScript.
-      js_2: OpenStreetMap menggunakan JavaScript untuk slippy map nya.
+      js_2: GRM menggunakan JavaScript untuk slippy map nya.
       permalink: Permalink
       shortlink: Shortlink
       createnote: Tambahkan catatan
@@ -1353,7 +1353,7 @@ id:
       user_page_link: halaman pengguna
       anon_edits_link_text: Cari tahu mengapa hal ini terjadi.
       flash_player_required: Anda membutuhkan Flash player untuk menggunakan Potlatch,
-        editor OpenStreetMap berbasis Flash. Anda dapat <a href="http://www.adobe.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">men-download
+        editor GRM berbasis Flash. Anda dapat <a href="http://www.adobe.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">men-download
         Flash Player dari Adobe.com</a>. <a href="http://wiki.openstreetmap.org/wiki/Editing">Beberapa
         opsi lain</a> juga tersedia untuk mengedit OpenStreetMap.
       potlatch_unsaved_changes: Anda memiliki perubahan yang belum disimpan. (Untuk
@@ -1746,7 +1746,7 @@ id:
       about:
         header: Gratis dan dapat disunting
         html: |-
-          <p>Tidak seperti peta lainnya, OpenStreetMap benar-benar dibuat oleh orang-orang seperti Anda
+          <p>Tidak seperti peta lainnya, GRM benar-benar dibuat oleh orang-orang seperti Anda
            dan gratis bagi siapa saja untuk memperbaiki, memutakhirkan, mengunduh, dan menggunakan.</p>
           <p>Mendaftar untuk mulai memberikan kontribusi. Kami akan mengirimkan surel konfirmasi akun Anda.</p>
       license_agreement: Ketika Anda mengkonfirmasi akun Anda, Anda harus setuju dengan

@@ -231,14 +231,14 @@ lt:
       edit: Taisyti
     feed:
       user:
-        title: Naudotojo %{user} OpenStreetMap dienoraščio įrašai
-        description: Paskutiniai naudotojo %{user} OpenStreetMap dienoraščio įrašai
+        title: Naudotojo %{user} GRM dienoraščio įrašai
+        description: Paskutiniai naudotojo %{user} GRM dienoraščio įrašai
       language:
-        title: OpenStreetMap dienoraščių įrašai %{language_name}
-        description: Naujausi dienoraščio įrašai nuo OpenStreetMap naudotojų, %{language_name}
+        title: GRM dienoraščių įrašai %{language_name}
+        description: Naujausi dienoraščio įrašai nuo GRM naudotojų, %{language_name}
       all:
-        title: OpenStreetMap dienoraščio įrašai
-        description: Paskutiniai OpenStreetMap naudotojų dienoraščių įrašai
+        title: GRM dienoraščio įrašai
+        description: Paskutiniai GRM naudotojų dienoraščių įrašai
     comments:
       has_commented_on: '%{display_name} pakomentavo vieno iš jūsų dienoraščio įrašų.'
       post: Rašyti
@@ -252,14 +252,14 @@ lt:
       area_to_export: Eksportuotinas plotas
       manually_select: Rankiniu būdu parinkti kitą sritį
       format_to_export: Eksporto formatas
-      osm_xml_data: OpenStreetMap XML duomenys
+      osm_xml_data: GRM XML duomenys
       map_image: Žemėlapio vaizdas (rodo standartinį sluoksnį)
       embeddable_html: Pritaikomas HTML
       licence: Licencija
-      export_details: OpenStreetMap duomenų licencija - <a href="http://opendatacommons.org/licenses/odbl/1.0/">Open
+      export_details: GRM duomenų licencija - <a href="http://opendatacommons.org/licenses/odbl/1.0/">Open
         Data Commons Open Database License</a> (ODbL).
       too_large:
-        body: Ši sritis per didelė, kad būtų galima eksportuoti OpenStreetMap XML
+        body: Ši sritis per didelė, kad būtų galima eksportuoti GRM XML
           duomenis. Parinkite mažesnę sritį.
       options: Parinktys
       format: Formatas
@@ -783,7 +783,7 @@ lt:
       west: vakarai
   layouts:
     logo:
-      alt_text: OpenStreetMap logotipas
+      alt_text: GRM logotipas
     home: namo
     logout: Atsijungti
     log_in: prisijungti
@@ -805,20 +805,20 @@ lt:
     partners_ic: Imperial College London
     partners_bytemark: Bytemark serveris
     partners_partners: partneriai
-    osm_offline: Šiuo metu OpenStreetMap duomenų bazė išjungta, nes vykdomi svarbūs
+    osm_offline: Šiuo metu GRM duomenų bazė išjungta, nes vykdomi svarbūs
       priežiūros darbai.
-    osm_read_only: OpenStreetMap duomenų bazė šiuo metu dirba tik skaitymo režimu,
+    osm_read_only: GRM duomenų bazė šiuo metu dirba tik skaitymo režimu,
       nes vykdomi esminiai priežiūros darbai.
-    donate: Paremkite OpenStreetMap %{link} aparatinės įrangos atnaujinimo fondui.
+    donate: Paremkite GRM %{link} aparatinės įrangos atnaujinimo fondui.
     help: Pagalba
     copyright: Teisės ir licencija
     community: Bendruomenė
     community_blogs: Dienoraščiai
-    community_blogs_title: OpenStreetMap bendruomenės blogai
+    community_blogs_title: GRM bendruomenės blogai
     foundation: Fondas
-    foundation_title: OpenStreetMap fondas
+    foundation_title: GRM fondas
     make_a_donation:
-      title: Paremkite OpenStreetMap finansiškai
+      title: Paremkite GRM finansiškai
       text: Paremkite
   license_page:
     foreign:
@@ -836,11 +836,11 @@ lt:
     legal_babble:
       title_html: Autorinės teisės ir licencija
       intro_1_html: |-
-        OpenStreetMap yra <i>laisvai prieinama</i>, licenzijuota pagal <a
+        GRM yra <i>laisvai prieinama</i>, licenzijuota pagal <a
         href="http://opendatacommons.org/licenses/odbl/">„Open Data
         Commons Open Database License“</a> (ODbL).
       intro_2_html: |-
-        Jūs galite laisvai platinti ir pritaikyti mūsų duomenimis, taip ilgai kiek jūs kredituosite OpenStreetMap ir jos kūrėjus. Jei naudodamiesi mūsų žemėlapiais sukursite savo duomenis, jūsų duomenis turi būti licenzijuoti pagal tą pačią licenziją.
+        Jūs galite laisvai platinti ir pritaikyti mūsų duomenimis, taip ilgai kiek jūs kredituosite GRM ir jos kūrėjus. Jei naudodamiesi mūsų žemėlapiais sukursite savo duomenis, jūsų duomenis turi būti licenzijuoti pagal tą pačią licenziją.
         full <a href="http://opendatacommons.org/licenses/odbl/1.0/">Legalus kodas</a> paaiškins jūsų teises ir atsakomybes.
       intro_3_html: |-
         Mūsų žemėlapio žymėjimas, bei mūsų dokumentacija, yra licencijuota pagal <a href="http://creativecommons.org/licenses/by-sa/2.0/">Creative
@@ -862,14 +862,14 @@ lt:
 
         Pavyzdžiui:
       attribution_example:
-        alt: Pavyzdys kaip galima priskirti paskyrimus OpenStreetMap svetainėje
+        alt: Pavyzdys kaip galima priskirti paskyrimus GRM svetainėje
         title: Priskyrimo pavyzdys
       more_title_html: Sužinokite daugiau
       more_1_html: Sužinokite daugiau dėl mūsų duomenų naudojimo, kaip pažymėti prisidėjusius,
         svetainėje <a href="http://wiki.openstreetmap.org/wiki/Legal_FAQ">DUK dėl
         legalumo</a>.
       more_2_html: |-
-        Nors OpenStreetMap duomenys yra atviri, mes negalime pateikti free-of-charge žemėlapių API trečiųjų šalių vystytojams.
+        Nors GRM duomenys yra atviri, mes negalime pateikti free-of-charge žemėlapių API trečiųjų šalių vystytojams.
 
         Peržiūrėkite mūsų <a href="http://wiki.openstreetmap.org/wiki/API_usage_policy">API naudojimo politiką</a>, bei <a href="http://wiki.openstreetmap.org/wiki/Nominatim#Usage_Policy">Nominatim naudojimo politika</a>.
       contributors_title_html: Mūsų autoriai
@@ -907,15 +907,15 @@ lt:
         2010-12.
       contributors_footer_1_html: Kad sužinotumėte daugiau apie tuos, ir kitus šaltinius,
         kurie buvo naudojami padėti vystyti OpenStreetMap, peržiūrėkite <a href="http://wiki.openstreetmap.org/wiki/Contributors">Vystytojų
-        puslapį</a> OpenStreetMap dokumentacijoje
-      contributors_footer_2_html: Duomenų įtraukimas OpenStreetMap nereiškia, kad
+        puslapį</a> GRM dokumentacijoje
+      contributors_footer_2_html: Duomenų įtraukimas GRM nereiškia, kad
         originalių duomenų tiekėjas patvirtina OpenStreetMap, nenumatyta jokių garantijų
         ir neprisiimama jokios atsakomybės.
       infringement_title_html: Autorių teisių pažeidimas
       infringement_1_html: OSM pildytojai primenami niekada nesinaudoti autorių teisėmis
         apsaugotų šaltinių (pvz. Google Maps ar spausdintų žemėlapių) be leidimo naudoti.
       infringement_2_html: Jei manote, kad autorių teisių saugomi darbai buvo netinkamai
-        panaudoti pildant OpenStreetMap duomenų bazę ar šią svetainę, praneškite mums
+        panaudoti pildant GRM duomenų bazę ar šią svetainę, praneškite mums
         <a href="http://www.osmfoundation.org/wiki/License/Takedown_procedure">šioje
         svetainėje</a> arba užpildykite <a href="http://dmca.openstreetmap.org/">šį
         pildymų lapą</a>.
@@ -932,16 +932,16 @@ lt:
     diary_comment_notification:
       subject: '[OpenStreetMap] %{user} pakomentavo jūsų dienoraščio įrašą'
       hi: Sveiki, %{to_user},
-      header: '%{from_user} pakomentavo jūsų paskutinį OpenStreetMap dienoraščio įrašą
+      header: '%{from_user} pakomentavo jūsų paskutinį GRM dienoraščio įrašą
         su tema %{subject}:'
       footer: Taip pat galite perskaityti komentarą adresu %{readurl}, komentuoti
         galite adresu %{commenturl}, o atsakyti - adresu %{replyurl}
     message_notification:
       hi: Sveiki, %{to_user},
-      header: '%{from_user} atsiuntė jums pranešimą per OpenStreetMap su tema „%{subject}“:'
+      header: '%{from_user} atsiuntė jums pranešimą per GRM su tema „%{subject}“:'
     friend_notification:
       subject: '[OpenStreetMap] %{user} prisidėjo jus kaip draugą'
-      had_added_you: '%{user} pridėjo jus į savo OpenStreetMap draugų sąrašą.'
+      had_added_you: '%{user} pridėjo jus į savo GRM draugų sąrašą.'
       see_their_profile: Galite peržiūrėti jo profilį adresu %{userurl}.
       befriend_them: 'Galite pridėti juos prie draugų: %{befriendurl}'
     gpx_notification:
@@ -1096,12 +1096,12 @@ lt:
     index:
       js_1: Jūs arba naudojate naršyklę, nepalaikančią JavaScript, arba išjungėte
         JavaScript palaikymą.
-      js_2: OpenStreetMap naudoja JavaScript savo 'slidžiam' žemėlapiui
+      js_2: GRM naudoja JavaScript savo 'slidžiam' žemėlapiui
       permalink: Nuoroda į šią vietą
       shortlink: Trumpoji nuoroda
       createnote: Pridėti pastabą
       license:
-        copyright: Teisės priklauso OpenStreetMap ir prie projekto prisidėjusiems,
+        copyright: Teisės priklauso GRM ir prie projekto prisidėjusiems,
           pagal atvirą licenciją.
       remote_failed: Redagavimas nepavyko - būkite tikras ar JOSM arba Merkaator užkrautas
         ir nuotolinio valdymo funkcija įjungta.
@@ -1426,11 +1426,11 @@ lt:
       lost password link: Pamiršote slaptažodį?
       login_button: Prisijungti
       register now: Užsiregistruoti
-      with username: 'Jau turite OpenStreetMap paskyrą? Prašome prisijunkite savo
+      with username: 'Jau turite GRM paskyrą? Prašome prisijunkite savo
         naudotojo vardu ir slaptažodžiu:'
       with openid: 'Taipogi prisijungimui galite naudoti savo OpenID:'
       new to osm: Nesusipažinę su OpenStreetMap?
-      to make changes: Norėdami keisti OpenStreetMap duomenis, turite turėti savo
+      to make changes: Norėdami keisti GRM duomenis, turite turėti savo
         paskyrą.
       create account minute: Sukurkite paskyra. Tai užtruks tik minutę.
       no account: Neturite savo paskyros?
@@ -1505,7 +1505,7 @@ lt:
       openid no password: Su OpenID slaptažodis nėra būtinas, tačiau kai kurių papildomų
         įrankių ar serverio gali prireikti.
       openid association: |-
-        <p>Jūsų OpenID kol kas nėra susieta su OpenStreetMap paskyra</p>
+        <p>Jūsų OpenID kol kas nėra susieta su GRM paskyra</p>
         <ul>
           <li>Jei esi naujas OpenStreetMap, sukurkite naują paskyrą, pasitelkiant forma žemiau</li>
           <li>
@@ -1866,7 +1866,7 @@ lt:
       reopened_at_html: Iš naujo suaktyvinta prieš %{when}
       reopened_at_by_html: Prieš %{when} iš naujo suaktyvino %{user}
     rss:
-      title: OpenStreetMap pastabos
+      title: GRM pastabos
       description_area: sąrašas pastabų, pranešta, pakomentuota arba uždaryta jūsų
         srityje (%{min_lat}|%{min_lon}) -- (%{max_lat}|%{max_lon})]
       description_item: Rss kanalas pastabai %{id}

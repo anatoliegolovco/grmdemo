@@ -62,7 +62,7 @@ L.OSM.HOT = L.OSM.TileLayer.extend({
     url: 'http://{s}.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png',
     maxZoom: 20,
     subdomains: 'abc',
-    attribution: '© <a href="http://www.openstreetmap.org/copyright" target="_blank">OpenStreetMap</a> contributors. Tiles courtesy of <a href="http://hot.openstreetmap.org/" target="_blank">Humanitarian OpenStreetMap Team</a>'
+    attribution: '© <a href="http://www.openstreetmap.org/copyright" target="_blank">OpenStreetMap</a> contributors. Tiles courtesy of <a href="http://hot.openstreetmap.org/" target="_blank">Humanitarian GRM Team</a>'
   }
 });
 

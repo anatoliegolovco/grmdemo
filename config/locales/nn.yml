@@ -253,14 +253,14 @@ nn:
       area_to_export: Område som skal eksporterast
       manually_select: Vel eit anna område manuelt
       format_to_export: Format for eksport
-      osm_xml_data: OpenStreetMap XML-data
+      osm_xml_data: GRM XML-data
       map_image: Kartblad (viser standard laget)
       embeddable_html: HTML som kan byggjast inn
       licence: Lisens
-      export_details: Data frå OpenStreetMap er lisensiert under <a href="http://opendatacommons.org/licenses/odbl/1.0/">Open
+      export_details: Data frå GRM er lisensiert under <a href="http://opendatacommons.org/licenses/odbl/1.0/">Open
         Data Commons Open Database License</a> (ODbL).
       too_large:
-        body: Dette området er for stort for å eksporterast som OpenStreetMap XML-data.
+        body: Dette området er for stort for å eksporterast som GRM XML-data.
           Zoom inn eller vel eit mindre område.
       options: Val
       format: Format
@@ -802,11 +802,11 @@ nn:
     partners_ic: Imperial College London
     partners_bytemark: Bytemark Hosting
     partners_partners: partnarar
-    osm_offline: OpenStreetMap databasen er for augneblunken utilgjengelig medan essensielt
+    osm_offline: GRM databasen er for augneblunken utilgjengelig medan essensielt
       vedlikeholdsarbeid vert utført.
-    osm_read_only: OpenStreetMap kan ikkje redigerast akkurat no, på grunn av nødvendig
+    osm_read_only: GRM kan ikkje redigerast akkurat no, på grunn av nødvendig
       vedlikehaldsarbeid.
-    donate: Støytt OpenStreetMap ved %{link} til Hardware Upgrade Fund (eit fond for
+    donate: Støytt GRM ved %{link} til Hardware Upgrade Fund (eit fond for
       maskinvareoppgraderinger).
     help: Hjelp
     copyright: Opphavsrett & lisens
@@ -816,7 +816,7 @@ nn:
     foundation: Stifting
     foundation_title: OpenStreetMap-stiftinga
     make_a_donation:
-      title: Støtt OpenStreetMap med ei pengegåve
+      title: Støtt GRM med ei pengegåve
       text: Gje pengegåve
   license_page:
     foreign:
@@ -833,11 +833,11 @@ nn:
       mapping_link: start kartlegging
     legal_babble:
       title_html: Opphavsrett og lisensar
-      intro_1_html: Data frå OpenStreetMap er <i>åpne data</i>, lisensiert under <a
+      intro_1_html: Data frå GRM er <i>åpne data</i>, lisensiert under <a
         href="http://opendatacommons.org/licenses/odbl/">Open Data Commons Open Database
         License</a> (ODbL).
       intro_2_html: "Du er fri til å kopiere, distribuere, overføre og tilpasse dataa
-        våre, så lenge du godskriv OpenStreetMap og bidragsytarane\n  deira. Dersom
+        våre, så lenge du godskriv GRM og bidragsytarane\n  deira. Dersom
         du endrar eller byggjer på dataa våre, kan du berre distribuere resultatet
         under same lisens. \n  Den fullstendige <a href=\"http://opendatacommons.org/licenses/odbl/1.0/\">juridiske\n
         \ teksten</a> forklarer rettane og ansvaret."
@@ -858,14 +858,14 @@ nn:
         For et navigerbart elektronisk kart, skal kjelda visast i hjørnet av kartet.
         Til dømes:
       attribution_example:
-        alt: Døme på korleis ein syner OpenStreetMap som kjelde på ei vevside
+        alt: Døme på korleis ein syner GRM som kjelde på ei vevside
         title: Døme på kjeldehenvising
       more_title_html: Finn ut meir
       more_1_html: |-
         Les meir om korleis du brukar dataa våre, og korleis du krediterer oss, i den <a href="http://wiki.openstreetmap.org/wiki/Legal_FAQ">juridiske
           FAQ-en</a>.
       more_2_html: |-
-        Sjølv om OpenStreetMap er åpne data kan me ikkje gje eit
+        Sjølv om GRM er åpne data kan me ikkje gje eit
           gratis kart-API til tredjepartsutviklere.
 
           Sjå våre retningslinjer for nytting av <a href="http://wiki.openstreetmap.org/wiki/API_usage_policy">API-et</a>,
@@ -907,9 +907,9 @@ nn:
       contributors_footer_1_html: |2-
           For detaljar om desse og andre kjelder som har blitt brukt for å forbetra
           OpenStreetMap, sjå <a href="http://wiki.openstreetmap.org/wiki/Contributors">Bidragsytarar
-          sida</a> på OpenStreetMap Wikien.
+          sida</a> på GRM Wikien.
       contributors_footer_2_html: |2-
-          Inkludering av data i OpenStreetMap inneber ikkje at den opphavlege
+          Inkludering av data i GRM inneber ikkje at den opphavlege
           dataleverandøren støttar OpenStreetMap, gjev nokon garanti eller
           godtek noko erstatningsansvar.
       infringement_title_html: Illegal kopiering
@@ -917,7 +917,7 @@ nn:
         OSM-bidragsytarar vert minna på å aldri leggje til data frå opphavsrettsbeskytta kjelder (t.d. Google Maps eller utskrivne kart) utan
           uttrykkeleg løyve frå rettighetshavere.
       infringement_2_html: "Dersom du trur at kopibeskytta materiale har blitt lagt
-        inn i OpenStreetMap databasen eller denne sida, venligst henvend deg til vår
+        inn i GRM databasen eller denne sida, venligst henvend deg til vår
         <a href=\"http://www.osmfoundation.org/wiki/License/Takedown_procedure\">takedown
         \nprosedyre</a> eller direkte til vårt <a href=\"http://dmca.openstreetmap.org/\">online
         skjema</a>."
@@ -932,7 +932,7 @@ nn:
     message_notification:
       subject_header: '[OpenStreetMap] %{subject}'
       hi: Hei %{to_user},
-      header: '%{from_user} har sendt deg ei melding gjennom OpenStreetMap med emnet
+      header: '%{from_user} har sendt deg ei melding gjennom GRM med emnet
         %{subject}:'
     friend_notification:
       subject: '[OpenStreetMap] %{user} la deg til som ein ven'
@@ -1067,12 +1067,12 @@ nn:
     index:
       js_1: Du har ein nettleser som ikkje støttar JavaScript eller så har du slått
         av JavaScript.
-      js_2: OpenStreetMap brukar JavaScript på kartsidene.
+      js_2: GRM brukar JavaScript på kartsidene.
       permalink: Permanent lenkje
       shortlink: Kort lenkje
       createnote: Legg til ein notis
       license:
-        copyright: Kopibeskytta OpenStreetMap og bidragsytarar, under ein open lisens
+        copyright: Kopibeskytta GRM og bidragsytarar, under ein open lisens
       remote_failed: Klarte ikkje redigere - forsikre deg at JOSM eller Merkaartor
         er lasta og fjernkontrollvalget er aktivert
     edit:

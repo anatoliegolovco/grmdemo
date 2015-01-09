@@ -66,11 +66,11 @@ zh-CN:
   editingoffline: 离线编辑
   emailauthor: \n\n请向richard@systemeD.net发送错误报告，并说明当时您在做的动作。
   error_anonymous: 您不能联系匿名制图者。
-  error_connectionfailed: 对不起 - 连接到 OpenStreetMap 的服务器失败。任何最近的修改将不会保存。\n\n您想再试一次吗?
+  error_connectionfailed: 对不起 - 连接到 GRM 的服务器失败。任何最近的修改将不会保存。\n\n您想再试一次吗?
   error_microblog_long: "张贴到 $1 失败:\nHTTP 代码: $2\n错误信息: $3\n$1 错误: $4"
   error_nosharedpoint: 路径 $1 和 $2 不共享一个节点了，所以我不能撤消分裂。
   error_noway: 找不到路径 $1 (也许你已将它移走了吗?)，所以我不能撤消。
-  error_readfailed: 对不起 - OpenStreetMap 的服务器对数据请求没有响应。\n\n您想再试一次吗?
+  error_readfailed: 对不起 - GRM 的服务器对数据请求没有响应。\n\n您想再试一次吗?
   existingrelation: 添加到现有的关系
   findrelation: 寻找关系有包含
   gpxpleasewait: 请稍候，正在处理 GPX 轨迹。
@@ -174,7 +174,7 @@ zh-CN:
   prompt_editsave: 编辑再保存
   prompt_helpavailable: 新用户?看看左下角的帮助按钮。
   prompt_launch: 启动外部 URL
-  prompt_live: 在在线模式下，每一个你更改的项目都将被即时保存在 OpenStreetMap 的数据库中 - 不推荐初学者使用。您确定吗?
+  prompt_live: 在在线模式下，每一个你更改的项目都将被即时保存在 GRM 的数据库中 - 不推荐初学者使用。您确定吗?
   prompt_manyways: 这一区域信息非常详细，需要很长的时间来载入。你愿意放大吗？
   prompt_microblog: 发布到$1（$2剩余）
   prompt_revertversion: "恢复到先前储存的版本:"

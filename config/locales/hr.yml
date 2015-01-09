@@ -290,14 +290,14 @@ hr:
       edit: Uredi
     feed:
       user:
-        title: Zapisi u OpenStreetMap dnevnik za korisnika %{user}
-        description: Nedavni zapisi u OpenStreetMap dnevnik od %{user}
+        title: Zapisi u GRM dnevnik za korisnika %{user}
+        description: Nedavni zapisi u GRM dnevnik od %{user}
       language:
-        title: 'Zapisi u OpenStreetMap dnevnik na jeziku: %{language_name}'
-        description: 'Nedavni zapisi u dnevnik OpenStreetMap korisnika na jeziku:
+        title: 'Zapisi u GRM dnevnik na jeziku: %{language_name}'
+        description: 'Nedavni zapisi u dnevnik GRM korisnika na jeziku:
           %{language_name}'
       all:
-        title: Zapisi u OpenStreetMap dnevniku
+        title: Zapisi u GRM dnevniku
         description: Nedavni zapisi u dnevnik korisnika OpenStreetMapa
     comments:
       has_commented_on: '%{display_name} je komentirao sljedeće dnevničke unose'
@@ -313,16 +313,16 @@ hr:
       area_to_export: Područje za export
       manually_select: Ručno izaberi drukčije područje
       format_to_export: Format za Export
-      osm_xml_data: OpenStreetMap XML podaci
+      osm_xml_data: GRM XML podaci
       map_image: Slika karte (prikazuje standardni sloj)
       embeddable_html: HTML kod za umetanje
       licence: Dozvola
-      export_details: OpenStreetMap podaci su licencirani pod <a href="http://opendatacommons.org/licenses/odbl/1.0/">Open
+      export_details: GRM podaci su licencirani pod <a href="http://opendatacommons.org/licenses/odbl/1.0/">Open
         Data Commons Open Database License</a> (ODbL).
       too_large:
         advice: 'Ako gornji izvoz podataka ne uspije, molim pokušaj sa nekim od izvora
           navedenih ispod:'
-        body: Ovo područje je preveliko da bi se izvezlo kao OpenStreetMap XML podaci.
+        body: Ovo područje je preveliko da bi se izvezlo kao GRM XML podaci.
           Molim povećaj prikaz ili odaberi manju površinu ili odaberi jedan od izvora
           navedenih ispod za preuzimanje velike količine podataka.
         planet:
@@ -837,7 +837,7 @@ hr:
       west: zapadno
   layouts:
     logo:
-      alt_text: OpenStreetMap logotip
+      alt_text: GRM logotip
     home: Pokaži moj dom
     logout: Odjavi se
     log_in: Prijavi se
@@ -857,23 +857,23 @@ hr:
     edit_with: Uredi s %{editor}
     tag_line: Slobodna wiki karta Svijeta
     intro_header: Dobrodošao/la na OpenStreetMap!
-    intro_text: OpenStreetMap je karta svijeta, stvorena od strane ljudi (volontera/doprinositelja)
+    intro_text: GRM je karta svijeta, stvorena od strane ljudi (volontera/doprinositelja)
       i može se slobodno koristiti pod licencijom otvorenog koda (ODbL).
     intro_2_create_account: Stvori korisnički račun
-    osm_offline: OpenStreetMap baza podataka je trenutno nedostupna dok se ne završe
+    osm_offline: GRM baza podataka je trenutno nedostupna dok se ne završe
       važni radovi na održavanju.
     osm_read_only: Zbog radova na održavanju baze podataka OpenStreetMapa, istu trenutačno
       nije moguće mijenjati.
-    donate: Podržite OpenStreetMap sa %{link} Hardware Upgrade Fond.
+    donate: Podržite GRM sa %{link} Hardware Upgrade Fond.
     help: Pomoć
     about: O projektu
     copyright: Autorska prava
     community_blogs: Blogovi zajednice
-    community_blogs_title: Blogovi članova OpenStreetMap zajednice
+    community_blogs_title: Blogovi članova GRM zajednice
     foundation: Zaklada
-    foundation_title: OpenStreetMap zaklada
+    foundation_title: GRM zaklada
     make_a_donation:
-      title: Podržite Openstreetmap novčanom donacijom
+      title: Podržite GRM novčanom donacijom
       text: Donirajte
     learn_more: Saznaj više
     more: Više
@@ -893,18 +893,18 @@ hr:
     legal_babble:
       title_html: Autorska prava i Dozvola
       intro_1_html: |-
-        OpenStreetMap sadrži <i>slobodne podatke</i>, licencirane pod licencom: <a
+        GRM sadrži <i>slobodne podatke</i>, licencirane pod licencom: <a
         href="http://opendatacommons.org/licenses/odbl/">"Open Data
         Commons Open Database License"</a> (ODbL).
       intro_2_html: Slobodni ste kopirati, distribuirati, prenositi i adaptirati naše
-        podatke, sve dok navodite OpenStreetMap i njegove doprinositelje kao izvor.
+        podatke, sve dok navodite GRM i njegove doprinositelje kao izvor.
         Ako izmijenite ili nadogradite naše podatke, možete distribuirati rezultate
         samo pod istom licencom. Puni <a href="http://opendatacommons.org/licenses/odbl/1.0/">pravni
         tekst</a> objašnjava vaša prava i odgovornosti.
       intro_3_html: Kartografija koja je prisutna u našim sličicama karte i naša dokumentacija
         je pod <a href="http://creativecommons.org/licenses/by-sa/2.0/">Imenovanje-Dijeli
         pod istim uvjetima 2.0</a> licencijom (CC BY-SA).
-      credit_title_html: Kako navoditi OpenStreetMap kao izvor
+      credit_title_html: Kako navoditi GRM kao izvor
       credit_1_html: |-
         Zahtjevamo da istaknete zasluge &ldquo;&copy; OpenStreetMap
         contributors&rdquo;.
@@ -917,7 +917,7 @@ hr:
       more_1_html: Pročitaj više o korištenju naših podataka i kako iskazati zasluge
         na <a href="http://wiki.openstreetmap.org/wiki/Legal_FAQ">Legal FAQ</a>.
       more_2_html: |-
-        Iako su podaci karte OpenStreetMap slobodni podaci, ne možemo pružiti besplatni API (aplikacijsko programsko sučelje) za razvojne inženjere treće strane.
+        Iako su podaci karte GRM slobodni podaci, ne možemo pružiti besplatni API (aplikacijsko programsko sučelje) za razvojne inženjere treće strane.
         Vidi naš <a href="http://wiki.openstreetmap.org/wiki/API_usage_policy">API Usage Policy</a>,
         <a href="http://wiki.openstreetmap.org/wiki/Tile_usage_policy">Tile Usage Policy</a>
         i <a href="http://wiki.openstreetmap.org/wiki/Nominatim#Usage_Policy">Nominatim Usage Policy</a>.
@@ -938,7 +938,7 @@ hr:
         <strong>Velika Britanija</strong>: Sadrži podatke Ordnance
            Survey data &copy; Crown copyright and database right
            2010-12.
-      contributors_footer_2_html: "  Uvrštenje podataka u OpenStreetMap ne podrazumjeva
+      contributors_footer_2_html: "  Uvrštenje podataka u GRM ne podrazumjeva
         da se izvorni\n  davatelj podataka podržava OpenStreetMap, pruža bilo kakovo
         jamstvo, ili \n  prihvaća bilo kakve obveze."
   welcome_page:
@@ -970,11 +970,11 @@ hr:
     next: Dalje
     copyright_html: <span>&copy;</span>OpenStreetMap<br>doprinositelji
     local_knowledge_title: Lokalno znanje
-    local_knowledge_html: OpenStreetMap pridodaje posebnu važnost lokalnom znanju.
+    local_knowledge_html: GRM pridodaje posebnu važnost lokalnom znanju.
       Doprinositelji koriste zračne snimke, GNSS uređaje i vlastito novo-prikupljene
       podatke za provjeru točnosti i ažurnosti OSM podataka.
     open_data_title: Otvoreni podaci
-    open_data_html: 'OpenStreetMap sadrži <i>slobodne podatke</i>: možeš ih slobodno
+    open_data_html: 'GRM sadrži <i>slobodne podatke</i>: možeš ih slobodno
       koristiti za bilo koju svrhu dok god su uz podatke naznačene zasluge OpenStreetMap-a
       i njegovih doprinositelja. Ako izmjenjuješ podatke ili stvaraš nove na temelju
       preuzetih podataka, te podatke možeš distribuirati samo pod istom licencom.  Vidi
@@ -984,13 +984,13 @@ hr:
     diary_comment_notification:
       subject: '[OpenStreetMap] %{user} je komentirao tvoj zapis u dnevnik'
       hi: Bok %{to_user},
-      header: '%{from_user} je komentirao tvoj nedavni OpenStreetMap zapis u dnevnik
+      header: '%{from_user} je komentirao tvoj nedavni GRM zapis u dnevnik
         s predmetom %{subject}:'
       footer: Možeš pročitati komentare na %{readurl} i komentirati na %{commenturl}
         ili odgovoriti na %{replyurl}
     message_notification:
       hi: Bok %{to_user},
-      header: '%{from_user} ti je poslao poruku preko OpenStreetMap sa predmetom %{subject}:'
+      header: '%{from_user} ti je poslao poruku preko GRM sa predmetom %{subject}:'
     friend_notification:
       subject: '[OpenStreetMap] %{user} te je dodao kao prijatelja'
       had_added_you: '%{user} te je dodao kao prijatelja na OpenStreetMap-u.'
@@ -1125,7 +1125,7 @@ hr:
     index:
       js_1: Koristite internet preglednik koji ne podržava JavaScript, ili vam je
         isključen JavaScript.
-      js_2: OpenStreetMap koristi JavaScript for za slippy kartu.
+      js_2: GRM koristi JavaScript for za slippy kartu.
       permalink: Permalink
       shortlink: Shortlink
       createnote: Dodaj bilješku
@@ -1344,7 +1344,7 @@ hr:
       heading: GPX spremište Offline
       message: Sustav za GPX spremanje i upload trenutno nisu u funkciji.
     georss:
-      title: OpenStreetMap GNSS tragovi
+      title: GRM GNSS tragovi
     description:
       description_without_count: GPX datoteka od %{user}
   application:
@@ -1441,7 +1441,7 @@ hr:
       login_button: Prijava
       register now: Registrirajte se sada
       new to osm: Novi na OpenStreetMap?
-      to make changes: Da bi napravili izmjene na OpenStreetMap podacima, morate imati
+      to make changes: Da bi napravili izmjene na GRM podacima, morate imati
         korisnički račun.
       create account minute: Otvorite korisnički račun. To traje samo minutu.
       account not active: Žao nam je, Vaš korisnički račun još nije aktivan. <br />
@@ -1881,7 +1881,7 @@ hr:
         data: Podaci karte
         overlays: Uključi dodatne slojeve za otklanjanje grešaka na karti
         title: Slojevi
-      copyright: © <a href='%{copyright_url}'>OpenStreetMap doprinositelji</a>
+      copyright: © <a href='%{copyright_url}'>GRM doprinositelji</a>
       donate_link_text: <a class='donate-attr' href='%{donate_url}'>Doniraj OSM projektu</a>
     site:
       edit_tooltip: Uredi kartu

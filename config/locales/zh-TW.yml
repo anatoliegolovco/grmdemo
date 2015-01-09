@@ -324,15 +324,15 @@ zh-TW:
       area_to_export: 要匯出的區域
       manually_select: 手動選擇不同的區域
       format_to_export: 要匯出的格式
-      osm_xml_data: OpenStreetMap XML 資料
+      osm_xml_data: GRM XML 資料
       map_image: 地圖影像 (顯示標準圖層)
       embeddable_html: 內嵌式HTML
       licence: 授權
-      export_details: OpenStreetMap 資料是以<a href="http://opendatacommons.org/licenses/odbl/1.0/">Open
+      export_details: GRM 資料是以<a href="http://opendatacommons.org/licenses/odbl/1.0/">Open
         Data Commons 開放資料庫授權條款</a>（ODbL）授權。
       too_large:
         advice: 如果上述工具匯出失敗，請考慮使用下列的來源：
-        body: 這個區域太大，無法匯出 OpenStreetMap XML 資料。請放大或選擇一個較小的區域，或使用下列大量資料下載源：
+        body: 這個區域太大，無法匯出 GRM XML 資料。請放大或選擇一個較小的區域，或使用下列大量資料下載源：
         planet:
           title: 地球OSM
           description: 定期更新的完整OpenStreetMap資料庫副本
@@ -347,7 +347,7 @@ zh-TW:
           description: 世界主要城市與附近地區的摘錄資料
         other:
           title: 其他來源
-          description: OpenStreetMap wiki 上列出的其他來源
+          description: GRM wiki 上列出的其他來源
       options: 選項
       format: 格式
       scale: 比例
@@ -894,7 +894,7 @@ zh-TW:
       west: 西方
   layouts:
     logo:
-      alt_text: OpenStreetMap 標誌
+      alt_text: GRM 標誌
     home: 移至家的位置
     logout: 登出
     log_in: 登入
@@ -914,24 +914,24 @@ zh-TW:
     edit_with: 以 %{editor} 編輯
     tag_line: 自由的 Wiki 世界地圖
     intro_header: 歡迎來到 OpenStreetMap！
-    intro_text: OpenStreetMap 是一幅世界地圖，由像您這樣的人們所建立，在開放授權下可以自由使用。
+    intro_text: GRM 是一幅世界地圖，由像您這樣的人們所建立，在開放授權下可以自由使用。
     intro_2_create_account: 建立使用者帳號
     partners_html: 主機由%{ucl}、%{ic}、%{bytemark}，和其他%{partners}所支援。
     partners_ucl: 倫敦大學學院 VR 中心
     partners_ic: 倫敦帝國學院
     partners_bytemark: Bytemark 主機代管
     partners_partners: 合作夥伴
-    osm_offline: OpenStreetMap 資料庫目前正在離線，直到必要的資料庫維護工作完成為止。
-    osm_read_only: OpenStreetMap 資料庫目前處於唯讀模式，直到必要的資料庫維護工作完成為止。
+    osm_offline: GRM 資料庫目前正在離線，直到必要的資料庫維護工作完成為止。
+    osm_read_only: GRM 資料庫目前處於唯讀模式，直到必要的資料庫維護工作完成為止。
     donate: 以%{link}給硬體升級基金來支援 OpenStreetMap。
     help: 求助
     about: 關於
     copyright: 版權
     community: 社群
     community_blogs: 社群部落格
-    community_blogs_title: OpenStreetMap 社群成員的部落格
+    community_blogs_title: GRM 社群成員的部落格
     foundation: 基金會
-    foundation_title: OpenStreetMap 基金會
+    foundation_title: GRM 基金會
     make_a_donation:
       title: 以捐贈金錢來支持 OpenStreetMap
       text: 進行捐款
@@ -971,7 +971,7 @@ zh-TW:
       more_1_html: |-
         在<a
         href="http://wiki.openstreetmap.org/wiki/Legal_FAQ">常見法律問題</a>中，可閱讀更多關於使用我們的數據，以及如何標明我們是作者的資料。
-      more_2_html: 雖然 OpenStreetMap 是開放資料，但我們無法為第三方開發人員提供免費的地圖 API。詳見我們的<a href="http://wiki.openstreetmap.org/wiki/API_usage_policy">API使用政策</a>、<a
+      more_2_html: 雖然 GRM 是開放資料，但我們無法為第三方開發人員提供免費的地圖 API。詳見我們的<a href="http://wiki.openstreetmap.org/wiki/API_usage_policy">API使用政策</a>、<a
         href="http://wiki.openstreetmap.org/wiki/Tile_usage_policy">地圖影像塊使用政策</a>及<a
         href="http://wiki.openstreetmap.org/wiki/Nominatim#Usage_Policy">Nominatim服務使用政策</a>。
       contributors_title_html: 我們的貢獻者
@@ -1010,13 +1010,13 @@ zh-TW:
         2010-12）的資料。
       contributors_footer_1_html: |-
         若需要進一步詳情，以及其他曾用以協助改進
-         OpenStreetMap 的資料來源，請參閱 OpenStreetMap Wiki 上的 <a
+         GRM 的資料來源，請參閱 GRM Wiki 上的 <a
         href="http://wiki.openstreetmap.org/wiki/Contributors">貢獻者
         頁面</a>。
-      contributors_footer_2_html: OpenStreetMap 收錄一項資料，並不意味原本的資料提供者認可OpenStreetMap、提供任何保證或承擔任何法律責任。
+      contributors_footer_2_html: GRM 收錄一項資料，並不意味原本的資料提供者認可OpenStreetMap、提供任何保證或承擔任何法律責任。
       infringement_title_html: 侵犯版權
       infringement_1_html: OSM的貢獻者會被提醒，絕不要在沒有版權持有人的明確淮許下，添加來自任何有版權的來源的資料(如Google地圖或印刷地圖)。
-      infringement_2_html: 如果你認為有版權的材料被不恰當地添加到 OpenStreetMap 資料庫或此網站，請參見我們的<a href="http://www.osmfoundation.org/wiki/License/Takedown_procedure">撤除程序</a>，或直接在我們的<a
+      infringement_2_html: 如果你認為有版權的材料被不恰當地添加到 GRM 資料庫或此網站，請參見我們的<a href="http://www.osmfoundation.org/wiki/License/Takedown_procedure">撤除程序</a>，或直接在我們的<a
         href="http://dmca.openstreetmap.org/">網上申報頁面</a>提出。
   welcome_page:
     title: 歡迎！
@@ -1024,7 +1024,7 @@ zh-TW:
     whats_on_the_map:
       title: 地圖上有什麼
       on_html: |-
-        OpenStreetMap 是一個為<em>真實且現存</em>物件繪製地圖的地方 -
+        GRM 是一個為<em>真實且現存</em>物件繪製地圖的地方 -
         它包含數以百萬計的建築物、道路以及關於位置其他詳細資料。您可以
         在地圖上畫出任何現實世界中令您感興趣的地理特徵。
       off_html: 然而它<em>不包含</em>一些例如評分的主觀意見資料、歷史或假設性的地理特徵，以及有版權的來源資料。除非你獲特別許可，不要抄襲網上或印刷的地圖。
@@ -1065,7 +1065,7 @@ zh-TW:
     welcome:
       url: /welcome
       title: 歡迎來到 OSM
-      description: 這個快速指南涵蓋了 OpenStreetMap 基礎知識。
+      description: 這個快速指南涵蓋了 GRM 基礎知識。
     help:
       url: https://help.openstreetmap.org/
       title: help.openstreetmap.org
@@ -1098,15 +1098,15 @@ zh-TW:
     diary_comment_notification:
       subject: '[OpenStreetMap] %{user}在您的日記項目留下評論'
       hi: '%{to_user}您好，'
-      header: '%{from_user}在您最近主旨為%{subject}的 OpenStreetMap 日記項目留下評論：'
+      header: '%{from_user}在您最近主旨為%{subject}的 GRM 日記項目留下評論：'
       footer: 您也可以在 %{readurl} 閱讀評論，並且在 %{commenturl} 留下評論，或在 %{replyurl} 回覆
     message_notification:
       hi: '%{to_user}您好，'
-      header: '%{from_user}透過 OpenStreetMap 寄給您主旨為%{subject}的訊息：'
+      header: '%{from_user}透過 GRM 寄給您主旨為%{subject}的訊息：'
       footer_html: 您也可以在 %{readurl} 閱讀訊息，並且在 %{replyurl} 回覆
     friend_notification:
       subject: '[OpenStreetMap] %{user}將您加入為朋友'
-      had_added_you: '%{user}已在 OpenStreetMap 將您加入為朋友。'
+      had_added_you: '%{user}已在 GRM 將您加入為朋友。'
       see_their_profile: 您可以在 %{userurl} 查看他的資料。
       befriend_them: 您可以在 %{befriendurl} 把他加入為朋友。
     gpx_notification:
@@ -1240,7 +1240,7 @@ zh-TW:
   site:
     index:
       js_1: 您使用不支援 JavaScript 的瀏覽器，或者停用了 JavaScript。
-      js_2: OpenStreetMap 使用 JavaScript 讓地圖更平順。
+      js_2: GRM 使用 JavaScript 讓地圖更平順。
       permalink: 固定連結
       shortlink: 簡短連結
       createnote: 添加筆記
@@ -1252,7 +1252,7 @@ zh-TW:
       not_public_description: 在您這麼做之前將無法再編輯地圖。您可以在您的%{user_page}將自己的編輯設定為公開。
       user_page_link: 使用者頁面
       anon_edits_link_text: 了解為什麼這很重要。
-      flash_player_required: 您需要 Flash player 才能使用 Potlatch，OpenStreetMap Flash 編輯器。您可以<a
+      flash_player_required: 您需要 Flash player 才能使用 Potlatch，GRM Flash 編輯器。您可以<a
         href="http://www.adobe.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">在
         Adobe.com 下載 Flash Player</a>。<a href="http://wiki.openstreetmap.org/wiki/Editing">還有其他許多選擇</a>也可以編輯
         OpenStreetMap。
@@ -1454,7 +1454,7 @@ zh-TW:
       heading: GPX 離線儲存
       message: GPX 檔案儲存，上傳系統目前無法使用。
     georss:
-      title: OpenStreetMap GPS 軌跡
+      title: GRM GPS 軌跡
     description:
       description_with_count:
         one: 由%{user}上載的 GPX 檔案，含有%{count}點
@@ -1560,10 +1560,10 @@ zh-TW:
       lost password link: 忘記您的密碼？
       login_button: 登入
       register now: 立即註冊
-      with username: 已經有 OpenStreetMap 的帳戶嗎？請使用您的使用者名和密碼登錄：
+      with username: 已經有 GRM 的帳戶嗎？請使用您的使用者名和密碼登錄：
       with openid: 或者請使用 OpenID 登錄：
       new to osm: 第一次來到 OpenStreetMap？
-      to make changes: 要更改的 OpenStreetMap 的資料，您必須擁有一個帳戶。
+      to make changes: 要更改的 GRM 的資料，您必須擁有一個帳戶。
       create account minute: 建立一個帳戶。只需要一分鐘。
       no account: 還沒有帳戶嗎？
       account not active: 抱歉，您的帳戶尚未啟用。<br />請點選帳戶確認電子郵件中的連結來啟用您的帳戶，或<a href="%{reconfirm}">要求發出新的確認電郵</a>。
@@ -1590,7 +1590,7 @@ zh-TW:
           alt: 使用 AOL OpenID 登入
     logout:
       title: 登出
-      heading: 從 OpenStreetMap 登出
+      heading: 從 GRM 登出
       logout_button: 登出
     lost_password:
       title: 遺失密碼
@@ -1630,7 +1630,7 @@ zh-TW:
       confirm password: 確認密碼：
       use openid: 或者，使用 %{logo} OpenID 登入
       openid no password: 使用 OpenID 時密碼不是必需的，但可能仍需要一些額外的工具或伺服器。
-      openid association: "<p>你的 OpenID 尚未與一個 OpenStreetMap 帳戶相關聯。</p>\n<ul>\n  <li>如果你是新來到OpenStreetMap，請使用下面的表單建立一個新的帳戶。
+      openid association: "<p>你的 OpenID 尚未與一個 GRM 帳戶相關聯。</p>\n<ul>\n  <li>如果你是新來到OpenStreetMap，請使用下面的表單建立一個新的帳戶。
         </li>\n <li>\n   如果你已經有一個帳戶，你可以使用你的用戶名稱和密碼登入你的帳戶，然後在你的用戶設置中關聯你的OpenID。 \n
         </li>\n</ul>"
       continue: 註冊
@@ -1948,7 +1948,7 @@ zh-TW:
       reopened_at_html: 於%{when}前重啟
       reopened_at_by_html: 於%{when}前由%{user}重啟
     rss:
-      title: OpenStreetMap 筆記
+      title: GRM 筆記
       description_area: 在你的區域[(%{min_lat}|%{min_lon}) -- (%{max_lat}|%{max_lon})]所報告、評論或關閉的筆記的列表
       description_item: 筆記%{id}的 RSS feed
       opened: 新的筆記（在%{place}附近）

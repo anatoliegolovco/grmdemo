@@ -343,9 +343,9 @@ eo:
     user_diaries: Uzantĵurnaloj
     user_diaries_tooltip: Vidi uzantĵurnalojn
     tag_line: La libera vikia mondmapo
-    donate: Subtenu OpenStreetMap %{link} al Fonduso de Ĝisdatigo de Aparataro.
+    donate: Subtenu GRM %{link} al Fonduso de Ĝisdatigo de Aparataro.
     make_a_donation:
-      title: Subteni OpenStreetMap per mondonaco
+      title: Subteni GRM per mondonaco
       text: Donaci
   license_page:
     foreign:

@@ -214,7 +214,7 @@
         "google": "Del på Google+"
     },
     "splash": {
-        "welcome": "Velkommen til iD OpenStreetMap editor",
+        "welcome": "Velkommen til iD GRM editor",
         "walkthrough": "Begynn Gjennomgangen",
         "start": "Rediger Nå"
     },
@@ -246,7 +246,7 @@
     "intro": {
         "navigation": {
             "title": "Navigasjon",
-            "drag": "Hovedkartet viser data fra OpenstreetMap lagt over en bakgrunn. Du kan navigere ved å dra eller scrolle, slik som et vanlig nettkart. **Dra kartet!**"
+            "drag": "Hovedkartet viser data fra GRM lagt over en bakgrunn. Du kan navigere ved å dra eller scrolle, slik som et vanlig nettkart. **Dra kartet!**"
         },
         "areas": {
             "search": "**Søk etter '{name}'.**"

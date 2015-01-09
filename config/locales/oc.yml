@@ -290,10 +290,10 @@ oc:
       edit: Modificar
     feed:
       user:
-        title: Entradas del jornal d'OpenStreetMap per %{user}
-        description: Entradas recentas del jornal d'OpenStreetMap per %{user}
+        title: Entradas del jornal d'GRM per %{user}
+        description: Entradas recentas del jornal d'GRM per %{user}
       language:
-        title: Entradas del jornal d'OpenStreetMap en %{language_name}
+        title: Entradas del jornal d'GRM en %{language_name}
         description: Entradas recentas del jornal dels utilizaires d'OpenStreetMap
           en %{language_name}
       all:
@@ -317,7 +317,7 @@ oc:
       map_image: Imatge de mapa (aficha un calc normal)
       embeddable_html: HTML incorporable.
       licence: Licéncia
-      export_details: Las donadas d’OpenStreetMap son publicadas jos la <a href="http://opendatacommons.org/licenses/odbl/1.0/">licéncia
+      export_details: Las donadas d’GRM son publicadas jos la <a href="http://opendatacommons.org/licenses/odbl/1.0/">licéncia
         Open Data Commons ­– Banca de donadas Dobèrta</a> (ODbL).
       too_large:
         advice: 'Se l’expòrt çaisús fracassa, envisatjatz l’utilizacion d’una de las
@@ -909,8 +909,8 @@ oc:
     user_diaries_tooltip: Veire los jornals d'utilizaires
     edit_with: Modificar amb %{editor}
     tag_line: La mapa cooperativa liura
-    intro_header: Benvenguda dins OpenStreetMap !
-    intro_text: OpenStreetMap es una mapa del mond, creada per de personas coma vos
+    intro_header: Benvenguda dins GRM !
+    intro_text: GRM es una mapa del mond, creada per de personas coma vos
       e liura d’utilizacion jos licéncia liura.
     intro_2_create_account: Creatz un compte d'utilizaire
     partners_html: L'albergament es pres en carga per %{ucl}, %{ic} e %{bytemark},
@@ -919,9 +919,9 @@ oc:
     partners_ic: lo Collègi Imperial de Londres
     partners_bytemark: Albergament Bytemark
     partners_partners: partenaris
-    osm_offline: La banca de donadas de OpenStreetMap es actualament fòra linha; una
+    osm_offline: La banca de donadas de GRM es actualament fòra linha; una
       mantenença essenciala a son bon foncionament es en cors.
-    osm_read_only: La banca de donadas d'OpenStreetMap es actualament en mòde lectura
+    osm_read_only: La banca de donadas d'GRM es actualament en mòde lectura
       sola ; una mantenença essenciala a son bon foncionament es en cors.
     donate: Sostenètz OpenStreetMap, %{link} al fons per melhorar lo material.
     help: Ajuda
@@ -933,7 +933,7 @@ oc:
     foundation: La Fondacion
     foundation_title: La Fondacion OpenStreetMap
     make_a_donation:
-      title: Sostenètz OpenStreetMap amb un don financièr
+      title: Sostenètz GRM amb un don financièr
       text: Far un don
     learn_more: Ne saber mai
     more: Mai
@@ -953,23 +953,23 @@ oc:
     legal_babble:
       title_html: Copyright e Licéncia
       intro_1_html: |-
-        OpenStreetMap es un ensemble de <i>donadas dobèrtas</i>, disponiblas jos la licéncia <a
+        GRM es un ensemble de <i>donadas dobèrtas</i>, disponiblas jos la licéncia <a
         href="http://opendatacommons.org/licenses/odbl/">Open Data Commons Open Database License</a> (ODbL).
       intro_2_html: |2-
          Sètz liure de copiar, distribuir, transmetre e adaptar nòstras donadas,
-          a condicion que creditiatz OpenStreetMap e sos
+          a condicion que creditiatz GRM e sos
           contributors. Se modificatz o utilizatz nòstras donadas dins d’autras òbras derivadas,
           las podètz distribuir sonque jos la meteissa licéncia. Lo
           <a href="http://opendatacommons.org/licenses/odbl/1.0/">tèxte
           legal</a> complet detalha vòstres dreches e responsabilitats.
       credit_title_html: Cossí creditar OpenStreetMap
       credit_1_html: Demandam que vòstre crèdit compòrta la mencion « © los contributors
-        d’OpenStreetMap ».
+        d’GRM ».
       credit_3_html: |-
         Per una mapa electronica navigabla, lo crèdit deuriá aparéisser dins lo canton de la mapa.
         Per exemple :
       attribution_example:
-        alt: Exemple d'atribucion OpenStreetMap sus una pagina internet
+        alt: Exemple d'atribucion GRM sus una pagina internet
         title: Exemple d'atribucion
       more_title_html: Per trobar mai d’informacions
       more_1_html: |-
@@ -986,11 +986,11 @@ oc:
     whats_on_the_map:
       title: Çò qu'i a sus la mapa
       on_html: |-
-        OpenStreetMap servís a cartografiar de causas a l'encòp <em>vertadièras e actualas</em>
+        GRM servís a cartografiar de causas a l'encòp <em>vertadièras e actualas</em>
         - inclutz de milions de bastiments, de rotas, e d'autres detalhs de luòcs. Podètz cartografiar quin element vertadièr del mond que que vos interèsse.
     basic_terms:
       title: Vocabulari de basa de cartografia
-      paragraph_1_html: OpenStreetMap a son pròpri girgon. Aquí qualques mots claus
+      paragraph_1_html: GRM a son pròpri girgon. Aquí qualques mots claus
         que vos seràn utiles.
       editor_html: Un <strong>editor</strong> es un programa o site web que vos permet
         d'editar la mapa.
@@ -1005,7 +1005,7 @@ oc:
     questions:
       title: De questions ?
       paragraph_1_html: |-
-        OpenStreetMap a mantuna ressorsas per aprene lo projècte, per pausar e respondre a de questions, e per discutir en collaboracion amb d’autres e documentar los subjèctes de cartografia.
+        GRM a mantuna ressorsas per aprene lo projècte, per pausar e respondre a de questions, e per discutir en collaboracion amb d’autres e documentar los subjèctes de cartografia.
         <a href='%{help_url}'>Trobatz d’ajuda aicí</a>.
     start_mapping: Començar de cartografiar
     add_a_note:
@@ -1024,7 +1024,7 @@ oc:
         de trabalh OSMF</a> apropriat."
   help_page:
     title: Obténer d’ajuda
-    introduction: OpenStreetMap a mantuna ressorsas per aprene lo projècte, per pausar
+    introduction: GRM a mantuna ressorsas per aprene lo projècte, per pausar
       e respondre a de questions, e respondre a de questions, e per discutir en collaboracion
       amb d’autres e documentar los subjèctes de cartografia.
     welcome:
@@ -1043,13 +1043,13 @@ oc:
   about_page:
     next: Seguent
     copyright_html: <span>&copy;</span>Contributors<br /> d’OpenStreetMap
-    lede_text: OpenStreetMap es bastit per una comunautat de cartografes benevòls
+    lede_text: GRM es bastit per una comunautat de cartografes benevòls
       que contribuisson e mantenon las donadas de las rotas, caminòls, cafès, estacions
       ferroviàrias e plan mai encara, pertot dins lo mond.
     local_knowledge_title: Coneissença locala
     community_driven_title: Menat per la comunautat
     community_driven_html: |-
-      La comunautat d’OpenStreetMap es divèrsa, passionada e grossís cada jorn. Nòstres contributors incluisson de cartografes entosiastes, de professionals del GIS, d'ingenhiaires que menan los servidors OSM, d'umanitaris que cartografian las zònas devastadas per una catastròfa e plan mai encara.
+      La comunautat d’GRM es divèrsa, passionada e grossís cada jorn. Nòstres contributors incluisson de cartografes entosiastes, de professionals del GIS, d'ingenhiaires que menan los servidors OSM, d'umanitaris que cartografian las zònas devastadas per una catastròfa e plan mai encara.
       Per ne saber mai sus la comunautat, consultatz los <a href='%{diary_path}'>annuaris d’utilizaires</a>, <a href='http://blogs.openstreetmap.org/'>los blogs comunautaris</a> e lo site web de la <a href='http://www.osmfoundation.org/'>Fondacion OSM</a>.
     open_data_title: Donadas liuras
     partners_title: Partenaris
@@ -1211,12 +1211,12 @@ oc:
       deleted: Messatge suprimit
   site:
     index:
-      js_2: OpenStreetMap utiliza Javascript per sas mapas lisantas.
+      js_2: GRM utiliza Javascript per sas mapas lisantas.
       permalink: Ligam permanent
       shortlink: Ligam cort
       createnote: Apondre una nòta
       license:
-        copyright: Copyright OpenStreetMap e sos contributors, jos una licéncia dobèrta
+        copyright: Copyright GRM e sos contributors, jos una licéncia dobèrta
     edit:
       not_public: Avètz pas reglat vòstras modificacions per que sián publicas.
       user_page_link: pagina d'utilizaire
@@ -1518,7 +1518,7 @@ oc:
       login_button: Se connectar
       register now: S'inscriure ara
       with openid: 'Tanben podètz utilizar OpenID per vos connectar :'
-      new to osm: Novèl sus OpenStreetMap ?
+      new to osm: Novèl sus GRM ?
       to make changes: Per aportar de modificacions a las donadas OpenStreetMap, vos
         cal possedir un compte.
       create account minute: Se crear un compte. Aquò pren pas qu'una minuta.

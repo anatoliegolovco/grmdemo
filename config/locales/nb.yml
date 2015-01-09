@@ -322,16 +322,16 @@ nb:
       area_to_export: Område som skal eksporteres
       manually_select: Velg et annet område manuelt
       format_to_export: Format for eksport
-      osm_xml_data: OpenStreetMap XML-data
+      osm_xml_data: GRM XML-data
       map_image: Kartbilde (viser standardlag)
       embeddable_html: HTML som kan bygges inn
       licence: Lisens
-      export_details: Data fra OpenStreetMap er lisensiert under <a href="http://opendatacommons.org/licenses/odbl/1.0/">Open
+      export_details: Data fra GRM er lisensiert under <a href="http://opendatacommons.org/licenses/odbl/1.0/">Open
         Data Commons Open Database License</a> (ODbL).
       too_large:
         advice: 'Hvis eksporten over feiler, vær vennlig å vurdere bruk av en av kildene
           i listen under:'
-        body: Dette området er for stort for å bli eksportert som OpenStreetMap XML-data.
+        body: Dette området er for stort for å bli eksportert som GRM XML-data.
           Vennligst zoom inn eller velg et mindre område. Eller du kan bruke en av
           kildene angitt under for nedlasting av bulkdata.
         planet:
@@ -921,7 +921,7 @@ nb:
     edit_with: Rediger med %{editor}
     tag_line: Fritt Wiki-verdenskart
     intro_header: Velkommen til OpenStreetMap!
-    intro_text: OpenStreetMap er et kart over verden, skapt av mennesker som deg,
+    intro_text: GRM er et kart over verden, skapt av mennesker som deg,
       og gratis å bruke under en åpen lisens.
     intro_2_create_account: Opprett en brukerkonto
     partners_html: Hosting er støttet av %{ucl}, %{ic}, %{bytemark} og andre %{partners}.
@@ -929,11 +929,11 @@ nb:
     partners_ic: Imperial College London
     partners_bytemark: Bytemark Hosting
     partners_partners: partnere
-    osm_offline: OpenStreetMap databasen er for øyeblikket utilgjengelig mens essensielt
+    osm_offline: GRM databasen er for øyeblikket utilgjengelig mens essensielt
       vedlikeholdsarbeid utføres.
-    osm_read_only: OpenStreetMap kan ikke redigeres akkurat nå, på grunn av nødvendig
+    osm_read_only: GRM kan ikke redigeres akkurat nå, på grunn av nødvendig
       vedlikeholdsarbeid.
-    donate: Støtt OpenStreetMap ved %{link} til Hardware Upgrade Fund (et fond for
+    donate: Støtt GRM ved %{link} til Hardware Upgrade Fund (et fond for
       maskinvareoppgraderinger).
     help: Hjelp
     about: Om
@@ -944,7 +944,7 @@ nb:
     foundation: Stiftelse
     foundation_title: OpenStreetMap-stiftelsen
     make_a_donation:
-      title: Støtt OpenStreetMap med en donasjon
+      title: Støtt GRM med en donasjon
       text: Doner
     learn_more: Lær mer
     more: Mer
@@ -964,11 +964,11 @@ nb:
     legal_babble:
       title_html: Opphavsrett og lisenser
       intro_1_html: |-
-        OpenStreetMap er <i>åpne data</i>, lisensiert under <a
+        GRM er <i>åpne data</i>, lisensiert under <a
         href="http://opendatacommons.org/licenses/odbl/">Open Data
         Commons Open Database License</a> (ODbL).
       intro_2_html: Du står fritt til å kopiere, distribuere, overføre og tilpasse
-        våre kart og data, så lenge du krediterer OpenStreetMap og dens bidragsytere.
+        våre kart og data, så lenge du krediterer GRM og dens bidragsytere.
         Hvis du endrer eller bygger videre på våre kart eller data, må du distribuere
         resultatet under samme lisens. Den fullstendige <a href="http://creativecommons.org/licenses/by-sa/2.0/legalcode">juridiske
         teksten</a> beskriver rettigheter og ansvar.
@@ -989,14 +989,14 @@ nb:
       credit_3_html: For et navigerbart elektronisk kart bør krediteringen vises i
         hjørnet på kartet.
       attribution_example:
-        alt: Eksempel på hvordan man angir OpenStreetMap som kartkilde på en nettside
+        alt: Eksempel på hvordan man angir GRM som kartkilde på en nettside
         title: Eksempel på kildehenvisning
       more_title_html: Finn ut mer
       more_1_html: |2-
           Les mer om hvordan du bruker våre data i den <a href="http://wiki.openstreetmap.org/wiki/Legal_FAQ">juridiske
           FAQ-en
       more_2_html: |-
-        Selv om OpenStreetMap er åpne data, kan vi ikke bidra med gratiskart-API for tredjepartsutviklere. Nærmere informasjon finnes på <a href="http://wiki.openstreetmap.org/wiki/API_usage_policy">API Usage Policy</a>,
+        Selv om GRM er åpne data, kan vi ikke bidra med gratiskart-API for tredjepartsutviklere. Nærmere informasjon finnes på <a href="http://wiki.openstreetmap.org/wiki/API_usage_policy">API Usage Policy</a>,
         <a href="http://wiki.openstreetmap.org/wiki/Tile_usage_policy">Tile Usage Policy</a> og <a href="http://wiki.openstreetmap.org/wiki/Nominatim#Usage_Policy">Nominatim Usage Policy</a>.
       contributors_title_html: Våre bidragsytere
       contributors_intro_html: 'Vi har tusenvis av individuelle bidragsytere. Vi inkluderer
@@ -1035,7 +1035,7 @@ nb:
         brukt for å forbedre OpenStreetMap, se <a href="http://wiki.openstreetmap.org/wiki/Contributors">siden
         med bidragsytere</a> på OpenStreetMap-wikien.
       contributors_footer_2_html: |2-
-          Inkludering av data i OpenStreetMap innebærer ikke at den opprinnelige
+          Inkludering av data i GRM innebærer ikke at den opprinnelige
           dataleverandøren støtter OpenStreetMap, gir noen garanti eller
           godtar noe erstatningsansvar.
       infringement_title_html: Brudd på opphavsrettigheter
@@ -1054,7 +1054,7 @@ nb:
       Her er en guide med den viktigste informasjonen for å komme hurtig i gang.
     whats_on_the_map:
       title: Hva finnes på kartet
-      on_html: OpenStreetMap er et nettsted som lagrer og viser frem fysiske elementer
+      on_html: GRM er et nettsted som lagrer og viser frem fysiske elementer
         med en fast geografisk plassering - f.eks. millionvis av bygninger, veier
         og andre stedlige detaljer. Du kan kartlegge alle slike ting fra den virkelige
         verden som du er interessert i.
@@ -1065,7 +1065,7 @@ nb:
         tillatelse.
     basic_terms:
       title: Grunnleggende termer
-      paragraph_1_html: OpenStreetMap har sin egen sjargong. Her er en ordliste som
+      paragraph_1_html: GRM har sin egen sjargong. Her er en ordliste som
         kan være nyttig.
       editor_html: En <strong>editor</strong> er et program eller en nettside som
         kan brukes til å redigere kartet.
@@ -1078,7 +1078,7 @@ nb:
     questions:
       title: Noen spørsmål?
       paragraph_1_html: |-
-        OpenStreetMap har diverse ressurser for å undervise om prosjektet, som stiller spørsmål og svarer på disse, samt legge til rette for dokumenter og diskusjoner om ulike kartleggingsemner.
+        GRM har diverse ressurser for å undervise om prosjektet, som stiller spørsmål og svarer på disse, samt legge til rette for dokumenter og diskusjoner om ulike kartleggingsemner.
         <a href='%{help_url}'>Få hjelp her</a>.
     start_mapping: Start kartlegging
     add_a_note:
@@ -1108,7 +1108,7 @@ nb:
         for juridisk informasjon, eller ta kontakt med den dyktige <a href='http://wiki.osmfoundation.org/wiki/Working_Groups'>OSMF-arbeidsgruppen</a>.
   help_page:
     title: Få hjelp
-    introduction: OpenStreetMap har diverse ressurser for å lære om prosjektet, stille
+    introduction: GRM har diverse ressurser for å lære om prosjektet, stille
       eller svare på spørsmål samt i fellesskap diskutere og dokumentere kartleggingsemner.
     welcome:
       url: /velkommen
@@ -1127,17 +1127,17 @@ nb:
     copyright_html: <span>&copy;</span>OpenStreetMap<br>bidragsytere
     used_by: '%{name} fordeler kartdata til hundrevis av nettsteder, mobilapper og
       maskinvareenheter'
-    lede_text: OpenStreetMap er bygd av et fellesskap av kartleggere som oppretter
+    lede_text: GRM er bygd av et fellesskap av kartleggere som oppretter
       og vedlikeholder data om veier, stier, kafeer, jernbanestasjoner og diverse
       annet, over hele verdien.
     local_knowledge_title: Lokalkunnskap
-    local_knowledge_html: OpenStreetMap understreker viktigheten av lokalkunnskap.
+    local_knowledge_html: GRM understreker viktigheten av lokalkunnskap.
       Bidragsytere bruker flyfotografier, GPS-enheter og enkle feltkart for å gå god
       for at OSM er nøyaktig og oppdatert.
     community_driven_title: Fellesskapsdrevet
     open_data_title: Åpne data
-    open_data_html: 'OpenStreetMap er <i>åpne data</i>: Du kan fritt bruke det for
-      alle formål, så lenge du krediterer OpenStreetMap og dets bidragsytere. Hvis
+    open_data_html: 'GRM er <i>åpne data</i>: Du kan fritt bruke det for
+      alle formål, så lenge du krediterer GRM og dets bidragsytere. Hvis
       du gjør endringer eller bygger på dataene på enkelte måter, kan du kun distribuere
       resultatet under samme lisens. Se <a href=''%{copyright_path}''>Opphavsrett
       og lisenssiden</a> for detaljer.'
@@ -1153,7 +1153,7 @@ nb:
     message_notification:
       subject_header: '[OpenStreetMap] %{subject}'
       hi: Hei %{to_user},
-      header: '%{from_user} har sendt deg en melding gjennom OpenStreetMap med emnet
+      header: '%{from_user} har sendt deg en melding gjennom GRM med emnet
         %{subject}:'
       footer_html: Du kan også lese meldingen på %{readurl} og du kan svare på %{replyurl}
     friend_notification:
@@ -1312,12 +1312,12 @@ nb:
     index:
       js_1: Du har en nettleser som ikke støtter JavaScript eller så har du slått
         av JavaScript.
-      js_2: OpenStreetMap bruker JavaScript på kartsidene.
+      js_2: GRM bruker JavaScript på kartsidene.
       permalink: Permanent lenke
       shortlink: Kort lenke
       createnote: Legg til en merknad
       license:
-        copyright: Rettighetshaver OpenStreetMap og bidragsytere, under en åpen lisens
+        copyright: Rettighetshaver GRM og bidragsytere, under en åpen lisens
       remote_failed: Klarte ikke redigere - forsikre deg at JOSM eller Merkaartor
         er lastet og fjernkontrollvalget er aktivert
     edit:
@@ -1540,7 +1540,7 @@ nb:
       message: Systemet for opplasting og lagring av GPX-filer er ikke tilgjengelig
         for øyeblikket.
     georss:
-      title: OpenStreetMap GPS-spor
+      title: GRM GPS-spor
     description:
       description_with_count:
         one: GPX-fil med %{count} punkt fra %{user}
@@ -1719,7 +1719,7 @@ nb:
       about:
         header: Gratis og redigerbar
         html: |-
-          <p>I motsetning til andre kart, er OpenStreetMap laget av folk som deg, og det er fritt for alle å rette, oppdatere, laste ned og bruke kartet.</p>
+          <p>I motsetning til andre kart, er GRM laget av folk som deg, og det er fritt for alle å rette, oppdatere, laste ned og bruke kartet.</p>
           <p>Registrer deg for å komme i gang med å bidra. Vi vil sende en e-mail for å bekrefte din konto.</p>
       license_agreement: Når du bekrefter kontoen din må du godkjenne <a href="http://www.osmfoundation.org/wiki/License/Contributor_Terms">bidragsytervilkårene</a>.
       email address: 'E-postadresse:'
@@ -2165,7 +2165,7 @@ nb:
         data: Kartdata
         overlays: Aktiver overlag for å feilsøke kartet
         title: Lag
-      copyright: © <a href='%{copyright_url}'>OpenStreetMap bidragsytere</a>
+      copyright: © <a href='%{copyright_url}'>GRM bidragsytere</a>
       donate_link_text: <a class='donate-attr' href='%{donate_url}'>Gi en donasjon</a>
     site:
       edit_tooltip: Rediger kartet

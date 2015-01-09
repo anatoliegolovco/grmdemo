@@ -138,7 +138,7 @@ eu:
   export:
     start:
       format_to_export: Esportatzeko formatua
-      osm_xml_data: OpenStreetMap XML Data
+      osm_xml_data: GRM XML Data
       licence: Lizentzia
       export_details: OpenStreetMap-eko datuak <a href="http://opendatacommons.org/licenses/odbl/1.0/">Open
         Data Commons Datu-base Irekiko Lizentzia</a> baimen baten mende daude.
@@ -479,7 +479,7 @@ eu:
       west: mendebalde
   layouts:
     logo:
-      alt_text: OpenStreetMap logoa
+      alt_text: GRM logoa
     home: hasiera
     logout: saioa itxi
     log_in: Saioa hasi

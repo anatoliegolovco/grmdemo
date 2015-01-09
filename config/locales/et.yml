@@ -295,15 +295,15 @@ et:
       edit: muuda
     feed:
       user:
-        title: Kasutaja %{user} OpenStreetMap päeviku sissekanded
-        description: Kasutaja %{user} hiljutised OpenStreetMap päeviku sissekanded
+        title: Kasutaja %{user} GRM päeviku sissekanded
+        description: Kasutaja %{user} hiljutised GRM päeviku sissekanded
       language:
-        title: OpenStreetMap päeviku sissekanded keeles %{language_name}
-        description: Hiljutised OpenStreetMap kasutajate päeviku sissekanded keeles
+        title: GRM päeviku sissekanded keeles %{language_name}
+        description: Hiljutised GRM kasutajate päeviku sissekanded keeles
           %{language_name}
       all:
-        title: OpenStreetMap päeviku sissekanded
-        description: Hiljutised OpenStreetMap kasutajate päeviku sissekanded
+        title: GRM päeviku sissekanded
+        description: Hiljutised GRM kasutajate päeviku sissekanded
     comments:
       has_commented_on: '%{display_name} on kommenteerinud järgnevaid päeviku sissekandeid'
       post: Postitus
@@ -332,10 +332,10 @@ et:
           allalaadimiseks.
         planet:
           title: Planet OSM
-          description: Regulaarselt uuendatavad koopiad tervest OpenStreetMap andmebaasist
+          description: Regulaarselt uuendatavad koopiad tervest GRM andmebaasist
         overpass:
           title: Overpass API
-          description: Laadi alla piiritletud ala OpenStreetMap andmebaasi peegelserverist
+          description: Laadi alla piiritletud ala GRM andmebaasi peegelserverist
         geofabrik:
           title: Geofabrik allalaadimised
           description: Regulaarselt uuendatavad tõmmised kontinentidest, riikidest
@@ -777,7 +777,7 @@ et:
     edit_with: Redigeeri %{editor}-ga
     tag_line: Vaba viki-maailmakaart
     intro_header: Tere tulemast OpenStreetMappi!
-    intro_text: OpenStreetMap on maailma kaart, mille on loonud inimesed nagu sina
+    intro_text: GRM on maailma kaart, mille on loonud inimesed nagu sina
       ja seda võib vabalt kasutada avatud litsentsi tingimustel.
     intro_2_create_account: loo oma konto
     partners_html: Majutust toetavad %{ucl}, %{ic} ja %{bytemark} ning teised %{partners}.
@@ -819,7 +819,7 @@ et:
     legal_babble:
       title_html: Autoriõigused ja litsents
       intro_1_html: |-
-        OpenStreetMap on <i>avatud andmed</i>, mis on litsentseeritud <a
+        GRM on <i>avatud andmed</i>, mis on litsentseeritud <a
         href="http://opendatacommons.org/licenses/odbl/">Open Data
         Commons Open Database License</a> (ODbL) tingimustel.
       intro_2_html: |-
@@ -860,7 +860,7 @@ et:
         href="http://wiki.openstreetmap.org/wiki/Legal_FAQ">Legal
         FAQ</a>.
       more_2_html: |-
-        Kuigi OpenStreetMap on vabad andmed, ei saa me pakkuda
+        Kuigi GRM on vabad andmed, ei saa me pakkuda
         tasuta kaardi API-t kolmandate osapoolte arendajatele.
         Vaata meie <a href="http://wiki.openstreetmap.org/wiki/API_usage_policy">API kasutusreegleid</a>,
         <a href="http://wiki.openstreetmap.org/wiki/Tile_usage_policy">Kaardi paanide kasutusreegleid</a>
@@ -914,7 +914,7 @@ et:
         autoriõigustega kaitstud allikatest (nt Google Maps või trükitud kaardid) kui
         neil puudub selgesõnaline luba autoriõiguste omanikelt.
       infringement_2_html: |-
-        Kui sa arvad, et OpenStreetMap andmebaasi või sellele saidile on lisatud sobimatult
+        Kui sa arvad, et GRM andmebaasi või sellele saidile on lisatud sobimatult
         autoriõigustega kaitstud materjali, siis palun pöördu
         meie <a href="http://www.osmfoundation.org/wiki/License/Takedown_procedure">eemaldamise
         protseduuri</a> poole või otse meie
@@ -926,7 +926,7 @@ et:
       kõige olulisematest asjadest, mida peaksid teadma.
     whats_on_the_map:
       title: Mis on kaardil?
-      on_html: OpenStreetMap on koht, kus saab kaardile kanda objekte mis on <em>reaalselt
+      on_html: GRM on koht, kus saab kaardile kanda objekte mis on <em>reaalselt
         antud hetkel olemas</em> - nendeks on miljonid hooned, teed ja muud üksikasjad.
         Sa võid kaardile kanda suvalisi reaalselt eksisteerivaid üksikasju, mis sulle
         huvi pakuvad.
@@ -948,7 +948,7 @@ et:
     questions:
       title: Tekkis küsimusi?
       paragraph_1_html: |-
-        OpenStreetMap pakub erinevaid võimalusi projekti tundmaõppimiseks, küsimuste esitamiseks ja vastamiseks ning kaardistamise teemade üle üheskoos arupidamiseks ja dokumenteerimiseks.
+        GRM pakub erinevaid võimalusi projekti tundmaõppimiseks, küsimuste esitamiseks ja vastamiseks ning kaardistamise teemade üle üheskoos arupidamiseks ja dokumenteerimiseks.
         <a href='%{help_url}'>Leia abi siit</a>.
     start_mapping: Alusta kaardistamist
     add_a_note:
@@ -978,7 +978,7 @@ et:
         saamiseks meie <a href='/copyright'>autoriõiguste lehele</a> või võta ühendust sobiva <a href='http://wiki.osmfoundation.org/wiki/Working_Groups'>OSMF töögrupiga</a>.
   help_page:
     title: Abikeskus
-    introduction: OpenStreetMap pakub erinevaid võimalusi projekti tundmaõppimiseks,
+    introduction: GRM pakub erinevaid võimalusi projekti tundmaõppimiseks,
       küsimuste esitamiseks ja vastamiseks ning kaardistamise teemade üle üheskoos
       arupidamiseks ja dokumenteerimiseks.
     welcome:
@@ -998,11 +998,11 @@ et:
     copyright_html: <span>&copy;</span>OpenStreetMap<br>kaastöölised
     used_by: '%{name} varustab kaardiandmetega sadu veebisaite, mobiilside rakendusi
       ja riistvara seadmeid'
-    lede_text: OpenStreetMap on loodud kaardistajate kogukonna poolt, kes täiendavad
+    lede_text: GRM on loodud kaardistajate kogukonna poolt, kes täiendavad
       ja hooldavad andmeid teede, radade, kohvikute, raudteejaamade ja paljude teiste
       objektide kohta üle kogu maailma.
     local_knowledge_title: Kohalik teave
-    local_knowledge_html: OpenStreetMap asetab rõhu kohalikule teabele. Kaastöölised
+    local_knowledge_html: GRM asetab rõhu kohalikule teabele. Kaastöölised
       kasutavad aerofotosid, GPS-seadmeid ja iseloodud kaarte kontrollimaks, et OSM
       oleks täpne ja ajakohane.
     community_driven_title: Kogukonna põhine
@@ -1015,7 +1015,7 @@ et:
       <a href='http://www.osmfoundation.org/'>OSM Sihtasutuse</a> veebilehte.
     open_data_title: Avatud andmed
     open_data_html: |-
-      OpenStreetMap on <i>avatud andmed</i>: sa võid neid vabalt kasutada igal eesmärgil
+      GRM on <i>avatud andmed</i>: sa võid neid vabalt kasutada igal eesmärgil
       seni kuni sa tunnustad OpenStreetMapi ja selle kaastööliseid. Kui sa muudad või
       või lood midagi nende andmete põhjal, siis võid sa oma tulemust levitada ainult
       sama litsentsi alusel. Täpsemat infot vaata lehelt <a href='%{copyright_path}'>Autoriõigused ja litsents</a>.
@@ -1024,7 +1024,7 @@ et:
     diary_comment_notification:
       subject: '[OpenStreetMap] %{user} kommenteeris sinu päeviku sissekannet'
       hi: Tere, %{to_user}!
-      header: '%{from_user} on kommenteerinud sinu hiljutist OpenStreetMap päeviku
+      header: '%{from_user} on kommenteerinud sinu hiljutist GRM päeviku
         sissekannet pealkirjaga %{subject}:'
       footer: Loe kommentaari lehel %{readurl}. Võid lisada oma kommentaari lehel
         %{commenturl} või vastata kommentaarile lehel %{replyurl}.
@@ -1191,12 +1191,12 @@ et:
     index:
       js_1: Sa kas kasutad veebilehitsejat, mis ei toeta JavaScript'i või sa oled
         JavaScript'i ära keelanud.
-      js_2: OpenStreetMap kasutab JavaScripti kaartide laadimiseks.
+      js_2: GRM kasutab JavaScripti kaartide laadimiseks.
       permalink: Püsilink
       shortlink: Lühilink
       createnote: Lisa märkus
       license:
-        copyright: Autoriõigused OpenStreetMap ja kaasautorid avatud litsentsi alusel
+        copyright: Autoriõigused GRM ja kaasautorid avatud litsentsi alusel
       remote_failed: Redigeerimise ebaõnnestus - veendu, et  JOSM või Merkaartor töötab
         ning kaugjuhtimine on lubatud
     edit:
@@ -1504,11 +1504,11 @@ et:
       lost password link: Salasõna ununes?
       login_button: Logi sisse
       register now: 'Registreeru:'
-      with username: Kas omad juba OpenStreetMap kasutajakontot? Palun logi sisse
+      with username: Kas omad juba GRM kasutajakontot? Palun logi sisse
         enda kasutajanime ja salasõnaga.
       with openid: 'Või kasuta sisse logimiseks oma OpenID kasutajat:'
-      new to osm: Oled uus OpenStreetMap kasutaja?
-      to make changes: Muudatuste tegemiseks OpenStreetMap andmetes peab sul olema
+      new to osm: Oled uus GRM kasutaja?
+      to make changes: Muudatuste tegemiseks GRM andmetes peab sul olema
         kasutajakonto.
       create account minute: Loo kasutajakonto. See võtab vaid hetke.
       no account: Sa ei ole veel registreerinud kasutajaks?
@@ -1541,7 +1541,7 @@ et:
           alt: Sisene AOL OpenID tunnusega
     logout:
       title: Logi välja
-      heading: Välju OpenStreetMap -st
+      heading: Välju GRM -st
       logout_button: Logi välja
     lost_password:
       title: Unustatud salasõna
@@ -1571,7 +1571,7 @@ et:
       about:
         header: Vaba ja muudetav
         html: |-
-          <p>Erinevalt teistest kaartidest on OpenStreetMap loodud samade inimeste poolt nagu sina ja igaüks võib seda parandada, täiendada, alla laadida ja kasutada.</p>
+          <p>Erinevalt teistest kaartidest on GRM loodud samade inimeste poolt nagu sina ja igaüks võib seda parandada, täiendada, alla laadida ja kasutada.</p>
           <p>Registreeru, et alustada kaardi täiendamist. Me saadame sulle meili, et saaksid kinnitada oma kasutajakonto.</p>
       license_agreement: Oma kasutajakonto kinnitamiseks pead nõustuma <a href="http://www.osmfoundation.org/wiki/License/Contributor_Terms">kaastöö
         tingimustega</a>.
@@ -1956,7 +1956,7 @@ et:
       reopened_at_html: Taasaktiveeritud %{when} tagasi
       reopened_at_by_html: Taasaktiveeritud %{when} tagasi kasutaja %{user} poolt
     rss:
-      title: OpenStreetMap märkused
+      title: GRM märkused
       description_area: Loetelu märkustest mida teatati, kommenteeriti või suleti
         sinu piirkonnas [(%{min_lat}|%{min_lon}) -- (%{max_lat}|%{max_lon})]
       description_item: Märkuse %{id} RSS uudisvoog
@@ -2019,7 +2019,7 @@ et:
         data: Kaardi andmed
         overlays: Luba kattekihte, et kaarti analüüsida
         title: Kihid
-      copyright: © <a href='%{copyright_url}'>OpenStreetMap kaastöölised</a>
+      copyright: © <a href='%{copyright_url}'>GRM kaastöölised</a>
       donate_link_text: <a class='donate-attr' href='%{donate_url}'>Tee annetus</a>
     site:
       edit_tooltip: Muuda kaarti

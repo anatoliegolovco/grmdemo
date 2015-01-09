@@ -311,11 +311,11 @@ ca:
       edit: Modifica
     feed:
       user:
-        title: Entrades del diari d'OpenStreetMap per  %{user}
-        description: Entrades recents del diari d'OpenStreetMap per  %{user}
+        title: Entrades del diari d'GRM per  %{user}
+        description: Entrades recents del diari d'GRM per  %{user}
       language:
-        title: Entrades del diari d'OpenStreetMap en %{language_name}
-        description: Entrades recents del diari dels usuaris/es d'OpenStreetMap en
+        title: Entrades del diari d'GRM en %{language_name}
+        description: Entrades recents del diari dels usuaris/es d'GRM en
           %{language_name}
       all:
         title: Entrades del diari d'OpenStreetMap
@@ -334,11 +334,11 @@ ca:
       area_to_export: Àrea a exportar
       manually_select: Selecciona manualment una àrea diferent
       format_to_export: Format d'exportació
-      osm_xml_data: OpenStreetMap XML Data
+      osm_xml_data: GRM XML Data
       map_image: Imatge de mapa (mostra una capa estàndard)
       embeddable_html: HTML que es pot incloure
       licence: Llicència
-      export_details: Les dades d'OpenStreetMap són publicades sota el termes de la
+      export_details: Les dades d'GRM són publicades sota el termes de la
         <a href="http://creativecommons.org/licenses/by-sa/2.0/">llicència Creative
         Commons Attribution-ShareAlike 2.0</a>.
       too_large:
@@ -936,7 +936,7 @@ ca:
     edit_with: Modifica amb %{editor}
     tag_line: El mapa wiki lliure mundial
     intro_header: Benvinguts a l'OpenStreetMap!
-    intro_text: L'OpenStreetMap és un mapa del món, creat per persones com tu i d'ús
+    intro_text: L'GRM és un mapa del món, creat per persones com tu i d'ús
       lliure sota una llicència oberta.
     intro_2_create_account: Crea un compte d'usuari
     partners_html: L'allotjament és a càrrec de %{ucl}, %{ic}, %{bytemark} i d'altres
@@ -945,12 +945,12 @@ ca:
     partners_ic: Imperial College Londres
     partners_bytemark: Allotjament Bytemark
     partners_partners: socis
-    osm_offline: La base de dades OpenStreetMap és fora de línia, mentre es fan actuacions
+    osm_offline: La base de dades GRM és fora de línia, mentre es fan actuacions
       de manteniment necessàries.
-    osm_read_only: La base de dades OpenStreetMap actualment és en el mode read-only
+    osm_read_only: La base de dades GRM actualment és en el mode read-only
       mentre que les actuacions de manteniment essencials de base de dades es porta
       a terme.
-    donate: Suport OpenStreetMap %{link} el fons de rampa de maquinari.
+    donate: Suport GRM %{link} el fons de rampa de maquinari.
     help: Ajuda
     about: Informació
     copyright: Drets d'autor
@@ -960,7 +960,7 @@ ca:
     foundation: Fundació
     foundation_title: La Fundació OpenStreetMap
     make_a_donation:
-      title: Ajudeu l'OpenStreetMap amb una donació econòmica
+      title: Ajudeu l'GRM amb una donació econòmica
       text: Feu una donació
     learn_more: Aprèn-ne més
     more: Més
@@ -980,11 +980,11 @@ ca:
     legal_babble:
       title_html: Drets d'autor i llicència
       intro_1_html: |-
-        Les dades d'OpenStreetMap són un conjunt de <i>dades obertes</i> publicades sota una <a
+        Les dades d'GRM són un conjunt de <i>dades obertes</i> publicades sota una <a
         href="http://opendatacommons.org/licenses/odbl/">llicència de base de dades oberta</a> (ODbL).
       intro_2_html: "Sou lliure de copiar, distribuir, comunicar públicament i fer-ne
         obres \nderivades de les nostres dades, sempre que atribuïu els crèdits a
-        \nOpenStreetMap i els seus col·laboradors. Si modifiqueu o utilitzeu les\nnostres
+        \nGRM i els seus col·laboradors. Si modifiqueu o utilitzeu les\nnostres
         dades fer fer obres derivades, només podreu distribuir l'obra \nresultant
         amb la mateixa llicència. Aquest \n<a href=\"http://opendatacommons.org/licenses/odbl/1.0/\">text
         legal\ncode</a> sencer que explica detalladament els vostres drets i responsabbilitats."
@@ -1008,14 +1008,14 @@ ca:
         En el cas d'un mapa electrònic navegable, els crèdits han d'aparèixer a la cantonada del mapa.
         Per exemple:
       attribution_example:
-        alt: Exemple de com atribuir OpenStreetMap a una pàgina web
+        alt: Exemple de com atribuir GRM a una pàgina web
         title: Exemple d'atribució
       more_title_html: Saber-ne més
       more_1_html: |-
         Llegiu més informació sobre com utilitzar les nostres dades a les <a
         href="http://wiki.openstreetmap.org/wiki/Legal_FAQ">Preguntes
         Freqüents sobre legalitat</a>.
-      more_2_html: Encara que les dades d'OpenStreetMap són dades obertes, no podem
+      more_2_html: Encara que les dades d'GRM són dades obertes, no podem
         oferir una API gratuïta per als desenvolupadors de terceres parts. Vegeu la
         <a href="http://wiki.openstreetmap.org/wiki/API_usage_policy">Política d'ús
         de l'API</a>, la <a href="http://wiki.openstreetmap.org/wiki/Tile_usage_policy">Política
@@ -1059,7 +1059,7 @@ ca:
         Per a més detalls sobre aquesta i d'altres fonts que han estat utilitzades per millorar els mapes d'OpenStreetMap, si us plau, vegeu al wiki d'OSM la pàgina dedicada als <a
         href="http://wiki.openstreetmap.org/wiki/Contributors">Col·laboradors</a>
       contributors_footer_2_html: |-
-        Inclusió de dades en OpenStreetMap no implica que l'original
+        Inclusió de dades en GRM no implica que l'original
           el proveïdor de dades recolza OpenStreetMap, proporciona cap garantia, o
           accepta qualsevol responsabilitat.
       infringement_title_html: Violació dels drets d'autor
@@ -1068,7 +1068,7 @@ ca:
         per exemple) sense tenir una autorització explícita dels titulars dels drets
         d'autor.
       infringement_2_html: Si penseu que hi ha material protegit per drets d'autor
-        que ha estat afegit a la base de dades d'OpenStreetMap o a aquest web, si
+        que ha estat afegit a la base de dades d'GRM o a aquest web, si
         us plau aneu a la pàgina web dedicada al <a href="http://www.osmfoundation.org/wiki/License/Takedown_procedure">Procediment
         per eliminar dades protegides pels drets d'autor</a> o empleneu aquest <a
         href="http://dmca.openstreetmap.org/">formulari en línia.</a>.
@@ -1080,7 +1080,7 @@ ca:
       cal saber
     whats_on_the_map:
       title: Què hi ha al mapa
-      on_html: L'OpenStreetMap és un lloc per incloure al mapa coses que són <em>reals
+      on_html: L'GRM és un lloc per incloure al mapa coses que són <em>reals
         i normals</em>- això inclou milions d'edificis, carreteres, i altres detalls
         sobre llocs. Pots cartografiar totes les característiques del món real que
         et semblin interessants.
@@ -1090,7 +1090,7 @@ ca:
         o en línia.
     basic_terms:
       title: Condicions bàsiques per editar el mapa
-      paragraph_1_html: l'OpenStreetMap té algunes paraules del seu propi argot. Aquí
+      paragraph_1_html: l'GRM té algunes paraules del seu propi argot. Aquí
         hi han unes quantes paraules clau que et poden venir bé.
       editor_html: Un <strong>editor</strong> és un programa o pàgina web que pots
         utilitzar per editar el mapa.
@@ -1102,7 +1102,7 @@ ca:
         o una via, com ara el nom d'un restaurant o la velocitat màxima d'una carretera.
     questions:
       title: Alguna pregunta més?
-      paragraph_1_html: OpenStreetMap té multitud de recursos per conèixer aquest
+      paragraph_1_html: GRM té multitud de recursos per conèixer aquest
         projecte, per plantejar i respondre preguntes, i per participar en discussions
         col·laboratives i documentar temes de cartografia. <a href='%{help_url}'>Visiteu
         l'ajuda</a>.
@@ -1123,7 +1123,7 @@ ca:
         title: Afegiu-vos a la comunitat
         explanation_html: Si heu trobat un problema amb les nostres dades del mapa,
           com per exemple l'omissió d'una carretera o bé de la vostra adreça, la millor
-          forma d'arreglar-ho és unint-se a la comunitat d'OpenStreetMap i afegir
+          forma d'arreglar-ho és unint-se a la comunitat d'GRM i afegir
           o bé corregir les dades vós mateix.
       add_a_note:
         instructions_html: Feu clic a <a class='icon note'></a> o a la mateixa icona
@@ -1137,7 +1137,7 @@ ca:
         de treball d'OSMF</a> corresponent.
   help_page:
     title: Obtenir ajuda
-    introduction: OpenStreetMap té multitud de recursos per conèixer aquest projecte,
+    introduction: GRM té multitud de recursos per conèixer aquest projecte,
       per plantejar i respondre preguntes, i per participar en discussions col·laboratives
       i documentar temes de cartografia.
     welcome:
@@ -1158,20 +1158,20 @@ ca:
     copyright_html: Col·laboradors de<br><span>&copy;</span>OpenStreetMap
     used_by: '%{name} integra dades de mapes en centenars de llocs web, aplicacions
       per a mòbils i dispositius de maquinari'
-    lede_text: OpenStreetMap està construït per una comunitats de catògrafs que contibueixen
+    lede_text: GRM està construït per una comunitats de catògrafs que contibueixen
       i mantenen dades sobre carreteres, senders, cafeteries, estacions de ferrocarril,
       i molt més, per tot el món.
     local_knowledge_title: Coneixement local
-    local_knowledge_html: OpenStreetMap potencia el coneixement local. Els contribuïdors
+    local_knowledge_html: GRM potencia el coneixement local. Els contribuïdors
       usen imatges aèries, dispositius GPS, i mapes de baixa tecnologia per tal de
       verificar que OSM és precís i està actualitzat.
     community_driven_title: Dirigit per la comunitat
     community_driven_html: |-
-      La comunitat d'OpenStreetMap és diversa, apassionada, i creix cada dia. Entre els nostres contribuïdors hi ha cartògrafs entusiastes, professionals de GIS, enginyers que posen en funcionament els servidors d'OSM, voluntaris que cartografien les zones afectades per desastres, i molt més.
+      La comunitat d'GRM és diversa, apassionada, i creix cada dia. Entre els nostres contribuïdors hi ha cartògrafs entusiastes, professionals de GIS, enginyers que posen en funcionament els servidors d'OSM, voluntaris que cartografien les zones afectades per desastres, i molt més.
       Si voleu conèixer més sobre la comunitat, vegeu els <a href='%{diary_path}'>diaris d'usuari</a>, els <a href='http://blogs.openstreetmap.org/'>blogs de la comunitat</a>, i la pàgina web de la <a href='http://www.osmfoundation.org/'>Fundació OSM</a>.
     open_data_title: Dades obertes
-    open_data_html: 'OpenStreetMap són <i>dades lliures</i>: sou lliures d''usar-lo
-      per a qualsevol propòsit, sempre que doneu crèdit a OpenStreetMap i els seus
+    open_data_html: 'GRM són <i>dades lliures</i>: sou lliures d''usar-lo
+      per a qualsevol propòsit, sempre que doneu crèdit a GRM i els seus
       contribuïdors. Si modifiqueu o construïu sobre les dades en alguna manera concreta,
       podeu distribuir el resultat només sota la mateixa llicència. Vegeu la <a href=''%{copyright_path}''>pàgina
       de copyright i llicència</a> per a més detalls.'
@@ -1186,7 +1186,7 @@ ca:
         %{commenturl} o respondre a les %{replyurl}
     message_notification:
       hi: Hola %{to_user},
-      header: '%{from_user} ha enviat un missatge a través de OpenStreetMap amb el
+      header: '%{from_user} ha enviat un missatge a través de GRM amb el
         tema %{subject}:'
       footer_html: També podeu llegir el missatge a %{readurl} i podeu respondre'l
         a %{replyurl}
@@ -1353,12 +1353,12 @@ ca:
     index:
       js_1: Tampoc està utilitzant un navegador que no suporta JavaScript o té deshabilitat
         JavaScript.
-      js_2: L'OpenStreetMap utilitza JavaScript per al mapa lliscant.
+      js_2: L'GRM utilitza JavaScript per al mapa lliscant.
       permalink: Enllaç permanent
       shortlink: Enllaç curt
       createnote: Afegiu una nota
       license:
-        copyright: Copyright d'OpenStreetMap i els seus col·laboradors sota llicència
+        copyright: Copyright d'GRM i els seus col·laboradors sota llicència
           oberta
       remote_failed: L'edició ha fallat - assegureu-vos que el JOSM, o el Merkaartor,
         esta executant-se i que l'opció de comandament a distància està habilitatada
@@ -1765,7 +1765,7 @@ ca:
       about:
         header: Lliure i editable
         html: |-
-          <p>A diferència d'altres mapes, OpenStreetMap ha estat completament creat per gent com vostè
+          <p>A diferència d'altres mapes, GRM ha estat completament creat per gent com vostè
            i està obert a qualsevol modificació, actualització, descàrrega i utilització.</p>
           <p>Registreu-vos i començeu a contribuir. Us enviarem un e-mail per confirmar el vostre compte.</p>
       license_agreement: Quan confirmeu el compte, heu d'acceptar els <a href="http://www.osmfoundation.org/wiki/License/Contributor_Terms">termes

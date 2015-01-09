@@ -189,7 +189,7 @@
         "role": "Loma",
         "choose": "Izvēlieties objekta tipu",
         "results": "Atrasti {n} rezultāti meklējot {search}",
-        "reference": "Skatīt OpenStreetMap wiki →",
+        "reference": "Skatīt GRM wiki →",
         "remove": "Noņemt ",
         "search": "Meklēt",
         "unknown": "Nezināms",
@@ -227,7 +227,7 @@
         "okay": "Labi"
     },
     "splash": {
-        "welcome": "Laipni lūgti iD OpenStreetMap redaktorā",
+        "welcome": "Laipni lūgti iD GRM redaktorā",
         "start": "Labot tagad"
     },
     "source_switch": {

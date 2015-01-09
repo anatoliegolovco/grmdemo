@@ -313,7 +313,7 @@
         "okay": "Vale"
     },
     "splash": {
-        "welcome": "Benvido ao editor de OpenStreetMap iD",
+        "welcome": "Benvido ao editor de GRM iD",
         "text": "iD é unha amigable pero potente ferramenta para contribuir ao mellor mapa libre do mundo. Esta é a versión {version}. Para obter máis información visita {website} e informa de erros en {github}.",
         "walkthrough": "Comezar o titorial.",
         "start": "Editar agora"
@@ -356,12 +356,12 @@
     },
     "help": {
         "title": "Axuda",
-        "help": "# Axuda\n\nEste é un editor para [OpenStreetMap](http://www.openstreetmap.org/), o\nmapa mundial libre e editable. Podes usalo para engadir e actualizar datos\nna túa zona, facendo un mellor mapa mundial de código e datos abertos\nmellor para todos.\n\nAs edicións que fagas neste mapa serán visibles a todos os que usen\nOpenStreetMap. Para facer unha edición, necesitarás unha\n[conta de OpenStreetMap gratuíta](https://www.openstreetmap.org/user/new).\n\nO [editor iD](http://ideditor.com/) é un proxecto colaborativo con [código\nfonte dispoñible en GitHub](https://github.com/openstreetmap/iD).\n"
+        "help": "# Axuda\n\nEste é un editor para [OpenStreetMap](http://www.openstreetmap.org/), o\nmapa mundial libre e editable. Podes usalo para engadir e actualizar datos\nna túa zona, facendo un mellor mapa mundial de código e datos abertos\nmellor para todos.\n\nAs edicións que fagas neste mapa serán visibles a todos os que usen\nOpenStreetMap. Para facer unha edición, necesitarás unha\n[conta de GRM gratuíta](https://www.openstreetmap.org/user/new).\n\nO [editor iD](http://ideditor.com/) é un proxecto colaborativo con [código\nfonte dispoñible en GitHub](https://github.com/openstreetmap/iD).\n"
     },
     "intro": {
         "navigation": {
             "title": "Navegación",
-            "drag": "A área principal do mapa mostra os datos de OpenStreetMap sobre un fondo. Podes navegar polo mapa arrastrando e desprazándote, igual que calquera mapa de internet. **Arrastra o mapa!**",
+            "drag": "A área principal do mapa mostra os datos de GRM sobre un fondo. Podes navegar polo mapa arrastrando e desprazándote, igual que calquera mapa de internet. **Arrastra o mapa!**",
             "select": "Os elementos do mapa represéntanse de tres formas: usando puntos, liñas ou áreas. Calquera elemento se pode seleccionar facendo clic nel. **Fai clic no punto para seleccionalo.**",
             "header": "Na cabeceira móstrase o tipo de elemento.",
             "pane": "Cando un elemento é seleccionado, móstrase o editor de elementos. A cabeceira mostra o tipo de elemento e o panel principal mostra os atributos do elemento como, por exemplo, o seu nome e o seu enderezo. **Pecha o editor de elementos co botón de cerre da parte superior dereita.**"

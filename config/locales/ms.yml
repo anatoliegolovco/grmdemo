@@ -292,11 +292,11 @@ ms:
       edit: Sunting
     feed:
       user:
-        title: Catatan diari OpenStreetMap oleh %{user}
-        description: Catatan diari OpenStreetMap terkini oleh %{user}
+        title: Catatan diari GRM oleh %{user}
+        description: Catatan diari GRM terkini oleh %{user}
       language:
-        title: Catatan diari OpenStreetMap dalam %{language_name}
-        description: Catatan-catatan diari terbaru oleh pengguna OpenStreetMap dalam
+        title: Catatan diari GRM dalam %{language_name}
+        description: Catatan-catatan diari terbaru oleh pengguna GRM dalam
           %{language_name}
       all:
         title: Catatan diari OpenStreetMap
@@ -319,7 +319,7 @@ ms:
       map_image: Imej Peta (memaparkan paparan piawai)
       embeddable_html: HTML Boleh Benam
       licence: Lesen
-      export_details: Data OpenStreetMap dilesenkan di bawah lesen <a href="http://opendatacommons.org/licenses/odbl/1.0/">Open
+      export_details: Data GRM dilesenkan di bawah lesen <a href="http://opendatacommons.org/licenses/odbl/1.0/">Open
         Data Commons Open Database License</a> (ODbL).
       too_large:
         advice: 'Jika pengeksportan di atas gagal, sila pertimbangkan untuk menggunakan
@@ -329,7 +329,7 @@ ms:
           sumber yang berikut untuk memuat turun data secara pukal:'
         planet:
           title: Planet OSM
-          description: Salinan pangkalan data lengkap OpenStreetMap yang sentiasa
+          description: Salinan pangkalan data lengkap GRM yang sentiasa
             dikemaskinikan
         overpass:
           title: Overpass API
@@ -912,7 +912,7 @@ ms:
     edit_with: Sunting dengan %{editor}
     tag_line: Peta Dunia Wiki Bebas
     intro_header: Selamat datang ke OpenStreetMap!
-    intro_text: OpenStreetMap adalah peta dunia yang diwujudkan oleh insan seperti
+    intro_text: GRM adalah peta dunia yang diwujudkan oleh insan seperti
       anda, dan bebas digunakan dengan berlandaskan lesen terbuka.
     intro_2_create_account: Buka akaun pengguna
     partners_html: Pengehosan disokong oleh %{ucl}, %{ic} dan %{bytemark}, serta %{partners}
@@ -921,11 +921,11 @@ ms:
     partners_ic: Imperial College London
     partners_bytemark: Bytemark Hosting
     partners_partners: rakan-rakan kongsi
-    osm_offline: Pangkalan data OpenStreetMap kini diputuskan sambungannya sementara
+    osm_offline: Pangkalan data GRM kini diputuskan sambungannya sementara
       kerja penyelenggaran mustahak dilangsungkan.
-    osm_read_only: Pangkalan data OpenStreetMap sekarang ditetapkan pada mod baca
+    osm_read_only: Pangkalan data GRM sekarang ditetapkan pada mod baca
       sahaja sementara kerja penyelenggaran mustahak dilangsungkan.
-    donate: Sokong OpenStreetMap dengan %{link} kepada Dana Penaiktarafan Perkakas.
+    donate: Sokong GRM dengan %{link} kepada Dana Penaiktarafan Perkakas.
     help: Bantuan
     about: Perihal
     copyright: Hak Cipta
@@ -935,7 +935,7 @@ ms:
     foundation: Yayasan
     foundation_title: Yayasan OpenStreetMap
     make_a_donation:
-      title: Sokonglah OpenStreetMap dengan dermaan dalam bentuk wang
+      title: Sokonglah GRM dengan dermaan dalam bentuk wang
       text: Derma
     learn_more: Ketahui Lebih Lanjut
     more: Selebihnya
@@ -955,11 +955,11 @@ ms:
     legal_babble:
       title_html: Hak Cipta dan Lesen
       intro_1_html: |-
-        OpenStreetMap ialah <i>data terbuka</i> yang dilesenkan di bawah <a
+        GRM ialah <i>data terbuka</i> yang dilesenkan di bawah <a
         href="http://opendatacommons.org/licenses/odbl/">Open Data
         Commons Open Database License</a> (ODbL).
       intro_2_html: Anda bebas menyalin, mengedarkan, menyebarkan dan mengubah suai
-        data kami, asalkan anda memperakui OpenStreetMap dan para penyumbangnya. Jika
+        data kami, asalkan anda memperakui GRM dan para penyumbangnya. Jika
         anda mengubah suai atau menokok tambah data kami, anda boleh mengedarkannya
         di bawah lesen yang sama sahaja. <a href="http://opendatacommons.org/licenses/odbl/1.0/">Kanun
         undang-undang</a> yang lengkap ini menerangkan hak-hak dan tanggungjawab anda.
@@ -976,13 +976,13 @@ ms:
         Untuk peta elektronik yang boleh disemak imbas, kredit seharusnya disiarkan di sudut peta.
         Contoh:
       attribution_example:
-        alt: Contoh mengatribusikan OpenStreetMap pada halaman sesawang
+        alt: Contoh mengatribusikan GRM pada halaman sesawang
         title: Contoh atribusi
       more_title_html: Mengetahui lebih lanjut
       more_1_html: Baca lebih lanjut tentang penggunaan data kami serta memperakui
         kami di <a href="http://wiki.openstreetmap.org/wiki/Legal_FAQ">Soalan Lazim
         Undang-Undang</a>.
-      more_2_html: Sungguhpun OpenStreetMap merupakan data terbuka, namun kami tidak
+      more_2_html: Sungguhpun GRM merupakan data terbuka, namun kami tidak
         boleh menyediakan API peta yang percuma kepada pembangun pihak ketiga. Sila
         rujuk <a href="http://wiki.openstreetmap.org/wiki/API_usage_policy">Dasar
         Penggunaan API</a>, <a href="http://wiki.openstreetmap.org/wiki/Tile_usage_policy">Dasar
@@ -1022,7 +1022,7 @@ ms:
         sumber-sumber lain yang telah digunakan untuk membantu menambah baik OpenStreetMap,
         sila rujuk <a href="http://wiki.openstreetmap.org/wiki/Contributors">Halaman
         penyumbang</a> di Wiki OpenStreetMap.'
-      contributors_footer_2_html: '  Penyertaan data dalam OpenStreetMap tidak bermaksud
+      contributors_footer_2_html: '  Penyertaan data dalam GRM tidak bermaksud
         bahawa pembekal data asal menyokong OpenStreetMap, menyediakan sebarang waranti,
         atau menerima sebarang tanggungan.'
       infringement_title_html: Pencabulan hak cipta
@@ -1030,7 +1030,7 @@ ms:
         data dari mana-mana sumber berhak cipta (cth. Google Maps atau peta cetakan)
         tanpa izin bersurat dari pemegang hak cipta.
       infringement_2_html: "Sekiranya anda percaya bahawa bahan berhak cipta telah
-        dtambahkan secara tidak berpatutan ke dalam pangkalan OpenStreetMap atau tapak
+        dtambahkan secara tidak berpatutan ke dalam pangkalan GRM atau tapak
         ini, sila rujuk <a href=\"http://www.osmfoundation.org/wiki/License/Takedown_procedure\">prosedur
         penarikan</a> atau laporkan secara terus ke dalam \n<a href=\"http://dmca.openstreetmap.org/\">halaman
         laporan on-line</a>."
@@ -1042,7 +1042,7 @@ ms:
       anda.
     whats_on_the_map:
       title: Kandungan Peta
-      on_html: OpenStreetMap merupakan tempat untuk memetakan benda-benda yang <em>nyata
+      on_html: GRM merupakan tempat untuk memetakan benda-benda yang <em>nyata
         dan terkini</em> - termasuklah berjuta-juta bangunan, jalan raya dan lain-lain
         butiran tempat. Anda boleh memetakan sebarang ciri-ciri nyata yang menarik
         minat anda.
@@ -1052,7 +1052,7 @@ ms:
         mahupun kertas.
     basic_terms:
       title: Peristilahan Asas Pemetaan
-      paragraph_1_html: OpenStreetMap mempunyai peristilahan tersendiri. Yang berikut
+      paragraph_1_html: GRM mempunyai peristilahan tersendiri. Yang berikut
         ialah kata-kata kunci yang berguna.
       editor_html: <strong>Editor</strong> adalah perisian atau laman web yang boleh
         digunakan untuk menyunting peta.
@@ -1065,7 +1065,7 @@ ms:
     questions:
       title: Ada soalan?
       paragraph_1_html: |-
-        OpenStreetMap menyediakan kemudahan-kemudahan untuk mempelajari tentang projek ini, bersoal jawab, serta bekerjasama membincangkan dan mendokumenkan topik-topik pemetaan.
+        GRM menyediakan kemudahan-kemudahan untuk mempelajari tentang projek ini, bersoal jawab, serta bekerjasama membincangkan dan mendokumenkan topik-topik pemetaan.
         <a href='%{help_url}'>Minta bantuan di sini</a>.
     start_mapping: Mula
     add_a_note:
@@ -1084,7 +1084,7 @@ ms:
         title: Sertai komuniti
         explanation_html: Jika anda mendapati kemusykilan dengan data peta kami, misalnya
           jalan raya atau alamat anda tertinggal, cara penyelesaian yang terbaik adalah
-          menyertai komuniti OpenStreetMap dan menambah atau membetulkan data sendiri.
+          menyertai komuniti GRM dan menambah atau membetulkan data sendiri.
       add_a_note:
         instructions_html: |-
           Hanya klik <a class='icon note'></a> atau ikon yang sama pada paparan peta.
@@ -1097,7 +1097,7 @@ ms:
         <a href='http://wiki.osmfoundation.org/wiki/Working_Groups'>kumpulan kerja OSMF</a> yang sewajarnya.
   help_page:
     title: Meminta Bantuan
-    introduction: OpenStreetMap menyediakan kemudahan-kemudahan untuk mempelajari
+    introduction: GRM menyediakan kemudahan-kemudahan untuk mempelajari
       tentang projek ini, bersoal jawab, serta bekerjasama membincangkan dan mendokumenkan
       topik-topik pemetaan.
     welcome:
@@ -1117,30 +1117,30 @@ ms:
     copyright_html: <span>&copy;</span>para penyumbang<br />OpenStreetMap
     used_by: '%{name} menjana data peta pada ratusan laman web, aplikasi mudah alih
       dan peranti perkakasan'
-    lede_text: OpenStreetMap dibina oleh sekumpulan pemeta yang menyumbangkan dan
+    lede_text: GRM dibina oleh sekumpulan pemeta yang menyumbangkan dan
       menyelenggarakan data tentang jalan raya, denai, kedai kopi, stesen keretapi,
       dan banyak lagi di seluruh dunia.
     local_knowledge_title: Pengetahuan Tempatan
-    local_knowledge_html: OpenStreetMap menekankan pengetahuan tempatan. Para penyumbang
+    local_knowledge_html: GRM menekankan pengetahuan tempatan. Para penyumbang
       menggunakan imejan udara, peranti GPS, dan peta lapangan berteknologi rendah
       untuk mengesahkan bahawa OSM adalah tepat dan mutakhir.
     community_driven_title: Didorong oleh Komuniti
     community_driven_html: |-
-      Komuniti OpenStreetMap pelbagai latar belakang, ghairah, dan makin hari makin berkembang. Antara para penyumbang kami termasuklah pemeta yang sekadar penggemar, profesional GIS, jurutera yang mengelola pelayan OSM, pegawai kemanusiaan yang memetakan kawasan terjejas bencana,
+      Komuniti GRM pelbagai latar belakang, ghairah, dan makin hari makin berkembang. Antara para penyumbang kami termasuklah pemeta yang sekadar penggemar, profesional GIS, jurutera yang mengelola pelayan OSM, pegawai kemanusiaan yang memetakan kawasan terjejas bencana,
       dan ramai lagi.
       Untuk mengetahui lebih lanjut tentang komuniti ini, rujuk <a href='%{diary_path}'>diari pengguna</a>,
       <a href='http://blogs.openstreetmap.org/'>blog komuniti</a>, dan laman web
       the <a href='http://www.osmfoundation.org/'>OSM Foundation</a>.
     open_data_title: Data Terbuka
     open_data_html: |-
-      OpenStreetMap adalah <i>data terbuka</i>: anda bebas menggunakannya untuk sebarang tujuan asalkan anda memberikan penghargaan kepada OpenStreetMap dan para penyumbangnya. Jika anda mengubah suai atau menokok tambah datanya
+      GRM adalah <i>data terbuka</i>: anda bebas menggunakannya untuk sebarang tujuan asalkan anda memberikan penghargaan kepada GRM dan para penyumbangnya. Jika anda mengubah suai atau menokok tambah datanya
       dalam cara-cara tertentu, anda boleh mengedarkan hasilnya di bawah lesen yang sama sahaja. Rujuk halaman <a href='%{copyright_path}'>Hak Cipta dan Lesen</a> untuk keterangan lanjut.
     partners_title: Rakan Kongsi
   notifier:
     diary_comment_notification:
       subject: '[OpenStreetMap] %{user} mengulas catatan diari anda'
       hi: Apa khabar %{to_user},
-      header: '%{from_user} telah mengulas catatan diari OpenStreetMap anda yang terbaru
+      header: '%{from_user} telah mengulas catatan diari GRM anda yang terbaru
         dengan tajuk %{subject}:'
       footer: Anda juga boleh membaca komen di %{readurl} serta mengulas di %{commenturl}
         atau membalas di %{replyurl}
@@ -1309,12 +1309,12 @@ ms:
     index:
       js_1: Anda sedang menggunakan pelayar web yang tidak menyokong JavaScript, ataupun
         anda tidak menghidupkan JavaScript.
-      js_2: OpenStreetMap menggunakan JavaScript untuk peta licinnya.
+      js_2: GRM menggunakan JavaScript untuk peta licinnya.
       permalink: Pautan Kekal
       shortlink: Pautan Ringkas
       createnote: Tambah nota
       license:
-        copyright: Hak cipta OpenStreetMap dan para penyumbang di bawah lesen terbuka
+        copyright: Hak cipta GRM dan para penyumbang di bawah lesen terbuka
       remote_failed: Penyuntingan gagal - pastikan JOSM atau Merkaartor dimuatkan
         dan ciri kawalan jauh dihidupkan
     edit:
@@ -1326,7 +1326,7 @@ ms:
       user_page_link: laman pengguna
       anon_edits_link_text: Ketahuilah sebab jadinya begini.
       flash_player_required: Anda memerlukan pemain Flash untuk menggunakan Potlatch,
-        iaitu editor OpenStreetMap yang menggunakan Flash. Anda boleh <a href="http://www.adobe.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">memuat
+        iaitu editor GRM yang menggunakan Flash. Anda boleh <a href="http://www.adobe.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">memuat
         turun Flash Player dari Adobe.com</a>. Terdapat juga <a href="http://wiki.openstreetmap.org/wiki/Editing">pilihan-pilihan
         lain</a> untuk menyunting OpenStreetMap.
       potlatch_unsaved_changes: Anda ada perubahan yang belum disimpan. (Untuk menyimpan
@@ -1539,7 +1539,7 @@ ms:
       heading: Storan GPX di Luar Talian
       message: Sistem storan dan muat naik fail GPX kini tidak boleh digunakan.
     georss:
-      title: Jejak OpenStreetMap GPS
+      title: Jejak GRM GPS
     description:
       description_with_count: GPX fail dengan %{count} mata dari %{user}
       description_without_count: Fail GPX daripada %{user}
@@ -1721,7 +1721,7 @@ ms:
       about:
         header: Bebas dan boleh disunting
         html: |-
-          <p>Tidak seperti peta-peta lain, OpenStreetMap diwujudkan sepenuhnya oleh orang ramai seperti anda, malah percuma untuk diperbaiki, dikemaskinikan, dimuat turun dan digunakan oleh sesiapa sahaja.</p>
+          <p>Tidak seperti peta-peta lain, GRM diwujudkan sepenuhnya oleh orang ramai seperti anda, malah percuma untuk diperbaiki, dikemaskinikan, dimuat turun dan digunakan oleh sesiapa sahaja.</p>
           <p>Berdaftarlah untuk mula menyumbang kepada peta ini. Kami akan mengirim e-mel untuk mengesahkan akaun anda.</p>
       license_agreement: Ketika mengesahkan akaun anda, anda perlu bersetuju dengan
         <a href="http://www.osmfoundation.org/wiki/License/Contributor_Terms">terma-terma

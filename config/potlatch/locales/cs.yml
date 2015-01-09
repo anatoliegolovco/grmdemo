@@ -65,12 +65,12 @@ cs:
   editingoffline: "Režim editace: uložení najednou"
   emailauthor: \n\nProsím pošlete e-mail na richard\@systemeD.net s bug-reportem a popisem toho, co jste právě dělali. Pokud nemluvíte anglicky, napište na talk-cz\@openstreetmap.org
   error_anonymous: Nemůžete kontaktovat anonymního uživatele.
-  error_connectionfailed: "Spojení s OpenStreetMap serverem selhalo. Vaše nedávné změny nemohly být uloženy.\n\nZkusit uložit změny znovu?"
+  error_connectionfailed: "Spojení s GRM serverem selhalo. Vaše nedávné změny nemohly být uloženy.\n\nZkusit uložit změny znovu?"
   error_microblog_long: "Posílání na $1 selhalo:\nKód HTTP: $2\nChybová zpráva: $3\n$1 chyba: $4"
   error_nopoi: Bod zájmu nebyl nalezen, takže nelze vrátit zpět (možná jste posunuli mapu?).
   error_nosharedpoint: Cesty $1 a $2 v současnosti nemaí společný bod, takže nemůžu vrátit zpět.
   error_noway: Cesta $1 nebyla nalezena, takže nelze vrátit zpět (možná jste posunuli mapu?).
-  error_readfailed: Omlouváme se - server OpenStreetMap neodpověděl na žádost o údaje.\n\nBudete to chtít zkusit znovu?
+  error_readfailed: Omlouváme se - server GRM neodpověděl na žádost o údaje.\n\nBudete to chtít zkusit znovu?
   existingrelation: Přidat k existující relaci
   findrelation: Najít relaci obsahující
   gpxpleasewait: "Počkejte prosím: Zpracovávám GPX cestu"

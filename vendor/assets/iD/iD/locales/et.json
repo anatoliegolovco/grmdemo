@@ -222,7 +222,7 @@
         "role": "Roll",
         "choose": "Vali objekti liik",
         "results": "{n} tulemust otsingule {search}",
-        "reference": "Vaata OpenStreetMap Wiki lehel",
+        "reference": "Vaata GRM Wiki lehel",
         "back_tooltip": "Muuda objekti",
         "remove": "Eemalda",
         "search": "Otsi",
@@ -274,7 +274,7 @@
         "okay": "Korras"
     },
     "splash": {
-        "welcome": "Tere tulemast kasutama iD OpenStreetMap redaktorit",
+        "welcome": "Tere tulemast kasutama iD GRM redaktorit",
         "text": "iD on kasutajasõbralik ja samas võimas töövahend parima vaba maailmakaardi täiendamiseks. See on versioon {version}. Rohkem infot võib leida veebilehelt {website} ja vigadest saab teatada lehel {github}.",
         "walkthrough": "Alusta tutvustust",
         "start": "Alusta muutmist"
@@ -313,7 +313,7 @@
     "intro": {
         "navigation": {
             "title": "Navigeerimine",
-            "drag": "Peamises kaardivaates on näha aluskaardi peal olevad OpenStreetMap andmed. Vaate liigutamine toimub hiirega lohistades ja kerides, sarnaselt teiste kaartidega. **Lohista kaarti!**",
+            "drag": "Peamises kaardivaates on näha aluskaardi peal olevad GRM andmed. Vaate liigutamine toimub hiirega lohistades ja kerides, sarnaselt teiste kaartidega. **Lohista kaarti!**",
             "select": "Kaardi objekte saab esitada kolmel viisil: kasutades punkte, jooni või alasid. Kõiki objekte saab valida nendel klikkides. **Kliki punktil, et see valida.**"
         },
         "points": {

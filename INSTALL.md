@@ -163,13 +163,13 @@ We need to load the btree-gist extension, which is needed for showing changesets
 For PostgreSQL < 9.1 (change the version number in the path as necessary):
 
 ```
-psql -d openstreetmap < /usr/share/postgresql/9.0/contrib/btree_gist.sql
+psql -d GRM < /usr/share/postgresql/9.0/contrib/btree_gist.sql
 ```
 
 For PostgreSQL >= 9.1:
 
 ```
-psql -d openstreetmap -c "CREATE EXTENSION btree_gist"
+psql -d GRM -c "CREATE EXTENSION btree_gist"
 ```
 
 ### PostgreSQL Functions
@@ -185,9 +185,9 @@ cd ../..
 Then we create the functions within each database. We're using `pwd` to substitute in the current working directory, since PostgreSQL needs the full path.
 
 ```
-psql -d openstreetmap -c "CREATE FUNCTION maptile_for_point(int8, int8, int4) RETURNS int4 AS '`pwd`/db/functions/libpgosm', 'maptile_for_point' LANGUAGE C STRICT"
-psql -d openstreetmap -c "CREATE FUNCTION tile_for_point(int4, int4) RETURNS int8 AS '`pwd`/db/functions/libpgosm', 'tile_for_point' LANGUAGE C STRICT"
-psql -d openstreetmap -c "CREATE FUNCTION xid_to_int4(xid) RETURNS int4 AS '`pwd`/db/functions/libpgosm', 'xid_to_int4' LANGUAGE C STRICT"
+psql -d GRM -c "CREATE FUNCTION maptile_for_point(int8, int8, int4) RETURNS int4 AS '`pwd`/db/functions/libpgosm', 'maptile_for_point' LANGUAGE C STRICT"
+psql -d GRM -c "CREATE FUNCTION tile_for_point(int4, int4) RETURNS int8 AS '`pwd`/db/functions/libpgosm', 'tile_for_point' LANGUAGE C STRICT"
+psql -d GRM -c "CREATE FUNCTION xid_to_int4(xid) RETURNS int4 AS '`pwd`/db/functions/libpgosm', 'xid_to_int4' LANGUAGE C STRICT"
 ```
 
 ### Database structure

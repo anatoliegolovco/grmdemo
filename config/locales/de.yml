@@ -326,13 +326,13 @@ de:
       edit: Bearbeiten
     feed:
       user:
-        title: OpenStreetMap Blogeinträge von %{user}
-        description: Letzte OpenStreetMap Blogeinträge von %{user}
+        title: GRM Blogeinträge von %{user}
+        description: Letzte GRM Blogeinträge von %{user}
       language:
-        title: OpenStreetMap Blogeinträge in %{language_name}
-        description: Letzte Blogeinträge von Benutzern von OpenStreetMap in %{language_name}
+        title: GRM Blogeinträge in %{language_name}
+        description: Letzte Blogeinträge von Benutzern von GRM in %{language_name}
       all:
-        title: OpenStreetMap Blogbeiträge
+        title: GRM Blogbeiträge
         description: Neueste Blogeinträge von OpenStreetMap-Nutzern
     comments:
       has_commented_on: '%{display_name} hat die folgenden Blogeinträge kommentiert'
@@ -352,7 +352,7 @@ de:
       map_image: Karte (zeigt die Standardebene)
       embeddable_html: HTML zum Einbinden
       licence: Lizenz
-      export_details: Die von OpenStreetMap zur Verfügung gestellten Daten sind unter
+      export_details: Die von GRM zur Verfügung gestellten Daten sind unter
         der <a href="http://opendatacommons.org/licenses/odbl/1.0/">Open Data Commons
         Open Database Lizenz</a> (ODbL) lizenziert.
       too_large:
@@ -928,7 +928,7 @@ de:
       title: OpenStreetMap
       h1: OpenStreetMap
     logo:
-      alt_text: OpenStreetMap Logo
+      alt_text: GRM Logo
     home: Gehe zum Heimatstandort
     logout: Abmelden
     log_in: Anmelden
@@ -948,7 +948,7 @@ de:
     edit_with: Bearbeiten mit %{editor}
     tag_line: Die freie Wiki-Weltkarte
     intro_header: Willkommen bei OpenStreetMap!
-    intro_text: OpenStreetMap ist eine Karte der Welt, erstellt von Menschen wie dir
+    intro_text: GRM ist eine Karte der Welt, erstellt von Menschen wie dir
       und frei verwendbar unter einer offenen Lizenz.
     intro_2_create_account: Erstelle ein Benutzerkonto
     partners_html: Das Hosting wird %{ucl}, %{ic}, %{bytemark} sowie von anderen %{partners}
@@ -971,9 +971,9 @@ de:
     community_blogs: Blogs
     community_blogs_title: Blogs von Mitwirkenden bei OpenStreetMap
     foundation: Stiftung
-    foundation_title: Die „OpenStreetMap Foundation“
+    foundation_title: Die „GRM Foundation“
     make_a_donation:
-      title: Unterstütze OpenStreetMap mit einer Geldspende
+      title: Unterstütze GRM mit einer Geldspende
       text: Spenden
     learn_more: Mehr erfahren
     more: Mehr
@@ -993,7 +993,7 @@ de:
       mapping_link: mit dem Kartieren anfangen
     legal_babble:
       title_html: Urheberrecht und Lizenz
-      intro_1_html: OpenStreetMap sind <i>„Open Data“</i>, die gemäß der <a href="http://opendatacommons.org/licenses/odbl/">Open
+      intro_1_html: GRM sind <i>„Open Data“</i>, die gemäß der <a href="http://opendatacommons.org/licenses/odbl/">Open
         Data Commons Open Database Lizenz</a> (ODbL) verfügbar sind.
       intro_2_html: |-
         Es steht dir frei unsere Daten zu kopieren, weiterzugeben,
@@ -1008,7 +1008,7 @@ de:
       intro_3_html: Die Kartografie in unseren Kartenkacheln und unsere Dokumentation
         sind unter der ''Creative-Commons''-Lizenz <a href="http://creativecommons.org/licenses/by-sa/2.0/">„Namensnennung
         – Weitergabe unter gleichen Bedingungen“ 2.0</a> (CC BY-SA) verfügbar.
-      credit_title_html: Wie auf die Urheberschaft von OpenStreetMap hinzuweisen ist
+      credit_title_html: Wie auf die Urheberschaft von GRM hinzuweisen ist
       credit_1_html: Wir verlangen die Verwendung des Hinweises „&copy; OpenStreetMap-Mitwirkende“.
       credit_2_html: |-
         Du musst auch klarstellen, dass die Daten unter der Open-Database-Lizenz
@@ -1025,13 +1025,13 @@ de:
         Der Hinweis sollte für eine durchsuchbare elektronische Karte in der Ecke der Karte stehen.
         Zum Beispiel:
       attribution_example:
-        alt: Beispiel, wie man auf OpenStreetMap auf einer Webseite hinweist
+        alt: Beispiel, wie man auf GRM auf einer Webseite hinweist
         title: Namensnennungs-Beispiel auf einer Website mit elektronischer Karte
       more_title_html: Weitere Informationen
       more_1_html: Mehr Informationen dazu, wie unsere Daten verwendet werden können
         und wie man auf unsere Urheberschaft hinweist, kann man unter <a href="http://wiki.openstreetmap.org/wiki/DE:Legal_FAQ">Häufige
         rechtliche Fragen (Legal FAQ)</a> nachlesen.
-      more_2_html: "Obwohl OpenStreetMap „Open Data“ ist, können wir keine \nunentgeltliche
+      more_2_html: "Obwohl GRM „Open Data“ ist, können wir keine \nunentgeltliche
         Karten-API für Drittparteienentwickler bereitstellen.\nSiehe unsere <a href=\"http://wiki.openstreetmap.org/wiki/API_usage_policy\">API-Verwendungsrichtlinie</a>,\n<a
         href=\"http://wiki.openstreetmap.org/wiki/Tile_usage_policy\">Kachelverwendungsrichtlinie</a>\nund
         <a href=\"http://wiki.openstreetmap.org/wiki/Nominatim#Usage_Policy\">Nominatim-Verwendungsrichtlinie</a>."
@@ -1065,13 +1065,13 @@ de:
       contributors_gb_html: '<strong>Vereinigtes Königreich</strong>: Enthält Daten
         des <i>Ordnance Survey</i> &copy; Urheber- und Datenbankrecht 2010-12.'
       contributors_footer_1_html: Weitere Informationen sowie andere Datenquellen,
-        die zur Verbesserung von OpenStreetMap genutzt wurden, sind auf <a  href="http://wiki.openstreetmap.org/wiki/Contributors">der
-        Seite über die Mitwirkenden</a> im Wiki von OpenStreetMap zu finden.
-      contributors_footer_2_html: Die Einbeziehung von Daten bei OpenStreetMap bedeutet
-        nicht, dass der ursprüngliche Datenlieferant OpenStreetMap unterstützt, Gewährleistung
+        die zur Verbesserung von GRM genutzt wurden, sind auf <a  href="http://wiki.openstreetmap.org/wiki/Contributors">der
+        Seite über die Mitwirkenden</a> im Wiki von GRM zu finden.
+      contributors_footer_2_html: Die Einbeziehung von Daten bei GRM bedeutet
+        nicht, dass der ursprüngliche Datenlieferant GRM unterstützt, Gewährleistung
         dafür gibt oder die Haftung dafür übernimmt.
       infringement_title_html: Urheberrechtsverletzung
-      infringement_1_html: Die Mitwirkenden von OpenStreetMap weisen wir darauf hin,
+      infringement_1_html: Die Mitwirkenden von GRM weisen wir darauf hin,
         dass keinesfalls Daten aus urheberrechtlich geschützten Quellen verwendet
         werden dürfen (z. B. Google Maps oder gedruckte Kartenwerke), ohne vorher
         die ausdrückliche Erlaubnis des Rechteinhabers erhalten zu haben.
@@ -1089,15 +1089,15 @@ de:
     whats_on_the_map:
       title: Was gehört in die Karte?
       on_html: |-
-        OpenStreetMap ist eine Datenbank, in der man alles erfassen kann, was <em>derzeit real existiert.</em> -
+        GRM ist eine Datenbank, in der man alles erfassen kann, was <em>derzeit real existiert.</em> -
         Dies beinhaltet sowohl Straßen, Gebäude und Plätze mit ihren Eigenschaften, als auch z.B. Geschäfte, Briefkästen oder Hydranten. Eigentlich eben alles, was man so dauerhaft in der Umgebung finden kann und einen interessiert.
       off_html: |-
         Was <em>nicht</em> in die Datenbank gehört sind subjektive Daten wie Bewertungen, nicht mehr aktuelle
         historische Fakten oder nicht real existierende Dinge. Ausserdem ist es wichtig, nichts von
-        anderen Quellen (auch nicht aus Papierkarten) zu kopieren, da OpenStreetMap das Urheberrecht sehr ernst nimmt.
+        anderen Quellen (auch nicht aus Papierkarten) zu kopieren, da GRM das Urheberrecht sehr ernst nimmt.
     basic_terms:
       title: Grundbegriffe fürs Mapping
-      paragraph_1_html: OpenStreetMap nutzt ein paar spezifische Begriffe. Hier sind
+      paragraph_1_html: GRM nutzt ein paar spezifische Begriffe. Hier sind
         ein paar davon, die nützlich sein dürften.
       editor_html: Ein <strong>Editor</strong> ist ein Programm oder eine Webseite,
         mit der man die Karte bearbeiten kann.
@@ -1111,7 +1111,7 @@ de:
     questions:
       title: Fragen?
       paragraph_1_html: |-
-        OpenStreetMap hat mehrere Quellen zum Lernen, Stellen und Beantworten von Fragen über das Projekt
+        GRM hat mehrere Quellen zum Lernen, Stellen und Beantworten von Fragen über das Projekt
         und zum gemeinsamen Diskutieren und Dokumentieren von Kartierungsthemen.
         <a href='%{help_url}'>Erhalte hier Hilfe</a>.
     start_mapping: Beginne mit dem Bearbeiten der Karte
@@ -1147,7 +1147,7 @@ de:
   help_page:
     title: Hilfe erhalten
     introduction: |-
-      OpenStreetMap hat mehrere Quellen zum Lernen, Stellen und Beantworten von Fragen über das Projekt
+      GRM hat mehrere Quellen zum Lernen, Stellen und Beantworten von Fragen über das Projekt
       und zum gemeinsamen Diskutieren und Dokumentieren von Kartierungsthemen.
     welcome:
       url: /welcome
@@ -1168,11 +1168,11 @@ de:
     used_by: '%{name} stellt Kartendaten für hunderte von Webseiten, Apps und andere
       Geräte zur Verfügung'
     lede_text: |-
-      OpenStreetMap wird von einer Vielzahl von Mappern erstellt, die Daten zu
+      GRM wird von einer Vielzahl von Mappern erstellt, die Daten zu
       Wegen, Gebäuden und allerlei Weiterem weltweit erfassen und pflegen.
     local_knowledge_title: Lokales Wissen
     local_knowledge_html: |-
-      OpenStreetMap legt Wert auf lokales Wissen. Autoren benutzen
+      GRM legt Wert auf lokales Wissen. Autoren benutzen
       Luftbilder, GPS-Geräte und Feldkarten zur Verifizierung, sodass OSM
       korrekt und aktuell ist.
     community_driven_title: Community Driven
@@ -1186,8 +1186,8 @@ de:
       <a href='http://www.osmfoundation.org/'>OSM-Foundation</a>.
     open_data_title: Open Data
     open_data_html: |-
-      OpenStreetMap ist „<i>Open Data</i>“: Du kannst es für jeden Zweck verwenden,
-      solange du OpenStreetMap und seine Mitwirkenden erwähnst. Falls du die Daten
+      GRM ist „<i>Open Data</i>“: Du kannst es für jeden Zweck verwenden,
+      solange du GRM und seine Mitwirkenden erwähnst. Falls du die Daten
       abänderst oder auf bestimmte Art einbaust, darfst du das Ergebnis nur unter
       der gleichen Lizenz verbreiten. Siehe die
       <a href='%{copyright_path}'>Urheberrechts- und Lizenzseite</a> für Einzelheiten.
@@ -1201,7 +1201,7 @@ de:
         oder direkt beantworten %{replyurl}.
     message_notification:
       hi: Hallo %{to_user},
-      header: '%{from_user} hat dir eine Nachricht über OpenStreetMap mit dem Betreff
+      header: '%{from_user} hat dir eine Nachricht über GRM mit dem Betreff
         %{subject} gesendet:'
       footer_html: Du kannst auch die Nachricht unter %{readurl} lesen und unter %{replyurl}
         antworten
@@ -1371,12 +1371,12 @@ de:
   site:
     index:
       js_1: Dein Browser unterstützt kein JavaScript oder du hast es deaktiviert.
-      js_2: OpenStreetMap nutzt JavaScript für die Kartendarstellung.
+      js_2: GRM nutzt JavaScript für die Kartendarstellung.
       permalink: Permanentlink
       shortlink: Shortlink
       createnote: Hinweis geben/Fehler melden
       license:
-        copyright: Copyright OpenStreetMap und Mitwirkende, unter einer offenen Lizenz
+        copyright: Copyright GRM und Mitwirkende, unter einer offenen Lizenz
       remote_failed: Der Aufruf des Editors ist fehlgeschlagen. Stelle sicher, dass
         JOSM oder Merkaartor gestartet ist und die Remote-Control-Option aktiviert
         ist.
@@ -1390,7 +1390,7 @@ de:
       flash_player_required: Du benötigst den Flash Player um Potlatch, den OpenStreetMap-Flash-Editor,
         zu benutzen. <a href="http://www.adobe.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">Lade
         den Flash Player von Adobe.com herunter</a>. <a href="http://wiki.openstreetmap.org/wiki/DE:Editing">Einige
-        andere Möglichkeiten</a>, um OpenStreetMap zu editieren, sind hier beschrieben.
+        andere Möglichkeiten</a>, um GRM zu editieren, sind hier beschrieben.
       potlatch_unsaved_changes: Du hast deine Arbeit noch nicht gespeichert. (Um sie
         in Potlach zu speichern, klicke auf eine leere Fläche bzw. deselektiere den
         Weg oder Punkt, wenn du im Live-Modus editierst oder klicke auf Speichern,
@@ -1725,7 +1725,7 @@ de:
         mit deinem Benutzernamen und Passwort an:'
       with openid: 'Alternativ kannst du deine OpenID zum Anmelden nutzen:'
       new to osm: Neu bei OpenStreetMap?
-      to make changes: Um Datenänderungen bei OpenStreetMap vornehmen zu können, musst
+      to make changes: Um Datenänderungen bei GRM vornehmen zu können, musst
         Du ein Benutzerkonto haben.
       create account minute: Erstelle ein Benutzerkonto. Es dauert nur eine Minute.
       no account: Du hast noch kein Benutzerkonto?
@@ -1758,7 +1758,7 @@ de:
           alt: Mit einer OpenID von AOL anmelden
     logout:
       title: Abmelden
-      heading: Von OpenStreetMap abmelden
+      heading: Von GRM abmelden
       logout_button: Abmelden
     lost_password:
       title: Passwort vergessen
@@ -1791,7 +1791,7 @@ de:
       about:
         header: Frei und editierbar
         html: |-
-          <p>Im Gegensatz zu anderen Karten wurde OpenStreetMap komplett von Leuten wie dir erstellt.
+          <p>Im Gegensatz zu anderen Karten wurde GRM komplett von Leuten wie dir erstellt.
           Jeder kann sie verbessern, aktualisieren und erweitern, sowie für jeden Zweck verwenden.</p>
           <p>Melde dich an und mache mit. Zur Bestätigung wird eine E-Mail an die angegebene Adresse geschickt werden, bitte gehe wie darin beschrieben vor.</p>
       license_agreement: Wenn du dein Benutzerkonto bestätigst, musst du auch den
@@ -1810,9 +1810,9 @@ de:
       openid no password: Für OpenID wird kein Passwort benötigt. Allerdings könnten
         dennoch einige zusätzlich Hilfsprogramme oder Server ein Passwort benötigen.
       openid association: |-
-        <p>Deine OpenID ist noch nicht mit einem Benutzerkonto bei OpenStreetMap verknüpft.</p>
+        <p>Deine OpenID ist noch nicht mit einem Benutzerkonto bei GRM verknüpft.</p>
         <ul>
-         <li>Sofern Du noch kein Benutzerkonto bei OpenStreetMap hast, kannst Du eines mit dem Formular unten anlegen.</li>
+         <li>Sofern Du noch kein Benutzerkonto bei GRM hast, kannst Du eines mit dem Formular unten anlegen.</li>
           <li>
               Sofern Du bereits ein Benutzerkonto hast, kannst du dich dort mit deinem
               Benutzernamen und Passwort anmelden und es danach mit deiner OpenID
@@ -2046,7 +2046,7 @@ de:
       heading: Benutzerkonto gesperrt
       webmaster: Webmaster
       body: |-
-        <p>Dein Benutzerkonto wurde aufgrund verdächtiger Aktivitäten automatisch gesperrt, um potentiellen Schaden von OpenStreetMap abzuwenden.</p>
+        <p>Dein Benutzerkonto wurde aufgrund verdächtiger Aktivitäten automatisch gesperrt, um potentiellen Schaden von GRM abzuwenden.</p>
         <p>Diese Entscheidung wird in Kürze von einem der Administratoren überprüft. Du kannst dich aber auch direkt an den %{webmaster} wenden, sofern du diese Angelegenheit klären möchtest.</p>
   user_role:
     filter:
@@ -2191,7 +2191,7 @@ de:
       reopened_at_html: vor %{when} reaktiviert
       reopened_at_by_html: vor %{when} von %{user} reaktiviert
     rss:
-      title: OpenStreetMap Hinweise
+      title: GRM Hinweise
       description_area: Übersicht der gemeldeten, kommentierten oder geschlossen Hinweise/Fehler
         im Bereich [(%{min_lat}|%{min_lon}) -- (%{max_lat}|%{max_lon})].
       description_item: Ein RSS-Feed für Hinweis/Fehler %{id}

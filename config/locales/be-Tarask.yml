@@ -229,11 +229,11 @@ be-Tarask:
       edit: Рэдагаваць
     feed:
       user:
-        title: Запісы ў дзёньніку OpenStreetMap карыстальніка %{user}
-        description: Апошнія запісы ў дзёньніку OpenStreetMap карыстальніка %{user}
+        title: Запісы ў дзёньніку GRM карыстальніка %{user}
+        description: Апошнія запісы ў дзёньніку GRM карыстальніка %{user}
       language:
-        title: Запісы ў дзёньніку OpenStreetMap на %{language_name}
-        description: Апошнія запісы ў дзёньніках карыстальнікаў OpenStreetMap на %{language_name}
+        title: Запісы ў дзёньніку GRM на %{language_name}
+        description: Апошнія запісы ў дзёньніках карыстальнікаў GRM на %{language_name}
       all:
         title: Запісы ў дзёньніку OpenStreetMap
         description: Апошнія запісы ў дзёньніку карыстальнікаў OpenStreetMap
@@ -244,11 +244,11 @@ be-Tarask:
       area_to_export: Абшар для экспарту
       manually_select: Выбраць іншы абшар
       format_to_export: Фармат экспарту
-      osm_xml_data: Зьвесткі OpenStreetMap у фармаце XML
+      osm_xml_data: Зьвесткі GRM у фармаце XML
       map_image: Выява мапы (паказвае стандартны слой)
       embeddable_html: HTML-код для ўстаўкі
       licence: Ліцэнзія
-      export_details: Зьвесткі OpenStreetMap даступныя на ўмовах ліцэнзіі <a href="http://opendatacommons.org/licenses/odbl/1.0/">Open
+      export_details: Зьвесткі GRM даступныя на ўмовах ліцэнзіі <a href="http://opendatacommons.org/licenses/odbl/1.0/">Open
         Data Commons Open Database License</a> (ODbL).
       too_large:
         body: 'Гэты абшар занадта вялікі для экспарту ў фармаце XML OpenStreetMap.
@@ -754,11 +754,11 @@ be-Tarask:
     partners_html: Гостынг падтрымліваецца %{ucl}, %{ic} і %{bytemark}, і іншымі %{partners}.
     partners_ucl: UCL VR Centre
     partners_ic: Лёнданскім імпэрскім каледжам
-    osm_offline: База зьвестак OpenStreetMap у цяперашні момант недаступная, таму
+    osm_offline: База зьвестак GRM у цяперашні момант недаступная, таму
       што праводзяцца неабходныя тэхнічныя работы.
-    osm_read_only: База зьвестак OpenStreetMap у цяперашні момант даступная толькі
+    osm_read_only: База зьвестак GRM у цяперашні момант даступная толькі
       для чытаньня, таму што праводзяцца неабходныя тэхнічныя работы.
-    donate: Падтрымайце OpenStreetMap %{link} у фонд абнаўленьня абсталяваньня.
+    donate: Падтрымайце GRM %{link} у фонд абнаўленьня абсталяваньня.
     help: Дапамога
     copyright: Аўтарскія правы і ліцэнзія
     community_blogs: Блёгі супольнасьці
@@ -766,7 +766,7 @@ be-Tarask:
     foundation: Фундацыя
     foundation_title: Фундацыя OpenStreetMap
     make_a_donation:
-      title: Падтрымаць OpenStreetMap грашовым ахвяраваньнем
+      title: Падтрымаць GRM грашовым ахвяраваньнем
       text: Зрабіць ахвяраваньне
   license_page:
     foreign:
@@ -784,12 +784,12 @@ be-Tarask:
     legal_babble:
       title_html: Аўтарскія правы і ліцэнзія
       intro_1_html: |-
-        OpenStreetMap is <i>open data</i>, licensed under the <a
+        GRM is <i>open data</i>, licensed under the <a
         href="http://opendatacommons.org/licenses/odbl/">Open Data
         Commons Open Database License</a> (ODbL).
       intro_2_html: |-
         Вы можаце капіяваць, распаўсюджваць, перадаваць і зьмяняць нашыя мапы
-        і зьвесткі, да той пары, пакуль Вы спасылаецеся на OpenStreetMap і яе
+        і зьвесткі, да той пары, пакуль Вы спасылаецеся на GRM і яе
         ўдзельнікаў. Калі Вы зьмяняеце ці выкарыстоўваеце нашыя мапы і зьвесткі, Вы можаце
         распаўсюджваць вынікі толькі на ўмовах такой жа ліцэнзіі. Поўны тэкст ліцэнзіі
         <a
@@ -803,7 +803,7 @@ be-Tarask:
         мы патрабуем наяўнасьць &ldquo;Картаграфічныя зьвесткі &copy; Удзельнікі OpenStreetMap,
         CC BY-SA&rdquo;.
       credit_2_html: |-
-        Дзе магчыма, павінна быць гіпэр-спасылка на OpenStreetMap <a
+        Дзе магчыма, павінна быць гіпэр-спасылка на GRM <a
         href="http://www.openstreetmap.org/">http://www.openstreetmap.org/</a>
         і на CC BY-SA <a
         href="http://creativecommons.org/licenses/by-sa/2.0/">http://creativecommons.org/licenses/by-sa/2.0/</a>. Калі
@@ -827,7 +827,7 @@ be-Tarask:
         у адпаведнасьці з асаблівасьцямі носьбітаў інфармацыі ці іншых выкарыстоўваемых сродкаў
         &rdquo;. Звычайныя ўдзельнікі OSM не патрабуюць пазначэньня аўтарства
         болей чым &ldquo;удзельнікі OpenStreetMap
-        &rdquo;, але ў OpenStreetMap ёсьць зьвесткі з нацыянальных
+        &rdquo;, але ў GRM ёсьць зьвесткі з нацыянальных
         картаграфічных агенцтваў ці іншых падобных крыніцаў,
         таму, магчыма, мае сэнс спасылацца непасрэдна на іх
         як на крыніцу, ці дадаць спасылку на гэтую старонку.
@@ -851,7 +851,7 @@ be-Tarask:
         Survey &copy; Crown copyright and database right
         2010.
       contributors_footer_2_html: |-
-        Уключэньне зьвестак у OpenStreetMap не азначае, што пастаўшчыкі пачатковых зьвестак
+        Уключэньне зьвестак у GRM не азначае, што пастаўшчыкі пачатковых зьвестак
         якім-небудзь чынам падтрымліваюць OpenStreetMap, прадстаўляюць гарантыі, ці
         прымаюць на сябе якую-небудзь адказнасьць.
   notifier:
@@ -864,7 +864,7 @@ be-Tarask:
         на %{commenturl} ці адказаць на %{replyurl}
     message_notification:
       hi: Вітаем, %{to_user},
-      header: '%{from_user} даслаў Вам паведамленьне праз OpenStreetMap з тэмай %{subject}:'
+      header: '%{from_user} даслаў Вам паведамленьне праз GRM з тэмай %{subject}:'
     friend_notification:
       subject: '[OpenStreetMap] %{user} дадаў Вас у сьпіс сваіх сяброў'
       had_added_you: '%{user} дадаў Вас у сьпіс сяброў на OpenStreetMap.'
@@ -991,7 +991,7 @@ be-Tarask:
   site:
     index:
       js_1: Вы карыстаецеся браўзэрам, які не падтрымлівае ці мае забаронены JavaScript.
-      js_2: OpenStreetMap выкарыстоўвае JavaScript для паказу мапы.
+      js_2: GRM выкарыстоўвае JavaScript для паказу мапы.
       permalink: Сталая спасылка
       shortlink: Кароткая спасылка
       remote_failed: Памылка рэдагаваньня. Упэўніцеся, што JOSM ці Merkaartor загружаныя

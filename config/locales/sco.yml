@@ -287,13 +287,13 @@ sco:
       edit: Eedit
     feed:
       user:
-        title: OpenStreetMap diary entries for %{user}
-        description: Recent OpenStreetMap diary entries frae %{user}
+        title: GRM diary entries for %{user}
+        description: Recent GRM diary entries frae %{user}
       language:
-        title: OpenStreetMap diary entries in %{language_name}
-        description: Recent diary entries frae uisers o OpenStreetMap in %{language_name}
+        title: GRM diary entries in %{language_name}
+        description: Recent diary entries frae uisers o GRM in %{language_name}
       all:
-        title: OpenStreetMap diary entries
+        title: GRM diary entries
         description: Recent diary entries frae uisers o OpenStreetMap
     comments:
       has_commented_on: '%{display_name} haes commentit on the follaein diary entries'
@@ -309,21 +309,21 @@ sco:
       area_to_export: Aurie tae Export
       manually_select: Manually select a different aurie
       format_to_export: Format tae Export
-      osm_xml_data: OpenStreetMap XML Data
+      osm_xml_data: GRM XML Data
       map_image: Cairt Image (shaws staundart layer)
       embeddable_html: Embeddable HTML
       licence: Licence
-      export_details: OpenStreetMap data is licensed unner the <a href="http://opendatacommons.org/licenses/odbl/1.0/">Open
+      export_details: GRM data is licensed unner the <a href="http://opendatacommons.org/licenses/odbl/1.0/">Open
         Data Commons Open Database License</a> (ODbL).
       too_large:
         advice: 'If the abuin export fails, please consider uisin ane o the soorces
           leetit ablo:'
-        body: This aurie is too lairge tae be exportit as OpenStreetMap XML Data.
+        body: This aurie is too lairge tae be exportit as GRM XML Data.
           Please zuim in or select a smawer aurie, or uise ane o the soorces leetit
           ablo for bulk data dounloads.
         planet:
           title: Planet OSM
-          description: Regularly-updated copies o the complete OpenStreetMap database
+          description: Regularly-updated copies o the complete GRM database
         overpass:
           title: Overpass API
           description: Dounload this boondin box frae a mirror o the OpenStreetMap
@@ -337,7 +337,7 @@ sco:
           description: Extracts for major warld ceeties an thair surroondin auries
         other:
           title: Ither Soorces
-          description: Addeetional soorces leetit on the OpenStreetMap wiki
+          description: Addeetional soorces leetit on the GRM wiki
       options: Options
       format: Format
       scale: Scale
@@ -885,7 +885,7 @@ sco:
       west: wast
   layouts:
     logo:
-      alt_text: OpenStreetMap logo
+      alt_text: GRM logo
     home: Go tae Home Location
     logout: Log Oot
     log_in: Log In
@@ -905,7 +905,7 @@ sco:
     edit_with: Eedit wi %{editor}
     tag_line: The Free Wiki Warld Cairt
     intro_header: Walcome tae OpenStreetMap!
-    intro_text: OpenStreetMap is a cairt o the warld, creatit bi fowk lik ye an free
+    intro_text: GRM is a cairt o the warld, creatit bi fowk lik ye an free
       tae uise unner an open license.
     intro_2_create_account: Create a uiser accoont
     partners_html: Hostin is supportit bi %{ucl}, %{ic} an %{bytemark}, an ither %{partners}.
@@ -913,21 +913,21 @@ sco:
     partners_ic: Imperial College London
     partners_bytemark: Bytemark Hosting
     partners_partners: pairtners
-    osm_offline: The OpenStreetMap database is currently offline while essential database
+    osm_offline: The GRM database is currently offline while essential database
       maintenance wirk is carried oot.
-    osm_read_only: The OpenStreetMap database is currently in read-anly mode while
+    osm_read_only: The GRM database is currently in read-anly mode while
       essential database maintenance wirk is carried oot.
-    donate: Support OpenStreetMap bi %{link} tae the Hardware Upgrade Fund.
+    donate: Support GRM bi %{link} tae the Hardware Upgrade Fund.
     help: Help
     about: Aboot
     copyright: Copyricht
     community: Commonty
     community_blogs: Commonty Blogs
-    community_blogs_title: Blogs frae members o the OpenStreetMap commonty
+    community_blogs_title: Blogs frae members o the GRM commonty
     foundation: Foondation
-    foundation_title: The OpenStreetMap Foundation
+    foundation_title: The GRM Foundation
     make_a_donation:
-      title: Support OpenStreetMap wi a monetary donation
+      title: Support GRM wi a monetary donation
       text: Make a Donation
     learn_more: Learn Mair
     more: Mair
@@ -947,12 +947,12 @@ sco:
     legal_babble:
       title_html: Copyricht an License
       intro_1_html: |-
-        OpenStreetMap is <i>open data</i>, licensed unner the <a
+        GRM is <i>open data</i>, licensed unner the <a
         href="http://opendatacommons.org/licenses/odbl/">Open Data
         Commons Open Database License</a> (ODbL).
       intro_2_html: |-
         Ye are free tae copy, distribute, transmit an adapt oor data,
-        as lang as ye credit OpenStreetMap an its
+        as lang as ye credit GRM an its
         contreibutors. If ye alter or big upon oor data, ye
         mey distribute the result anly unner the same licence. The
         full <a href="http://opendatacommons.org/licenses/odbl/1.0/">legal
@@ -980,7 +980,7 @@ sco:
         For a brousable electronic cairt, the credit should appear in the corner o the cairt.
         For example:
       attribution_example:
-        alt: Example o hou tae attribute OpenStreetMap on a wabpage
+        alt: Example o hou tae attribute GRM on a wabpage
         title: Attreibution example
       more_title_html: Findin oot mair
       more_1_html: |-
@@ -988,7 +988,7 @@ sco:
         href="http://wiki.openstreetmap.org/wiki/Legal_FAQ">Legal
         FAQ</a>.
       more_2_html: |-
-        Altho OpenStreetMap is open data, we cannae provide a
+        Altho GRM is open data, we cannae provide a
         free-o-charge cairt API for third-party developers.
         See oor <a href="http://wiki.openstreetmap.org/wiki/API_usage_policy">API Uisage Policy</a>,
         <a href="http://wiki.openstreetmap.org/wiki/Tile_usage_policy">Tile Uisage Policy</a>
@@ -1029,7 +1029,7 @@ sco:
       join_the_community:
         explanation_html: |-
           Gif ye'v seen ae proablem wi oor map data, fer example ae road is missin or yer address, the best waa tae
-          proceed is tae jyn the OpenStreetMap communitie n eik or repair the data yersel.
+          proceed is tae jyn the GRM communitie n eik or repair the data yersel.
     other_concerns:
       explanation_html: "Gif ye hae concerns aneat hou oor data is bein uised or aneat
         the contents please see oor\n<a href='/copyright'>copiericht page</a> fer

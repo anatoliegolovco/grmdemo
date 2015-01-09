@@ -199,24 +199,24 @@ aln:
       edit: Ndrysho
     feed:
       user:
-        title: hyra OpenStreetMap ditar për %{user}
-        description: shënimet e fundit OpenStreetMap ditar nga %{user}
+        title: hyra GRM ditar për %{user}
+        description: shënimet e fundit GRM ditar nga %{user}
       language:
-        title: shënimet në ditar OpenStreetMap në %{language_name}
-        description: shënimeve ditar nga përdoruesit e fundit të OpenStreetMap në
+        title: shënimet në ditar GRM në %{language_name}
+        description: shënimeve ditar nga përdoruesit e fundit të GRM në
           %{language_name}
       all:
-        title: hyra OpenStreetMap ditar
+        title: hyra GRM ditar
         description: Shënimet mat fundit të ditarit nga anëtarët e OpenStreetMap
   export:
     start:
       area_to_export: Zona për Eksport
       manually_select: Manualisht zgedhe ni zon te ndryshme
       format_to_export: Formati për Eksport
-      osm_xml_data: OpenStreetMap XML të dhana
+      osm_xml_data: GRM XML të dhana
       embeddable_html: HTML e trupzueshme
       licence: Licensa
-      export_details: T'dhanat e OpenStreetMap jan te licensume nën <a href="http://creativecommons.org/licenses/by-sa/2.0/">Creative
+      export_details: T'dhanat e GRM jan te licensume nën <a href="http://creativecommons.org/licenses/by-sa/2.0/">Creative
         Commons Attribution-ShareAlike 2.0 license</a>.
       too_large:
         body: Kjo zonë është shum e madhe që të eksportohet si XML në OpenStreetMap.
@@ -684,14 +684,14 @@ aln:
     user_diaries: Përdoruesi Diaries
     user_diaries_tooltip: përdorues ditaret Shiko
     tag_line: Free Harta Wiki Botërore
-    osm_offline: Baza e të dhanave të OpenStreetMap niher për niher jasht funksioni
+    osm_offline: Baza e të dhanave të GRM niher për niher jasht funksioni
       derisa disa punë themelore po kryhen në bazën e të dhanave.
-    osm_read_only: Baza e të dhënave OpenStreetMap është aktualisht në mënyrë read-only
+    osm_read_only: Baza e të dhënave GRM është aktualisht në mënyrë read-only
       ndërsa thelbësor bazës së të dhënave mirëmbajtjen puna është kryer.
-    donate: OpenStreetMap Mbështetja nga %{link} në Fondin Hardware Upgrade.
+    donate: GRM Mbështetja nga %{link} në Fondin Hardware Upgrade.
     copyright: Copyright & License
     make_a_donation:
-      title: OpenStreetMap Mbështetje me një donacion monetar
+      title: GRM Mbështetje me një donacion monetar
       text: Bëni një donacion
   license_page:
     foreign:
@@ -709,12 +709,12 @@ aln:
     legal_babble:
       title_html: Copyright
       intro_1_html: |-
-        OpenStreetMap is <i>open data</i>, licensed under the <a
+        GRM is <i>open data</i>, licensed under the <a
         href="http://opendatacommons.org/licenses/odbl/">Open Data
         Commons Open Database License</a> (ODbL).
       intro_2_html: |-
         Ju jeni të lirë ta kopjoni, shpërndani, përcjell dhe përshtatur hartat tona
-          dhe të dhënat, për aq kohë sa ju e kreditit OpenStreetMap e saj
+          dhe të dhënat, për aq kohë sa ju e kreditit GRM e saj
           kontribuesve. Nëse ju ndryshoni ose me ndërtimin e hartave tona ose të dhëna, ju
           mund të shpërndani rezultat vetëm në bazë të licencës të njëjtën.
           <Plotë një
@@ -728,7 +728,7 @@ aln:
           ne kerkojme "Organizimi i të dhënave © kontribuesit OpenStreetMap,
           CC BY-SA ".
       credit_2_html: |-
-        Ku të jetë e mundur, duhet të jetë OpenStreetMap hyperlinked në <a
+        Ku të jetë e mundur, duhet të jetë GRM hyperlinked në <a
           href = "http://www.openstreetmap.org/"> http://www.openstreetmap.org/ </ a>
           dhe CC BY-SA për <a
           href = "http://creativecommons.org/licenses/by-sa/2.0/"> http://creativecommons.org/licenses/by-sa/2.0/ </ a>. Nëse
@@ -770,7 +770,7 @@ aln:
            Anketa të dhënat © Crown copyright bazës së të dhënave dhe të drejtë
            2010.
       contributors_footer_2_html: |2-
-          Përfshirja e të dhënave në OpenStreetMap nuk do të thotë që origjinal
+          Përfshirja e të dhënave në GRM nuk do të thotë që origjinal
           dhënave miraton ofrues OpenStreetMap, ofron çdo garanci ose
           pranon ndonjë përgjegjësi.
   notifier:
@@ -783,7 +783,7 @@ aln:
         te %{commenturl} apo me u përgjigj te %{replyurl}
     message_notification:
       hi: Tung %{to_user},
-      header: '%{from_user} ju ka dërgu një mesazh përmes OpenStreetMap me titullin
+      header: '%{from_user} ju ka dërgu një mesazh përmes GRM me titullin
         %{subject}:'
     friend_notification:
       subject: '[OpenStreetMap] %{user} ju ka shtu juve si një shok'
@@ -899,7 +899,7 @@ aln:
     index:
       js_1: Ju jeni tuj e përdor naj shfletues që nuk e përkrah JavaScript, ose ju
         e keni ndalu JavaScript.
-      js_2: OpenStreetMap përdor Java skriptet për planet e saj të rrëshqitshëm.
+      js_2: GRM përdor Java skriptet për planet e saj të rrëshqitshëm.
       permalink: Permalink
       shortlink: Shortlink
     edit:

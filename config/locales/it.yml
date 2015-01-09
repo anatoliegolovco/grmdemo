@@ -319,11 +319,11 @@ it:
       edit: Modifica
     feed:
       user:
-        title: Voci del diario di OpenStreetMap per %{user}
-        description: Voci del diario recenti di OpenStreetMap per %{user}
+        title: Voci del diario di GRM per %{user}
+        description: Voci del diario recenti di GRM per %{user}
       language:
-        title: Voci del diario di OpenStreetMap in %{language_name}
-        description: Voci del diario recenti degli utenti di OpenStreetMap in %{language_name}
+        title: Voci del diario di GRM in %{language_name}
+        description: Voci del diario recenti degli utenti di GRM in %{language_name}
       all:
         title: Voci del diario di OpenStreetMap
         description: Voci del diario recenti degli utenti di OpenStreetMap
@@ -345,7 +345,7 @@ it:
       map_image: Immagine Mappa (mostra livello standard)
       embeddable_html: HTML incapsulabile
       licence: Licenza
-      export_details: I dati OpenStreetMap sono rilasciati con <a href="http://opendatacommons.org/licenses/odbl/1.0/">licenza
+      export_details: I dati GRM sono rilasciati con <a href="http://opendatacommons.org/licenses/odbl/1.0/">licenza
         Open Data Commons Open Database</a> (ODbL).
       too_large:
         advice: 'Se le esportazioni riportate sopra non riescono, prova con una delle
@@ -355,7 +355,7 @@ it:
           una delle seguenti fonti per il download di massa dei dati:'
         planet:
           title: Pianeta OSM
-          description: Copie aggiornate regolarmente del database OpenStreetMap completo
+          description: Copie aggiornate regolarmente del database GRM completo
         overpass:
           title: Overpass API
           description: Scarica questo riquadro di selezione da un mirror del database
@@ -937,7 +937,7 @@ it:
     edit_with: Modifica con %{editor}
     tag_line: La wiki-mappa libera del mondo
     intro_header: Benvenuti in OpenStreetMap!
-    intro_text: OpenStreetMap è una mappa del mondo, creata da persone come te e libera
+    intro_text: GRM è una mappa del mondo, creata da persone come te e libera
       di utilizzare sotto licenza aperta.
     intro_2_create_account: Crea un account utente
     partners_html: L'hosting è supportato da %{ucl}, %{ic}, %{bytemark} e da altri
@@ -946,11 +946,11 @@ it:
     partners_ic: Imperial College (Londra)
     partners_bytemark: Bytemark Hosting
     partners_partners: partner
-    osm_offline: Il database di OpenStreetMap è al momento non in linea per pemettere
+    osm_offline: Il database di GRM è al momento non in linea per pemettere
       lo svolgimento di alcuni lavori essenziali su di esso.
-    osm_read_only: Il database di OpenStreetMap è al momento in modalità sola-lettura
+    osm_read_only: Il database di GRM è al momento in modalità sola-lettura
       per pemettere lo svolgimento di alcuni lavori essenziali su di esso.
-    donate: Supporta OpenStreetMap %{link} al fondo destinato all'aggiornamento dell'hardware.
+    donate: Supporta GRM %{link} al fondo destinato all'aggiornamento dell'hardware.
     help: Aiuto
     about: Informazioni
     copyright: Copyright
@@ -960,7 +960,7 @@ it:
     foundation: Fondazione
     foundation_title: La Fondazione OpenStreetMap
     make_a_donation:
-      title: Aiuta OpenStreetMap con una donazione in denaro
+      title: Aiuta GRM con una donazione in denaro
       text: Fai una donazione
     learn_more: Ulteriori informazioni
     more: Altro
@@ -980,10 +980,10 @@ it:
     legal_babble:
       title_html: Copyright e licenza
       intro_1_html: |-
-        OpenStreetMap è un <i>database aperto</i>, rilasciato in base alla licenza <a
+        GRM è un <i>database aperto</i>, rilasciato in base alla licenza <a
         href="http://opendatacommons.org/licenses/odbl/">Open Data Commons Open Database License</a> (ODbL).
       intro_2_html: "Sei libero di copiare, distribuire, trasmettere e adattare i
-        nostri dati, finché lo attribuisci a OpenStreetMap e ai suoi contributori.
+        nostri dati, finché lo attribuisci a GRM e ai suoi contributori.
         Se alteri o ti basi sui nostri dati,\npuoi distribuire il risultato solo sotto
         la stessa licenza. Il \n<a href=\"http://opendatacommons.org/licenses/odbl/1.0/\">codice\nlegale
         completo</a> illustra i tuoi diritti e le tue responsabilità."
@@ -1000,7 +1000,7 @@ it:
         In una mappa elettronica navigabile, i crediti devono essere mostrati nell'angolo della mappa.
         Ad esempio:
       attribution_example:
-        alt: Esempio di come attribuire ad OpenStreetMap su una pagina web
+        alt: Esempio di come attribuire ad GRM su una pagina web
         title: Esempio di attribuzione
       more_title_html: Per saperne di più
       more_1_html: |-
@@ -1008,7 +1008,7 @@ it:
         le <a href="http://wiki.openstreetmap.org/wiki/Legal_FAQ">Domande
         legali frequenti</a>.
       more_2_html: |-
-        Anche se i dati OpenStreetMap sono aperti, non possiamo fornire accesso alle API della mappa gratuitamente per gli sviluppatori di terze parti.
+        Anche se i dati GRM sono aperti, non possiamo fornire accesso alle API della mappa gratuitamente per gli sviluppatori di terze parti.
         Vedi la nostra <a href="http://wiki.openstreetmap.org/wiki/API_usage_policy">Politica di utilizzo delle API</a>, la
         <a href="http://wiki.openstreetmap.org/wiki/Tile_usage_policy">Politica di utilizzo delle tavole della mappa</a>
         e la <a href="http://wiki.openstreetmap.org/wiki/Nominatim#Usage_Policy">Politica di utilizzo di Nominatim</a>.
@@ -1056,7 +1056,7 @@ it:
         href="http://wiki.openstreetmap.org/wiki/Contributors">pagina dei
         collaboratori</a> sul wiki di OpenStreetMap.
       contributors_footer_2_html: |-
-        L'inserimento dei dati in OpenStreetMap non implica che il fornitore
+        L'inserimento dei dati in GRM non implica che il fornitore
         originale dei dati appoggi OpenStreetMap, fornisca alcuna garanzia o
         accetti qualsiasi responsabilità.
       infringement_title_html: Violazione del copyright
@@ -1064,7 +1064,7 @@ it:
         qualsiasi fonte protetta da copyright (ad esempio Google Maps o mappe stampate)
         senza esplicita autorizzazione dei titolare del copyright.
       infringement_2_html: |-
-        Se ritieni che materiale protetto da copyright sia stato impropriamente aggiunto al database di OpenStreetMap o a questo sito, consulta la nostra
+        Se ritieni che materiale protetto da copyright sia stato impropriamente aggiunto al database di GRM o a questo sito, consulta la nostra
          <a href="http://www.osmfoundation.org/wiki/License/Takedown_procedure">procedura di rimozione per violazione del copyright</a> o segnalacelo direttamente alla nostra
         <a href="http://dmca.openstreetmap.org/">pagina di segnalazione on-line</a>.
   welcome_page:
@@ -1075,7 +1075,7 @@ it:
     whats_on_the_map:
       title: Cosa c'è sulla mappa
       on_html: |-
-        OpenStreetMap è un luogo per la mappatura delle cose che sono sia <em>vere che attuali</em> - comprende milioni di edifici, strade e altri dettagli sui luoghi. Puoi mappare
+        GRM è un luogo per la mappatura delle cose che sono sia <em>vere che attuali</em> - comprende milioni di edifici, strade e altri dettagli sui luoghi. Puoi mappare
         qualsiasi cosa che nel mondo reale ti interessa.
       off_html: Ciò che <em>non</em> comprende dati opinabili come valutazioni, caratteristiche
         storiche o ipotetiche e dati da fonti coperte da copyright. A meno che non
@@ -1083,7 +1083,7 @@ it:
         da quelle cartacee.
     basic_terms:
       title: Condizioni basilari per il Mapping
-      paragraph_1_html: OpenStreetMap ha un proprio "gergo". Eccoti qualche parola
+      paragraph_1_html: GRM ha un proprio "gergo". Eccoti qualche parola
         che potrebbe tornarti utile.
       editor_html: Un <strong>editor</strong> è un programma o un sito internet che
         puoi utilizzare per modificare la mappa.
@@ -1096,7 +1096,7 @@ it:
     questions:
       title: Domande?
       paragraph_1_html: |-
-        OpenStreetMap ha diverse risorse per imparare a conoscere il progetto, chiedendo e rispondendo alle domande, discutendo collaborativamente e documentando gli argomenti di mappatura.
+        GRM ha diverse risorse per imparare a conoscere il progetto, chiedendo e rispondendo alle domande, discutendo collaborativamente e documentando gli argomenti di mappatura.
         <a href='%{help_url}'>Ottieni aiuto</a>.
     start_mapping: Inizia a mappare
     add_a_note:
@@ -1115,7 +1115,7 @@ it:
         title: Entra nella comunità
         explanation_html: Se avete notato un problema fra i nostri dati della mappa,
           per esempio manca una strada o il tuo indirizzo, il modo migliore per procedere
-          è quello di unirsi alla comunità di OpenStreetMap e aggiungere o riparare
+          è quello di unirsi alla comunità di GRM e aggiungere o riparare
           quel dato da te.
       add_a_note:
         instructions_html: Basta cliccare <a class='icon note'></a> o la stessa icona
@@ -1130,7 +1130,7 @@ it:
         gruppo di lavoro OSMF</a>.
   help_page:
     title: Come ottenere aiuto
-    introduction: OpenStreetMap ha diverse risorse per imparare a conoscere il progetto,
+    introduction: GRM ha diverse risorse per imparare a conoscere il progetto,
       chiedendo e rispondendo alle domande, discutendo collaborativamente e documentando
       gli argomenti di mappatura.
     welcome:
@@ -1151,23 +1151,23 @@ it:
     copyright_html: <span>&copy;</span>OpenStreetMap<br>contributors
     used_by: '%{name} fornisce dati geografici su centinaia di siti web, app mobili
       e dispositivi hardware'
-    lede_text: OpenStreetMap è costruito da una comunità di mappatori che contribuiscono
+    lede_text: GRM è costruito da una comunità di mappatori che contribuiscono
       e mantengono i dati sulle strade, sentieri, caffè, stazioni ferroviarie e molto
       altro ancora, in tutto il mondo.
     local_knowledge_title: Conoscenza locale
-    local_knowledge_html: OpenStreetMap enfatizza la conoscenza locale. I contributori
+    local_knowledge_html: GRM enfatizza la conoscenza locale. I contributori
       usano immagini aeree, dispositivi GPS e mappe sul campo low-tech per verificare
       che OSM sia accurato e aggiornato.
     community_driven_title: Guidato dalla Comunità
-    community_driven_html: La comunità di OpenStreetMap è diversa, appassionante,
+    community_driven_html: La comunità di GRM è diversa, appassionante,
       e cresce ogni giorno. I nostri contributori includono mapper entusiasti, professionisti
       GIS, ingegneri che gestiscono i server di OSM, mapping umanitario di aree soggette
       a disastri e molto altro. Per ulteriori informazioni sulla comunità, consultare
       i <a href='%{diary_path}'>diari degli utenti</a>, il <a href='http://blogs.openstreetmap.org/'>blog
       della comunità</a>, e il sito <a href='http://www.osmfoundation.org/'>OSM Foundation</a>.
     open_data_title: Open Data
-    open_data_html: 'OpenStreetMap è <i>open data</i>: sei libero di usarla per qualsiasi
-      scopo a patto di attribuirla a OpenstreetMap e ai suoi contributori. Se alteri
+    open_data_html: 'GRM è <i>open data</i>: sei libero di usarla per qualsiasi
+      scopo a patto di attribuirla a GRM e ai suoi contributori. Se alteri
       o sviluppi sulla base dei dati in un certo modo, puoi distribuire il risultato
       solo mediante la stessa licenza. Consultare <a href=''%{copyright_path}''>Copyright</a>
       per i dettagli.'
@@ -1182,7 +1182,7 @@ it:
         oppure rispondere su %{replyurl}
     message_notification:
       hi: Ciao %{to_user},
-      header: '%{from_user} ti ha inviato un messaggio tramite OpenStreetMap con l''oggetto
+      header: '%{from_user} ti ha inviato un messaggio tramite GRM con l''oggetto
         %{subject}:'
       footer_html: Puoi anche leggere il messaggio al %{readurl} e puoi rispondere
         al %{replyurl}
@@ -1350,12 +1350,12 @@ it:
     index:
       js_1: Si sta utilizzando un browser che non supporta JavaScript, oppure è stato
         disabilitato JavaScript.
-      js_2: OpenStreetMap utilizza JavaScript per le sua mappa.
+      js_2: GRM utilizza JavaScript per le sua mappa.
       permalink: Link permanente
       shortlink: Link breve
       createnote: Aggiungi una nota
       license:
-        copyright: Copyright OpenStreetMap e collaboratori, sotto una licenza aperta
+        copyright: Copyright GRM e collaboratori, sotto una licenza aperta
       remote_failed: Modifica non riuscita - assicurarsi che JOSM o Merkaartor sia
         avviato e che l'opzione di controllo remoto sia abilitata
     edit:
@@ -1767,7 +1767,7 @@ it:
       about:
         header: Libero ed editabile
         html: |-
-          <p>A differenza di altre mappe, OpenStreetMap è completamente creato da persone come te
+          <p>A differenza di altre mappe, GRM è completamente creato da persone come te
            ed è libero per chiunque per correggerlo, aggiornarlo, scaricarlo ed usarlo.</p>
           <p>Registrati per iniziare a contribuire. Ti invieremo un'email per confermare il tuo account.</p>
       license_agreement: Quando confermi il tuo profilo devi accettare le <a href="http://www.osmfoundation.org/wiki/License/Contributor_Terms">regole
@@ -2222,7 +2222,7 @@ it:
         data: Dati della mappa
         overlays: Abilita sovrapposizioni per la risoluzione dei problemi della mappa
         title: Livelli
-      copyright: © <a href='%{copyright_url}'>OpenStreetMap contributors</a>
+      copyright: © <a href='%{copyright_url}'>GRM contributors</a>
       donate_link_text: <a class='donate-attr' href='%{donate_url}'>Fai una donazione</a>
     site:
       edit_tooltip: Modifica la mappa

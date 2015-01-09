@@ -64,12 +64,12 @@ ca:
   editingoffline: Edició fora de línia
   emailauthor: Si us plau, enviï un correu a richard@systemeD.net amb un informe d'error, dient que el que estava fent en aquell moment.
   error_anonymous: No pot contactar a un mapeador anònim
-  error_connectionfailed: Ho sentim - la connexió amb el servidor de OpenStreetMap va fallar. Qualsevol canvi recent no s'ha guardat. \n\nVoleu provar una altra vegada?
+  error_connectionfailed: Ho sentim - la connexió amb el servidor de GRM va fallar. Qualsevol canvi recent no s'ha guardat. \n\nVoleu provar una altra vegada?
   error_microblog_long: "L'enviament a $1 ha fallat:\ncodi HTTP: $2\nmissatge d'error: $3 \n$1 error: $4"
   error_nopoi: El POI no es pot trobar (potser us heu mogut lluny?), així que no es pot desfer.
   error_nosharedpoint: Les vies $1 i $2 ja no comparteixen cap punt en comú, així que no es pot desfer la divisió.
   error_noway: La via $1 no es pot trobar (igual vostè s'ha desplaçat a una altra zona?), per tant no es pot desfer.
-  error_readfailed: Ho sentim - el servidor de OpenStreetMap no ha respost a la sol·licitud de dades.\n\nVoleu tornar a intentar?
+  error_readfailed: Ho sentim - el servidor de GRM no ha respost a la sol·licitud de dades.\n\nVoleu tornar a intentar?
   existingrelation: Afegir a una relació existent
   findrelation: Troba una relació que conté
   gpxpleasewait: Si us plau, esperi mentre la traça GPX es processa.
@@ -180,7 +180,7 @@ ca:
   prompt_editsave: Edició amb guardar
   prompt_helpavailable: Sou un usuari nou? Mireu a la part inferior esquerra per obtenir ajuda.
   prompt_launch: Obrir URL externa
-  prompt_live: En el mode directe, cada canvi realitzat es guardarà instantàniament en la base de dades de OpenStreetMap -  això no es recomana a principiants. Estàs segur?
+  prompt_live: En el mode directe, cada canvi realitzat es guardarà instantàniament en la base de dades de GRM -  això no es recomana a principiants. Estàs segur?
   prompt_manyways: Aquesta àrea conté molts detalls i trigarà molt en carregar-se. Preferiu fer un zoom?
   prompt_microblog: Enviat a $1 ($2 restants)
   prompt_revertversion: Torna a una versió prèviament guardada
