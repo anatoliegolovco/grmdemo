@@ -1,0 +1,20 @@
+<% if flash[:error] %>
+  <p class="error">
+    <%= image_tag("notice.png", :class => "small_icon", :border => 0) %>
+    <%= raw flash[:error] %>
+  </p>
+<% end %>
+
+<% if flash[:warning] %>
+  <p class="warning">
+    <%= image_tag("notice.png", :class => "small_icon", :border => 0) %>
+    <%= raw flash[:warning] %>
+  </p>
+<% end %>
+
+<% if flash[:notice] %>
+  <p class="notice">
+    <%= image_tag("notice.png", :class => "small_icon", :border => 0) %>
+    <%= raw flash[:notice] %>
+  </p>
+<% end %>
