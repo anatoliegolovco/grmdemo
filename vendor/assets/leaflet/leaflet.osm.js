@@ -41,7 +41,8 @@ L.OSM.HartaMD = L.OSM.TileLayer.extend({
   options: {
     url: 'http://ots1.hartamd.com/tiles.php?z={z}&x={x}&y={y}',
     attribution: '© HartaMD.com',
-    tms: true
+    tms: true,
+    maxZoom: 17
   }
 });
 
