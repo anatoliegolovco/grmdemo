@@ -896,11 +896,11 @@ en:
   layouts:
     project_name:
       # in <title>
-      title: OpenStreetMap
+      title: GRM
       # in <h1>
-      h1: OpenStreetMap
+      h1: GRM
     logo:
-      alt_text: OpenStreetMap logo
+      alt_text: Geocoacher logo
     home: Go to Home Location
     logout: Log Out
     log_in: Log In
@@ -919,7 +919,7 @@ en:
     user_diaries_tooltip: View user diaries
     edit_with: Edit with %{editor}
     tag_line: The Free Wiki World Map
-    intro_header: Welcome to OpenStreetMap!
+    intro_header: Welcome to GRM!
     intro_text: OpenStreetMap is a map of the world, created by people like you and free to use under an open license.
     intro_2_create_account: "Create a user account"
     partners_html: "Hosting is supported by %{ucl}, %{ic} and %{bytemark}, and other %{partners}."
