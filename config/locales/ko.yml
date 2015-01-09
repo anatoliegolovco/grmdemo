@@ -301,7 +301,7 @@ ko:
         description: '%{language_name}로 된 GRM 최근 일기 항목'
       all:
         title: GRM 일기 항목
-        description: GRM의 사용자의 최근 일기 항목
+        description: OpenStreetMap의 사용자의 최근 일기 항목
     comments:
       has_commented_on: '%{display_name} 사용자가 다음 일기 항목에 덧글을 남겼습니다'
       post: 게시물
@@ -907,16 +907,16 @@ ko:
     user_diaries_tooltip: 사용자 일기 보기
     edit_with: '%{editor}(으)로 편집'
     tag_line: 우리 모두의 위키 세계 지도
-    intro_header: GRM에 오신 것을 환영합니다!
-    intro_text: GRM은 여러분과 같은 사람들이 만들고 자유롭게 오픈 라이선스에 따라 사용할 수 있는, 세계 지도입니다.
+    intro_header: OpenStreetMap에 오신 것을 환영합니다!
+    intro_text: OpenStreetMap은 여러분과 같은 사람들이 만들고 자유롭게 오픈 라이선스에 따라 사용할 수 있는, 세계 지도입니다.
     intro_2_create_account: 사용자 계정을 만드세요
     partners_html: 호스팅은 %{ucl}, %{ic}와 %{bytemark}, 그리고 다른 %{partners}에 의해 지원합니다.
     partners_ucl: UCL VR 센터
     partners_ic: 임페리얼 칼리지 런던 대학
     partners_bytemark: 바이트마크 호스팅
     partners_partners: 파트너
-    osm_offline: 데이터베이스 점검을 위해 GRM의 데이터가 현재 오프라인입니다.
-    osm_read_only: 데이터베이스 점검을 위해 GRM의 데이터가 현재 읽기 전용입니다.
+    osm_offline: 데이터베이스 점검을 위해 OpenStreetMap의 데이터가 현재 오프라인입니다.
+    osm_read_only: 데이터베이스 점검을 위해 OpenStreetMap의 데이터가 현재 읽기 전용입니다.
     donate: 하드웨어 업데이트 기금에서 %{link}에 의해 OpenStreet를 지원합니다.
     help: 도움말
     about: 소개
@@ -945,7 +945,7 @@ ko:
     legal_babble:
       title_html: 저작권 및 라이선스
       intro_1_html: |-
-        GRM은 <i>오픈 데이터</i>로 <a
+        OpenStreetMap은 <i>오픈 데이터</i>로 <a
         href="http://opendatacommons.org/licenses/odbl/">오픈 데이터
         커먼즈 오픈 데이터베이스 라이선스</a>(ODbL)에 따라 사용할 수 있습니다.
       intro_2_html: |-
@@ -971,13 +971,13 @@ ko:
         또한 데이터 형식으로 OSM을 배포할 때는 라이선스 이름과
         라이선스에 직접 링크를 할 수 있습니다. 링크할 수 없는
         매체(예를 들어 인쇄 작업)에서는 opendatacommons.org와
-        GRM.org('OpenStreetMap'을 전체 주소로 확장)로
+        openstreetmap.org('OpenStreetMap'을 전체 주소로 확장)로
         독자에 직접 알려주세요. 관련 있다면 creativecommons.org로 알려주세요.
       credit_3_html: |-
         찾아볼 수 있는 전자 지도에 대해서는 제작진은 지도의 모서리에 보여야만 합니다.
         예를 들어:
       attribution_example:
-        alt: 웹페이지에 GRM에 표시하는 방법의 예
+        alt: 웹페이지에 OpenStreetMap에 표시하는 방법의 예
         title: 권리 표시 예
       more_title_html: 자세히 찾기
       more_1_html: |-
@@ -985,7 +985,7 @@ ko:
         href="http://wiki.openstreetmap.org/wiki/Legal_FAQ">법적
         FAQ</a>를 자세히 읽으세요.
       more_2_html: |-
-        GRM은 오픈 데이터이지만 타사 개발자를 위한
+        OpenStreetMap은 오픈 데이터이지만 타사 개발자를 위한
         지도 API는 무료로 제공할 수 없습니다.
         <a href="http://wiki.openstreetmap.org/wiki/API_usage_policy">API 사용 정책</a>,
         <a href="http://wiki.openstreetmap.org/wiki/Tile_usage_policy">타일 사용 정책</a>과
@@ -1028,13 +1028,13 @@ ko:
         &copy; Crown 저작권 및 데이터베이스 권리
         2010-12를 포함합니다.
       contributors_footer_1_html: |-
-        자세한 내용과 GRM을 개선하는 데 도움이 되는 데 사용한
+        자세한 내용과 OpenStreetMap을 개선하는 데 도움이 되는 데 사용한
         기타 자료에 대해서는 GRM 위키에 있는 <a
         href="http://wiki.openstreetmap.org/wiki/Contributors">기여자 문서</a>
         를 참고하세요.
       contributors_footer_2_html: |-
-        GRM에 포함된 데이터는 원래 데이터 제공자가
-        GRM을 보증하거나 어떠한 보증도 제공하거나
+        OpenStreetMap에 포함된 데이터는 원래 데이터 제공자가
+        OpenStreetMap을 보증하거나 어떠한 보증도 제공하거나
         어떠한 책임도 진다는 것을 의미하지 않습니다.
       infringement_title_html: 저작권 침해
       infringement_1_html: |-
@@ -1049,13 +1049,13 @@ ko:
   welcome_page:
     title: 환영합니다!
     introduction_html: |-
-      세계의 자유롭고 편집할 수 있는 지도인, GRM에 오신 것을 환영합니다. 지금 가입하면,
+      세계의 자유롭고 편집할 수 있는 지도인, OpenStreetMap에 오신 것을 환영합니다. 지금 가입하면,
       시작된 매핑을 얻도록 모두 설정됩니다. 여기에서 알아야 하는 가장 중요한 것들로 된
       빠른 가이드가 있습니다.
     whats_on_the_map:
       title: 지도는 무엇입니까
       on_html: |-
-        GRM은 <em>현실과 현재</em> 둘 다를 매핑하기 위한 장소입니다 -
+        OpenStreetMap은 <em>현실과 현재</em> 둘 다를 매핑하기 위한 장소입니다 -
         장소에 대한 건물, 도로와 기타 자세한 수백만 정보를 포함합니다. 흥미있는
         현실 세계 기능은 무엇이든 매핑할 수 있습니다.
       off_html: |-
@@ -1064,7 +1064,7 @@ ko:
         온라인이나 종이 지도에서 복사하지 마십시오.
     basic_terms:
       title: 매핑에 대한 기본 용어
-      paragraph_1_html: GRM은 자신의 용어 중 일부가 있습니다. 여기에 편리하게 사용할 수 있는 몇 가지 핵심
+      paragraph_1_html: OpenStreetMap은 자신의 용어 중 일부가 있습니다. 여기에 편리하게 사용할 수 있는 몇 가지 핵심
         단어가 있습니다.
       editor_html: <strong>편집기</strong>는 지도를 편집하는 데 사용할 수 있는 프로그램이나 웹사이트입니다.
       node_html: <strong>노드</strong>는 음식점 한 곳이나 나무와 같은, 지도에 있는 지점입니다.
@@ -1075,7 +1075,7 @@ ko:
     questions:
       title: 질문 있나요?
       paragraph_1_html: |-
-        GRM은 프로젝트에 대해 배우고, 질문을 묻고 답하고,
+        OpenStreetMap은 프로젝트에 대해 배우고, 질문을 묻고 답하고,
         매핑 주제를 협력하여 토론하고 문서하기 위한 여러 자료가 있습니다.
         <a href='%{help_url}'>여기서 도움을 얻으세요</a>.
     start_mapping: 매핑 시작
@@ -1111,7 +1111,7 @@ ko:
   help_page:
     title: 도움말 얻기
     introduction: |-
-      GRM은 프로젝트에 대해 배우고, 질문을 묻고 답하고,
+      OpenStreetMap은 프로젝트에 대해 배우고, 질문을 묻고 답하고,
       매핑 주제를 협력하여 토론하고 문서하기 위한 여러 자료가 있습니다.
     welcome:
       url: /welcome
@@ -1130,16 +1130,16 @@ ko:
     copyright_html: <span>&copy;</span>OpenStreetMap<br>기여자
     used_by: '%{name}은 수 많은 웹 사이트, 모바일 앱과 하드웨어 장치에 지도 데이터를 공급합니다'
     lede_text: |-
-      GRM은 전 세계에 걸쳐, 도로, 산책로, 카페, 기차역과 훨씬 많은 데이터를
+      OpenStreetMap은 전 세계에 걸쳐, 도로, 산책로, 카페, 기차역과 훨씬 많은 데이터를
       기여하고 유지하는 매퍼 공동체에 의해 구축됩니다.
     local_knowledge_title: 지역 지식
     local_knowledge_html: |-
-      GRM은 지역 지식을 강조합니다. 기여자는 OSM이 정확하고
+      OpenStreetMap은 지역 지식을 강조합니다. 기여자는 OSM이 정확하고
       최신으로 검증하기 위해 항공 영상, GPS 장치와, 낮은 기술 분야 지도를
       사용합니다.
     community_driven_title: 공동체 주도
     community_driven_html: |-
-      GRM의 공동체는 다양하고, 열정적이며, 매일 자라고 있습니다.
+      OpenStreetMap의 공동체는 다양하고, 열정적이며, 매일 자라고 있습니다.
       우리의 기여자는 열광하는 매퍼, GIS 전문가, OSM 서버를 실행하는 기술자,
       재해 피해를 입은 지역을 매핑하는 인도주의자, 그리고 더 많은 기여자를
       포함합니다.
@@ -1147,7 +1147,7 @@ ko:
       <a href='http://blogs.openstreetmap.org/'>공동체 블로그</a>와, <a href='http://www.osmfoundation.org/'>OSM 재단</a> 웹사이트를 참고하세요.
     open_data_title: 오픈 데이터
     open_data_html: |-
-      GRM은 <i>오픈 데이터</i>입니다: GRM과 기여자를 제작진으로
+      OpenStreetMap은 <i>오픈 데이터</i>입니다: OpenStreetMap과 기여자를 제작진으로
       어떤 목적으로도 자유롭게 사용할 수 있습니다. 특정 방법으로 바꾸거나
       데이터에 빌드한다면, 동일한 라이선스에 따라 결과를 배포할 수 있습니다.
       자세한 내용은 <a href='%{copyright_path}'>저작권 및 라이선스 페이지</a>를
@@ -1162,7 +1162,7 @@ ko:
         답글을 남길 수 있습니다.'
     message_notification:
       hi: 안녕하세요 %{to_user}님,
-      header: '%{from_user}님이 GRM을 통해 %{subject} 제목으로 된 메시지를 보냈습니다:'
+      header: '%{from_user}님이 OpenStreetMap을 통해 %{subject} 제목으로 된 메시지를 보냈습니다:'
       footer_html: 또한 %{readurl}에서 메시지를 읽을 수 있고 %{replyurl}에서 회신할 수 있습니다.
     friend_notification:
       subject: '[OpenStreetMap] %{user}님이 당신을 친구로 추가했습니다'
@@ -1185,7 +1185,7 @@ ko:
         loaded_successfully: 가능한 %{possible_points} 지점 중 %{trace_points} 지점을 성공적으로
           불러왔습니다.
     signup_confirm:
-      subject: '[OpenStreetMap] GRM에 오신 것을 환영합니다'
+      subject: '[OpenStreetMap] OpenStreetMap에 오신 것을 환영합니다'
       greeting: 안녕하세요!
       created: 누군가가 아마도 자신이 %{site_url} 에 계정을 만들었습니다.
       confirm: '무엇을 하기 전에 당신에게 온 요청을 확인해야 하며 만약 당신에게 온 요청이 맞다면 계정을 확인하기 위해 아래 링크를
@@ -1205,11 +1205,11 @@ ko:
       subject: '[OpenStreetMap] 비밀번호 재설정 요청'
     lost_password_plain:
       greeting: 안녕하세요,
-      hopefully_you: 누군가가 아마 자신이 이 이메일 계정의 GRM.org 계정에서 재설정할 비밀번호를 요청했습니다.
+      hopefully_you: 누군가가 아마 자신이 이 이메일 계정의 openstreetmap.org 계정에서 재설정할 비밀번호를 요청했습니다.
       click_the_link: 만약 당신이라면 비밀번호를 재설정하기 위해 아래 링크를 클릭하세요.
     lost_password_html:
       greeting: 안녕하세요,
-      hopefully_you: 누군가가 아마 자신이 이 이메일 계정의 GRM.org 계정에서 재설정할 비밀번호를 요청했습니다.
+      hopefully_you: 누군가가 아마 자신이 이 이메일 계정의 openstreetmap.org 계정에서 재설정할 비밀번호를 요청했습니다.
       click_the_link: 만약 당신이라면 비밀번호를 재설정하기 위해 아래 링크를 클릭하세요.
     note_comment_notification:
       anonymous: 익명 사용자
@@ -1307,12 +1307,12 @@ ko:
   site:
     index:
       js_1: 자바스크립트를 지원하지 않는 브라우저이거나, 자바스크립트가 활성화 되어 있지 않습니다.
-      js_2: GRM은 매끄러운 지도를 위해 자바스크립트를 사용합니다.
+      js_2: OpenStreetMap은 매끄러운 지도를 위해 자바스크립트를 사용합니다.
       permalink: 고유링크
       shortlink: 짧은링크
       createnote: 참고 추가
       license:
-        copyright: 저작권 GRM과 기여자, 오픈 라이선스로 배포
+        copyright: 저작권 OpenStreetMap과 기여자, 오픈 라이선스로 배포
       remote_failed: 편집을 실패했습니다 - JOSM이나 Merkaartor를 불러왔고 원격 제어 설정이 활성화되어 있는지 확인하세요
     edit:
       not_public: 공개할 편집을 설정하지 않았습니다.
@@ -1599,7 +1599,7 @@ ko:
       issued_at: 발행
       revoke: 해제!
       my_apps: 내 클라이언트 애플리케이션
-      no_apps: '%{oauth} 표준을 사용하여 GRM과 함께 사용하기 위해 등록할 애플리케이션이 있습니까? 이 서비스에
+      no_apps: '%{oauth} 표준을 사용하여 OpenStreetMap과 함께 사용하기 위해 등록할 애플리케이션이 있습니까? 이 서비스에
         OAuth를 요청하기 전에 웹 애플리케이션을 등록해야 합니다.'
       registered_apps: '등록된 다음 클라이언트 애플리케이션이 있습니다:'
       register_new: 내 애플리케이션 등록
@@ -1638,7 +1638,7 @@ ko:
       register now: 지금 등록하세요
       with username: '이미 GRM 계정을 가지고 있나요? 계정 이름과 비밀번호로 로그인하세요:'
       with openid: '또는 OpenID로 로그인하세요:'
-      new to osm: GRM이 처음이세요?
+      new to osm: OpenStreetMap이 처음이세요?
       to make changes: GRM 데이터를 바꾸려면 계정이 있어야 합니다.
       create account minute: 계정을 만듭니다. 1분도 걸리지 않습니다.
       no account: 계정이 없나요?
@@ -1668,7 +1668,7 @@ ko:
           alt: AOL OpenID로 로그인
     logout:
       title: 로그아웃
-      heading: GRM에서 로그아웃
+      heading: OpenStreetMap에서 로그아웃
       logout_button: 로그아웃
     lost_password:
       title: 잊어버진 비밀번호
@@ -1694,7 +1694,7 @@ ko:
       about:
         header: 자유롭고 편집 가능
         html: |-
-          <p>다른 지도와는 달리, GRM은 완전히 여러분과 같은 사람들이 만들고,
+          <p>다른 지도와는 달리, OpenStreetMap은 완전히 여러분과 같은 사람들이 만들고,
           누구나 자유롭게 고치고, 업데이트하고, 다운로드하고 사용할 수 있습니다.</p>
           <p>기여를 시작하려면 가입하세요. 계정을 확인하는 이메일을 보내드립니다.</p>
       license_agreement: 계정을 확인하면 당신은 <a href="http://www.osmfoundation.org/wiki/License/Contributor_Terms">기여자

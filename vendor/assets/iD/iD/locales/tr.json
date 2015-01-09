@@ -293,15 +293,15 @@
     },
     "save": {
         "title": "Kaydet",
-        "help": "Diğer kullanıcıların yaptığınız değişiklikleri görmesi için GRM'e kaydediniz.",
+        "help": "Diğer kullanıcıların yaptığınız değişiklikleri görmesi için OpenStreetMap'e kaydediniz.",
         "no_changes": "Kaydedilecek bir değişiklik yok",
         "error": "Kaydederken bir hata oluştu",
-        "uploading": "Değişiklikleriniz GRM'e gönderiliyor.",
+        "uploading": "Değişiklikleriniz OpenStreetMap'e gönderiliyor.",
         "unsaved_changes": "Kaydedilmemiş değişiklikleriniz var"
     },
     "success": {
         "edited_osm": "Düzenlenmiş OSM!",
-        "just_edited": "Şu an GRM'de bir değişiklik yaptınız!",
+        "just_edited": "Şu an OpenStreetMap'de bir değişiklik yaptınız!",
         "view_on_osm": "OSM üzerinde gör",
         "facebook": "Facebook'da Paylaş",
         "twitter": "Twitter'da Paylaş",
@@ -331,7 +331,7 @@
         "untagged_point": "Etiketlenmemiş nokta",
         "untagged_line": "Etiketlenmemiş çizgi",
         "untagged_area": "Etiketlenmemiş alan",
-        "many_deletions": "Şu an {n} adet objeyi siliyorsunuz. Bunu yapmak istediğinize emin misiniz? Bu işlem ile ilgili objelerin tamamı herkesin ziyaret ettiği GRM.org üzerinden de silinmiş olacaktır.",
+        "many_deletions": "Şu an {n} adet objeyi siliyorsunuz. Bunu yapmak istediğinize emin misiniz? Bu işlem ile ilgili objelerin tamamı herkesin ziyaret ettiği openstreetmap.org üzerinden de silinmiş olacaktır.",
         "tag_suggests_area": "{tag} etiketi buranın alan olmasını tavsiye ediyor ama alan değil.",
         "untagged_point_tooltip": "Bu noktanın ne olduğunu belirten bir özellik türü seç.",
         "untagged_line_tooltip": "Bu çizginin ne olduğunu belirten bir özellik türü seç.",

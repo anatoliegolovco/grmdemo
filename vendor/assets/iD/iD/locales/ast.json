@@ -169,7 +169,7 @@
     },
     "zoom_in_edit": "Averar pa editar",
     "logout": "zarrar sesión",
-    "loading_auth": "Coneutando con GRM...",
+    "loading_auth": "Coneutando con OpenStreetMap...",
     "report_a_bug": "informar d'un fallu",
     "status": {
         "error": "Nun se pue coneutar cola API.",
@@ -199,7 +199,7 @@
         "no_documentation_combination": "Nun hai documentación disponible pa esta combinación d'etiquetes",
         "no_documentation_key": "Nun hai documentación disponible pa esta clave",
         "show_more": "Ver más",
-        "view_on_osm": "Ver en GRM.org",
+        "view_on_osm": "Ver en openstreetmap.org",
         "all_tags": "Toles etiquetes",
         "all_members": "Tolos miembros",
         "all_relations": "Toles rellaciones",
@@ -236,15 +236,15 @@
     },
     "save": {
         "title": "Guardar",
-        "help": "Guardar cambios a GRM, faciendolos visibles a otros usuarios.",
+        "help": "Guardar cambios a OpenStreetMap, faciendolos visibles a otros usuarios.",
         "no_changes": "Nun hai cambios que guardar.",
         "error": "Hebo un error al intentar guardar",
-        "uploading": "Xubiendo cambios a GRM.",
+        "uploading": "Xubiendo cambios a OpenStreetMap.",
         "unsaved_changes": "Tien cambios ensin guardar"
     },
     "success": {
         "edited_osm": "¡Editáu OSM!",
-        "just_edited": "¡Acaba d'editar GRM!",
+        "just_edited": "¡Acaba d'editar OpenStreetMap!",
         "view_on_osm": "Ver en OSM",
         "facebook": "Compartir en Facebook",
         "twitter": "Compartir en Twitter",
@@ -273,7 +273,7 @@
         "untagged_point": "Puntu ensin etiquetar",
         "untagged_line": "Llinia ensin etiquetar",
         "untagged_area": "Área ensin etiquetar",
-        "many_deletions": "Va desaniciar {n} oxetos. ¿Ta seguru de que ye esto lo que quier facer? Esto desaniciarálos del mapa que ve tol mundu en GRM.org.",
+        "many_deletions": "Va desaniciar {n} oxetos. ¿Ta seguru de que ye esto lo que quier facer? Esto desaniciarálos del mapa que ve tol mundu en openstreetmap.org.",
         "tag_suggests_area": "La etiqueta {tag} suxer que la llinia tendría de ser un área, pero nun ye un area",
         "deprecated_tags": "Etiquetes anticuaes: {tags}"
     },

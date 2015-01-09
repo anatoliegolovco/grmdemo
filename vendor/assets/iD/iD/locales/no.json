@@ -151,7 +151,7 @@
         "localized_translation_name": "Navn"
     },
     "logout": "logg ut",
-    "loading_auth": "Kobler til GRM...",
+    "loading_auth": "Kobler til OpenStreetMap...",
     "report_a_bug": "meld en programvarefeil",
     "commit": {
         "title": "Lagre endringer",
@@ -200,14 +200,14 @@
     },
     "save": {
         "title": "Lagre",
-        "help": "Lagre endringene i GRM, slik at de blir synlige for andre brukere.",
+        "help": "Lagre endringene i OpenStreetMap, slik at de blir synlige for andre brukere.",
         "no_changes": "Ingen endringer å lagre.",
         "error": "Det oppstod en feil ved forsøk på å lagre",
-        "uploading": "Laster opp endringer til GRM.",
+        "uploading": "Laster opp endringer til OpenStreetMap.",
         "unsaved_changes": "Du har ulagrede endringer"
     },
     "success": {
-        "just_edited": "Du har akkurat endret GRM!",
+        "just_edited": "Du har akkurat endret OpenStreetMap!",
         "view_on_osm": "Vis på OSM",
         "facebook": "Del på Facebook",
         "twitter": "Del på Twitter",
@@ -230,7 +230,7 @@
     "validations": {
         "untagged_line": "Utagget linje",
         "untagged_area": "Utagget areal",
-        "many_deletions": "Du skal slette {n} objekter. Er du sikker på at du vil gjøre dette? Dette vil slette dem fra kartet som alle andre ser på GRM.org.",
+        "many_deletions": "Du skal slette {n} objekter. Er du sikker på at du vil gjøre dette? Dette vil slette dem fra kartet som alle andre ser på openstreetmap.org.",
         "tag_suggests_area": "Taggen {tag} anbefaler at linje bør være et areal, men dette er ikke et areal"
     },
     "zoom": {

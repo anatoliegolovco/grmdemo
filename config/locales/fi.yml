@@ -315,15 +315,15 @@ fi:
       edit: Muokkaa
     feed:
       user:
-        title: Käyttäjän %{user} GRM-päiväkirjamerkinnät
-        description: Tuoreimmat GRMin päiväkirjamerkinnät käyttäjältä %{user}
+        title: Käyttäjän %{user} OpenStreetMap-päiväkirjamerkinnät
+        description: Tuoreimmat OpenStreetMapin päiväkirjamerkinnät käyttäjältä %{user}
       language:
-        title: GRM-päiväkirjamerkinnät kielellä %{language_name}
-        description: Viimeisimmät päiväkirjamerkinnät GRMin käyttäjiltä
+        title: OpenStreetMap-päiväkirjamerkinnät kielellä %{language_name}
+        description: Viimeisimmät päiväkirjamerkinnät OpenStreetMapin käyttäjiltä
           kielellä %{language_name}
       all:
-        title: GRM-päiväkirjamerkinnät
-        description: Tuoreimmat GRMin käyttäjien päiväkirjamerkinnät
+        title: OpenStreetMap-päiväkirjamerkinnät
+        description: Tuoreimmat OpenStreetMapin käyttäjien päiväkirjamerkinnät
     comments:
       has_commented_on: '%{display_name} on kommentoinut seuraavia päiväkirjamerkintöjä'
       post: Kommentti
@@ -338,11 +338,11 @@ fi:
       area_to_export: Vietävä alue
       manually_select: Valitse pienempi alue
       format_to_export: Vientimuoto
-      osm_xml_data: GRMin XML-muoto
+      osm_xml_data: OpenStreetMapin XML-muoto
       map_image: Karttakuva (näyttää standarditason)
       embeddable_html: HTML-koodi
       licence: Lisenssi
-      export_details: GRM-karttatietoja saa käyttää <a href="http://opendatacommons.org/licenses/odbl/1.0/">Open
+      export_details: OpenStreetMap-karttatietoja saa käyttää <a href="http://opendatacommons.org/licenses/odbl/1.0/">Open
         Data Commons Open Database License</a> (ODbL) (engl.) ehdoilla.
       too_large:
         advice: 'Jos vientitoiminto ei toimi, kokeile myös seuraavia palveluja:'
@@ -351,7 +351,7 @@ fi:
           seuraavista:'
         planet:
           title: Planet OSM
-          description: Säännöllisesti päivitettyjä kopioita täydellisestö GRM-tietokannasta
+          description: Säännöllisesti päivitettyjä kopioita täydellisestö OpenStreetMap-tietokannasta
         overpass:
           title: Ylikulku-API
         geofabrik:
@@ -364,7 +364,7 @@ fi:
             alueista
         other:
           title: Muut lähteet
-          description: Muut lähteet ovat esillä GRM-wikissä
+          description: Muut lähteet ovat esillä OpenStreetMap-wikissä
       options: Asetukset
       format: 'Tiedostomuoto:'
       scale: Mittakaava
@@ -910,7 +910,7 @@ fi:
       west: länteen
   layouts:
     logo:
-      alt_text: GRM-logo
+      alt_text: OpenStreetMap-logo
     home: Siirry kotipaikkaan
     logout: Kirjaudu ulos
     log_in: kirjaudu sisään
@@ -929,7 +929,7 @@ fi:
     user_diaries_tooltip: Näytä käyttäjän päiväkirjat
     edit_with: 'Muokkaa: %{editor}'
     tag_line: Vapaa ja avoin maailmankartta
-    intro_header: Tervetuloa GRMiin!
+    intro_header: Tervetuloa OpenStreetMapiin!
     intro_text: GRM on tavallisten ihmisten luoma maailmankartta. Palvelun
       käyttäminen on ilmaista avoimen lisenssin ansiosta.
     intro_2_create_account: luomalla ensin käyttäjätunnuksen
@@ -938,21 +938,21 @@ fi:
     partners_ic: Imperial College London
     partners_bytemark: Bytemark Hosting
     partners_partners: kumppanimme
-    osm_offline: GRMin tietokanta ei toistaiseksi ole käytettävissä välttämättömien
+    osm_offline: OpenStreetMapin tietokanta ei toistaiseksi ole käytettävissä välttämättömien
       ylläpitotöiden takia.
-    osm_read_only: GRMin tietokantaa ei toistaiseksi voi muokata välttämättömien
+    osm_read_only: OpenStreetMapin tietokantaa ei toistaiseksi voi muokata välttämättömien
       ylläpitotöiden takia.
-    donate: Tue GRMia %{link} laitteistopäivitysrahastoon.
+    donate: Tue OpenStreetMapia %{link} laitteistopäivitysrahastoon.
     help: Ohje
     about: Tietoja
     copyright: Tekijänoikeudet
     community: Yhteisö
     community_blogs: Yhteisöblogit
-    community_blogs_title: GRM-yhteisön jäsenten blogit
+    community_blogs_title: OpenStreetMap-yhteisön jäsenten blogit
     foundation: Säätiö
-    foundation_title: GRM-säätiö
+    foundation_title: OpenStreetMap-säätiö
     make_a_donation:
-      title: Tue GRMia rahallisella lahjoituksella.
+      title: Tue OpenStreetMapia rahallisella lahjoituksella.
       text: Lahjoita
     learn_more: Lisätietoja
     more: Lisää
@@ -983,9 +983,9 @@ fi:
       intro_3_html: |-
         Kartta-aineisto ja dokumentaatio on lisensoitu <a href="http://creativecommons.org/licenses/by-sa/2.0/deed.fi">Creative
         Commons Nimeä-Jaa samoin 2.0</a> -lisenssillä. (CC-BY-SA).
-      credit_title_html: GRMin mainitseminen
-      credit_1_html: GRMin sisältöä levitettäessä on mainittava teksti &quot;&copy;
-        GRMin tekijät&quot; tai sen englanninkielinen vastine &quot;&copy;
+      credit_title_html: OpenStreetMapin mainitseminen
+      credit_1_html: OpenStreetMapin sisältöä levitettäessä on mainittava teksti &quot;&copy;
+        OpenStreetMapin tekijät&quot; tai sen englanninkielinen vastine &quot;&copy;
         GRM contributors&quot;.
       credit_2_html: "Levittäjän tulee tehdä selväksi, että aineisto on saatavilla
         Open Database Lisenssillä,\nja kartta-aineiston olevan lisensoitu CC-BY-SA-lisenssillä.
@@ -1041,27 +1041,27 @@ fi:
         <strong>Iso-Britanna</strong>: Sisältää Ordnance Surveyn
         keräämiä karttatietoja © Crown Copyright ja tietokantojen käyttöoikeus 2010-12.
       contributors_footer_1_html: |-
-        Täydellinen lista GRMin tukijoista löytyy GRMin wikistä <a
+        Täydellinen lista OpenStreetMapin tukijoista löytyy OpenStreetMapin wikistä <a
         href="http://wiki.openstreetmap.org/wiki/Contributors">Avustajat-sivulta</a>.
       contributors_footer_2_html: |-
-        Tietojen sisältyminen GRMiin ei tarkoita, että tietojen antaja
-        ottaa kantaa GRMiin tai vastuuta tietojen oikeellisuudesta.
+        Tietojen sisältyminen OpenStreetMapiin ei tarkoita, että tietojen antaja
+        ottaa kantaa OpenStreetMapiin tai vastuuta tietojen oikeellisuudesta.
       infringement_title_html: Tekijänoikeusloukkaus
       infringement_1_html: |-
-        GRMin kartoittajia muistutetaan, että kopioiminen tekijänoikeuksien alaisista teoksista
+        OpenStreetMapin kartoittajia muistutetaan, että kopioiminen tekijänoikeuksien alaisista teoksista
         (esimerkiksi Google Mapsista tai paperikartoista) ilman tekijänoikeuden haltijan nimenomaista lupaa on kielletty.
-      infringement_2_html: Jos kuka tahansa GRMin käyttäjä epäilee, että
+      infringement_2_html: Jos kuka tahansa OpenStreetMapin käyttäjä epäilee, että
         karttatietoja on otettu luvattomasta lähteestä OSM:n karttatietoihin tai sivustolle,
         siitä tulee tehdä <a href="http://www.osmfoundation.org/wiki/License/Takedown_procedure">poistopyyntö</a>
         tai <a href="http://dmca.openstreetmap.org/">ilmoittaa suoraan</a>.
   welcome_page:
     title: Tervetuloa!
-    introduction_html: Tervetuloa GRMiin, ilmaiseen ja vapaasti muokattavaan
+    introduction_html: Tervetuloa OpenStreetMapiin, ilmaiseen ja vapaasti muokattavaan
       maailmankarttaan. Rekisteröityminen on nyt suoritettu, joten olet valmis aloittamaan
       kartan muokkaamisen. Tutustu ensin kuitenkin näihin perusasioihin.
     whats_on_the_map:
       title: Mitä kartalla on
-      on_html: GRMissä voi kartoittaa asioita, jotka ovat <em>olemassa juuri
+      on_html: OpenStreetMapissä voi kartoittaa asioita, jotka ovat <em>olemassa juuri
         nyt</em> – se sisältää miljoonia rakennuksia, teitä ja muita tietoja maailmasta.
         Voit kartoittaa mitä tahansa reaalimaailman piirteitä, jotka sinua kiinnostavat.
       off_html: Kartta <em>ei</em> sisällä mielipiteitä, kuten arvosteluja, historiallisia
@@ -1069,7 +1069,7 @@ fi:
         lähteistä. Ellei sinulla ole erityistä lupaa, älä kopioi verkko- tai paperikarttoja.
     basic_terms:
       title: Käsitteitä ja termistöä
-      paragraph_1_html: GRMissa käytetään lukuisia, vain siinä esiintyviä
+      paragraph_1_html: OpenStreetMapissa käytetään lukuisia, vain siinä esiintyviä
         termejä. Kun nämä termit ovat hallinnassa, olet jo voiton puolella!
       editor_html: <strong>Muokkausohjelma</strong> tai <strong>kartanmuokkain</strong>
         (engl. editor) on ohjelmisto tai verkkosivusto, jolla voi muokata karttaa.
@@ -1084,8 +1084,8 @@ fi:
         nimi tai kadun nopeusrajoitus.
     questions:
       title: Kysyttävää?
-      paragraph_1_html: GRMin käyttötukea on saatavilla useilla eri tavoilla.
-        Tutustu GRMin <a href='%{help_url}'>ohjekeskukseen</a>.
+      paragraph_1_html: OpenStreetMapin käyttötukea on saatavilla useilla eri tavoilla.
+        Tutustu OpenStreetMapin <a href='%{help_url}'>ohjekeskukseen</a>.
     start_mapping: Aloita kartan muokkaaminen
     add_a_note:
       title: Eikö muokkaaminen kiinnosta? Ilmoita karttavirheistä!
@@ -1104,7 +1104,7 @@ fi:
       join_the_community:
         title: Liity yhteisöön
         explanation_html: Jos olet huomannut ongelman kartassa, kuten puuttuvan tien
-          tai puuttuvan osoitteesi, paras tapa toimia on liittyä GRM-yhteisöön
+          tai puuttuvan osoitteesi, paras tapa toimia on liittyä OpenStreetMap-yhteisöön
           ja lisätä tai korjata kohta itse.
       add_a_note:
         instructions_html: "Klikkaa vain <a class='icon note'></a> tai samaa ikonia
@@ -1117,12 +1117,12 @@ fi:
         saadaksesi lisätietoa, tai ota yhteyttä sopivaan<a href='http://wiki.osmfoundation.org/wiki/Working_Groups'>OSMF-työryhmään</a>.
   help_page:
     title: Ohjekeskus
-    introduction: Ohjeita ja vinkkejä GRMin käyttöön on saatavilla useista
+    introduction: Ohjeita ja vinkkejä OpenStreetMapin käyttöön on saatavilla useista
       eri lähteistä.
     welcome:
       url: /welcome
-      title: Tervetuloa GRMiin
-      description: Opi GRMin perusteet tällä helpolla aloitusoppaalla.
+      title: Tervetuloa OpenStreetMapiin
+      description: Opi OpenStreetMapin perusteet tällä helpolla aloitusoppaalla.
     help:
       url: https://help.openstreetmap.org/
       title: help.openstreetmap.org
@@ -1131,22 +1131,22 @@ fi:
     wiki:
       url: http://wiki.openstreetmap.org/wiki/Fi:Main_Page
       title: wiki.openstreetmap.org
-      description: Tutustu syvällisemmin GRMiin wikikirjastossa. Osittain
+      description: Tutustu syvällisemmin OpenStreetMapiin wikikirjastossa. Osittain
         englanninkielinen.
   about_page:
     next: Seuraava
     copyright_html: <span>&copy;</span>OpenStreetMapin<br>tekijät
     used_by: Sadat verkkosivustot, sovellukset ja laitteet käyttävät %{name}-karttaa
-    lede_text: GRMia rakentavat vapaaehtoiset yhteisön jäsenet, jotka tuottavat
+    lede_text: OpenStreetMapia rakentavat vapaaehtoiset yhteisön jäsenet, jotka tuottavat
       ja ylläpitävät karttatietoja teistä, rautateistä, kahviloista, rautatieasemista
       ja monista muista kohteista kaikkialla maailmassa.
     local_knowledge_title: Paikallistuntemus
-    local_knowledge_html: GRMissa korostuu paikallistuntemus. Kartoittajat
-      käyttävät ilmakuvia, GPS-paikantamia ja jalkautumista pitääkseen GRM-kartan
+    local_knowledge_html: OpenStreetMapissa korostuu paikallistuntemus. Kartoittajat
+      käyttävät ilmakuvia, GPS-paikantamia ja jalkautumista pitääkseen OpenStreetMap-kartan
       ajan tasalla.
     community_driven_title: Yhteisön voima
     community_driven_html: |-
-      GRM-yhteisö on monipuolinen, intohimoinen ja kasvaa joka päivä. Yhteisöön kuuluu harrastajakartoittajia, GIS-ammattilaisia, järjestelmää ylläpitäviä insinöörejä, humanitaarisia auttajia, jotka kartoittavat katastrofin kärsineitä alueita sekä monia muita. Lisätietoja yhteisöstä saa lukemalla <a href='%{diary_path}'>käyttäjien päiväkirjoja</a>,
+      OpenStreetMap-yhteisö on monipuolinen, intohimoinen ja kasvaa joka päivä. Yhteisöön kuuluu harrastajakartoittajia, GIS-ammattilaisia, järjestelmää ylläpitäviä insinöörejä, humanitaarisia auttajia, jotka kartoittavat katastrofin kärsineitä alueita sekä monia muita. Lisätietoja yhteisöstä saa lukemalla <a href='%{diary_path}'>käyttäjien päiväkirjoja</a>,
       <a href='http://blogs.openstreetmap.org/'>yhteisöblogeja</a> ja
       <a href='http://www.osmfoundation.org/'>OSM-säätiön</a> verkkosivua.
     open_data_title: Avoin data
@@ -1159,19 +1159,19 @@ fi:
     diary_comment_notification:
       subject: '[OpenStreetMap] %{user} on lisännyt kommentin päiväkirjamerkintääsi'
       hi: Hei %{to_user},
-      header: '%{from_user} kommentoi kirjoittamaasi päiväkirjamerkintää GRMissa
+      header: '%{from_user} kommentoi kirjoittamaasi päiväkirjamerkintää OpenStreetMapissa
         otsikolla %{subject}:'
       footer: Lue kommentti sivulla %{readurl}. Jatkokommentin voi lähettää sivulla
         %{commenturl} tai vastausviestin sivulla %{replyurl}.
     message_notification:
       hi: Hei %{to_user}!
-      header: '%{from_user} on lähettänyt sinulle viestin GRMissa otsikkolla
+      header: '%{from_user} on lähettänyt sinulle viestin OpenStreetMapissa otsikkolla
         %{subject}:'
       footer_html: Lue viesti osoitteessa %{readurl} ja vastaa siihen osoitteessa
         %{replyurl}.
     friend_notification:
       subject: '[OpenStreetMap] %{user} lisäsi sinut kaverikseen'
-      had_added_you: Käyttäjä %{user} lisäsi sinut kaverikseen GRMissa.
+      had_added_you: Käyttäjä %{user} lisäsi sinut kaverikseen OpenStreetMapissa.
       see_their_profile: Voit tutustua hänen profiiliinsa osoitteessa %{userurl}.
       befriend_them: Voit myös lisätä lähettäjän kaveriksi osoitteessa %{befriendurl}.
     gpx_notification:
@@ -1190,7 +1190,7 @@ fi:
         loaded_successfully: '%{trace_points} pistettä ladattu onnistuneesti mahdollisista
           %{possible_points} pisteestä.'
     signup_confirm:
-      subject: '[OpenStreetMap] Tervetuloa GRM-sovellukseen'
+      subject: '[OpenStreetMap] Tervetuloa OpenStreetMap-sovellukseen'
       greeting: Hei!
       created: Joku (toivottavasti sinä) on luonut käyttäjätunnuksen osoitteessa %{site_url}.
       confirm: 'Jos olet luonut tämän käyttäjätilin, vahvista se napsauttamalla tätä
@@ -1214,11 +1214,11 @@ fi:
     lost_password_plain:
       greeting: Hei!
       hopefully_you: Joku (mahdollisesti sinä) on pyytänyt tähän sähköpostiosoitteeseen
-        rekisteröidyn GRM.org-tunnuksen salasanan vaihtoa.
+        rekisteröidyn openstreetmap.org-tunnuksen salasanan vaihtoa.
       click_the_link: Jos tämä olet sinä, napsauta linkkiä alla nollataksesi salasanasi.
     lost_password_html:
       greeting: Hei,
-      hopefully_you: Tähän sähköpostiosoitteeseen linkitetyn GRM.org-käyttäjätilin
+      hopefully_you: Tähän sähköpostiosoitteeseen linkitetyn OpenStreetMap.org-käyttäjätilin
         salasanaa on pyydetty vaihdettavan.
       click_the_link: Jos olet pyytänyt uutta salasanaa, palauta salasanasi napsauttamalla
         alapuolella olevaa linkkiä.
@@ -1331,7 +1331,7 @@ fi:
       shortlink: Lyhytosoite
       createnote: Ilmoita karttavirheestä
       license:
-        copyright: 'Tekijänoikeus: GRMin tekijät, avoimella lisenssillä'
+        copyright: 'Tekijänoikeus: OpenStreetMapin tekijät, avoimella lisenssillä'
       remote_failed: Muokkaus epäonnistui - varmista, että JOSM tai Merkaartor on
         ladattu ja etähallinta-asetus on käytössä
     edit:
@@ -1558,7 +1558,7 @@ fi:
       heading: GPX-jälkien tallennus ei ole käytettävissä
       message: GPX-jälkien tallennusjärjestelmä ei ole tällä hetkellä käytettävissä
     georss:
-      title: GRMin GPS-jäljet
+      title: OpenStreetMapin GPS-jäljet
     description:
       description_with_count:
         one: GPX-tiedosto, jossa on %{count} piste käyttäjältä %{user}
@@ -1666,10 +1666,10 @@ fi:
       lost password link: Unohditko salasanasi?
       login_button: Kirjaudu sisään
       register now: Rekisteröidy
-      with username: 'Onko sinulla jo GRM-tunnus? Kirjaudu sillä sisään:'
+      with username: 'Onko sinulla jo OpenStreetMap-tunnus? Kirjaudu sillä sisään:'
       with openid: 'Kirjaudu OpenID-tunnuksella:'
-      new to osm: Oletko uusi GRMin käyttäjä?
-      to make changes: GRMin karttatietojen muuttaminen vaatii käyttäjätunnuksen.
+      new to osm: Oletko uusi OpenStreetMapin käyttäjä?
+      to make changes: OpenStreetMapin karttatietojen muuttaminen vaatii käyttäjätunnuksen.
       create account minute: Luo käyttäjätunnus. Se kestää vain hetken.
       no account: Eikö sinulla vielä ole käyttäjätunnusta?
       account not active: Käyttäjätunnustasi ei ole vielä aktivoitu.<br />Aktivoi
@@ -1700,7 +1700,7 @@ fi:
           alt: Kirjaudu sisään AOL:n OpenID-tunnuksella
     logout:
       title: Kirjaudu ulos
-      heading: Kirjaudu ulos GRMista
+      heading: Kirjaudu ulos OpenStreetMapista
       logout_button: Kirjaudu ulos
     lost_password:
       title: Unohtunut salasana
@@ -1747,8 +1747,8 @@ fi:
       use openid: Rekisteröidy %{logo} OpenID-tunnuksella
       openid no password: OpenID:iä käytettäessä salasana ei ole pakollinen, mutta
         jotkut erikoistyökalut ja -palvelimet saattavat vaatia sen.
-      openid association: "<p>OpenID-tunnustasi ei ole vielä yhdistetty GRM-käyttäjätiliin.</p>\n<ul>\n
-        \ <li>Jos olet uusi GRMin käyttäjä, luo uusi tunnus käyttäen lomaketta,
+      openid association: "<p>OpenID-tunnustasi ei ole vielä yhdistetty OpenStreetMap-käyttäjätiliin.</p>\n<ul>\n
+        \ <li>Jos olet uusi OpenStreetMapin käyttäjä, luo uusi tunnus käyttäen lomaketta,
         joka näkyy alla.</li>\n  <li>\n   Jos sinulla on jo käyttäjätunnus, voit kirjautua
         sisään\n   käyttäen käyttäjätunnustasi ja salasanaasi, jonka \n   jälkeen
         voit liittää OpenID-tunnuksesi käyttäjätiliin\n   käyttäjäasetuksistasi.   \n
@@ -2104,7 +2104,7 @@ fi:
       reopened_at_html: Avattu uudelleen %{when} sitten
       reopened_at_by_html: '%{user} aktivoinut uudelleen %{when} sitten'
     rss:
-      title: GRMin karttailmoitukset
+      title: OpenStreetMapin karttailmoitukset
       description_area: Luettelo raportoiduista, kommentoiduista tai suljetuista huomautuksista
         omalla alueellasi [( %{min_lat}|%{min_lon})--( %{max_lat}|%{max_lon})]
       description_item: Karttailmoituksen %{id} RSS-syöte

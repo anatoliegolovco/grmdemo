@@ -213,11 +213,11 @@ lb:
     start:
       manually_select: Sicht manuell eng aner Géigend eraus
       format_to_export: Format fir z'exportéieren
-      osm_xml_data: GRM-XML-Daten
+      osm_xml_data: OpenStreetMap-XML-Daten
       licence: Lizenz
       too_large:
         planet:
-          description: Regelméisseg aktualiséiert Kopie vun der kompletter GRM
+          description: Regelméisseg aktualiséiert Kopie vun der kompletter OpenStreetMap
             Datebank
         other:
           title: Aner Quellen
@@ -845,7 +845,7 @@ lb:
       lost password link: Hutt Dir Äert Passwuert vergiess?
       login_button: Umellen
       register now: Elo aschreiwen
-      new to osm: Nei bei GRM?
+      new to osm: Nei bei OpenStreetMap?
       openid_providers:
         openid:
           title: Alogge mat OpenID

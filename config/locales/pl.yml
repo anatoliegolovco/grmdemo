@@ -325,8 +325,8 @@ pl:
         title: Wpisy w języku %{language_name}
         description: Ostatnie wpisy użytkowników GRM w języku %{language_name}
       all:
-        title: Wpisy GRM
-        description: Ostatnie wpisy od użytkowników GRM
+        title: Wpisy OpenStreetMap
+        description: Ostatnie wpisy od użytkowników OpenStreetMap
     comments:
       has_commented_on: '%{display_name} skomentował następujące wpisy dziennika'
       post: Wpis
@@ -341,7 +341,7 @@ pl:
       area_to_export: Obszar do eksportu
       manually_select: Ręcznie zaznacz inny obszar
       format_to_export: Format eksportu
-      osm_xml_data: Dane XML GRM
+      osm_xml_data: Dane XML OpenStreetMap
       map_image: Plik graficzny (standardowa warstwa)
       embeddable_html: Kod HTML do osadzenia
       licence: Licencja
@@ -350,16 +350,16 @@ pl:
       too_large:
         advice: 'Jeśli eksport się nie powiedzie, rozważ użycie jedno z podanych niżej
           źródeł:'
-        body: 'Ten obszar jest zbyt duży, aby go wyeksportować jako dane XML GRM.
+        body: 'Ten obszar jest zbyt duży, aby go wyeksportować jako dane XML OpenStreetMap.
           Przybliż się, wybierz mniejszy obszar, lub użyj jednego ze następujących
           źródeł aby objąć pobierane dane:'
         planet:
           title: Planeta OSM
-          description: Regularnie aktualizowane kopie całej bazy danych GRM
+          description: Regularnie aktualizowane kopie całej bazy danych OpenStreetMap
         overpass:
           title: Overpass API
           description: Pobierz ten obszar z serwera lustrzanego przechowującego bazę
-            danych GRM
+            danych OpenStreetMap
         geofabrik:
           title: Pliki Geofabrik
           description: Regularnie aktualizowane migawki kontynentów, państw i wybranych
@@ -917,7 +917,7 @@ pl:
       west: na zachód
   layouts:
     logo:
-      alt_text: Logo GRM
+      alt_text: Logo OpenStreetMap
     home: Przejdź do lokalizacji domu
     logout: Wyloguj się
     log_in: Zaloguj się
@@ -936,7 +936,7 @@ pl:
     user_diaries_tooltip: Przeglądaj dzienniczki użytkownika
     edit_with: Edytuj w %{editor}
     tag_line: Wolna wikimapa świata
-    intro_header: Witamy w GRM!
+    intro_header: Witamy w OpenStreetMap!
     intro_text: GRM to mapa świata, stworzona przez ludzi, takich jak ty,
       i z możliwością użycia pod otwartą licencją.
     intro_2_create_account: Utwórz konto
@@ -955,9 +955,9 @@ pl:
     copyright: Prawa autorskie
     community: Społeczność
     community_blogs: Blogi wspólnoty
-    community_blogs_title: Blogi członków społeczności GRM
+    community_blogs_title: Blogi członków społeczności OpenStreetMap
     foundation: Fundacja
-    foundation_title: Fundacja GRM
+    foundation_title: Fundacja OpenStreetMap
     make_a_donation:
       title: Wspomóż GRM za pomocą darowizny pieniężnej
       text: Przekaż darowiznę
@@ -992,14 +992,14 @@ pl:
         na warunkach licencji <a href="http://creativecommons.org/licenses/by-sa/2.0/deed.pl">Uznanie
         autorstwa na tych samych warunkach 2.0</a> (CC-BY-SA 2.0).
       credit_title_html: Jak podać źródło
-      credit_1_html: Wymagamy podania źródła w postaci &ldquo;&copy; autorzy GRM&rdquo;.
+      credit_1_html: Wymagamy podania źródła w postaci &ldquo;&copy; autorzy OpenStreetMap&rdquo;.
       credit_2_html: Musisz także jasno zaznaczyć, że dane dostępne są na licencji
         Open Database License, a w przypadku kafelków - CC-BY-SA. Możesz to zrobić
         przez podlinkowanie <a href="http://www.openstreetmap.org/copyright">tej strony
         licencyjnej</a>. W przypadku rozpowszechniania OSM w formie danych, możesz
         podać nazwy licencji i umieścić do nich bezpośredni link. Jeśli niemożliwe
         jest umieszczenie linków (np. mapy papierowe), sugerujemy pokierowanie czytelników
-        na stronę GRM.org (lub GRM.org), opendatacommons.org i,
+        na stronę openstreetmap.org (lub OpenStreetMap.org), opendatacommons.org i,
         jeśli odpowiednie, creativecommons.org.
       credit_3_html: Przy przeglądaniu map elektronicznych, podziękowania powinny
         pojawić się w rogu mapy.
@@ -1007,7 +1007,7 @@ pl:
         alt: Przykład, jak przypisywać GRM na stronie internetowej
         title: Przykład uznania autorstwa
       more_title_html: Dowiedz się więcej
-      more_1_html: Więcej informacji o możliwości wykorzystania danych GRM
+      more_1_html: Więcej informacji o możliwości wykorzystania danych OpenStreetMap
         można znaleźć w <a href="http://wiki.openstreetmap.org/wiki/Legal_FAQ">Legal
         FAQ</a>.
       more_2_html: Chociaż dane GRM są otwarte, nie jesteśmy w stanie zapewnić
@@ -1016,7 +1016,7 @@ pl:
         korzystania z API</a>, <a href="http://wiki.openstreetmap.org/wiki/Tile_usage_policy">Polityką
         korzystania z kafelków</a> oraz <a href="http://wiki.openstreetmap.org/wiki/Nominatim#Usage_Policy">Polityką
         korzystania z Nominatima</a>.
-      contributors_title_html: Dane włączone do GRM
+      contributors_title_html: Dane włączone do OpenStreetMap
       contributors_intro_html: 'Autorami są tysiące osób. Uwzględniamy również licencjonowane
         dane na otwartej zasadzie z krajowych agencji kartograficznych i innych źródeł,
         wśród nich:'
@@ -1047,10 +1047,10 @@ pl:
         Survey''. &copy; Crown copyright and database right 2010-12.'
       contributors_footer_1_html: |-
         Szczegóły tych i innych źródeł, które zostały wykorzystane,
-        aby udoskonalić GRM, są dostępne na stronie
+        aby udoskonalić OpenStreetMap, są dostępne na stronie
         <a href="http://wiki.openstreetmap.org/wiki/Contributors">Contributors (en)</a>.
       contributors_footer_2_html: Włączenie danych do GRM nie musi oznaczać,
-        że podmiot będący ich źródłem popiera GRM, udziela jakiejkolwiek
+        że podmiot będący ich źródłem popiera OpenStreetMap, udziela jakiejkolwiek
         gwarancji lub ponosi jakąkolwiek odpowiedzialność.
       infringement_title_html: Naruszenia praw autorskich
       infringement_1_html: Użytkownicy GRM powinni pamiętać, aby nigdy nie
@@ -1058,12 +1058,12 @@ pl:
         np. Google Maps i&nbsp;większość map drukowanych) bez wyraźnego pozwolenia
         właściciela praw autorskich.
       infringement_2_html: Jeśli uważasz, że materiał chroniony prawem autorskim został
-        niewłaściwie dodany do bazy GRM, zajrzyj pod adres naszej <a href="http://www.osmfoundation.org/wiki/License/Takedown_procedure">procedury
+        niewłaściwie dodany do bazy OpenStreetMap, zajrzyj pod adres naszej <a href="http://www.osmfoundation.org/wiki/License/Takedown_procedure">procedury
         usuwania danych</a> lub <a href="http://dmca.openstreetmap.org/">wypełnij
         formularz on-line</a>.
   welcome_page:
     title: Witaj!
-    introduction_html: Witamy w GRM, wolnej mapie świata. Teraz gdy masz
+    introduction_html: Witamy w OpenStreetMap, wolnej mapie świata. Teraz gdy masz
       już konto, możesz przystąpić do mapowania. Oto krótki przewodnik z najważniejszymi
       rzeczami, o których musisz wiedzieć.
     whats_on_the_map:
@@ -1128,15 +1128,15 @@ pl:
     welcome:
       url: /welcome
       title: Witamy w OSM
-      description: Zacznij od tego krótkiego przewodnika, obejmującego podstawy GRM.
+      description: Zacznij od tego krótkiego przewodnika, obejmującego podstawy OpenStreetMap.
     help:
       url: https://help.openstreetmap.org/
-      title: Strona Pomocy GRM
+      title: Strona Pomocy OpenStreetMap
       description: Zadaj pytanie lub odszukaj odpowiedzi na stronie pytań i odpowiedzi
         OSM.
     wiki:
       url: http://wiki.openstreetmap.org/wiki/Pl:Main_Page
-      title: Wiki GRM
+      title: Wiki OpenStreetMap
       description: Zapoznaj się z wiki, aby uzyskać szczegółową dokumentację OSM.
   about_page:
     next: Dalej
@@ -1164,7 +1164,7 @@ pl:
     diary_comment_notification:
       subject: '[OpenStreetMap] Użytkownik %{user} skomentował Twój wpis w pamiętniku'
       hi: Witaj %{to_user},
-      header: '%{from_user} zostawił(a) komentarz do twojego wpisu w dziennikach GRM
+      header: '%{from_user} zostawił(a) komentarz do twojego wpisu w dziennikach OpenStreetMap
         o temacie %{subject}:'
       footer: Możesz również przeczytać komentarz pod %{readurl}, skomentować go pod
         %{commenturl} lub odpowiedzieć pod %{replyurl}
@@ -1175,7 +1175,7 @@ pl:
         na nią na %{replyurl}
     friend_notification:
       subject: '[OpenStreetMap] Użytkownik %{user} dodał Cię jako znajomego'
-      had_added_you: '%{user} dodał(a) Cię jako swojego znajomego na GRM.'
+      had_added_you: '%{user} dodał(a) Cię jako swojego znajomego na OpenStreetMap.'
       see_their_profile: Możesz zobaczyć jego profil na stronie %{userurl}.
       befriend_them: Możesz również dodać go jako znajomego na %{befriendurl}.
     gpx_notification:
@@ -1195,7 +1195,7 @@ pl:
         loaded_successfully: udało się wczytać, wraz z %{trace_points} z %{possible_points}
           punktów łącznie.
     signup_confirm:
-      subject: '[OpenStreetMap] Witamy w GRM'
+      subject: '[OpenStreetMap] Witamy w OpenStreetMap'
       greeting: Cześć!
       created: Ktoś (mamy nadzieję, że ty) właśnie założył konto w %{site_url}.
       confirm: 'Musimy upewnić się, że wniosek pochodzi od ciebie, dlatego kliknij
@@ -1219,12 +1219,12 @@ pl:
     lost_password_plain:
       greeting: Cześć,
       hopefully_you: Ktoś (prawdopodobnie Ty) poprosił o zresetowanie hasła do konta
-        w serwisie GRM.org dla tego adresu e-mail.
+        w serwisie openstreetmap.org dla tego adresu e-mail.
       click_the_link: Jeśli to ty, kliknij na poniższy link, aby zresetować hasło.
     lost_password_html:
       greeting: Witaj,
       hopefully_you: Ktoś – prawdopodobnie Ty – poprosił o zresetowanie hasła do konta
-        w serwisie GRM.org dla tego adresu e-mail.
+        w serwisie openstreetmap.org dla tego adresu e-mail.
       click_the_link: Jeśli to Ty, kliknij na poniższy link, aby zresetować hasło.
     note_comment_notification:
       anonymous: Anonimowy użytkownik
@@ -1350,10 +1350,10 @@ pl:
         je na publiczne na Twojej %{user_page}.
       user_page_link: stronie użytkownika
       anon_edits_link_text: Tu dowiesz się dlaczego.
-      flash_player_required: Aby korzystać z Potlacza, edytora GRM, niezbędna
+      flash_player_required: Aby korzystać z Potlacza, edytora OpenStreetMap, niezbędna
         jest wtyczka Flash. Możesz <a href="http://www.adobe.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">ściągnąć
         odtwarzacz Flash</a> z Adobe.com.  Możesz również skorzystać z <a href="http://wiki.openstreetmap.org/wiki/Editing">innych
-        dostępnych edytorów</a>, aby edytować GRM.
+        dostępnych edytorów</a>, aby edytować OpenStreetMap.
       potlatch_unsaved_changes: Masz niezapisane zmiany. (Aby zapisać zmiany w Potlatchu,
         kliknij przycisk „Zapisz”, bądź też, jeśli edytujesz w trybie „na żywo”, odznacz
         aktualnie zaznaczony obiekt.)
@@ -1572,7 +1572,7 @@ pl:
       heading: Przechowywanie danych GPX jest wyłączone
       message: System przechowywania i przesyłania plików GPX jest w tej chwili niedostępny
     georss:
-      title: Ślady GPS GRM
+      title: Ślady GPS OpenStreetMap
     description:
       description_with_count:
         one: Plik GPX z %{count} punktem od %{user}
@@ -1689,11 +1689,11 @@ pl:
       lost password link: Zapomniałeś hasła?
       login_button: Zaloguj się
       register now: Zarejestruj się
-      with username: 'Masz już konto w GRM? Zaloguj się podając nazwę użytkownika
+      with username: 'Masz już konto w OpenStreetMap? Zaloguj się podając nazwę użytkownika
         i hasło:'
       with openid: 'Możesz do zalogowania się użyć również OpenID:'
-      new to osm: Nowy na GRM?
-      to make changes: Aby wprowadzać zmiany w GRM, musisz mieć konto.
+      new to osm: Nowy na OpenStreetMap?
+      to make changes: Aby wprowadzać zmiany w OpenStreetMap, musisz mieć konto.
       create account minute: Utwórz konto. To zajmuje tylko minutę.
       no account: Nie masz konta?
       account not active: Niestety Twoje konto nie jest jeszcze aktywne.<br />Otwórz
@@ -1724,7 +1724,7 @@ pl:
           alt: Zaloguj używając AOL OpenID
     logout:
       title: Wyloguj
-      heading: Wyloguj z GRM
+      heading: Wyloguj z OpenStreetMap
       logout_button: Wyloguj
     lost_password:
       title: zgubione hasło
@@ -1772,9 +1772,9 @@ pl:
       openid no password: Jeśli korzystasz z OpenID hasło nie jest wymagane, jednak
         niektóre dodatkowe narzędzia lub serwer mogą go potrzebować.
       openid association: |-
-        <p>Twoje konto OpenID nie jest jeszcze skojarzone z kontem GRM.</p>
+        <p>Twoje konto OpenID nie jest jeszcze skojarzone z kontem OpenStreetMap.</p>
         <ul>
-          <li>Jeśli jesteś nowym użytkownikiem GRM, utwórz nowe konto, korzystając z poniższego formularza.</li>
+          <li>Jeśli jesteś nowym użytkownikiem OpenStreetMap, utwórz nowe konto, korzystając z poniższego formularza.</li>
           <li>Jeśli masz już konto, możesz zalogować się na nie przy użyciu nazwy użytkownika i hasła, a następnie skojarzyć je z kontem OpenID w ustawieniach użytkownika.
           </li>
         </ul>
@@ -2144,7 +2144,7 @@ pl:
       reopened_at_html: Ponownie aktywowano %{when} temu
       reopened_at_by_html: Ponownie aktywowano %{when} temu przez %{user}
     rss:
-      title: Uwagi GRM
+      title: Uwagi OpenStreetMap
       description_area: Lista uwag stworzonych, skomentowanych lub zamkniętych w Twojej
         okolicy [(%{min_lat}|%{min_lon}) -- (%{max_lat}|%{max_lon})]
       description_item: Kanał RSS dla uwagi %{id}
@@ -2207,7 +2207,7 @@ pl:
         data: Dane mapy
         overlays: Włącz nakładki do rozwiązywania problemów na mapie
         title: Warstwy
-      copyright: © <a href='%{copyright_url}'>autorzy GRM</a>
+      copyright: © <a href='%{copyright_url}'>autorzy OpenStreetMap</a>
       donate_link_text: <a class='donate-attr' href='%{donate_url}'>Przekaż darowiznę</a>
     site:
       edit_tooltip: Edytuje mapę

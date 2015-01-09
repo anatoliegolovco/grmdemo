@@ -319,11 +319,11 @@ el:
         description: Πρόσφατες καταχωρίσεις ημερολογίου GRM από τον %{user}
       language:
         title: Καταχωρήσεις ημερολογίου GRM στα %{language_name}
-        description: Πρόσφατες καταχωρήσεις ημερολογίου από χρήστες του GRM
+        description: Πρόσφατες καταχωρήσεις ημερολογίου από χρήστες του OpenStreetMap
           στα %{language_name}
       all:
-        title: Καταχωρήσεις ημερολογίου GRM
-        description: Πρόσφατες καταχωρήσεις ημερολογίου από χρήστες του GRM
+        title: Καταχωρήσεις ημερολογίου OpenStreetMap
+        description: Πρόσφατες καταχωρήσεις ημερολογίου από χρήστες του OpenStreetMap
     comments:
       has_commented_on: Ο %{display_name} έχει σχολιάσει στις ακόλουθες καταχωρήσεις
         στο ημερολόγιο
@@ -349,13 +349,13 @@ el:
       too_large:
         advice: 'Αν η εξαγωγή αποτυγχάνει, παρακαλώ δοκιμάστε μία από τις πηγές που
           αναφέρονται παρακάτω:'
-        body: 'Αυτή η περιοχή είναι πολύ μεγάλη για να εξαχθεί ως δεδομένα GRM
+        body: 'Αυτή η περιοχή είναι πολύ μεγάλη για να εξαχθεί ως δεδομένα OpenStreetMap
           XML. Παρακαλώ κάνετε μεγέθυνση, επιλέξτε μικρότερη περιοχή, ή χρησιμοποιήστε
           μία από της ακόλουθες πηγές για μαζικές λήψεις δεδομένων:'
         planet:
           title: Πλανήτης OSM
           description: Τακτικά-ενημερωμένα αντίγραφα της πλήρης βάσης δεδομένων του
-            GRM
+            OpenStreetMap
         overpass:
           title: Overpass API
         geofabrik:
@@ -367,7 +367,7 @@ el:
           description: Χάρτες για τις μεγάλες πόλεις του κόσμου και της γύρω περιοχές
         other:
           title: Άλλες Πηγές
-          description: Επιπλέον πηγές απαριθμούνται στο wiki του GRM
+          description: Επιπλέον πηγές απαριθμούνται στο wiki του OpenStreetMap
       options: Επιλογές
       format: Μορφοποίηση
       scale: Κλίμακα
@@ -910,7 +910,7 @@ el:
       west: δυτικά
   layouts:
     logo:
-      alt_text: Λογότυπο GRM
+      alt_text: Λογότυπο OpenStreetMap
     home: Μετάβαση στην Τοποθεσία Σπιτιού
     logout: Έξοδος
     log_in: Είσοδος
@@ -929,7 +929,7 @@ el:
     user_diaries_tooltip: Προβολή ημερολογίων χρηστών
     edit_with: Επεξεργασία με %{editor}
     tag_line: O Ελεύθερος Wiki Χάρτης του Κόσμου
-    intro_header: Καλώς ήρθατε στο GRM!
+    intro_header: Καλώς ήρθατε στο OpenStreetMap!
     intro_text: Το GRM είναι χάρτης του κόσμου, που δημιουργήθηκε από ανθρώπους
       σαν κι εσάς και είναι δωρεάν, υπό άδεια ελεύθερης χρήσης.
     intro_2_create_account: Δημιουργήστε ένα λογαριασμό χρήστη
@@ -949,9 +949,9 @@ el:
     copyright: Πνευματικά Δικαιώματα
     community: Κοινότητα
     community_blogs: Ιστολόγια της Κοινότητας
-    community_blogs_title: Blogs από τα μέλη της κοινότητας του GRM
+    community_blogs_title: Blogs από τα μέλη της κοινότητας του OpenStreetMap
     foundation: Ίδρυμα
-    foundation_title: Το Ίδρυμα GRM
+    foundation_title: Το Ίδρυμα OpenStreetMap
     make_a_donation:
       title: Υποστήριξε το GRM με δωρεά χρημάτων
       text: Κάντε μια δωρεά
@@ -983,14 +983,14 @@ el:
       intro_3_html: |-
         Η χαρτογράφηση στα πλακίδια χάρτη, και η τεκμηρίωση μας, είναι αδειοδοτημένες υπο την άδεια <a href="http://creativecommons.org/licenses/by-sa/2.0/">Creative
         Commons Attribution-ShareAlike 2.0</a> (CC-BY-SA).
-      credit_title_html: Πως να μνημονέψετε το GRM
+      credit_title_html: Πως να μνημονέψετε το OpenStreetMap
       credit_1_html: |-
         Απαιτείται να χρησιμοποιείτε την αναφορά στο &ldquo;&copy; Συνεισφέροντες του
-        GRM&rdquo;.
+        OpenStreetMap&rdquo;.
       credit_2_html: |-
         Επίσης πρέπει να κάνετε σαφές ότι τα δεδομένα διατίθενται υπό την άδεια Open
         Database License, και αν χρησιμοποιείτε τα πλακίδια χάρτη, ότι η χαρτογραφία είναι υπό την άδεια CC-BY-SA. Μπορείτε να το κάνετε αυτό με σύνδεσμο σε <a href="http://www.openstreetmap.org/copyright">αυτήν τη σελίδα δικαιωμάτων</a>.
-        Εναλλακτικά, και σαν προαπαιτούμενο εάν διαμοιράζετε δεδομένα OSM, μπορείτε να δώσετε απευθείας σύνδεσμο προς τις άδειες. Σε μέσα στα οποία οι σύνδεσμοι δεν είναι εφικτοί (π.χ. εκτυπώσεις), προτείνουμε να κατευθύνετε τους αναγνώστες σας στο GRM.org (ίσως επεκτείνοντας το «OpenStreetMap» σε αυτήν τη πλήρη διεύθυνση), προς opendatacommons.org, και αναλόγως στο creativecommons.org.
+        Εναλλακτικά, και σαν προαπαιτούμενο εάν διαμοιράζετε δεδομένα OSM, μπορείτε να δώσετε απευθείας σύνδεσμο προς τις άδειες. Σε μέσα στα οποία οι σύνδεσμοι δεν είναι εφικτοί (π.χ. εκτυπώσεις), προτείνουμε να κατευθύνετε τους αναγνώστες σας στο openstreetmap.org (ίσως επεκτείνοντας το «OpenStreetMap» σε αυτήν τη πλήρη διεύθυνση), προς opendatacommons.org, και αναλόγως στο creativecommons.org.
       credit_3_html: |-
         Για έναν ηλεκτρονικά εμφανιζόμενο χάρτη, η αναφορά θα πρέπει να εμφανίζεται στη γωνία του χάρτη.
         Για παράδειγμα:
@@ -1026,7 +1026,7 @@ el:
         National Geo-Spatial Information</a>, Πνευματικό δικαίωμα χώρας κατοχυρωμένο.
       contributors_footer_1_html: |-
         Για περισσότερες λεπτομέρειες σχετικά με αυτές, και άλλες πηγές που χρησιμοποιήθηκαν
-        για να βελτιώσουν το GRM, παρακαλούμε δείτε τη σελίδα <a href="http://wiki.openstreetmap.org/wiki/Contributors">Συνεισφέροντες</a> στο GRM Wiki.
+        για να βελτιώσουν το OpenStreetMap, παρακαλούμε δείτε τη σελίδα <a href="http://wiki.openstreetmap.org/wiki/Contributors">Συνεισφέροντες</a> στο GRM Wiki.
       infringement_title_html: Παραβιάσεις πνευματικών δικαιωμάτων
       infringement_1_html: Υπενθυμίζουμε στους συνεισφέροντες του OSM να μην προσθέτουν
         δεδομένα από πηγές με πνευματικά δικαιώματα (π.χ. Google Maps η έντυπους χάρτες)
@@ -1038,7 +1038,7 @@ el:
         σελίδα αιτήσεων</a>.
   welcome_page:
     title: Καλώς ήρθατε!
-    introduction_html: Σας καλωσορίζουμε στο GRM, τον ελεύθερο και επεξεργάσιμο
+    introduction_html: Σας καλωσορίζουμε στο OpenStreetMap, τον ελεύθερο και επεξεργάσιμο
       χάρτη του κόσμου. Τώρα που έχετε εγγραφεί, είστε πανέτοιμοι να αρχίσετε τη χαρτογράφηση.
       Εδώ είναι ένας γρήγορος οδηγός με τα πιο σημαντικά πράγματα που πρέπει να ξέρετε.
     whats_on_the_map:
@@ -1087,7 +1087,7 @@ el:
         title: Γνωρίστε την κοινότητα
         explanation_html: Αν έχετε παρατηρήσει ένα πρόβλημα με τα δεδομένα του χάρτη
           μας, παραδείγματος χάριν ένας δρόμος που λείπει στη διεύθυνσή σας, ο καλύτερος
-          τρόπος να προχωρήσετε είναι να ενταχθείτε στην κοινότητα του GRM
+          τρόπος να προχωρήσετε είναι να ενταχθείτε στην κοινότητα του OpenStreetMap
           και να προσθέσετε ή να επισκευάσετε τα δεδομένα από μόνοι σας.
       add_a_note:
         instructions_html: |-
@@ -1105,7 +1105,7 @@ el:
       url: /welcome
       title: Καλώς ήλθατε στο OSM
       description: Ξεκινήστε με αυτές τις γρήγορες οδηγίες που καλύπτουν τα βασικά
-        GRM.
+        OpenStreetMap.
     help:
       url: https://help.openstreetmap.org/
       title: help.openstreetmap.org
@@ -1117,7 +1117,7 @@ el:
       description: Περιηγηθείτε το wiki για επιμελής τεκμηρίωση του OSM.
   about_page:
     next: Επόμενη
-    copyright_html: <span>&copy;</span>Συνεισφέροντες<br> του GRM
+    copyright_html: <span>&copy;</span>Συνεισφέροντες<br> του OpenStreetMap
     used_by: Το %{name} προσφέρει δεδομένα χάρτη σε εκατοντάδες ιστοσελίδες, εφαρμογές
       κινητού και συσκευές υλικού
     lede_text: |-
@@ -1147,13 +1147,13 @@ el:
         σχολιάσετε στο %{commenturl} ή να απαντήσετε στο %{replyurl}
     message_notification:
       hi: Γεια σας %{to_user},
-      header: 'Ο χρήστης %{from_user} σάς έχει στείλει ένα μήνυμα μέσω του GRM
+      header: 'Ο χρήστης %{from_user} σάς έχει στείλει ένα μήνυμα μέσω του OpenStreetMap
         με θέμα %{subject}:'
       footer_html: Μπορείτε επίσης να διαβάσετε το μήνυμα στο %{readurl} και να απαντήσετε
         στο %{replyurl}
     friend_notification:
       subject: '[OpenStreetMap] Ο χρήστης %{user} σας πρόσθεσε ως φίλο'
-      had_added_you: Ο χρήστης %{user} σας πρόσθεσε ως φίλο στο GRM.
+      had_added_you: Ο χρήστης %{user} σας πρόσθεσε ως φίλο στο OpenStreetMap.
       see_their_profile: Μπορείτε να δείτε το προφίλ του στο %{userurl}.
       befriend_them: Μπορείτε επίσης να τους προσθέσετε ως φίλους στο %{befriendurl}.
     gpx_notification:
@@ -1171,7 +1171,7 @@ el:
       success:
         subject: '[OpenStreetMap] Η εισαγωγή GPX πέτυχε'
     signup_confirm:
-      subject: '[OpenStreetMap] Καλώς ήλθατε στο GRM'
+      subject: '[OpenStreetMap] Καλώς ήλθατε στο OpenStreetMap'
       greeting: Γεια σου!
       created: Κάποιος (ας ελπίσουμε εσύ) μόλις δημιούργησε έναν λογαριασμό στο %{site_url}.
       confirm: 'Πριν κάνουμε οτιδήποτε άλλο, πρέπει να επιβεβαιώσουμε ότι η αίτηση
@@ -1199,14 +1199,14 @@ el:
     lost_password_plain:
       greeting: Γεια,
       hopefully_you: Κάποιος (πιθανότατα εσείς) έχει ζητήσει επαναφορά του κωδικού
-        πρόσβασης του λογαριασμού στο GRM.org που αντιστοιχεί σε αυτήν τη
+        πρόσβασης του λογαριασμού στο openstreetmap.org που αντιστοιχεί σε αυτήν τη
         διεύθυνση ηλεκτρονικού ταχυδρομείου.
       click_the_link: Εάν πρόκειται για σας, κάντε κλικ στον παρακάτω σύνδεσμο για
         να επαναφέρετε τον κωδικό πρόσβασής σας.
     lost_password_html:
       greeting: Γεια,
       hopefully_you: Κάποιος (πιθανότατα εσείς) έχει ζητήσει επαναφορά του κωδικού
-        πρόσβασης του λογαριασμού στο GRM.org που αντιστοιχεί σε αυτήν τη
+        πρόσβασης του λογαριασμού στο openstreetmap.org που αντιστοιχεί σε αυτήν τη
         διεύθυνση ηλεκτρονικού ταχυδρομείου.
       click_the_link: Εάν είστε εσείς, παρακαλώ κάντε κλικ στον παρακάτω σύνδεσμο
         για να γίνει επαναφορά του κωδικού σας.
@@ -1334,9 +1334,9 @@ el:
       user_page_link: σελίδα σας χρήστη
       anon_edits_link_text: Μάθετε γιατί συμβαίνει αυτό.
       flash_player_required: Χρειάζεστε Flash player για να χρησιμοποιήσετε το Potlatch,
-        το Flash πρόγραμμα επεξεργασίας του GRM. Μπορείτε να <a href="http://www.adobe.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">κάνετε
+        το Flash πρόγραμμα επεξεργασίας του OpenStreetMap. Μπορείτε να <a href="http://www.adobe.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">κάνετε
         λήψη του Flash Player από την τοποθεσία Adobe.com</a>. <a href="http://wiki.openstreetmap.org/wiki/Editing">Πολλές
-        άλλες επιλογές</a> είναι επίσης διαθέσιμες για επεξεργασία στο GRM.
+        άλλες επιλογές</a> είναι επίσης διαθέσιμες για επεξεργασία στο OpenStreetMap.
       potlatch_unsaved_changes: Έχετε μη αποθηκευμένες αλλαγές. (Για να αποθηκεύσετε
         στο Potlatch, πρέπει να αποεπιλέξτε οποιαδήποτε διαδρομή ή κόμβο, αν επεξεργάζεστε
         σε ζωντανή λειτουργία, ή απλά πατήστε «Αποθήκευση» εάν έχετε κουμπί αποθήκευσης.)
@@ -1615,11 +1615,11 @@ el:
       lost password link: Χάσατε τον κωδικό σας;
       login_button: Σύνδεση
       register now: Εγγραφείτε τώρα
-      with username: 'Έχετε ήδη λογαριασμό GRM; Παρακαλώ συνδεθείτε με το
+      with username: 'Έχετε ήδη λογαριασμό OpenStreetMap; Παρακαλώ συνδεθείτε με το
         όνομα χρήστη και κωδικό πρόσβασης:'
       with openid: 'Εναλλακτικά, χρησιμοποιήστε OpenID για να συνδεθείτε:'
-      new to osm: Νέοι στο GRM;
-      to make changes: Για να κάνεις αλλαγές στα δεδομένα του GRM, πρέπει
+      new to osm: Νέοι στο OpenStreetMap;
+      to make changes: Για να κάνεις αλλαγές στα δεδομένα του OpenStreetMap, πρέπει
         να έχεις λογαριασμό.
       create account minute: Δημιούργησε λογαριασμό. Παίρνει μόνο ένα λεπτό.
       no account: Δεν έχετε λογαριασμό;
@@ -1652,7 +1652,7 @@ el:
           alt: Σύνδεση με AOL OpenID
     logout:
       title: Αποσύνδεση
-      heading: Αποσύνδεση από το GRM
+      heading: Αποσύνδεση από το OpenStreetMap
       logout_button: Αποσύνδεση
     lost_password:
       title: Χάσατε τον κωδικό σας
@@ -2025,7 +2025,7 @@ el:
       reopened_at_html: Επανενεργοποιήθηκε %{when} πριν
       reopened_at_by_html: Επανενεργοποιήθηκε %{when} πριν από τον %{user}
     rss:
-      title: Σημειώσεις GRM
+      title: Σημειώσεις OpenStreetMap
       description_area: Μια λίστα με σημειώσεις, που αναφέρθηκαν, σχολιάστηκαν ή επιλύθηκαν
         στην περιοχή σας [(%{min_lat}|%{min_lon}) -- (%{max_lat}|%{max_lon})]
       description_item: Μια τροφοδοσία rss για τη σημείωση %{id}
@@ -2088,7 +2088,7 @@ el:
         data: Δεδομένα Χάρτη
         overlays: Ενεργοποίηση επικαλύψεων για την αντιμετώπιση προβλημάτων του χάρτη
         title: Στρώματα
-      copyright: © <a href='%{copyright_url}'>Συνεισφέροντες του GRM</a>
+      copyright: © <a href='%{copyright_url}'>Συνεισφέροντες του OpenStreetMap</a>
       donate_link_text: <a class='donate-attr' href='%{donate_url}'>Κάνετε Δωρεά</a>
     site:
       edit_tooltip: Επεξεργασία του χάρτη

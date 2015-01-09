@@ -266,7 +266,7 @@ sq:
       export_details: Të dhënat e GRM janë të licencuara nëpërmjet <a href="http://creativecommons.org/licenses/by-sa/2.0/">Creative
         Commons Attribution-ShareAlike 2.0 license</a>.
       too_large:
-        body: Kjo zonë është shum e madhe që të eksportohet si XML në GRM.
+        body: Kjo zonë është shum e madhe që të eksportohet si XML në OpenStreetMap.
           Të lutna  afroje ma ngat ose mere një zonë ma të vogel.
       options: Opcionet
       format: Formati
@@ -439,8 +439,8 @@ sq:
       west: perëndim
   layouts:
     project_name:
-      title: GRM
-      h1: GRM
+      title: OpenStreetMap
+      h1: OpenStreetMap
     logout: Ç'kyçu
     log_in: Kyçuni
     log_in_tooltip: Hyni ne me një llogari ekzistuese
@@ -467,16 +467,16 @@ sq:
         href="http://opendatacommons.org/licenses/odbl/">Open Data
         Commons Open Database License</a> (ODbL).
       intro_2_html: "  Ju jeni të lirë të kopjoni, shpërndani, transmetoni dhe adoptoni
-        hartat\n  dhe të dhënat tona, duke pasur parasysh citimin e GRM
+        hartat\n  dhe të dhënat tona, duke pasur parasysh citimin e OpenStreetMap
         dhe \n  kontribuuesve të saj. Nëse ndryshoni apo ndërtoni mbi hartat apo të
         dhënat tona, ju\n  mund të shpërndani rezultatet nën licencën e njëjtë. Licenca
         e\n  e plotë <a\n  href=\"http://creativecommons.org/licenses/by-sa/2.0/legalcode\">legal\n
         \ code</a> shpjegon të drejtat dhe përgjegjësitë tuaja."
-      credit_title_html: Si të citoni GRM
-      credit_1_html: "  Nëse ju përdorni imazhe të hartave të GRM, ne kërkojmë
-        që \n  së paku citimet tuaja të përfshijnë &ldquo;&copy; GRM\n  kontribuuesit,
+      credit_title_html: Si të citoni OpenStreetMap
+      credit_1_html: "  Nëse ju përdorni imazhe të hartave të OpenStreetMap, ne kërkojmë
+        që \n  së paku citimet tuaja të përfshijnë &ldquo;&copy; OpenStreetMap\n  kontribuuesit,
         CC BY-SA&rdquo;. Nëse ju përdorni vetëm të dhëna të hartave\n  ne kërkojmë
-        citimin e kontribuuesve &ldquo;të të dhënave të hartave &copy; të GRM,\n
+        citimin e kontribuuesve &ldquo;të të dhënave të hartave &copy; të OpenStreetMap,\n
         \ CC BY-SA&rdquo;."
       credit_2_html: "  Ku është e mundur, GRM duhet të hyperlinked to <a\n
         \ href=\"http://www.openstreetmap.org/\">http://www.openstreetmap.org/</a>\n
@@ -515,7 +515,7 @@ sq:
         <strong>Britani e Madhe</strong>: Përmban të dhëna nga Ordnance
            Survey&copy;. Crown i ka të drejtat autoriale dhe të databazës.
       contributors_footer_2_html: "  Përfshirja e të dhënave në GRM nuk
-        thekson se të ofruesi origjinal i të \n  dhënave përdor GRM, ofron
+        thekson se të ofruesi origjinal i të \n  dhënave përdor OpenStreetMap, ofron
         garancion, apo\n  pranon çfarëdo anekse."
   notifier:
     message_notification:
@@ -547,9 +547,9 @@ sq:
     edit:
       anon_edits: (%{link})
       flash_player_required: Ju duhet të keni Flash player për ta përdorur Potlatch,
-        Flash editorin e GRM. Ju mundeni <a href="http://www.adobe.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">ta
+        Flash editorin e OpenStreetMap. Ju mundeni <a href="http://www.adobe.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">ta
         shkarkoni Flash Player nga Adobe.com</a>. <a href="http://wiki.openstreetmap.org/wiki/Editing">Disa
-        mënyra të tjera</a> janë të mundshme për ta edituar GRM.
+        mënyra të tjera</a> janë të mundshme për ta edituar OpenStreetMap.
     sidebar:
       search_results: Rezultatet e Kërkimit
       close: Mbylle
@@ -684,7 +684,7 @@ sq:
       auth failure: Na vjen keq, smunem me ju kyc me ato detaje.
     logout:
       title: Dil
-      heading: Dil nga GRM
+      heading: Dil nga OpenStreetMap
       logout_button: Dil
     lost_password:
       title: T'ka hup fjalkalimi

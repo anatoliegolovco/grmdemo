@@ -333,7 +333,7 @@ de:
         description: Letzte Blogeinträge von Benutzern von GRM in %{language_name}
       all:
         title: GRM Blogbeiträge
-        description: Neueste Blogeinträge von GRM-Nutzern
+        description: Neueste Blogeinträge von OpenStreetMap-Nutzern
     comments:
       has_commented_on: '%{display_name} hat die folgenden Blogeinträge kommentiert'
       post: Blogeintrag
@@ -348,7 +348,7 @@ de:
       area_to_export: Bereich für den Export
       manually_select: Einen anderen Bereich manuell auswählen
       format_to_export: Format für den Export
-      osm_xml_data: GRM-XML-Daten
+      osm_xml_data: OpenStreetMap-XML-Daten
       map_image: Karte (zeigt die Standardebene)
       embeddable_html: HTML zum Einbinden
       licence: Lizenz
@@ -358,15 +358,15 @@ de:
       too_large:
         advice: 'Falls der obenstehende Export fehlschlägt, erwäge bitte, eine der
           unten aufgelisteten Quellen zu verwenden:'
-        body: Dieser Bereich ist zu groß, um als GRM-XML-Daten exportiert
+        body: Dieser Bereich ist zu groß, um als OpenStreetMap-XML-Daten exportiert
           werden. Bitte heranzoomen, einen kleineren Bereich wählen oder eine der
           folgenden Quellen für Massendatendownloads nutzen.
         planet:
           title: Planet OSM
-          description: Regelmäßig aktualisierte Kopien der kompletten GRM-Datenbank
+          description: Regelmäßig aktualisierte Kopien der kompletten OpenStreetMap-Datenbank
         overpass:
           title: Overpass API
-          description: Diese Bounding Box von einem Mirror der GRM-Datenbank
+          description: Diese Bounding Box von einem Mirror der OpenStreetMap-Datenbank
             herunterladen
         geofabrik:
           title: Geofabrik Downloads
@@ -377,7 +377,7 @@ de:
           description: Auszüge für bedeutende Weltstädte und ihre Umgebungen
         other:
           title: Andere Quellen
-          description: Zusätzliche Quellen sind im GRM-Wiki gelistet
+          description: Zusätzliche Quellen sind im OpenStreetMap-Wiki gelistet
       options: Optionen
       format: 'Format:'
       scale: Maßstab
@@ -925,8 +925,8 @@ de:
       west: westlich
   layouts:
     project_name:
-      title: GRM
-      h1: GRM
+      title: OpenStreetMap
+      h1: OpenStreetMap
     logo:
       alt_text: GRM Logo
     home: Gehe zum Heimatstandort
@@ -947,7 +947,7 @@ de:
     user_diaries_tooltip: Benutzer-Blogs lesen
     edit_with: Bearbeiten mit %{editor}
     tag_line: Die freie Wiki-Weltkarte
-    intro_header: Willkommen bei GRM!
+    intro_header: Willkommen bei OpenStreetMap!
     intro_text: GRM ist eine Karte der Welt, erstellt von Menschen wie dir
       und frei verwendbar unter einer offenen Lizenz.
     intro_2_create_account: Erstelle ein Benutzerkonto
@@ -958,18 +958,18 @@ de:
     partners_bytemark: Bytemark Hosting
     partners_partners: Partnern
     partners_url: http://wiki.openstreetmap.org/wiki/Partners
-    osm_offline: Die GRM-Datenbank ist im Moment wegen wichtiger Wartungsarbeiten
+    osm_offline: Die OpenStreetMap-Datenbank ist im Moment wegen wichtiger Wartungsarbeiten
       nicht verfügbar.
-    osm_read_only: Die GRM-Datenbank ist im Moment wegen wichtiger Wartungsarbeiten
+    osm_read_only: Die OpenStreetMap-Datenbank ist im Moment wegen wichtiger Wartungsarbeiten
       im „Nur-Lesen-Modus“.
-    donate: Unterstütze die GRM-Hardwarespendenaktion durch eine eigene
+    donate: Unterstütze die OpenStreetMap-Hardwarespendenaktion durch eine eigene
       %{link}.
     help: Hilfe
     about: Über
     copyright: Urheberrecht
     community: Gemeinschaft
     community_blogs: Blogs
-    community_blogs_title: Blogs von Mitwirkenden bei GRM
+    community_blogs_title: Blogs von Mitwirkenden bei OpenStreetMap
     foundation: Stiftung
     foundation_title: Die „GRM Foundation“
     make_a_donation:
@@ -997,7 +997,7 @@ de:
         Data Commons Open Database Lizenz</a> (ODbL) verfügbar sind.
       intro_2_html: |-
         Es steht dir frei unsere Daten zu kopieren, weiterzugeben,
-        zu übermitteln sowie anzupassen, sofern du GRM
+        zu übermitteln sowie anzupassen, sofern du OpenStreetMap
         und die Mitwirkenden als Quelle angibst. Für den Fall, dass
         du auf Basis unserer Daten Anpassungen vornimmst, oder sie
         als Grundlage für weitere Bearbeitungen verwendest, kannst
@@ -1009,7 +1009,7 @@ de:
         sind unter der ''Creative-Commons''-Lizenz <a href="http://creativecommons.org/licenses/by-sa/2.0/">„Namensnennung
         – Weitergabe unter gleichen Bedingungen“ 2.0</a> (CC BY-SA) verfügbar.
       credit_title_html: Wie auf die Urheberschaft von GRM hinzuweisen ist
-      credit_1_html: Wir verlangen die Verwendung des Hinweises „&copy; GRM-Mitwirkende“.
+      credit_1_html: Wir verlangen die Verwendung des Hinweises „&copy; OpenStreetMap-Mitwirkende“.
       credit_2_html: |-
         Du musst auch klarstellen, dass die Daten unter der Open-Database-Lizenz
         verfügbar sind, und sofern du unsere Kartenkacheln verwendest, dass die
@@ -1018,7 +1018,7 @@ de:
         Ersatzweise, und als Erfordernis, falls du OSM in Datenform weitergibst,
         kannst du die Lizenz(en) direkt verlinken und benennen. In Medien, in denen
         keine Links möglich sind (z.&nbsp;B. gedruckten Werken), empfehlen wir dir,
-        deine Leser direkt auf GRM.org zu verweisen (möglicherweise mit
+        deine Leser direkt auf openstreetmap.org zu verweisen (möglicherweise mit
         dem Erweitern von „OpenStreetMap“ zur vollen Adresse), auf opendatacommons.org,
         und, sofern zutreffend, auf creativecommons.org.
       credit_3_html: |-
@@ -1077,14 +1077,14 @@ de:
         die ausdrückliche Erlaubnis des Rechteinhabers erhalten zu haben.
       infringement_2_html: |-
         Sofern du denkst, dass urheberrechtlich geschütztes Material unerlaubterweise zur
-        GRM-Datenbank oder auf dieser Website hinzugefügt wurde, informiere dich
+        OpenStreetMap-Datenbank oder auf dieser Website hinzugefügt wurde, informiere dich
         bitte über unser <a href="http://www.osmfoundation.org/wiki/License/Takedown_procedure">Verfahren
         zum Entfernen von Inhalten</a> oder melde dies direkt mit unserem
         <a href="http://dmca.openstreetmap.org/">Onlineformular</a>.
   welcome_page:
     title: Willkommen!
     introduction_html: |-
-      Willkommen bei GRM, der weltweiten freien und editierbaren Karte. Mit deiner Anmeldung ist alles so weit, dass du anfangen kannst die Karte zu bearbeiten.
+      Willkommen bei OpenStreetMap, der weltweiten freien und editierbaren Karte. Mit deiner Anmeldung ist alles so weit, dass du anfangen kannst die Karte zu bearbeiten.
       Hier sind noch eine paar nützliche zusätzliche Informationen.
     whats_on_the_map:
       title: Was gehört in die Karte?
@@ -1132,7 +1132,7 @@ de:
         title: Der Gemeinschaft beitreten
         explanation_html: |-
           Falls du bei unseren Kartendaten ein Problem bemerkt hast wie das Fehlen einer Straße oder deiner Adresse,
-          ist der beste Weg zum Weitermachen der Beitritt zur GRM-Gemeinschaft und das Beheben der Daten durch dich selbst.
+          ist der beste Weg zum Weitermachen der Beitritt zur OpenStreetMap-Gemeinschaft und das Beheben der Daten durch dich selbst.
       add_a_note:
         instructions_html: |-
           Klicke einfach auf <a class='icon note'></a> oder auf das gleiche Symbol in der Kartenanzeige.
@@ -1152,7 +1152,7 @@ de:
     welcome:
       url: /welcome
       title: Willkommen bei OSM
-      description: Beginne mit dieser Schnellanleitung, die die GRM-Grundlagen
+      description: Beginne mit dieser Schnellanleitung, die die OpenStreetMap-Grundlagen
         abdeckt.
     help:
       url: https://help.openstreetmap.org/
@@ -1177,7 +1177,7 @@ de:
       korrekt und aktuell ist.
     community_driven_title: Community Driven
     community_driven_html: |-
-      Die GRM-Gemeinschaft ist vielfältig, leidenschaftlich und wächst täglich.
+      Die OpenStreetMap-Gemeinschaft ist vielfältig, leidenschaftlich und wächst täglich.
       Unsere Mitwirkenden sind begeisterte Mapper, GIS-Profis, Ingenieure, die die OSM-Server
       betreiben und viele mehr.
       Um mehr über die Gemeinschaft zu erfahren, lies unsere
@@ -1228,7 +1228,7 @@ de:
           %{trace_points} von
           %{possible_points} möglichen Punkten wurden erfolgreich importiert.
     signup_confirm:
-      subject: '[OpenStreetMap] Willkommen bei GRM'
+      subject: '[OpenStreetMap] Willkommen bei OpenStreetMap'
       greeting: Hallo!
       created: Jemand (hoffentlich du) erstellte gerade bei %{site_url} ein Benutzerkonto.
       confirm: 'Bevor wir etwas unternehmen, benötigen wir eine Bestätigung, dass
@@ -1255,13 +1255,13 @@ de:
     lost_password_plain:
       greeting: Hallo,
       hopefully_you: Jemand (wahrscheinlich du) hat eine Zurücksetzung des Passworts
-        für das GRM.org-Konto an diese E-Mail-Adresse angefordert.
+        für das openstreetmap.org-Konto an diese E-Mail-Adresse angefordert.
       click_the_link: Wenn du das bist, klicke bitte auf den Link unten, um dein Passwort
         zurückzusetzen.
     lost_password_html:
       greeting: Hallo,
       hopefully_you: Jemand (hoffentlich du) hat darum gebeten sein Passwort für das
-        GRM-Benutzerkonto mit dieser E-Mail-Adresse zurückzusetzen.
+        OpenStreetMap-Benutzerkonto mit dieser E-Mail-Adresse zurückzusetzen.
       click_the_link: Wenn du das bist, klicke bitte auf den Link unten, um dein Passwort
         zurückzusetzen.
     note_comment_notification:
@@ -1387,7 +1387,7 @@ de:
         tun.
       user_page_link: Einstellungsseite
       anon_edits_link_text: Hier findest du mehr Infos dazu.
-      flash_player_required: Du benötigst den Flash Player um Potlatch, den GRM-Flash-Editor,
+      flash_player_required: Du benötigst den Flash Player um Potlatch, den OpenStreetMap-Flash-Editor,
         zu benutzen. <a href="http://www.adobe.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">Lade
         den Flash Player von Adobe.com herunter</a>. <a href="http://wiki.openstreetmap.org/wiki/DE:Editing">Einige
         andere Möglichkeiten</a>, um GRM zu editieren, sind hier beschrieben.
@@ -1606,7 +1606,7 @@ de:
       message: Das Upload-System und der Speicher für GPX-Dateien ist derzeit nicht
         verfügbar
     georss:
-      title: GRM-GPS-Tracks
+      title: OpenStreetMap-GPS-Tracks
     description:
       description_with_count:
         one: GPX-Datei mit einem Punkt von %{user}
@@ -1627,7 +1627,7 @@ de:
   oauth:
     oauthorize:
       title: Zugriff auf dein Benutzerkonto autorisieren
-      request_access: 'Die Anwendung %{app_name} möchte auf  dein GRM-Konto
+      request_access: 'Die Anwendung %{app_name} möchte auf  dein OpenStreetMap-Konto
         %{user} zugreifen. Bitte entscheide, ob du der Anwendung die folgenden Berechtigungen
         gewähren möchtest. Du kannst ihr entweder alle oder einige der folgenden Berechtigungen
         gewähren:'
@@ -1721,10 +1721,10 @@ de:
       lost password link: Passwort vergessen?
       login_button: Anmelden
       register now: Jetzt registrieren
-      with username: 'Hast du bereits ein Konto bei GRM? Bitte melde dich
+      with username: 'Hast du bereits ein Konto bei OpenStreetMap? Bitte melde dich
         mit deinem Benutzernamen und Passwort an:'
       with openid: 'Alternativ kannst du deine OpenID zum Anmelden nutzen:'
-      new to osm: Neu bei GRM?
+      new to osm: Neu bei OpenStreetMap?
       to make changes: Um Datenänderungen bei GRM vornehmen zu können, musst
         Du ein Benutzerkonto haben.
       create account minute: Erstelle ein Benutzerkonto. Es dauert nur eine Minute.
@@ -1989,7 +1989,7 @@ de:
       heading: Bitte überprüfe deine E-Mails!
       introduction_1: Wir haben dir eine Bestätigungs-E-Mail zugesandt.
       introduction_2: Bitte bestätige dein Benutzerkonto, indem du den Link in der
-        Bestätigungs-E-Mail anklickst. Dann kannst Du beginnen, bei GRM
+        Bestätigungs-E-Mail anklickst. Dann kannst Du beginnen, bei OpenStreetMap
         mitzuarbeiten.
       press confirm button: Zur Aktivierung Deines Benutzerkontos klicke bitte unten
         auf „Bestätigen“.

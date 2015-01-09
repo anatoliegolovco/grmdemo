@@ -140,7 +140,7 @@ eu:
       format_to_export: Esportatzeko formatua
       osm_xml_data: GRM XML Data
       licence: Lizentzia
-      export_details: GRM-eko datuak <a href="http://opendatacommons.org/licenses/odbl/1.0/">Open
+      export_details: OpenStreetMap-eko datuak <a href="http://opendatacommons.org/licenses/odbl/1.0/">Open
         Data Commons Datu-base Irekiko Lizentzia</a> baimen baten mende daude.
       options: Aukerak
       format: Formatua
@@ -673,7 +673,7 @@ eu:
       register now: Erregistratu orain
     logout:
       title: Saio-itxiera
-      heading: GRM-etik saioa itxi
+      heading: OpenStreetMap-etik saioa itxi
       logout_button: Saioa itxi
     lost_password:
       title: Ahaztutako pasahitza

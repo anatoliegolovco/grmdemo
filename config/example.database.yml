@@ -3,9 +3,9 @@
 #
 development:
   adapter: postgresql
-  database: GRM
-#  username: GRM
-#  password: GRM
+  database: openstreetmap
+#  username: openstreetmap
+#  password: openstreetmap
 #  host: localhost
   encoding: utf8
 

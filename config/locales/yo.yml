@@ -42,7 +42,7 @@ yo:
     log_in: Ìjáwọlé
     log_in_tooltip: wole pelu with an existing account
     make_a_donation:
-      text: Da wo si GRM.org
+      text: Da wo si openstreetmap.org
   notifier:
     gpx_notification:
       success:

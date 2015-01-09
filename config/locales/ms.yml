@@ -299,8 +299,8 @@ ms:
         description: Catatan-catatan diari terbaru oleh pengguna GRM dalam
           %{language_name}
       all:
-        title: Catatan diari GRM
-        description: Catatan-catatan diari terbaru oleh pengguna GRM
+        title: Catatan diari OpenStreetMap
+        description: Catatan-catatan diari terbaru oleh pengguna OpenStreetMap
     comments:
       has_commented_on: '%{display_name} mengulas tentang entri-entri diari yang berikut'
       post: Hantar
@@ -315,7 +315,7 @@ ms:
       area_to_export: Kawasan untuk Dieksport
       manually_select: Pilih kawasan yang lain secara insani
       format_to_export: Format untuk Dieksport
-      osm_xml_data: Data XML GRM
+      osm_xml_data: Data XML OpenStreetMap
       map_image: Imej Peta (memaparkan paparan piawai)
       embeddable_html: HTML Boleh Benam
       licence: Lesen
@@ -324,7 +324,7 @@ ms:
       too_large:
         advice: 'Jika pengeksportan di atas gagal, sila pertimbangkan untuk menggunakan
           antara sumber-sumber yang berikut:'
-        body: 'Kawasan ini terlalu besar untuk dieksport dalam bentuk Data XML GRM.
+        body: 'Kawasan ini terlalu besar untuk dieksport dalam bentuk Data XML OpenStreetMap.
           Sila zum dekat atau pilih kawasan yang lebih kecil, atau gunakan mana-mana
           sumber yang berikut untuk memuat turun data secara pukal:'
         planet:
@@ -333,7 +333,7 @@ ms:
             dikemaskinikan
         overpass:
           title: Overpass API
-          description: Muat turun petak sempadan ini dari cermin pangkalan data GRM
+          description: Muat turun petak sempadan ini dari cermin pangkalan data OpenStreetMap
         geofabrik:
           title: Muat-Turunan Geofabrik
           description: Ekstrak benua, negara dan bandar-bandar terpilih yang sentiasa
@@ -344,7 +344,7 @@ ms:
             sekitar
         other:
           title: Sumber-sumber Lain
-          description: Sumber-sumber lanjutan yang tersenarai di wiki GRM
+          description: Sumber-sumber lanjutan yang tersenarai di wiki OpenStreetMap
       options: Pilihan
       format: Format
       scale: Skala
@@ -892,7 +892,7 @@ ms:
       west: barat
   layouts:
     logo:
-      alt_text: Logo GRM
+      alt_text: Logo OpenStreetMap
     home: Pergi ke Lokasi Pangkal
     logout: Log Keluar
     log_in: log Masuk
@@ -911,7 +911,7 @@ ms:
     user_diaries_tooltip: Lihat diari pengguna
     edit_with: Sunting dengan %{editor}
     tag_line: Peta Dunia Wiki Bebas
-    intro_header: Selamat datang ke GRM!
+    intro_header: Selamat datang ke OpenStreetMap!
     intro_text: GRM adalah peta dunia yang diwujudkan oleh insan seperti
       anda, dan bebas digunakan dengan berlandaskan lesen terbuka.
     intro_2_create_account: Buka akaun pengguna
@@ -931,9 +931,9 @@ ms:
     copyright: Hak Cipta
     community: Komuniti
     community_blogs: Blog Komuniti
-    community_blogs_title: Blog-blog ahli komuniti GRM
+    community_blogs_title: Blog-blog ahli komuniti OpenStreetMap
     foundation: Yayasan
-    foundation_title: Yayasan GRM
+    foundation_title: Yayasan OpenStreetMap
     make_a_donation:
       title: Sokonglah GRM dengan dermaan dalam bentuk wang
       text: Derma
@@ -966,12 +966,12 @@ ms:
       intro_3_html: Kartografi jubin peta kami serta pendokumenan kami dilesenkan
         di bawah lesen <a href="http://creativecommons.org/licenses/by-sa/2.0/">Pengiktirafan-PerkongsianSerupa
         2.0</a> (CC-BY-SA).
-      credit_title_html: Cara memberikan penghargaan kepada GRM
+      credit_title_html: Cara memberikan penghargaan kepada OpenStreetMap
       credit_1_html: Kami memerlukan anda menggunakan dikenali sebagai &ldquo;&copy;
-        penyumbang GRM&rdquo; dalam penghargaan.
+        penyumbang OpenStreetMap&rdquo; dalam penghargaan.
       credit_2_html: |-
         Anda juga mesti memperjelas bahawa data ini tersedia di bawah Open Database License, dan juga kartografinya berada di bawah lesen CC-BY-SA jika jubin peta kami turut digunakan. Anda boleh berbuat demikian dengan membuat pautan ke <a href="http://www.openstreetmap.org/copyright">halaman hak cipta ini</a>.
-        Selain itu, dan sebagai kemestian untuk mengedarkan OSM dalam bentuk data, anda boleh menyatakan nama dan membuat pautan secara terus kepada lesen. Untuk media yang tidak membolehkan pautan (cth. bahan cetakan), kami mencadangkan supaya anda menghalakan pembaca-pembaca ke GRM.org (misalnya, dengan meluaskan 'OpenStreetMap' ke alamat penuh ini), ke opendatacommons.org, dan juga creativecommons.org jika berkenaan.
+        Selain itu, dan sebagai kemestian untuk mengedarkan OSM dalam bentuk data, anda boleh menyatakan nama dan membuat pautan secara terus kepada lesen. Untuk media yang tidak membolehkan pautan (cth. bahan cetakan), kami mencadangkan supaya anda menghalakan pembaca-pembaca ke openstreetmap.org (misalnya, dengan meluaskan 'OpenStreetMap' ke alamat penuh ini), ke opendatacommons.org, dan juga creativecommons.org jika berkenaan.
       credit_3_html: |-
         Untuk peta elektronik yang boleh disemak imbas, kredit seharusnya disiarkan di sudut peta.
         Contoh:
@@ -1019,11 +1019,11 @@ ms:
       contributors_gb_html: '<strong>United Kingdom</strong>: Mengandungi data Ordnance
         Survey data &copy; Crown copyright and database right 2010-12.'
       contributors_footer_1_html: '  Untuk keterangan lanjut tentang semua ini, serta
-        sumber-sumber lain yang telah digunakan untuk membantu menambah baik GRM,
+        sumber-sumber lain yang telah digunakan untuk membantu menambah baik OpenStreetMap,
         sila rujuk <a href="http://wiki.openstreetmap.org/wiki/Contributors">Halaman
-        penyumbang</a> di Wiki GRM.'
+        penyumbang</a> di Wiki OpenStreetMap.'
       contributors_footer_2_html: '  Penyertaan data dalam GRM tidak bermaksud
-        bahawa pembekal data asal menyokong GRM, menyediakan sebarang waranti,
+        bahawa pembekal data asal menyokong OpenStreetMap, menyediakan sebarang waranti,
         atau menerima sebarang tanggungan.'
       infringement_title_html: Pencabulan hak cipta
       infringement_1_html: Penyumbang OSM diingatkan supaya tidak sesekali menambah
@@ -1036,7 +1036,7 @@ ms:
         laporan on-line</a>."
   welcome_page:
     title: Selamat datang!
-    introduction_html: Selamat datang ke GRM, peta dunia yang bebas disunting
+    introduction_html: Selamat datang ke OpenStreetMap, peta dunia yang bebas disunting
       oleh orang awam. Kini setelah mendaftar, anda bersiap sedia untuk memeta. Yang
       berikut ialah panduan ringkas dengan maklumat-maklumat yang paling penting bagi
       anda.
@@ -1103,7 +1103,7 @@ ms:
     welcome:
       url: /welcome
       title: Selamat datang ke OSM
-      description: Mulakan dengan panduan ringkas ini yang merangkumi asas-asas GRM.
+      description: Mulakan dengan panduan ringkas ini yang merangkumi asas-asas OpenStreetMap.
     help:
       url: https://help.openstreetmap.org/
       title: help.openstreetmap.org
@@ -1146,13 +1146,13 @@ ms:
         atau membalas di %{replyurl}
     message_notification:
       hi: Apa khabar %{to_user},
-      header: '%{from_user} telah menghantar sepucuk pesanan kepada anda melalui GRM
+      header: '%{from_user} telah menghantar sepucuk pesanan kepada anda melalui OpenStreetMap
         dengan subjek %{subject}:'
       footer_html: Anda juga boleh membaca pesanan ini di %{readurl} dan anda boleh
         membalasnya di %{replyurl}
     friend_notification:
       subject: '[OpenStreetMap] %{user} menjadikan anda sebagai rakannya'
-      had_added_you: '%{user} telah menjadikan anda sebagai kawan di GRM.'
+      had_added_you: '%{user} telah menjadikan anda sebagai kawan di OpenStreetMap.'
       see_their_profile: Anda boleh membaca profilnya di %{userurl}.
       befriend_them: Anda juga boleh menjadikannya sebagai kawan di %{befriendurl}.
     gpx_notification:
@@ -1171,7 +1171,7 @@ ms:
         loaded_successfully: berjaya dimuatkan dengan %{trace_points} daripada sejumlah
           %{possible_points} titik.
     signup_confirm:
-      subject: '[OpenStreetMap] Selamat datang ke GRM'
+      subject: '[OpenStreetMap] Selamat datang ke OpenStreetMap'
       greeting: Apa khabar!
       created: Seseorang (harap-harap anda) baru membuka akaun di %{site_url}.
       confirm: 'Sebelum kami berbuat apa-apa lagi, kami perlu memastikan bahawa permintaan
@@ -1198,13 +1198,13 @@ ms:
     lost_password_plain:
       greeting: Apa khabar,
       hopefully_you: Seseorang (mungkin anda) telah memohon supaya kata laluan ini
-        diset semula di akaun GRM.org milik alamat e-mel ini.
+        diset semula di akaun openstreetmap.org milik alamat e-mel ini.
       click_the_link: Jika anda orangnya, sila klik pautan di bawah untuk mengeset
         semula kata laluan anda.
     lost_password_html:
       greeting: Apa khabar,
       hopefully_you: Seseorang (mungkin anda) telah memohon supaya kata laluan ini
-        diset semula di akaun GRM.org milik alamat e-mel ini.
+        diset semula di akaun openstreetmap.org milik alamat e-mel ini.
       click_the_link: Jika anda orangnya, sila klik pautan di bawah untuk mengeset
         semula kata laluan anda.
     note_comment_notification:
@@ -1328,7 +1328,7 @@ ms:
       flash_player_required: Anda memerlukan pemain Flash untuk menggunakan Potlatch,
         iaitu editor GRM yang menggunakan Flash. Anda boleh <a href="http://www.adobe.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">memuat
         turun Flash Player dari Adobe.com</a>. Terdapat juga <a href="http://wiki.openstreetmap.org/wiki/Editing">pilihan-pilihan
-        lain</a> untuk menyunting GRM.
+        lain</a> untuk menyunting OpenStreetMap.
       potlatch_unsaved_changes: Anda ada perubahan yang belum disimpan. (Untuk menyimpan
         dalam Potlatch, anda perlu menyahpilih arah atau titik semasa jika anda menyunting
         dalam mod langsung, atau klik simpan jika terdapat butang simpan.)
@@ -1653,11 +1653,11 @@ ms:
       lost password link: Lupa kata laluan anda?
       login_button: Log masuk
       register now: Daftar sekarang
-      with username: 'Sudah ada akaun GRM? Sila log masuk dengan nama pengguna
+      with username: 'Sudah ada akaun OpenStreetMap? Sila log masuk dengan nama pengguna
         dan kata laluan anda:'
       with openid: 'Ataupun, sila gunakan OpenID anda untuk log masuk:'
-      new to osm: Baru kenal GRM?
-      to make changes: Untuk membuat perubahan pada data GRM, anda mesti
+      new to osm: Baru kenal OpenStreetMap?
+      to make changes: Untuk membuat perubahan pada data OpenStreetMap, anda mesti
         mempunyai akaun.
       create account minute: Bukalah satu akaun. Seminit sahaja masa untuk membuatnya.
       no account: Belum buka akaun?
@@ -1690,7 +1690,7 @@ ms:
           alt: Log masuk dengan OpenID AOL
     logout:
       title: Log keluar
-      heading: Log keluar dari GRM
+      heading: Log keluar dari OpenStreetMap
       logout_button: Log keluar
     lost_password:
       title: Terlupa kata laluan
@@ -1740,9 +1740,9 @@ ms:
       openid no password: Dengan OpenID tidak perlunya kata laluan, tetapi sesetengah
         alat tambahan atau pelayan mungkin masih memerlukannya.
       openid association: |-
-        <p>OpenID anda belum dikaitkan dengan akaun GRM.</p>
+        <p>OpenID anda belum dikaitkan dengan akaun OpenStreetMap.</p>
         <ul>
-          <li>Jika anda pengguna baru GRM, sila buka akaun baru dengan mengisi borang di bawah.</li>
+          <li>Jika anda pengguna baru OpenStreetMap, sila buka akaun baru dengan mengisi borang di bawah.</li>
           <li>
             Jika anda sudah mempunyai akaun, anda boleh log masuk ke dalam
             akaun anda dengan menggunakan nama pengguna dan kata laluan
@@ -2116,7 +2116,7 @@ ms:
       reopened_at_html: Diaktifkan semula %{when} yang lalu
       reopened_at_by_html: Diaktifkan semula %{when} yang lalu oleh %{user}
     rss:
-      title: Nota GRM
+      title: Nota OpenStreetMap
       description_area: Senarai nota yng dilaporkan, diulas atau ditutup di kawasan
         anda [(%{min_lat}|%{min_lon}) -- (%{max_lat}|%{max_lon})]
       description_item: Suapan rss untuk nota %{id}
@@ -2180,7 +2180,7 @@ ms:
         data: Data Peta
         overlays: Bolehkan tindihan untuk mencari masalah dalam peta
         title: Lapisan
-      copyright: © <a href='%{copyright_url}'>Penyumbang GRM</a>
+      copyright: © <a href='%{copyright_url}'>Penyumbang OpenStreetMap</a>
       donate_link_text: <a class='donate-attr' href='%{donate_url}'>Derma</a>
     site:
       edit_tooltip: Sunting peta

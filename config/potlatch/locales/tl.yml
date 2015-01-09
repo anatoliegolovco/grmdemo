@@ -63,7 +63,7 @@ tl:
   editingoffline: Pamamatnugot habang wala sa Internet
   emailauthor: \n\nMangyaring padalhan ng e-liham si richard@systemeD.net na may isang ulat ng sira, na sinasabi kung ano ang ginagawa mo noong oras na iyon.
   error_anonymous: Hindi ka maaaring makipag-ugnayan sa isang hindi nagpapakilalang tagapagmapa.
-  error_connectionfailed: Paumanhin - nabigo ang ugnay sa tagapaghain ng GRM. Hindi nasagip ang anumang kamakailang mga pagbabago.\n\nNais mo bang subukang muli?
+  error_connectionfailed: Paumanhin - nabigo ang ugnay sa tagapaghain ng OpenStreetMap. Hindi nasagip ang anumang kamakailang mga pagbabago.\n\nNais mo bang subukang muli?
   error_microblog_long: "Nabigo ang pagpapaskil sa $1:\nKodigo ng HTTP: $2\nMensahe ng kamalian: $3\nKamalian ng $1: $4"
   error_nopoi: Hindi matagpuan ang Tuldok na Kagigiliwan (POI) (marahil inasay mo ito?) kaya't hindi ko maibalik sa dati.
   error_nosharedpoint: Ang mga daanang $1 ay $2 hindi na nag-aamutan ng isang pangkaraniwang tuldok, kaya't hindi ko mabuo ulit mula sa pagkakahiwa.
@@ -187,7 +187,7 @@ tl:
   prompt_taggedpoints: Ilan sa mga tuldok na nasa daang ito ay natatakan o nasa loob ng mga ugnayan.  Burahin talaga?
   prompt_track: Gawing mga daan ang bakas ng GPS
   prompt_unlock: Pindutin upang maging hindi nakakandado
-  prompt_welcome: Maligayang pagdating sa GRM!
+  prompt_welcome: Maligayang pagdating sa OpenStreetMap!
   retry: Subukan uli
   revert: Ibalik sa dati
   save: Sagipin

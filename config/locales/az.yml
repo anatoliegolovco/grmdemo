@@ -799,7 +799,7 @@ az:
     foundation: GRM Fondu
     foundation_title: GRM Fondu
     make_a_donation:
-      title: GRM-i dəstəkləmək üçün maddi yardım et
+      title: OpenStreetMap-i dəstəkləmək üçün maddi yardım et
       text: Maddi yardım et
   license_page:
     foreign:
@@ -815,9 +815,9 @@ az:
         GRM <a
         href="http://opendatacommons.org/licenses/odbl/">Open Data
         Commons Open Database License</a> (ODbL) lisenziyası üzrə istifadə olunan <i>açıq məlumatlardan</i> ibarətdir.
-      credit_title_html: GRM-ə Necə istinad etmək olar
+      credit_title_html: OpenStreetMap-ə Necə istinad etmək olar
       attribution_example:
-        alt: Nümunə üçün, veb-səhifədən GRM-ə necə istinad vermək
+        alt: Nümunə üçün, veb-səhifədən OpenStreetMap-ə necə istinad vermək
         title: Müəllifin göstərilməsinin nümunəsi
       more_title_html: Daha çox öyrən
       contributors_title_html: Kimlər bizim layihəyə töhfə verir
@@ -845,7 +845,7 @@ az:
       failure:
         more_info_2: 'nasazlığı, buradan tapmaq olar:'
     signup_confirm:
-      subject: '[OpenStreetMap] GRM-ə xoş gəldiniz'
+      subject: '[OpenStreetMap] OpenStreetMap-ə xoş gəldiniz'
       greeting: Salam!
     email_confirm_plain:
       greeting: Salam,
@@ -1037,7 +1037,7 @@ az:
       remember: Məni xatırla
       login_button: Daxil ol
       register now: İndi qeydiyyatdan keç
-      new to osm: GRM-də yenisiz?
+      new to osm: OpenStreetMap-də yenisiz?
       no account: İstifadəçi hesabınız yoxdur?
       openid_logo_alt: OpenID ilə hesabınıza daxil olun
       openid_providers:
@@ -1058,7 +1058,7 @@ az:
           alt: AOL OpenID ilə hesabınıza daxil olun
     logout:
       title: Sistemdən çıx
-      heading: GRM-dən çıx
+      heading: OpenStreetMap-dən çıx
       logout_button: Sistemdən çıx
     lost_password:
       title: İtirilmiş parol

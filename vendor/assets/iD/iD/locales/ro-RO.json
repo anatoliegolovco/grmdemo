@@ -131,7 +131,7 @@
         "localized_translation_name": "Nume"
     },
     "logout": "logout",
-    "loading_auth": "Conectare la GRM..",
+    "loading_auth": "Conectare la OpenStreetMap..",
     "commit": {
         "title": "Salveaza modificarile",
         "description_placeholder": "O scurtă descriere a contribuției tale.",
@@ -178,14 +178,14 @@
         "help": "Salvează modificările pe OpenSteetMap, făcându-le disponibile către alți utilizatori.",
         "no_changes": "Nici o modificare de salvat.",
         "error": "A apărut o eroare in timp ce salvai.",
-        "uploading": "Încarcă modificările in GRM",
+        "uploading": "Încarcă modificările in OpenStreetMap",
         "unsaved_changes": "Ai modificări nesalvate."
     },
     "success": {
         "facebook": "Distribuie pe Facebook"
     },
     "splash": {
-        "welcome": "Bine ai venit în editorul iD GRM",
+        "welcome": "Bine ai venit în editorul iD OpenStreetMap",
         "walkthrough": "Începe ghidul",
         "start": "Editează acum"
     },

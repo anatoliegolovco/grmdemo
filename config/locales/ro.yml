@@ -242,11 +242,11 @@ ro:
         description: Înregistrări recente în jurnalul GRM de la %{user}
       language:
         title: Înregistrări recente în jurnalul GRM în %{language_name}
-        description: Înregistrări recente în jurnale de la utilizatorii GRM
+        description: Înregistrări recente în jurnale de la utilizatorii OpenStreetMap
           în limba %{language_name}
       all:
-        title: Înregistrări în jurnalul GRM
-        description: Înregistrări recente în jurnale de la utilizatorii GRM
+        title: Înregistrări în jurnalul OpenStreetMap
+        description: Înregistrări recente în jurnale de la utilizatorii OpenStreetMap
     comments:
       has_commented_on: '%{display_name} a comentat pe următoarele înregistrări din
         jurnal'
@@ -262,7 +262,7 @@ ro:
       area_to_export: Zona pentru export
       manually_select: Selectați manual o altă zonă
       format_to_export: Format de exportat
-      osm_xml_data: Date XML GRM
+      osm_xml_data: Date XML OpenStreetMap
       licence: Licență
       options: Opțiuni
       format: Format
@@ -664,7 +664,7 @@ ro:
       west: vest
   layouts:
     logo:
-      alt_text: Logoul GRM
+      alt_text: Logoul OpenStreetMap
     home: acasă
     logout: Închide sesiunea
     log_in: Autentificare
@@ -681,9 +681,9 @@ ro:
     copyright: Drepturi de autor
     community: Comunitate
     community_blogs: Bloguri ale comunității
-    community_blogs_title: Bloguri ale membrilor comunității GRM
+    community_blogs_title: Bloguri ale membrilor comunității OpenStreetMap
     foundation: Fundația
-    foundation_title: Fundația GRM
+    foundation_title: Fundația OpenStreetMap
     make_a_donation:
       title: Sprijiniți GRM printr-o donație în bani
       text: Faceți o donație

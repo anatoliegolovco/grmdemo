@@ -247,9 +247,9 @@ tl:
         description: Kamakailang mga pagpapasok sa talaarawan mula sa mga tagagamit
           ng GRM na nasa %{language_name}
       all:
-        title: Mga ipinasok sa talaarawan ng GRM
+        title: Mga ipinasok sa talaarawan ng OpenStreetMap
         description: Kamakailang mga pagpapasok sa talaarawan mula sa mga tagagamit
-          ng GRM
+          ng OpenStreetMap
     comments:
       has_commented_on: Pinuna ni %{display_name} ang sumusunod na mga lahok sa talaarawan
       post: Ipaskil
@@ -263,7 +263,7 @@ tl:
       area_to_export: Pook na Iluluwas
       manually_select: Kinakamay na pumili ng ibang lugar
       format_to_export: Anyong Iluluwas
-      osm_xml_data: Dato ng XML ng GRM
+      osm_xml_data: Dato ng XML ng OpenStreetMap
       map_image: Larawan ng Mapa (nagpapakita ng patong na saligan)
       embeddable_html: Maibabaong HTML
       licence: Lisensiya
@@ -272,7 +272,7 @@ tl:
         Commons Open Database License (ODbL)</a>.
       too_large:
         body: Masyadong malaki ang lugar na ito upang mailuwas bilang Dato ng XML
-          ng GRM. Mangyaring lumapit o pumili ng isang mas maliit na pook.
+          ng OpenStreetMap. Mangyaring lumapit o pumili ng isang mas maliit na pook.
         other:
           title: Iba pang mga Pinagmulan
       options: Mga mapagpipilian
@@ -296,10 +296,10 @@ tl:
           / FreeThe Postcode</a>
         ca_postcode: Mga kinalabasan mula sa <a href="http://geocoder.ca/">Geocoder.CA</a>
         osm_nominatim: Mga kinalabasan mula sa <a href="http://nominatim.openstreetmap.org/">Nominatim
-          ng GRM</a>
+          ng OpenStreetMap</a>
         geonames: Mga kinalabasan mula sa <a href="http://www.geonames.org/">GeoNames</a>
         osm_nominatim_reverse: Mga kinalabasan mula sa <a href="http://nominatim.openstreetmap.org/">Nominatim
-          ng GRM</a>
+          ng OpenStreetMap</a>
         geonames_reverse: Mga kinalabasan mula sa <a href="http://www.geonames.org/">GeoNames</a>
     search_osm_nominatim:
       prefix_format: '%{name}'
@@ -772,7 +772,7 @@ tl:
     description:
       title:
         osm_nominatim: Kinalalagyan mula sa <a href="http://nominatim.openstreetmap.org/">Nominatim
-          ng GRM</a>
+          ng OpenStreetMap</a>
         geonames: Kinalalagyan mula sa <a href="http://www.geonames.org/">GeoNames</a>
       types:
         cities: Mga lungsod
@@ -796,10 +796,10 @@ tl:
       west: kanluran
   layouts:
     project_name:
-      title: GRM
-      h1: GRM
+      title: OpenStreetMap
+      h1: OpenStreetMap
     logo:
-      alt_text: Logo ng GRM
+      alt_text: Logo ng OpenStreetMap
     home: tahanan
     logout: umalis mula sa pagkakalagda
     log_in: lumagda
@@ -815,7 +815,7 @@ tl:
     user_diaries_tooltip: Tingnan ang mga talaarawan ng tagagamit
     edit_with: Mamatnugot sa pamamagitan ng %{editor}
     tag_line: Ang Malayang Mapa sa Daigdig ng Wiki
-    intro_header: Maligayang pagdating sa GRM!
+    intro_header: Maligayang pagdating sa OpenStreetMap!
     intro_2_create_account: Lumikha ng isang akawnt ng tagagamit
     partners_html: Ang pagpapasinaya ay sinusuportahan ng %{ucl}, %{ic} at %{bytemark},
       at iba pang %{partners}.
@@ -836,9 +836,9 @@ tl:
     copyright: Karapatang-ari at Lisensiya
     community: Pamayanan
     community_blogs: Mga Blog ng Pamayanan
-    community_blogs_title: Mga blog mula sa mga kasapi ng pamayanan ng GRM
+    community_blogs_title: Mga blog mula sa mga kasapi ng pamayanan ng OpenStreetMap
     foundation: Pundasyon
-    foundation_title: Ang Pundasyon ng GRM
+    foundation_title: Ang Pundasyon ng OpenStreetMap
     make_a_donation:
       title: Tangkilikin ang GRM sa pamamagitan ng isang abuloy na pananalapi
       text: Magkaloob ng isang Abuloy
@@ -872,11 +872,11 @@ tl:
         Ang kartograpya sa aming mga tile na mapa at ang aming dokumentasyon ay lisensyado sa ilalim ng <a
         href="http://creativecommons.org/licenses/by-sa/2.0/">lisensiyang Creative
         Commons Attribution-ShareAlike 2.0</a> (CC BY-SA).
-      credit_title_html: Paano babanggitin ang GRM
+      credit_title_html: Paano babanggitin ang OpenStreetMap
       credit_1_html: "Kinakailangan namin na gamitin ang kredito na &ldquo;&copy;
         mga tagapag-ambag ng \nOpenStreetMap&rdquo;."
       credit_2_html: "Kung saan maaari, dapat na ikawing nang labis (lagyan ng hyperlink)
-        ang GRM\nna papunta sa <a\nhref=\"http://www.openstreetmap.org/\">http://www.openstreetmap.org/</a>\nat
+        ang OpenStreetMap\nna papunta sa <a\nhref=\"http://www.openstreetmap.org/\">http://www.openstreetmap.org/</a>\nat
         CC BY-SA sa <a href=\"http://creativecommons.org/licenses/by-sa/2.0/\">http://creativecommons.org/licenses/by-sa/2.0/</a>.
         Kung\ngumagamit ka ng isang midyum o kasangkapan kung saan hindi maaari ang
         mga kawing (iyong isang\nakdang nakalimbag), iminumungkahi namin na ituro
@@ -898,9 +898,9 @@ tl:
         ikaw ay &ldquo;magbigay ng pagbanggit sa Orihinal\nna May-akda na makatwiran
         sa midyum o kaparaanan na ginagamit Mo&rdquo;. Ang indibidwal na mga \ntagapagmapa
         ng OSM ay hindi humihiling ng isang pagbanggit sa ibabaw at sa itaas niyan
-        sa &ldquo;mga \ntagapag-ambag ng GRM&rdquo;, subalit kung saan ang
+        sa &ldquo;mga \ntagapag-ambag ng OpenStreetMap&rdquo;, subalit kung saan ang
         dato magmula sa isang pambansang\nahensiya ng pagmamapa o ibang pangunahing
-        pinagmulan ay naisama sa loob ng GRM,\nmaaaring maging makatwiran
+        pinagmulan ay naisama sa loob ng OpenStreetMap,\nmaaaring maging makatwiran
         na banggitin sila sa pamamagitan ng tuwirang paglikha muli ng kanilang\npagkakabanggit
         o sa pamamagitan ng pagkakawing dito sa ibabaw ng pahinang ito."
       contributors_at_html: "<strong>Austria</strong>: Naglalaman ng dato magmula
@@ -930,12 +930,12 @@ tl:
         ng Ordinansiya \nsa dato ng Pagsisiyasat &copy; Karapatan sa Paglalathala
         ng Korona at karapatan \nsa kalipunan ng dato 2010."
       contributors_footer_1_html: "Para sa karagdagang mga detalye ng mga ito, at
-        iba pang pinanggalingan na ginamit \nupang mapainam ang GRM, paki
+        iba pang pinanggalingan na ginamit \nupang mapainam ang OpenStreetMap, paki
         tingnan ang <a\nhref=\"http://wiki.openstreetmap.org/wiki/Contributors\">Pahina
-        ng \ntagapag-ambag</a> na nasa ibabaw ng Wiki ng GRM."
-      contributors_footer_2_html: "Ang pagsasama ng dato sa loob ng GRM
+        ng \ntagapag-ambag</a> na nasa ibabaw ng Wiki ng OpenStreetMap."
+      contributors_footer_2_html: "Ang pagsasama ng dato sa loob ng OpenStreetMap
         ay hindi nagpapahiwatig na ang orihinal \nna tagapagbigay ng dato ay tumatangkilik
-        sa GRM, nagbibigay ng anumang garantiya, o \ntumatanggap ng anumang
+        sa OpenStreetMap, nagbibigay ng anumang garantiya, o \ntumatanggap ng anumang
         pananagutan."
   fixthemap:
     title: Mag-ulat ng problema/ Ayusin ang mapa
@@ -960,7 +960,7 @@ tl:
         GRM na may paksang %{subject}:'
     friend_notification:
       subject: Idinagdag ka ni %{user} ng [OpenStreetMap] bilang isang kaibigan
-      had_added_you: Idinagdag ka ni %{user} bilang isang kaibigan doon sa GRM.
+      had_added_you: Idinagdag ka ni %{user} bilang isang kaibigan doon sa OpenStreetMap.
       see_their_profile: Maaari mong makita ang kanilang balangkas sa %{userurl}.
       befriend_them: Maaari mong rin silang idagdag bilang isang kaibigan doon sa
         %{befriendurl}.
@@ -982,7 +982,7 @@ tl:
         loaded_successfully: matagumpay na naikarga na may %{trace_points} mula sa
           isang maaaring %{possible_points} mga tuldok.
     signup_confirm:
-      subject: '[OpenStreetMap] Maligayang pagdating sa GRM'
+      subject: '[OpenStreetMap] Maligayang pagdating sa OpenStreetMap'
       greeting: Kamusta!
     email_confirm:
       subject: '[OpenStreetMap] Tiyakin ang iyong tirahan ng e-liham'
@@ -1005,7 +1005,7 @@ tl:
     lost_password_html:
       greeting: Kumusta,
       hopefully_you: May isang tao (maaaring ikaw) ang humiling na itakdang muli ang
-        hudyat dito sa akawnt ng GRM.org ng tirahang ito ng e-liham.
+        hudyat dito sa akawnt ng openstreetmap.org ng tirahang ito ng e-liham.
       click_the_link: Kung ikaw ito, mangyaring pindutin ang kawing na nasa ibaba
         upang itakdang muli ang hudyat mo.
     note_comment_notification:
@@ -1102,9 +1102,9 @@ tl:
       anon_edits: (%{link})
       anon_edits_link_text: Alamin kung bakit ganito ang katayuan.
       flash_player_required: Kailangan mo ng isang tagapagpaandar na Flash upang magamit
-        ang Potlatch, ang patnugot na Flash ng GRM. Maaari mong <a href="http://www.adobe.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">ikargang
+        ang Potlatch, ang patnugot na Flash ng OpenStreetMap. Maaari mong <a href="http://www.adobe.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">ikargang
         paibaba ang Flash Player magmula sa Adobe.com</a>. <a href="http://wiki.openstreetmap.org/wiki/Editing">Ilang
-        pang mga mapagpipilian</a> ang makukuha rin para sa pamamatnugot ng GRM.
+        pang mga mapagpipilian</a> ang makukuha rin para sa pamamatnugot ng OpenStreetMap.
       potlatch_unsaved_changes: Mayroon kang mga pagbabagong hindi pa nasasagip. (Upang
         makapagsagip sa Potlatch, dapat mong huwag piliin ang pangkasalukuyang daan
         o tuldok, kung namamatnugot sa pamamaraang buhay, o pindutin ang sagipin kung
@@ -1422,10 +1422,10 @@ tl:
       lost password link: Nawala ang hudyat mo?
       login_button: Lumagda
       register now: Magpatala na ngayon
-      with username: 'Mayroon ka na bang akawnt sa GRM? Mangyaring lumagda
+      with username: 'Mayroon ka na bang akawnt sa OpenStreetMap? Mangyaring lumagda
         sa pamamagitan ng iyong pangalan ng tagagamit at hudyat:'
       with openid: 'O kaya ay gamitin ang OpenID mo upang lumagda:'
-      new to osm: Bago pa lamang sa GRM?
+      new to osm: Bago pa lamang sa OpenStreetMap?
       to make changes: Upang makagawa ng mga pagbabago sa dato ng GRM data,
         kailangang mayroon kang isang akawnt.
       create account minute: Lumikha ng isang akawnt. Aabutin lamang ng isang minuto.
@@ -1460,7 +1460,7 @@ tl:
           alt: Lumagda sa pamamagitan ng isang OpenID ng AOL
     logout:
       title: Umalis sa pagkakalagda
-      heading: Umalis sa pagkakalagda mula sa GRM
+      heading: Umalis sa pagkakalagda mula sa OpenStreetMap
       logout_button: Umalis sa pagkakalagda
     lost_password:
       title: Naiwalang password
@@ -1506,7 +1506,7 @@ tl:
       openid no password: Hindi kailangan ang hudyat sa OpenID, subalit ang ilan sa
         dagdag na mga kagamitan o tagapaghain ay maaaring mangailangan ng isa.
       openid association: "<p>Ang OpenID mo ay hindi pa nakaugnay sa isang akawnt
-        ng GRM.</p>\n<ul>\n  <li>Kung bago ka pa lang sa GRM,
+        ng OpenStreetMap.</p>\n<ul>\n  <li>Kung bago ka pa lang sa OpenStreetMap,
         mangyaring lumikha ng isang bagong akawnt sa pamamagitan ng pormularyong nasa
         ibaba.</li>\n  <li>\n    Kung mayroon ka nang akawnt, makakalagda ka na sa
         akawnt mo\n    sa pamamagitan ng iyong pangalan ng tagagamit at hudyat at

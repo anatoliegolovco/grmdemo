@@ -298,8 +298,8 @@ ia:
         title: Entratas de diario de GRM in %{language_name}
         description: Entratas de diario recente de usatores de GRM in %{language_name}
       all:
-        title: Entratas de diario de GRM
-        description: Entratas recente de diario de ustores de GRM
+        title: Entratas de diario de OpenStreetMap
+        description: Entratas recente de diario de ustores de OpenStreetMap
     comments:
       has_commented_on: '%{display_name} ha commentate le sequente entratas de diario'
       post: Publicar
@@ -314,7 +314,7 @@ ia:
       area_to_export: Area a exportar
       manually_select: Seliger manualmente un altere area
       format_to_export: Formato de exportation
-      osm_xml_data: Datos XML de GRM
+      osm_xml_data: Datos XML de OpenStreetMap
       map_image: Imagine de carta (monstra le strato standard)
       embeddable_html: HTML incorporabile
       licence: Licentia
@@ -323,17 +323,17 @@ ia:
       too_large:
         advice: 'Si iste exportation falle, considera usar un del fontes listate hic
           infra:'
-        body: 'Iste area es troppo grande pro esser exportate como datos XML de GRM.
+        body: 'Iste area es troppo grande pro esser exportate como datos XML de OpenStreetMap.
           Per favor face zoom avante, o selige un area minor, o usa un del sequente
           fontes pro discargamento de datos in massa:'
         planet:
           title: Planeta OSM
           description: Copias regularmente actualisate del base de datos complete
-            de GRM
+            de OpenStreetMap
         overpass:
           title: Overpass API
           description: Discargar iste quadro delimitator ab un replica del base de
-            datos de GRM
+            datos de OpenStreetMap
         geofabrik:
           title: Discargamentos de Geofabrik
           description: Extractos regularmente actualisate de continentes, paises,
@@ -343,7 +343,7 @@ ia:
           description: Extractos de metropoles e lor areas circumvicin
         other:
           title: Altere fontes
-          description: Fontes additional listate in le wiki de GRM
+          description: Fontes additional listate in le wiki de OpenStreetMap
       options: Optiones
       format: 'Formato:'
       scale: Scala
@@ -891,7 +891,7 @@ ia:
       west: west
   layouts:
     logo:
-      alt_text: Logo de GRM
+      alt_text: Logo de OpenStreetMap
     home: Vader al position de initio
     logout: Clauder session
     log_in: Aperir session
@@ -910,7 +910,7 @@ ia:
     user_diaries_tooltip: Leger diarios de usatores
     edit_with: Modificar con %{editor}
     tag_line: Le wiki-carta libere del mundo
-    intro_header: Benvenite a GRM!
+    intro_header: Benvenite a OpenStreetMap!
     intro_text: GRM es un carta del mundo, create per gente como tu e libere
       de usar sub un licentia aperte.
     intro_2_create_account: Crea un conto de usator
@@ -931,9 +931,9 @@ ia:
     copyright: Derectos de autor
     community: Communitate
     community_blogs: Blogs del communitate
-    community_blogs_title: Blogs de membros del communitate de GRM
+    community_blogs_title: Blogs de membros del communitate de OpenStreetMap
     foundation: Fundation
-    foundation_title: Le fundation GRM
+    foundation_title: Le fundation OpenStreetMap
     make_a_donation:
       title: Supporta GRM con un donation monetari
       text: Facer un donation
@@ -969,13 +969,13 @@ ia:
         Le cartographia in nostre tegulas de carta, e nostre documentation, son
         publicate sub licentia <a href="http://creativecommons.org/licenses/by-sa/2.0/">Creative
         Commons Attribution-ShareAlike 2.0</a> (CC-BY-SA).
-      credit_title_html: Como dar recognoscentia a GRM
+      credit_title_html: Como dar recognoscentia a OpenStreetMap
       credit_1_html: |-
-        Nos require que vos usa le recognoscentia &ldquo;&copy; GRM
+        Nos require que vos usa le recognoscentia &ldquo;&copy; OpenStreetMap
         contributors&rdquo;.
       credit_2_html: |-
         Vos debe anque clarificar que le datos es disponibile sub Open Database License, e si vos usa nostre tegulas cartographic, que le cartographia es licentiate sub CC-BY-SA. Vos pote facer isto con un ligamine a <a href="http://www.openstreetmap.org/copyright">iste pagina de copyright</a>.
-        Alternativemente, e obligatorimente si vos distribue OSM in forma de datos, vos pote mentionar le licentia(s) e ligar directemente a illo(s). Si vos usa un medio de communication in le qual le ligamines non es possibile (p.ex. un obra imprimite), nos suggere que vos dirige vostre lectores a GRM.org (forsan per inserer iste adresse complete in loco del parola &lsquo;OpenStreetMap&rsquo;), a opendatacommons.org, e (si relevante) a creativecommons.org.
+        Alternativemente, e obligatorimente si vos distribue OSM in forma de datos, vos pote mentionar le licentia(s) e ligar directemente a illo(s). Si vos usa un medio de communication in le qual le ligamines non es possibile (p.ex. un obra imprimite), nos suggere que vos dirige vostre lectores a openstreetmap.org (forsan per inserer iste adresse complete in loco del parola &lsquo;OpenStreetMap&rsquo;), a opendatacommons.org, e (si relevante) a creativecommons.org.
       credit_3_html: 'Pro un carta electronic navigabile, le recognoscentia debe apparer
         in le angulo del carta. Per exemplo:'
       attribution_example:
@@ -1027,12 +1027,12 @@ ia:
            2010-12.
       contributors_footer_1_html: |-
         Pro ulterior detalios de iste e altere fontes que ha essite usate
-        pro adjutar a meliorar GRM, vide le <a
+        pro adjutar a meliorar OpenStreetMap, vide le <a
         href=""http://wiki.openstreetmap.org/wiki/Contributors">pagina
-        de contributores</a> in le wiki de GRM.
+        de contributores</a> in le wiki de OpenStreetMap.
       contributors_footer_2_html: |2-
           Le inclusion de datos in GRM non implica que le fornitor
-          original del datos indorsa GRM, forni alcun garantia, o
+          original del datos indorsa OpenStreetMap, forni alcun garantia, o
           accepta alcun responsabilitate.
       infringement_title_html: Violation de copyright
       infringement_1_html: |2-
@@ -1046,7 +1046,7 @@ ia:
         in linea</a>.
   welcome_page:
     title: Benvenite!
-    introduction_html: Bevenite a GRM, le carta libere e modificabile del
+    introduction_html: Bevenite a OpenStreetMap, le carta libere e modificabile del
       mundo. Ora que tu te ha inscribite, tu es preste a comenciar a cartographiar.
       Ecce un guida curte con le cosas le plus importante a saper.
     whats_on_the_map:
@@ -1111,7 +1111,7 @@ ia:
     welcome:
       url: /welcome
       title: Benvenite a OSM
-      description: Comencia con iste guida rapide sur le fundamentos de GRM.
+      description: Comencia con iste guida rapide sur le fundamentos de OpenStreetMap.
     help:
       url: https://help.openstreetmap.org/
       title: help.openstreetmap.org
@@ -1139,7 +1139,7 @@ ia:
     diary_comment_notification:
       subject: '[OpenStreetMap] %{user} commentava un entrata de tu diario'
       hi: Salute %{to_user},
-      header: '%{from_user} ha commentate le entrata recente de tu diario de GRM
+      header: '%{from_user} ha commentate le entrata recente de tu diario de OpenStreetMap
         con le subjecto %{subject}:'
       footer: Tu pote tamben leger le commento a %{readurl} e tu pote commentar a
         %{commenturl} o responder a %{replyurl}
@@ -1151,7 +1151,7 @@ ia:
         a %{replyurl}
     friend_notification:
       subject: '[OpenStreetMap] %{user} te ha addite como amico'
-      had_added_you: '%{user} te ha addite como amico in GRM.'
+      had_added_you: '%{user} te ha addite como amico in OpenStreetMap.'
       see_their_profile: Tu pote vider su profilo a %{userurl}.
       befriend_them: Tu pote equalmente adder le/la como amico a %{befriendurl}.
     gpx_notification:
@@ -1171,7 +1171,7 @@ ia:
         loaded_successfully: ha essite cargate con successo con %{trace_points} ex
           un maximo de %{possible_points} punctos.
     signup_confirm:
-      subject: '[OpenStreetMap] Benvenite a GRM'
+      subject: '[OpenStreetMap] Benvenite a OpenStreetMap'
       greeting: Bon die!
       created: Un persona (probabilemente tu) ha justo create un conto a %{site_url}.
       confirm: 'Ante de facer altere cosa, nos debe confirmar que iste requesta proveniva
@@ -1197,13 +1197,13 @@ ia:
     lost_password_plain:
       greeting: Salute,
       hopefully_you: Alcuno (probabilemente tu) ha demandate que le contrasigno del
-        conto GRM.org associate con iste adresse de e-mail sia reinitialisate.
+        conto openstreetmap.org associate con iste adresse de e-mail sia reinitialisate.
       click_the_link: Si isto es tu, per favor clicca super le ligamine ci infra pro
         reinitialisar tu contrasigno.
     lost_password_html:
       greeting: Salute,
       hopefully_you: Alcuno (possibilemente tu) ha demandate que le contrasigno del
-        conto GRM.org associate con iste adresse de e-mail sia reinitialisate.
+        conto openstreetmap.org associate con iste adresse de e-mail sia reinitialisate.
       click_the_link: Si isto es tu, per favor clicca super le ligamine ci infra pro
         reinitialisar tu contrasigno.
     note_comment_notification:
@@ -1322,9 +1322,9 @@ ia:
       user_page_link: pagina de usator
       anon_edits_link_text: Lege proque isto es le caso.
       flash_player_required: Es necessari haber un reproductor Flash pro usar Potlatch,
-        le editor Flash de GRM. Tu pote <a href="http://www.adobe.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">discargar
+        le editor Flash de OpenStreetMap. Tu pote <a href="http://www.adobe.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">discargar
         Flash Player a Adobe.com</a>. <a href="http://wiki.openstreetmap.org/wiki/Editing">Plure
-        altere optiones</a> es tamben disponibile pro modificar GRM.
+        altere optiones</a> es tamben disponibile pro modificar OpenStreetMap.
       potlatch_unsaved_changes: Tu ha modificationes non salveguardate. (Pro salveguardar
         in Potlatch, tu debe deseliger le via o puncto actual si tu modifica in modo
         directe, o cliccar super le button Salveguardar si presente.)
@@ -1637,11 +1637,11 @@ ia:
       lost password link: Contrasigno perdite?
       login_button: Aperir session
       register now: Registrar ora
-      with username: 'Ha tu jam un conto de GRM? Per favor aperi session
+      with username: 'Ha tu jam un conto de OpenStreetMap? Per favor aperi session
         con tu nomine de usator e contrasigno:'
       with openid: 'Es anque possibile aperir session con tu OpenID:'
-      new to osm: Nove a GRM?
-      to make changes: Pro facer modificationes in le datos de GRM, es necessari
+      new to osm: Nove a OpenStreetMap?
+      to make changes: Pro facer modificationes in le datos de OpenStreetMap, es necessari
         haber un conto.
       create account minute: Crea un conto. Isto dura solmente un minuta.
       no account: Non ha un conto?
@@ -1674,7 +1674,7 @@ ia:
           alt: Aperir session con un OpenID de AOL
     logout:
       title: Clauder session
-      heading: Clauder le session de GRM
+      heading: Clauder le session de OpenStreetMap
       logout_button: Clauder session
     lost_password:
       title: Contrasigno perdite
@@ -1718,9 +1718,9 @@ ia:
       openid no password: Con un OpenID, un contrasigno non es necessari, ma certe
         additional instrumentos o servitores pote totevia requirer un contrasigno.
       openid association: |-
-        <p>Iste OpenID non es ancora associate a un conto de GRM.</p>
+        <p>Iste OpenID non es ancora associate a un conto de OpenStreetMap.</p>
         <ul>
-          <li>Si tu es nove a GRM, per favor crea un conto usante le formulario sequente.</li>
+          <li>Si tu es nove a OpenStreetMap, per favor crea un conto usante le formulario sequente.</li>
           <li>
             Si tu ha jam un conto, tu pote aperir session usante
             tu nomine de usator e contrasigno, e postea associar le
@@ -2084,7 +2084,7 @@ ia:
       reopened_at_html: Reactivate %{when} retro
       reopened_at_by_html: Reactivate %{when} retro per %{user}
     rss:
-      title: Notas de GRM
+      title: Notas de OpenStreetMap
       description_area: Un lista de notas reportate, commentate o claudite in tu area
         [(%{min_lat}|%{min_lon}) -- (%{max_lat}|%{max_lon})]
       description_item: Syndication RSS pro le nota %{id}

@@ -315,8 +315,8 @@ cs:
         description: Aktuální záznamy v deníčcích uživatelů GRM v jazyce
           %{language_name}
       all:
-        title: Deníčkové záznamy GRM
-        description: Nedávné záznamy v deníčcích uživatelů GRM
+        title: Deníčkové záznamy OpenStreetMap
+        description: Nedávné záznamy v deníčcích uživatelů OpenStreetMap
     comments:
       has_commented_on: '%{display_name} okomentoval následující záznamy v deníčku'
       post: Záznam
@@ -345,10 +345,10 @@ cs:
           zdrojů pro stahování velkého množství dat:'
         planet:
           title: Planeta OSM
-          description: Pravidelně aktualizované kopie kompletní databáze GRM
+          description: Pravidelně aktualizované kopie kompletní databáze OpenStreetMap
         overpass:
           title: Overpass API
-          description: Stažení této oblasti z databázového zrcadla GRM
+          description: Stažení této oblasti z databázového zrcadla OpenStreetMap
         geofabrik:
           title: Soubory Geofabrik
           description: Pravidelně aktualizované extrakty kontinentů zemí a vybraných
@@ -358,7 +358,7 @@ cs:
           description: Extrakty pro hlavní světová města a jejich okolí
         other:
           title: Další zdroje
-          description: Další zdroje uvedené na wiki GRM
+          description: Další zdroje uvedené na wiki OpenStreetMap
       options: Možnosti
       format: Formát
       scale: Měřítko
@@ -906,7 +906,7 @@ cs:
       west: západ
   layouts:
     logo:
-      alt_text: Logo GRM
+      alt_text: Logo OpenStreetMap
     home: Přejít domů
     logout: Odhlásit se
     log_in: Přihlásit se
@@ -925,7 +925,7 @@ cs:
     user_diaries_tooltip: Zobrazit deníčky uživatelů
     edit_with: Upravit pomocí %{editor}
     tag_line: Otevřená wiki-mapa světa
-    intro_header: Vítejte v GRM!
+    intro_header: Vítejte v OpenStreetMap!
     intro_text: GRM je mapa světa, vytvořená lidmi jako vy a volně využitelná
       pod otevřenou licencí.
     intro_2_create_account: Vytvořit uživatelský účet
@@ -945,9 +945,9 @@ cs:
     copyright: Autorská práva
     community: Komunita
     community_blogs: Komunitní blogy
-    community_blogs_title: Blogy členů komunity GRM
+    community_blogs_title: Blogy členů komunity OpenStreetMap
     foundation: Nadace
-    foundation_title: Nadace GRM
+    foundation_title: Nadace OpenStreetMap
     make_a_donation:
       title: Podpořte GRM finančním příspěvkem
       text: Pošlete příspěvek
@@ -979,12 +979,12 @@ cs:
       intro_3_html: Kartografická díla v našich mapových dlaždicích a naše dokumentace
         jsou k dispozici pod licencí <a href="http://creativecommons.org/licenses/by-sa/2.0/deed.cs">Creative
         Commons Uveďte autora-Zachovejte licenci 2.0</a> (CC-BY-SA).
-      credit_title_html: Jak uvádět GRM
-      credit_1_html: Vyžadujeme uvádění autorství „© Přispěvatelé GRM“.
+      credit_title_html: Jak uvádět OpenStreetMap
+      credit_1_html: Vyžadujeme uvádění autorství „© Přispěvatelé OpenStreetMap“.
       credit_2_html: |-
         Také musíte jasně uvést, že data jsou dostupná za podmínek Open Database License, a pokud používáte naše mapové dlaždice, že jejich kartografický obsah je licencován pod CC-BY-SA. To můžete splnit odkázáním na <a href="http://www.openstreetmap.org/copyright">tuto stránku</a>.
 
-        Nebo můžete (a pokud šíříte OSM jako data, tak musíte) uvést název licence a odkaz na ni přímo. Pokud používáte médium, které odkazy neumožňuje (např. v tištěném díle), navrhujeme, abyste své čtenáře nasměrovali na GRM.org (zřejmě rozšířením „OpenStreetMap“ do této plné adresy), na opendatacommons.org a, pokud se vás to týká, na creativecommons.org.
+        Nebo můžete (a pokud šíříte OSM jako data, tak musíte) uvést název licence a odkaz na ni přímo. Pokud používáte médium, které odkazy neumožňuje (např. v tištěném díle), navrhujeme, abyste své čtenáře nasměrovali na openstreetmap.org (zřejmě rozšířením „OpenStreetMap“ do této plné adresy), na opendatacommons.org a, pokud se vás to týká, na creativecommons.org.
       credit_3_html: |-
         U interaktivní elektronické mapy by autorství mělo být uvedeno v rohu mapy.
         Příklad:
@@ -1027,10 +1027,10 @@ cs:
       contributors_gb_html: '<strong>Spojené království</strong>: Obsahuje data Ordnance
         Survey &copy; Crown copyright a právo k databázi 2010–12.'
       contributors_footer_1_html: |-
-        Další podrobnosti o těchto a dalších zdrojích, které se používaly pro vylepšení GRM, najdete na <a
-        href="http://wiki.openstreetmap.org/wiki/Contributors">stránce Contributors</a> na wiki GRM.
+        Další podrobnosti o těchto a dalších zdrojích, které se používaly pro vylepšení OpenStreetMap, najdete na <a
+        href="http://wiki.openstreetmap.org/wiki/Contributors">stránce Contributors</a> na wiki OpenStreetMap.
       contributors_footer_2_html: Zahrnutí dat do GRM neznamená, že původní
-        poskytovatel dat podporuje GRM, nabízí jakoukoli záruku nebo přijímá
+        poskytovatel dat podporuje OpenStreetMap, nabízí jakoukoli záruku nebo přijímá
         jakoukoli zodpovědnost.
       infringement_title_html: Porušení autorských práv
       infringement_1_html: Přispěvatelům OSM připomínáme, že by nikdy neměli přidávat
@@ -1043,7 +1043,7 @@ cs:
         formuláře</a>.
   welcome_page:
     title: Vítejte!
-    introduction_html: Vítejte v GRM, svobodné a editovatelné mapě světa.
+    introduction_html: Vítejte v OpenStreetMap, svobodné a editovatelné mapě světa.
       Teď, když jste se zaregistrovali, můžete začít mapovat. Tady je rychlý přehled
       nejdůležitějších věcí, které budete potřebovat znát.
     whats_on_the_map:
@@ -1106,7 +1106,7 @@ cs:
     welcome:
       url: /welcome
       title: Vítejte v OSM
-      description: Začněte tímto rychlým průvodcem zahrnujícím základy GRM.
+      description: Začněte tímto rychlým průvodcem zahrnujícím základy OpenStreetMap.
     help:
       url: https://help.openstreetmap.org/
       title: help.openstreetmap.org
@@ -1143,7 +1143,7 @@ cs:
     diary_comment_notification:
       subject: '[OpenStreetMap] %{user} okomentoval váš deníčkový záznam'
       hi: Ahoj, uživateli %{to_user},
-      header: '%{from_user} okomentoval váš nedávný záznam v deníčku na GRM
+      header: '%{from_user} okomentoval váš nedávný záznam v deníčku na OpenStreetMap
         s předmětem %{subject}:'
       footer: Také si můžete komentář přečíst na %{readurl}, komentovat na %{commenturl}
         nebo odpovědět na %{replyurl}
@@ -1175,7 +1175,7 @@ cs:
         loaded_successfully: se úspěšně nahrál s %{trace_points} z možných %{possible_points}
           bodů.
     signup_confirm:
-      subject: '[OpenStreetMap] Vítejte v GRM'
+      subject: '[OpenStreetMap] Vítejte v OpenStreetMap'
       greeting: Ahoj!
       created: Někdo (doufáme, že vy) si právě založil účet na %{site_url}.
       confirm: 'Než budeme pokračovat, potřebujeme potvrdit, že tento požadavek přišel
@@ -1202,13 +1202,13 @@ cs:
     lost_password_plain:
       greeting: Ahoj,
       hopefully_you: Někdo (patrně vy) požádal o vygenerování nového hesla pro uživatele
-        serveru GRM.org s touto e-mailovou adresou.
+        serveru openstreetmap.org s touto e-mailovou adresou.
       click_the_link: Pokud tedy chcete, kliknutím na níže uvedený odkaz získáte nové
         heslo.
     lost_password_html:
       greeting: Ahoj,
       hopefully_you: Někdo (patrně vy) požádal o vygenerování nového hesla pro uživatele
-        serveru GRM.org s touto e-mailovou adresou.
+        serveru openstreetmap.org s touto e-mailovou adresou.
       click_the_link: Pokud tedy chcete, kliknutím na níže uvedený odkaz získáte nové
         heslo.
     note_comment_notification:
@@ -1332,7 +1332,7 @@ cs:
         můžete zveřejnit na %{user_page}.
       user_page_link: uživatelské stránce
       anon_edits_link_text: Proč to tak je?
-      flash_player_required: Pokud chcete používat Potlatch, flashový editor GRM,
+      flash_player_required: Pokud chcete používat Potlatch, flashový editor OpenStreetMap,
         potřebujete přehrávač Flashe. Můžete si <a href="http://www.adobe.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">stáhnout
         Flash Player z Adobe.com</a>. Pro editaci GRM existuje <a href="http://wiki.openstreetmap.org/wiki/Editing">mnoho
         dalších možností</a>.
@@ -1552,7 +1552,7 @@ cs:
       heading: GPX úložiště offline
       message: Úložiště GPX souborů a systém pro nahrávání jsou momentálně mimo provoz.
     georss:
-      title: GPS stopy z GRM
+      title: GPS stopy z OpenStreetMap
     description:
       description_with_count:
         one: GPX soubor s %{count} bodem od uživatele %{user}
@@ -1669,7 +1669,7 @@ cs:
       with username: 'Máte už na GRM účet? Přihlaste se svým jménem a heslem:'
       with openid: 'Nebo se můžete přihlásit svým OpenID:'
       new to osm: Jste na GRM noví?
-      to make changes: Pokud chcete upravovat GRM, musíte mít uživatelský
+      to make changes: Pokud chcete upravovat OpenStreetMap, musíte mít uživatelský
         účet.
       create account minute: Založte si účet. Zabere to jen chvilku.
       no account: Nemáte účet?
@@ -1702,7 +1702,7 @@ cs:
           alt: Přihlášení pomocí AOL OpenID
     logout:
       title: Odhlásit se
-      heading: Odhlášení z GRM
+      heading: Odhlášení z OpenStreetMap
       logout_button: Odhlásit se
     lost_password:
       title: Ztracené heslo
@@ -1750,7 +1750,7 @@ cs:
       openid no password: S OpenID není heslo potřeba, ale některé další nástroje
         nebo servery je mohou přesto potřebovat.
       openid association: |-
-        <p>Vaše OpenID dosud nebylo propojeno s účtem na GRM.</p>
+        <p>Vaše OpenID dosud nebylo propojeno s účtem na OpenStreetMap.</p>
         <ul>
          <li>Pokud jste na GRM noví, vytvořte si nový účet pomocí formuláře níže.</li>
          <li>
@@ -2119,7 +2119,7 @@ cs:
       reopened_at_html: Reaktivováno před %{when}
       reopened_at_by_html: Reaktivováno před %{when} uživatelem %{user}
     rss:
-      title: Poznámky GRM
+      title: Poznámky OpenStreetMap
       description_area: Seznam poznámek hlášených, komentovaných nebo uzavřených ve
         vaší oblasti [(%{min_lat}|%{min_lon}) – (%{max_lat}|%{max_lon})]
       description_item: RSS kanál k poznámce %{id}
@@ -2183,7 +2183,7 @@ cs:
         data: Data k mapě
         overlays: Zapnout vrstvy pro ladění mapy
         title: Vrstvy
-      copyright: © <a href='%{copyright_url}'>přispěvatelé GRM</a>
+      copyright: © <a href='%{copyright_url}'>přispěvatelé OpenStreetMap</a>
       donate_link_text: <a class='donate-attr' href='%{donate_url}'>Poskytněte dar</a>
     site:
       edit_tooltip: Upravit mapu

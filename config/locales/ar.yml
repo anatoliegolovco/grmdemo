@@ -324,7 +324,7 @@ ar:
         planet:
           title: كوكب OSM
           description: نسخ محدثة بشكل دوري من قاعدة بيانات خرائط الشوارع المفتوحة
-            GRM
+            OpenStreetMap
         overpass:
           title: تجاوز API
         geofabrik:
@@ -972,7 +972,7 @@ ar:
         كلمة المرور.
     lost_password_html:
       greeting: تحياتي،
-      hopefully_you: شخص ما (ربما أنت) طلب إعادة تعيين كلمة المرور لحساب GRM.org  على
+      hopefully_you: شخص ما (ربما أنت) طلب إعادة تعيين كلمة المرور لحساب openstreetmap.org  على
         عنوان البريد الإلكتروني هذا.
       click_the_link: إذا كان هذا هو أنت، يرجى الضغط على الرابط أدناه لإعادة تعيين
         كلمة المرور.

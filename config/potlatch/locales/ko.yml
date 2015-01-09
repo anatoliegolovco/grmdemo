@@ -72,7 +72,7 @@ ko:
   prompt_revertversion: "이전에 저장된 버전으로 부터 되돌리기:"
   prompt_taggedpoints: 길의 몇몇 포인트에 태그가 있습니다. 정말 삭제하겠습니까?
   prompt_track: GPS tracklog를 수정가능한 길(locked)로 변환
-  prompt_welcome: GRM에 오신 것을 환영합니다!
+  prompt_welcome: OpenStreetMap에 오신 것을 환영합니다!
   save: 저장
   tip_addrelation: relation에 추가
   tip_addtag: 새로운 태그 추가

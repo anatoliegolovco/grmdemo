@@ -335,7 +335,7 @@ ja:
           description: 定期的に更新される、GRM データベースの完全な複製
         overpass:
           title: Overpass API
-          description: GRMデータベースのミラーからこの範囲をダウンロード
+          description: OpenStreetMapデータベースのミラーからこの範囲をダウンロード
         geofabrik:
           title: Geofabrik のダウンロード
           description: 大陸、国、および選択した都市を抽出したもので、定期的に更新されます
@@ -949,13 +949,13 @@ ja:
       intro_1_html: |-
         GRM は<i>オープンデータ</i>であり、<a
         href="http://opendatacommons.org/licenses/odbl/">Open Data Commons Open Database License</a> (ODbL) の下にライセンスされています。
-      intro_2_html: GRMとその協力者をクレジットすれば、データを自由にコピー、配布、送信、利用することができます。変更したり翻案したりしたデータは、同じライセンスに従って提供することができます。あなたの権利と責任は、<a
+      intro_2_html: OpenStreetMapとその協力者をクレジットすれば、データを自由にコピー、配布、送信、利用することができます。変更したり翻案したりしたデータは、同じライセンスに従って提供することができます。あなたの権利と責任は、<a
         href="http://opendatacommons.org/licenses/odbl/1.0/">ライセンス契約</a>の全文で説明しています。
       intro_3_html: |-
         地図タイルの作成法やドキュメントは、<a href="http://creativecommons.org/licenses/by-sa/2.0/">Creative
         Commons Attribution-ShareAlike 2.0</a> ライセンス (CC BY-SA) に基づいてライセンスされます。
       credit_title_html: GRM のクレジット表記の仕方
-      credit_1_html: 「&copy; GRMへの協力者」のクレジットを必ず使用してください。
+      credit_1_html: 「&copy; OpenStreetMapへの協力者」のクレジットを必ず使用してください。
       credit_2_html: あなたはデータが Open Database License に基づいて提供されていること、そして地図タイルを使用する場合は、地図製作が
         CC BY-SA としてライセンスされていることを明確にしなければなりません。<a href="http://www.openstreetmap.org/copyright">著作権表示ページ</a>にリンクすることでこれを表現することができます。また、データの形式でOSMを配布する場合の要件として、名前を表示の上、ライセンスに直接リンクすることができます。リンクを張れないメディア（印刷など）の場合は、openstreetmap.org（OpenStreetMapをアドレスとして展開した形）、opendatacommons.org、あと関連があれば、creativecommons.orgに誘導することをお勧めします。
       credit_3_html: |-
@@ -998,7 +998,7 @@ ja:
         and database right 2010-12 を含みます。'
       contributors_footer_1_html: これらの詳細について、またOpenStreetMapの向上に使用されたその他のソースについては、OpenStreetMap
         Wikiの<a href="http://wiki.openstreetmap.org/wiki/Contributors">協力者ページ</a>をご覧ください。
-      contributors_footer_2_html: GRMのデータに含めることは、元データの提供者がOpenStreetMapを支持したり、何かしらの保証を行ったり、何かしらの責任を負ったりすることを意味するものではありません。
+      contributors_footer_2_html: OpenStreetMapのデータに含めることは、元データの提供者がOpenStreetMapを支持したり、何かしらの保証を行ったり、何かしらの責任を負ったりすることを意味するものではありません。
       infringement_title_html: 著作権侵害
       infringement_1_html: 'OSMの協力者は、著作権者から明確な許諾を得ずに、著作権のある情報源 (例: Google マップや印刷された地図)
         からデータを持ち込まないよう注意するものとします。'
@@ -1010,7 +1010,7 @@ ja:
     introduction_html: フリーで編集可能な世界地図、OpenStreetMapへようこそ。サインアップしたので、マッピングの準備はすべて整いました。知っておかなければならない重要事項を簡単に説明します。
     whats_on_the_map:
       title: 地図上にあるもの
-      on_html: GRMは<em>現実かつ現存</em>のもの――数々の建物、道路、場所に関するその他の詳細をマッピングする場所です。あなたは関心のある現実世界のものを何でもマッピングできます。
+      on_html: OpenStreetMapは<em>現実かつ現存</em>のもの――数々の建物、道路、場所に関するその他の詳細をマッピングする場所です。あなたは関心のある現実世界のものを何でもマッピングできます。
       off_html: 含めては<em>いけない</em>ものは、評価のような主観的なデータ、歴史的または仮想的なもの、著作権のある情報源からのデータです。特別な許可がない場合は、オンラインや紙の地図からコピーをしてはいけません。
     basic_terms:
       title: マッピングのための基本的な用語
@@ -1022,7 +1022,7 @@ ja:
     questions:
       title: 何か質問はありますか?
       paragraph_1_html: |-
-        GRMにはプロジェクトについて学んだり、質疑応答したり、共同で議論したり、マッピングについての知識を文書化したりするさまざまなリソースがあります。
+        OpenStreetMapにはプロジェクトについて学んだり、質疑応答したり、共同で議論したり、マッピングについての知識を文書化したりするさまざまなリソースがあります。
         <a href='%{help_url}'>ここからヘルプを得ましょう</a>。
     start_mapping: マッピングを開始
     add_a_note:
@@ -1050,7 +1050,7 @@ ja:
         までご連絡ください。
   help_page:
     title: ヘルプの取得
-    introduction: GRMにはプロジェクトについて学んだり、質疑応答したり、共同で議論したり、マッピングについての知識を文書化したりするさまざまなリソースがあります。
+    introduction: OpenStreetMapにはプロジェクトについて学んだり、質疑応答したり、共同で議論したり、マッピングについての知識を文書化したりするさまざまなリソースがあります。
     welcome:
       url: /welcome
       title: OSM へようこそ
@@ -1067,16 +1067,16 @@ ja:
     next: 次へ
     copyright_html: <span>&copy;</span>OpenStreetMap<br>への協力者
     used_by: '%{name} は、数多くのウェブ サイト、モバイル アプリ、ハードウェア機器で利用されています'
-    lede_text: GRMは、道路、通路、カフェ、鉄道駅など、世界中にあるすべてのものについてのデータを提供・メンテナンスしているマッパーのコミュニティによって構築されました。
+    lede_text: OpenStreetMapは、道路、通路、カフェ、鉄道駅など、世界中にあるすべてのものについてのデータを提供・メンテナンスしているマッパーのコミュニティによって構築されました。
     local_knowledge_title: 地元の情報
-    local_knowledge_html: GRMは地域の知識を増幅します。協力者は航空写真やGPS機器、ローテクのフィールド地図を使用して、OSMが正確で最新の状態であることを確認しています。
+    local_knowledge_html: OpenStreetMapは地域の知識を増幅します。協力者は航空写真やGPS機器、ローテクのフィールド地図を使用して、OSMが正確で最新の状態であることを確認しています。
     community_driven_title: コミュニティ主導
     community_driven_html: |-
-      GRMのコミュニティは多様で、情熱的で、毎日成長しています。
+      OpenStreetMapのコミュニティは多様で、情熱的で、毎日成長しています。
       協力者には地図作りマニア、GISの専門家、OSMサーバーを稼働させている技術者、被災地の地図作りをする人道主義者などを含みます。
       コミュニティについて詳しくは、<a href='%{diary_path}'>ユーザーの日記</a>、<a href='http://blogs.openstreetmap.org/'>コミュニティのブログ</a>、<a href='http://www.osmfoundation.org/'>OSM財団</a>のウェブサイトをご覧ください。
     open_data_title: オープン データ
-    open_data_html: GRMは<i>オープンデータ</i>です。あなたはOpenStreetMapと協力者を著作権表示すれば、いかなる目的でも無料で利用することができます。もし何らかの方法でデータを変更したり二次データを作成したりした場合も、同じライセンス条件下でのみ結果を配布できます。詳しくは、<a
+    open_data_html: OpenStreetMapは<i>オープンデータ</i>です。あなたはOpenStreetMapと協力者を著作権表示すれば、いかなる目的でも無料で利用することができます。もし何らかの方法でデータを変更したり二次データを作成したりした場合も、同じライセンス条件下でのみ結果を配布できます。詳しくは、<a
       href='%{copyright_path}'>著作権とライセンス</a>をご覧ください。
     partners_title: パートナー
   notifier:
@@ -1109,7 +1109,7 @@ ja:
         subject: '[OpenStreetMap] GPX のインポートが成功'
         loaded_successfully: 得られた %{possible_points} 点のうち、%{trace_points} 点の読み込みに成功しました。
     signup_confirm:
-      subject: '[OpenStreetMap] GRMへようこそ'
+      subject: '[OpenStreetMap] OpenStreetMapへようこそ'
       greeting: やあ、皆さん!
       created: 誰か (おそらくあなた) が %{site_url} でアカウントを作成しました。
       confirm: 私たちが他に何かする前に、この要求があなたのものであることを確認する必要がありますので、その後であなたのアカウントを確認するために下のリンクをクリックしてください。
@@ -1128,11 +1128,11 @@ ja:
       subject: '[OpenStreetMap] パスワードリセットの要求'
     lost_password_plain:
       greeting: こんにちは、
-      hopefully_you: 誰か (おそらくあなた) が、このメール アドレスの GRM.org アカウントに対するパスワードをリセットするように依頼しました。
+      hopefully_you: 誰か (おそらくあなた) が、このメール アドレスの openstreetmap.org アカウントに対するパスワードをリセットするように依頼しました。
       click_the_link: これがあなたであれば、以下のリンクをクリックしてパスワードをリセットしてください。
     lost_password_html:
       greeting: こんにちは、
-      hopefully_you: 誰か (おそらくあなた) が、このメール アドレスの GRM.org アカウントに対するパスワードをリセットするように依頼しました。
+      hopefully_you: 誰か (おそらくあなた) が、このメール アドレスの openstreetmap.org アカウントに対するパスワードをリセットするように依頼しました。
       click_the_link: これがあなたであれば、以下のリンクをクリックしてパスワードをリセットしてください。
     note_comment_notification:
       anonymous: 匿名ユーザー
@@ -1225,7 +1225,7 @@ ja:
       shortlink: 短縮リンク
       createnote: メモを追加
       license:
-        copyright: Copyright GRMおよび協力者、オープンライセンスの下で
+        copyright: Copyright OpenStreetMapおよび協力者、オープンライセンスの下で
       remote_failed: 編集に失敗しました - JOSM または Merkaartor を起動し、リモート制御オプションが有効になっていることを確認してください
     edit:
       not_public: あなたの編集結果を公開できません。

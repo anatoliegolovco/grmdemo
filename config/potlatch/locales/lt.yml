@@ -168,7 +168,7 @@ lt:
   prompt_launch: Paleisti išorinį URL
   prompt_live: Redagavimo gyvai režime, kiekvieną pakeitimą kurį jūs atliksite, išsisaugos automatiškai - tai nerekomenduojama pradedantiesiems. Ar tu tikras?
   prompt_revertversion: "Atstatyti ankstesnę įrašytą versiją:"
-  prompt_welcome: Jus sveikina GRM!
+  prompt_welcome: Jus sveikina OpenStreetMap!
   retry: Bandyti dar kartą
   save: Įrašyti
   tags_backtolist: Atgal į sąrašą

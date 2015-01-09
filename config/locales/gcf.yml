@@ -86,7 +86,7 @@ gcf:
       not_public_description: 'Pou modifié kat la fok édision aw piblik. Ou pé rann édision aw piblik asi %{user_page}.'
       user_page_link: paj_itilizatè
       anon_edits_link_text: Ka y ni la.
-      flash_player_required: "Ou bizwen on lektè Flash pou itilizé Potlatch ki sé éditè Flash a GRM. Ou pé<a href='http://www.adobe.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash'>télécharjé Flash Player asi site a Adobe</a>. <a href='http://wiki.openstreetmap.org/wiki/Editing'>Ni dot opsion</a> pour modifié GRM."
+      flash_player_required: "Ou bizwen on lektè Flash pou itilizé Potlatch ki sé éditè Flash a OpenStreetMap. Ou pé<a href='http://www.adobe.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash'>télécharjé Flash Player asi site a Adobe</a>. <a href='http://wiki.openstreetmap.org/wiki/Editing'>Ni dot opsion</a> pour modifié OpenStreetMap."
       potlatch_unsaved_changes: >
         Ou ti ni modifikasion ou pa
         anrègistré. (Pou anrègistré adan
@@ -117,7 +117,7 @@ gcf:
         Malérezman, alè kilé, nou pé pa
         ouvè kont automatikman.
       contact_webmaster: "Kontakté <a href='mailto:webmaster@openstreetmap.org'>mèt web la</a> pou y ouvè an kont baw - nou ké éséyé travay pli vit posib."
-      license_agreement: "Lè ou ka kréyé kont aw, ou ka aksepté kè tout travay aw voyé asi GRM.org evè tout doné kréyé èvè zouti konekté asi GRM.org asi lisans (y pa esklisif) <a href='http://creativecommons.org/licenses/by-sa/2.0/'>Creative Commons license (by-sa)</a>."
+      license_agreement: "Lè ou ka kréyé kont aw, ou ka aksepté kè tout travay aw voyé asi Openstreetmap.org evè tout doné kréyé èvè zouti konekté asi Openstreetmap.org asi lisans (y pa esklisif) <a href='http://creativecommons.org/licenses/by-sa/2.0/'>Creative Commons license (by-sa)</a>."
       email address: 'Adres imél :'
       confirm email address: 'konfimé adres imél :'
       not displayed publicly: 'Sa pa vizib piblikman (Ay vwè<a href="http://wiki.openstreetmap.org/wiki/Privacy_Policy" title="wiki privacy policy including section an email addresses">prencip an nou asi konfidansialité</a>)'

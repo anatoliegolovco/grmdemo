@@ -298,8 +298,8 @@ be:
         title: Запісы ў дзённіку GRM на %{language_name}
         description: Апошнія запісы ў дзённіках карыстальнікаў GRM на %{language_name}
       all:
-        title: Дзеннікавыя запісы GRM
-        description: Апошнія дзеннікавыя запісы карыстальнікаў GRM
+        title: Дзеннікавыя запісы OpenStreetMap
+        description: Апошнія дзеннікавыя запісы карыстальнікаў OpenStreetMap
     comments:
       has_commented_on: '%{display_name} пракаментаваў наступныя дзеннікавыя запісы'
       post: Апублікаваць
@@ -324,16 +324,16 @@ be:
       too_large:
         advice: 'Калі экспарт вышэй не атрымаўся, то разгледзьце магчымасць выкарыстання
           адной з наступных крыніц:'
-        body: Гэтая вобласць занадта вялікая, каб быць экспартаваная як GRM
+        body: Гэтая вобласць занадта вялікая, каб быць экспартаваная як OpenStreetMap
           XML-дадзеныя. Калі ласка, павялічце або абярыце меншую вобласць, альбо скарыстайцеся
           адной з крыніц, пералічаных ніжэй, для загрузкі вялікага аб'ему дадзеных.
         planet:
           title: Планета OSM
-          description: Рэгулярна абнаўляемыя копіі поўнай базы дадзеных GRM
+          description: Рэгулярна абнаўляемыя копіі поўнай базы дадзеных OpenStreetMap
         overpass:
           title: Overpass API
           description: Спампаваць абмежаваную гэтым прастакутнікам вобласць з люстэрка
-            базы дадзеных GRM
+            базы дадзеных OpenStreetMap
         geofabrik:
           title: Загрузкі Geofabrik
           description: Рэгулярна абнаўляемыя выбаркі кантынентаў, краін і асобных
@@ -344,7 +344,7 @@ be:
             тэрыторый
         other:
           title: Іншыя крыніцы
-          description: Дадатковыя крыніцы, пералічаныя на Вікі GRM
+          description: Дадатковыя крыніцы, пералічаныя на Вікі OpenStreetMap
       options: Настройкі
       format: 'Фармат:'
       scale: Маштаб
@@ -892,7 +892,7 @@ be:
       west: заходн.
   layouts:
     logo:
-      alt_text: Лагатып GRM
+      alt_text: Лагатып OpenStreetMap
     home: Дамоў
     logout: Выйсці
     log_in: Увайсці
@@ -911,7 +911,7 @@ be:
     user_diaries_tooltip: Дзённікі карыстальнікаў
     edit_with: Правіць з дапамогаю %{editor}
     tag_line: Свабодная Wiki-карта свету
-    intro_header: Вітаем у GRM!
+    intro_header: Вітаем у OpenStreetMap!
     intro_text: GRM - гэта карта свету, створаная людзьмі, як вы, і бясплатная
       для выкарыстання на ўмовах адкрытай ліцэнзіі.
     intro_2_create_account: Стварыць рахунак удзельніка
@@ -930,9 +930,9 @@ be:
     copyright: Аўтарскае права
     community: Супольнасьць
     community_blogs: Блогі супольнасці
-    community_blogs_title: Блогі ўдзельнікаў супольнасці GRM
+    community_blogs_title: Блогі ўдзельнікаў супольнасці OpenStreetMap
     foundation: Фонд
-    foundation_title: Фонд GRM
+    foundation_title: Фонд OpenStreetMap
     make_a_donation:
       title: Падтрымаць GRM грашовым ахвяраваннем
       text: Зрабіць ахвяраванне
@@ -964,9 +964,9 @@ be:
       intro_3_html: "Карты ў графічным выглядзе, а таксама дакументацыя распаўсюджваюцца
         на ўмовах <a href=\"http://creativecommons.org/licenses/by-sa/2.0/\">Ліцензіі
         Creative \nCommons Attribution-ShareAlike 2.0</a> (CC-BY-SA)."
-      credit_title_html: Як спасылацца на GRM
+      credit_title_html: Як спасылацца на OpenStreetMap
       credit_1_html: |-
-        Мы патрабуем, каб выкарыстоўвалася спасылка &ldquo;&copy; GRM
+        Мы патрабуем, каб выкарыстоўвалася спасылка &ldquo;&copy; OpenStreetMap
         contributors&rdquo;.
       credit_2_html: Вы павінны таксама даваць дакладна разумець, што дадзеныя даступныя
         на ўмовах Open Database License, а ў выпадку, калі вы карыстаецеся графічнымі
@@ -976,7 +976,7 @@ be:
         патрабаванняў пры распаўсюдзе дадзеных OSM вы можаце непасрэдна ўказваць назву
         ліцэнзіі(й) і спасылкі на яе(іх) тэкст. Пры выкарыстанні носьбітамі, дзе выкарыстанне
         гіпертэкставых спасылак немагчыма (напрыклад друкаваныя матэрыялы), мы прапануем
-        спасылацца непасрэдна на GRM.org (або пашыраючы "OpenStreetMap"
+        спасылацца непасрэдна на openstreetmap.org (або пашыраючы "OpenStreetMap"
         да гэтага поўнага адраса), opendatacommons.org, а калі трэба, і на creativecommons.org.
       credit_3_html: "Для электронных карт, згадка пра крыніцу дадзеных павінна знаходзіцца
         ў куце карты. \nНапрыклад:"
@@ -1027,12 +1027,12 @@ be:
         Survey &copy; Crown copyright and database right
         2010-12.
       contributors_footer_1_html: Дадатковую інфармацыю аб гэтых і іншых крыніцах,
-        якія былі выкарыстаныя для паляпшэння карты GRM, можна атрымаць
+        якія былі выкарыстаныя для паляпшэння карты OpenStreetMap, можна атрымаць
         на старонцы <a href="http://wiki.openstreetmap.org/wiki/Contributors">Удзельнікі
-        </a> на Вікі GRM.
+        </a> на Вікі OpenStreetMap.
       contributors_footer_2_html: |-
         Уключэнне дадзеных у GRM не азначае, што пастаўшчыкі пачатковых дадзеных
-        якім-небудзь чынам падтрымліваюць GRM, прадстаўляюць гарантыі, ці
+        якім-небудзь чынам падтрымліваюць OpenStreetMap, прадстаўляюць гарантыі, ці
         прымаюць на сябе якую-небудзь адказнасць.
       infringement_title_html: Парушэнне аўтарскіх правоў
       infringement_1_html: Удзельнікі супольнасці OSM павінны заўсёды памятаць пра
@@ -1045,7 +1045,7 @@ be:
         для онлайн зваротаў</a>.
   welcome_page:
     title: Вітаем!
-    introduction_html: Вітаем у GRM, свабоднай і даступнай для рэдагавання
+    introduction_html: Вітаем у OpenStreetMap, свабоднай і даступнай для рэдагавання
       карце свету. Зараз, калі вы ўвайшлі, усё гатова для пачатку рэдагавання. Вось
       кароткае кіраўніцтва па найважнейшым рэчам, якія вы павінны ведаць.
     whats_on_the_map:
@@ -1116,7 +1116,7 @@ be:
     welcome:
       url: /welcome
       title: Вітаем у OSM
-      description: Пачніце з гэтага кароткага кіраўніцтва, што ахоплівае асновы GRM.
+      description: Пачніце з гэтага кароткага кіраўніцтва, што ахоплівае асновы OpenStreetMap.
     help:
       url: https://help.openstreetmap.org/
       title: help.openstreetmap.org
@@ -1144,7 +1144,7 @@ be:
       <a href='http://blogs.openstreetmap.org/'>блогі супольнасці</a> і сайт <a href='http://www.osmfoundation.org/'>фонду OSM</a>.
     open_data_title: Адкрытыя дадзеныя
     open_data_html: "GRM - гэта <i>адкрытыя дадзеныя</i>: вы можаце свабодна
-      выкарыстоўваць іх для любых мэтаў да тых часоў, пакуль вы спасылаецеся на GRM
+      выкарыстоўваць іх для любых мэтаў да тых часоў, пакуль вы спасылаецеся на OpenStreetMap
       і яго ўдзельнікаў. Пры змене дадзеных або выкарыстанні ў  якасці асновы для
       новых прадуктаў, вы можаце распаўсюджваць вынік толькі па той жа ліцэнзіі. Глядзіце
       старонку <a href='%{copyright_path}'>аўтарскія правы і \nліцэнзія</a>, каб атрымаць
@@ -1160,12 +1160,12 @@ be:
         ці адказаць на %{replyurl}
     message_notification:
       hi: Прывітанне, %{to_user},
-      header: '%{from_user} адправіў вам паведамленне з тэмай %{subject} праз GRM:'
+      header: '%{from_user} адправіў вам паведамленне з тэмай %{subject} праз OpenStreetMap:'
       footer_html: Вы можаце таксама прачытаць паведамленне на %{readurl}, і вы можаце
         адказаць на %{replyurl}
     friend_notification:
       subject: '[OpenStreetMap] %{user} дадаў вас у спіс сваіх сяброў'
-      had_added_you: '%{user} пасябраваў з Вамі на GRM.'
+      had_added_you: '%{user} пасябраваў з Вамі на OpenStreetMap.'
       see_their_profile: Вы можаце прагледзець профіль на %{userurl} і дадаць, як
         сябра, у адказ, калі хочаце.
       befriend_them: Вы таксама можаце пасябраваць з імі на %{befriendurl}.
@@ -1185,7 +1185,7 @@ be:
         loaded_successfully: паспяхова загружаны %{trace_points} з магчымых %{possible_points}
           кропак.
     signup_confirm:
-      subject: '[OpenStreetMap] Сардэчна запрашаем у GRM'
+      subject: '[OpenStreetMap] Сардэчна запрашаем у OpenStreetMap'
       greeting: Прывітанне!
       created: Хтосьці (спадзяемся што Вы) толькі што стварыў рахунак на %{site_url}.
       confirm: 'Перш чым мы зробім што-небудз яшчэ, мы павінны пераканацца, што запыт
@@ -1212,13 +1212,13 @@ be:
     lost_password_plain:
       greeting: Прывітанне,
       hopefully_you: Хтосьці (спадзяемся, што вы) запытаў змену пароля для рахунку
-        на GRM.org, які выкарыстоўвае гэты адрас электроннай пошты.
+        на openstreetmap.org, які выкарыстоўвае гэты адрас электроннай пошты.
       click_the_link: Калі гэта вы, калі ласка, перайдзіце па спасылцы, паказанай
         ніжэй, каб змяніць ваш пароль.
     lost_password_html:
       greeting: Прывітанне,
       hopefully_you: Хтосьці (спадзяемся, што вы) запытаў змену пароля для рахунку
-        на GRM.org, які выкарыстоўвае гэты адрас электроннай пошты.
+        на openstreetmap.org, які выкарыстоўвае гэты адрас электроннай пошты.
       click_the_link: Калі гэта вы, калі ласка, перайдзіце па спасылцы, паказанай
         ніжэй, каб змяніць ваш пароль.
     note_comment_notification:
@@ -1341,7 +1341,7 @@ be:
       flash_player_required: Каб выкарыстоўваць рэдактар Potlatch неабходны Flash-плэер.
         Вы можаце <a href="http://www.adobe.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">загрузіць
         Flash-плэер з Adobe.com</a>. Існуюць і <a href="http://wiki.openstreetmap.org/wiki/Editing">іншыя
-        магчымасці</a> для рэдагавання GRM.
+        магчымасці</a> для рэдагавання OpenStreetMap.
       potlatch_unsaved_changes: You have unsaved changes. (To save in Potlatch, you
         should deselect the current шлях ці point, if editing in list mode, ці click
         save if you have a save button.)
@@ -1549,7 +1549,7 @@ be:
       heading: Сховішча GPX-файлаў адключана
       message: Сховішча і сістэма загрузкі GPX-файлаў ў бягучы момант недаступныя
     georss:
-      title: GPS-сляды GRM
+      title: GPS-сляды OpenStreetMap
     description:
       description_with_count:
         one: GPX-файл з %{count} кропкай ад %{user}
@@ -1663,11 +1663,11 @@ be:
       lost password link: Згубліл пароль?
       login_button: Увайсці
       register now: Зарэгістравацца зараз
-      with username: 'Ужо маеце рахунак GRM? Калі ласка, увайдзіце ў сістэму
+      with username: 'Ужо маеце рахунак OpenStreetMap? Калі ласка, увайдзіце ў сістэму
         з Вашым іменем удзельніка і паролем:'
       with openid: 'Для ўваходу можаце выкарыстаць Ваш OpenID:'
-      new to osm: Упершыню на GRM?
-      to make changes: Каб змяняць дадзеныя GRM, вы павінны мець асабісты
+      new to osm: Упершыню на OpenStreetMap?
+      to make changes: Каб змяняць дадзеныя OpenStreetMap, вы павінны мець асабісты
         рахунак.
       create account minute: Стварыце рахунак. Гэта зойме ўсяго адну хвіліну.
       no account: Не маеце асабістага рахунку?
@@ -1700,7 +1700,7 @@ be:
           alt: Увайсці з дапамогай AOL OpenID
     logout:
       title: Выйсці
-      heading: Выйсці з GRM
+      heading: Выйсці з OpenStreetMap
       logout_button: Выйсці
     lost_password:
       title: згублены пароль
@@ -1748,9 +1748,9 @@ be:
       openid no password: Падчас выкарыстання OpenID пароль не патрэбны, але некаторыя
         дадатковыя інструменты ці сервэр могуць яго спытаць.
       openid association: |-
-        <p>Ваш OpenID пакуль ня звязаны з рахункам GRM.</p>
+        <p>Ваш OpenID пакуль ня звязаны з рахункам OpenStreetMap.</p>
         <ul>
-          <li>Калі Вы ўпершыню на GRM, калі ласка, стварыце новы рахунак з дапамогай формы пададзенай ніжэй.</li>
+          <li>Калі Вы ўпершыню на OpenStreetMap, калі ласка, стварыце новы рахунак з дапамогай формы пададзенай ніжэй.</li>
           <li>
            Калі Вы ўжо маеце рахунак, Вы можаце ўвайсці ў сістэму
            з Вашым іменем удзельніка і паролем, а потым звязаць яго з Вашым рахункам
@@ -2120,7 +2120,7 @@ be:
       reopened_at_html: Пераадкрыта %{when} таму
       reopened_at_by_html: Пераадкрыта %{when} таму %{user}
     rss:
-      title: Заўвагі GRM
+      title: Заўвагі OpenStreetMap
       description_area: Спіс заўваг створаных, пракаментаваных ці вырашаных у вашым
         рэгіёне [(%{min_lat}|%{min_lon}) -- (%{max_lat}|%{max_lon})]
       description_item: RSS-стужка заўваг %{id}

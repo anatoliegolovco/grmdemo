@@ -318,16 +318,16 @@ et:
       area_to_export: Eksporditav ala
       manually_select: Vali käsitsi teine ala
       format_to_export: Eksporditav vorming
-      osm_xml_data: GRMi andmed XML kujul
+      osm_xml_data: OpenStreetMapi andmed XML kujul
       map_image: Kaardi pilt (kuvab tavakaardi)
       embeddable_html: Põimitav HTML
       licence: Litsents
-      export_details: GRMi andmed on avaldatud <a href="http://opendatacommons.org/licenses/odbl/1.0/">Open
+      export_details: OpenStreetMapi andmed on avaldatud <a href="http://opendatacommons.org/licenses/odbl/1.0/">Open
         Data Commons Open Database litsentsi</a> tingimustel.
       too_large:
         advice: 'Kui ülaltoodu eksportimine ebaõnnestub, siis kasuta palun ühte alljärgnevatest
           allikatest:'
-        body: See ala on liiga suur, et eksportida GRMi andmeid XML kujul.
+        body: See ala on liiga suur, et eksportida OpenStreetMapi andmeid XML kujul.
           Palun suurenda või vali väiksem ala või kasuta ühte allikatest suurte andmehulkade
           allalaadimiseks.
         planet:
@@ -345,7 +345,7 @@ et:
           description: Tõmmised maailma suurematest linnadest ja nende ümbruskondadest
         other:
           title: Muud allikad
-          description: Täiendavad allikad on välja toodud GRMi wikis
+          description: Täiendavad allikad on välja toodud OpenStreetMapi wikis
       options: Sätted
       format: 'Vorming:'
       scale: Mõõtkava
@@ -757,7 +757,7 @@ et:
       west: lääne
   layouts:
     logo:
-      alt_text: GRMi logo
+      alt_text: OpenStreetMapi logo
     home: Kodu asukohta
     logout: Logi välja
     log_in: Logi sisse
@@ -776,7 +776,7 @@ et:
     user_diaries_tooltip: Vaata kasutajate päevikuid
     edit_with: Redigeeri %{editor}-ga
     tag_line: Vaba viki-maailmakaart
-    intro_header: Tere tulemast GRMpi!
+    intro_header: Tere tulemast OpenStreetMappi!
     intro_text: GRM on maailma kaart, mille on loonud inimesed nagu sina
       ja seda võib vabalt kasutada avatud litsentsi tingimustel.
     intro_2_create_account: loo oma konto
@@ -785,21 +785,21 @@ et:
     partners_ic: Imperial College London
     partners_bytemark: Bytemark Hosting
     partners_partners: partnerid
-    osm_offline: GRMi andmebaas ei ole hetkel juurdepääsetav sest teostatakse
+    osm_offline: OpenStreetMapi andmebaas ei ole hetkel juurdepääsetav sest teostatakse
       vajalikke hooldustöid.
-    osm_read_only: GRMi andmebaas on hetkel oluliste hooldustööde tõttu
+    osm_read_only: OpenStreetMapi andmebaas on hetkel oluliste hooldustööde tõttu
       ligipääsetav ainult lugemiseks.
-    donate: Toeta GRMi %{link} Riistvara Uuendamise Fondi.
+    donate: Toeta OpenStreetMapi %{link} Riistvara Uuendamise Fondi.
     help: Juhend
     about: Teave
     copyright: Autoriõigused
     community: Kogukond
     community_blogs: Kogukonna blogid
-    community_blogs_title: GRMi kogukonna liikmete blogid
+    community_blogs_title: OpenStreetMapi kogukonna liikmete blogid
     foundation: Sihtasutus
-    foundation_title: GRMi Sihtasutus
+    foundation_title: OpenStreetMapi Sihtasutus
     make_a_donation:
-      title: Toeta GRMi rahaliselt
+      title: Toeta OpenStreetMapi rahaliselt
       text: Anneta
     learn_more: Lisateave
     more: Veel
@@ -824,7 +824,7 @@ et:
         Commons Open Database License</a> (ODbL) tingimustel.
       intro_2_html: |-
         Sa võid vabalt kopeerida, levitada, edastada ja kohandada meie andmeid
-        seni kuni sa tunnustad GRMi ja selle
+        seni kuni sa tunnustad OpenStreetMapi ja selle
         kaastööliseid. Kui sa muudad või tugined meie andmetele siis
         siis võid sa tulemust levitada ainult sama litsentsi tingimustel.
         Täielik <a href="http://opendatacommons.org/licenses/odbl/1.0/">litsentsi juriidiline
@@ -833,9 +833,9 @@ et:
         Meie kaardipaanide kartograafia ja meie dokumentatsioon on
         litsentseeritud <a href="http://creativecommons.org/licenses/by-sa/2.0/">Creative
         Commons Attribution-ShareAlike 2.0</a> litsentsiga (CC BY-SA).
-      credit_title_html: Kuidas tunnustada GRMi
+      credit_title_html: Kuidas tunnustada OpenStreetMapi
       credit_1_html: |-
-        Me nõuame, et sa mainiksid teksti &ldquo;&copy; GRMi
+        Me nõuame, et sa mainiksid teksti &ldquo;&copy; OpenStreetMapi
         kaastöölised&rdquo;.
       credit_2_html: |-
         Sa pead samuti selgeks tegema, et need andmed on saadaval Open
@@ -845,14 +845,14 @@ et:
         Teine võimalus ja samas ka nõue, kui levitad OSM-i
         andmete kujul on, et nimetad ja annad otse lingi litsentsi(de)le. Meedias,
         kus lingid ei ole võimalikud (nt trükitud tööd) me soovitame, et
-        suunaksid oma lugejad lehele GRM.org (näiteks laiendades
+        suunaksid oma lugejad lehele openstreetmap.org (näiteks laiendades
         'OpenStreetMap' täielikuks aadressiks), opendatacommons.org ja
         kui vaja siis ka lehele creativecommons.org.
       credit_3_html: |-
         Sirvitaval elektroonilisel kaardil peaks tunnustus näha olema kaardi nurgas.
         Näiteks:
       attribution_example:
-        alt: Näide, kuidas tunnustada GRMi veebilehel
+        alt: Näide, kuidas tunnustada OpenStreetMapi veebilehel
         title: Tunnustamise näide
       more_title_html: Lisateave
       more_1_html: |-
@@ -902,11 +902,11 @@ et:
         2010-12.
       contributors_footer_1_html: |-
         Täpsemat teavet nendest ja teistest allikatest, mida on kasutatud
-        GRMi täiustamiseks võib näha <a
-        href="http://wiki.openstreetmap.org/wiki/Contributors">Kaastööliste lehel</a> GRMi vikis.
+        OpenStreetMapi täiustamiseks võib näha <a
+        href="http://wiki.openstreetmap.org/wiki/Contributors">Kaastööliste lehel</a> OpenStreetMapi vikis.
       contributors_footer_2_html: |-
-        Andmete kaasamisest GRMi ei järeldu, et
-        algne andmete pakkuja toetab GRMi, pakub mingit garantiid või
+        Andmete kaasamisest OpenStreetMapi ei järeldu, et
+        algne andmete pakkuja toetab OpenStreetMapi, pakub mingit garantiid või
         võtab endale mingeid kohustusi.
       infringement_title_html: Autoriõiguste rikkumine
       infringement_1_html: |-
@@ -921,7 +921,7 @@ et:
         <a href="http://dmca.openstreetmap.org/">onlain lehele</a>.
   welcome_page:
     title: Tere tulemast!
-    introduction_html: Tere tulemast GRMpi, vabasse ja muudetavasse maailmakaarti.
+    introduction_html: Tere tulemast OpenStreetMappi, vabasse ja muudetavasse maailmakaarti.
       Registreerumine on nüüd tehtud ja sa võid alustada kaardistamist. Siin on lühiülevaade
       kõige olulisematest asjadest, mida peaksid teadma.
     whats_on_the_map:
@@ -935,7 +935,7 @@ et:
         allikatest. Kui sul puudub eriluba siis ära kopeeri võrgus olevatelt või paberkaartidelt.
     basic_terms:
       title: Põhilised mõisted kaardistamisel
-      paragraph_1_html: GRMil on omad erialased mõisted. Siin on mõned peamised
+      paragraph_1_html: OpenStreetMapil on omad erialased mõisted. Siin on mõned peamised
         mõisted, mida tasub meelde jätta.
       editor_html: <strong>Redaktor</strong> on programm või veebileht, mida saab
         kasutada kaardi redigeerimiseks.
@@ -966,7 +966,7 @@ et:
         title: Liitu kogukonnaga
         explanation_html: Kui oled märganud probleemi meie kaardi andmetes, näiteks
           puuduvat teed või enda aadressi, siis parim viis selle lahendamiseks on
-          liituda GRMi kogukonnaga ja muuta või parandada andmed ise.
+          liituda OpenStreetMapi kogukonnaga ja muuta või parandada andmed ise.
       add_a_note:
         instructions_html: |-
           Kliki <a class='icon note'></a> või samale ikoonile kaardivaates.
@@ -984,7 +984,7 @@ et:
     welcome:
       url: /welcome
       title: Tere tulemast OSMi
-      description: Alusta selle kiirjuhendiga, mis hõlmab GRMi põhitõdesid.
+      description: Alusta selle kiirjuhendiga, mis hõlmab OpenStreetMapi põhitõdesid.
     help:
       url: https://help.openstreetmap.org/
       title: help.openstreetmap.org
@@ -1007,7 +1007,7 @@ et:
       oleks täpne ja ajakohane.
     community_driven_title: Kogukonna põhine
     community_driven_html: |-
-      GRMi kogukond on mitmepalgeline, kirglik ja suureneb iga päevaga.
+      OpenStreetMapi kogukond on mitmepalgeline, kirglik ja suureneb iga päevaga.
       Meie kaastöölisteks on innukad kaardistajad, GIS spetsialistid, insenerid, kes hoiavad töös OSM servereid, humanitaarid, kes kaardistavad katastroofipiirkondi,
       ja paljud teised.
       Kogukonnaga tutvumiseks vaata <a href='%{diary_path}'>kasutajate päevikuid</a>,
@@ -1016,7 +1016,7 @@ et:
     open_data_title: Avatud andmed
     open_data_html: |-
       GRM on <i>avatud andmed</i>: sa võid neid vabalt kasutada igal eesmärgil
-      seni kuni sa tunnustad GRMi ja selle kaastööliseid. Kui sa muudad või
+      seni kuni sa tunnustad OpenStreetMapi ja selle kaastööliseid. Kui sa muudad või
       või lood midagi nende andmete põhjal, siis võid sa oma tulemust levitada ainult
       sama litsentsi alusel. Täpsemat infot vaata lehelt <a href='%{copyright_path}'>Autoriõigused ja litsents</a>.
     partners_title: Partnerid
@@ -1030,12 +1030,12 @@ et:
         %{commenturl} või vastata kommentaarile lehel %{replyurl}.
     message_notification:
       hi: Tere, %{to_user},
-      header: '%{from_user} on saatnud sulle GRMi kaudu sõnumi teemaga %{subject}:'
+      header: '%{from_user} on saatnud sulle OpenStreetMapi kaudu sõnumi teemaga %{subject}:'
       footer_html: Sõnumit võib lugeda samuti lehel %{readurl} ja vastata sellele
         %{replyurl}.
     friend_notification:
       subject: '[OpenStreetMap] %{user} lisas sind oma sõbraks'
-      had_added_you: '%{user} lisas sind GRMis sõbraks.'
+      had_added_you: '%{user} lisas sind OpenStreetMapis sõbraks.'
       see_their_profile: Tema profiiliga võid tutvuda aadressil %{userurl}.
       befriend_them: Sa võid ta lisada oma sõbraks aadressil %{befriendurl}.
     gpx_notification:
@@ -1054,7 +1054,7 @@ et:
         loaded_successfully: laaditi üles edukalt %{trace_points} punkti võimalikust
           %{possible_points} punktist.
     signup_confirm:
-      subject: '[OpenStreetMap] Tere tulemast GRMpi'
+      subject: '[OpenStreetMap] Tere tulemast OpenStreetMappi'
       greeting: Tere!
       created: Keegi (loodetavasti sina) lõi äsja %{site_url} kasutajakonto.
       confirm: 'Enne kasutajakonto loomist peame saama kinnituse, et see taotlus tuli
@@ -1080,13 +1080,13 @@ et:
     lost_password_plain:
       greeting: Tere,
       hopefully_you: Keegi (tõenäoliselt sina) on esitanud taotluse oma parooli lähtestamiseks
-        antud meiliaadressiga GRM.org kasutajakonto alt.
+        antud meiliaadressiga openstreetmap.org kasutajakonto alt.
       click_the_link: Kui see oled sina, siis palun kliki allaolevale lingile oma
         parooli lähtestamiseks.
     lost_password_html:
       greeting: Tere,
       hopefully_you: Keegi (tõenäoliselt sina) on esitanud taotluse oma parooli lähtestamiseks
-        antud meiliaadressiga GRM.org kasutajakonto alt.
+        antud meiliaadressiga openstreetmap.org kasutajakonto alt.
       click_the_link: Kui see oled sina, siis palun kliki allaolevale lingile oma
         parooli lähtestamiseks.
     note_comment_notification:
@@ -1207,7 +1207,7 @@ et:
       anon_edits_link_text: Uuri välja, miks see on nii.
       flash_player_required: Sa vajad Flash playerit Potlatchi kasutamiseks. Sa saad
         <a href="http://www.adobe.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">Flash
-        Playeri laadida alla lehelt Adobe.com</a>. GRMi redigeerimiseks
+        Playeri laadida alla lehelt Adobe.com</a>. OpenStreetMapi redigeerimiseks
         on olemas ka <a href="http://wiki.openstreetmap.org/wiki/Editing">mitmeid
         teisi võimalusi</a>.
       potlatch_unsaved_changes: Sul on salvestamata muudatusi. (Et salvestada Potlatchis
@@ -1589,9 +1589,9 @@ et:
       openid no password: OpenID kasutamisel ei ole parool kohustuslik, kuid mõned
         eritööriistad või serverid nõuavad seda siiski.
       openid association: |-
-        <p>Sinu OpenID ei ole seotud veel GRMi kasutajakontoga.</p>
+        <p>Sinu OpenID ei ole seotud veel OpenStreetMapi kasutajakontoga.</p>
         <ul>
-          <li>Kui oled uus GRMi kasutaja, siia loo palun uus konto, kasutades alljärgnevat vormi.</li>
+          <li>Kui oled uus OpenStreetMapi kasutaja, siia loo palun uus konto, kasutades alljärgnevat vormi.</li>
           <li>
             Kui sul juba on kasutajakonto, siis võid siseneda oma kontoga,
             kasutades oma kasutajanime ja parooli ja seejärel siduda oma

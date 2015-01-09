@@ -220,7 +220,7 @@
         "no_documentation_combination": "لا يوجد توثيقا لهذا الجمع من الوسوم",
         "no_documentation_key": "لا يوجد توثيقا لهذا المفتاح",
         "show_more": "مشاهدة المزيد",
-        "view_on_osm": "العرض على GRM.org",
+        "view_on_osm": "العرض على openstreetmap.org",
         "all_tags": "كل البطاقات",
         "all_members": "كل اﻷعضاء",
         "all_relations": "كل العلاقات",
@@ -228,7 +228,7 @@
         "role": "الدور",
         "choose": "اختر نوع الميزة",
         "results": "{n} نتيجة لـ {search}",
-        "reference": "العرض على ويكي GRM.org",
+        "reference": "العرض على ويكي openstreetmap.org",
         "back_tooltip": "غيّر ميزة",
         "remove": "إزالة",
         "search": "البحث",
@@ -258,7 +258,7 @@
         "help": "احفظ التغييرات في GRM لجعلها ظاهرة لبقية المستخدمين.",
         "no_changes": "لا يوجد تعديلات للحفظ.",
         "error": "حدث خطاء أثناء محاولة الحفظ",
-        "uploading": "يجري رفع التغييرات إلى GRM.",
+        "uploading": "يجري رفع التغييرات إلى OpenStreetMap.",
         "unsaved_changes": "لديك تغييرات غير محفوظة"
     },
     "success": {
@@ -272,7 +272,7 @@
         "okay": "حسناً"
     },
     "splash": {
-        "welcome": "مرحبا بك محرر iD  لخرائط GRM.",
+        "welcome": "مرحبا بك محرر iD  لخرائط OpenStreetMap.",
         "walkthrough": "إبداء التجول",
         "start": "التحرير اﻷن"
     },
@@ -290,7 +290,7 @@
         "untagged_point": "ألغ وسم النقطة",
         "untagged_line": "ألغ وسم الخط",
         "untagged_area": "ألغ وسم المنطقة",
-        "many_deletions": "ستحذف {n} من الكائنات. هل أنت متأكد من ذلك؟ ستنحذف تلك البيانات من الخريطة التي يراها الآخرين على GRM.org.",
+        "many_deletions": "ستحذف {n} من الكائنات. هل أنت متأكد من ذلك؟ ستنحذف تلك البيانات من الخريطة التي يراها الآخرين على openstreetmap.org.",
         "tag_suggests_area": "الوسم {tag} يقترح بأن الخط يجب أن يكون منطقة، ولكنها حاليا ليست منطقة",
         "deprecated_tags": "وسوم مهجورة: {tags}"
     },

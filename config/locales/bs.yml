@@ -884,7 +884,7 @@ bs:
         Commons Attribution-ShareAlike 2.0</a> licencom (CC-BY-SA).
       credit_title_html: Kako navesti zasluge GRM projekta kao izvora
       credit_1_html: |-
-        Tražimo da koristite navedete zasluge &ldquo;&copy; GRM
+        Tražimo da koristite navedete zasluge &ldquo;&copy; OpenStreetMap
         contributors&rdquo;.
       credit_2_html: Gdje je moguće, GRM treba biti kao hyperlink na <a
         href="http://www.openstreetmap.org/">http://www.openstreetmap.org/</a>and
@@ -934,10 +934,10 @@ bs:
            Survey data &copy; Crown copyright and database right
            2010.
       contributors_footer_1_html: |-
-        Za dalje detalje o ovome, i drugim izvorima koji su korišteni da bi poboljšali GRM, molimo pogledajte <a
-        href="http://wiki.openstreetmap.org/wiki/Contributors">Stranica doprinosilaca</a> na Wiki GRM.
+        Za dalje detalje o ovome, i drugim izvorima koji su korišteni da bi poboljšali OpenStreetMap, molimo pogledajte <a
+        href="http://wiki.openstreetmap.org/wiki/Contributors">Stranica doprinosilaca</a> na Wiki OpenStreetMap.
       contributors_footer_2_html: '  Uvrštenje podataka u GRM ne podrazumjeva
-        da se izvorni davatelj podataka podržava GRM, pruža bilo kakvu garanciju,
+        da se izvorni davatelj podataka podržava OpenStreetMap, pruža bilo kakvu garanciju,
         ili prihvata bilo kakve obaveze.'
       infringement_title_html: Kršenje autorskih prava
       infringement_1_html: OSM doprinosioci se podsjećaju da nikada ne dodaju podatke
@@ -981,7 +981,7 @@ bs:
         %{subject}:'
     friend_notification:
       subject: '[OpenStreetMap] %{user} Vas je dodao kao prijatelja'
-      had_added_you: '%{user} Vas je dodao kao prijatelja na GRM-u.'
+      had_added_you: '%{user} Vas je dodao kao prijatelja na OpenStreetMap-u.'
       see_their_profile: Možete vidjeti njihov profil na %{userurl}.
       befriend_them: Takođe, možete ih dodati kao prijatelja na %{befriendurl}.
     gpx_notification:
@@ -1001,7 +1001,7 @@ bs:
           uspješno učitano sa %{trace_points} od mogućih
           %{possible_points} tačaka.
     signup_confirm:
-      subject: '[OpenStreetMap] Dobrodošli na GRM'
+      subject: '[OpenStreetMap] Dobrodošli na OpenStreetMap'
       greeting: Zdravo!
       created: Neko (nadamo se Vi) upravo je kreirao račun na %{site_url}.
       confirm: 'Prije nego uradimo bilo šta drugo, moramo potvrditi da je ovaj zahtjev
@@ -1029,7 +1029,7 @@ bs:
     lost_password_html:
       greeting: Zdravo,
       hopefully_you: Neko (moguće, Vi) je pitao za ponovno postavljanje lozinke na
-        njihovim e-mail adresama GRM.org računa.
+        njihovim e-mail adresama openstreetmap.org računa.
       click_the_link: Ukoliko ste ovo Vi, kliknite na link ispod za ponovno postavljanje
         lozinke.
   message:
@@ -1127,7 +1127,7 @@ bs:
       flash_player_required: Potreban Vam je Flash player da bi koristili Potlatch,
         GRM Flash uređivač. Možete <a href="http://www.adobe.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">preuzeti
         Adobe Flash Player sa Adobe.com</a>. <a href="http://wiki.openstreetmap.org/wiki/Editing">Neke
-        druge mogućnosti</a> su takođe dostupne za uređivanje GRM-a.
+        druge mogućnosti</a> su takođe dostupne za uređivanje OpenStreetMap-a.
       potlatch_unsaved_changes: Imate nespremljene promjene. (Da bi ste spremili u
         Potlatch-u, morate odznačiti trenutnu putanju ili tačku, ako uređujete uživo;
         ili kliknite SPREMITI ako imate to dugme.)
@@ -1429,10 +1429,10 @@ bs:
       lost password link: Izgubili ste lozinku?
       login_button: Prijava
       register now: Registrirajte se sada
-      with username: 'Već imate račun na GRMu? Molimo da se prijavite s
+      with username: 'Već imate račun na OpenStreetMapu? Molimo da se prijavite s
         Vašim korisničkim imenom i lozinkom:'
       with openid: 'Alternativno molimo koristite Vaš OtvoreniID da se prijavite:'
-      new to osm: Novi na GRM?
+      new to osm: Novi na OpenStreetMap?
       to make changes: Da bi ste mijenjali GRM podatke, morate imati korisnički
         račun.
       create account minute: Otvorite korisnički račun. To traje samo minutu.
@@ -1466,7 +1466,7 @@ bs:
           alt: Prijavite se sa AOL OtvorenimID
     logout:
       title: Odjava
-      heading: Odjava iz GRM
+      heading: Odjava iz OpenStreetMap
       logout_button: Odjava
     lost_password:
       title: Izgubljena lozinka
@@ -1512,7 +1512,7 @@ bs:
       openid association: |-
         <p>Vaš OtvoreniID još nije povezan sa GRM računom.</p>
         <ul>
-          <li>Ukoliko ste novi na projektu GRM, molimo napravite novi račun korištenjem formulara ispod.</li>
+          <li>Ukoliko ste novi na projektu OpenStreetMap, molimo napravite novi račun korištenjem formulara ispod.</li>
           <li>
             Ukoliko već imate račun, možete se prijaviti na Vaš račun korištenjem Vašeg korisničkog imena i lozinke i onda uvezati račun sa Vašim OtvorenimID u Vašim korisničkim podešavanjima.
           </li>

@@ -511,7 +511,7 @@ km:
       with_description: ជាមួយ​បរិយាយ​
       and_no_tags: និងគ្មានស្លាក​​។
     signup_confirm:
-      subject: '[OpenStreetMap] សូមស្វាគមន៍មកកាន់ GRM'
+      subject: '[OpenStreetMap] សូមស្វាគមន៍មកកាន់ OpenStreetMap'
     email_confirm:
       subject: '[OpenStreetMap] បញ្ជាក់​អាសយដ្ឋាន​អ៊ីមែលរបស់អ្នក​'
     email_confirm_plain:

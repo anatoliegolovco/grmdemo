@@ -288,10 +288,10 @@ fur:
         description: Ultimis vôs dal diari di GRM di %{user}
       language:
         title: Vôs dai diaris di GRM par %{language_name}
-        description: Ultimis vôs par %{language_name} dai diaris dai utents di GRM
+        description: Ultimis vôs par %{language_name} dai diaris dai utents di OpenStreetMap
       all:
-        title: Vôs dai diaris di GRM
-        description: Lis ultimis vôs dai diaris dai utents di GRM
+        title: Vôs dai diaris di OpenStreetMap
+        description: Lis ultimis vôs dai diaris dai utents di OpenStreetMap
     comments:
       has_commented_on: '%{display_name} al à comentâts lis vôs dal diari ca sot'
       post: Publiche
@@ -306,19 +306,19 @@ fur:
       area_to_export: Aree di espuartâ
       manually_select: Sielç a man une aree divierse
       format_to_export: Formât di espuartâ
-      osm_xml_data: Dâts XML di GRM
+      osm_xml_data: Dâts XML di OpenStreetMap
       licence: Licence
       export_details: I dâts di GRM a son dâts fûr sot de licence <a href="http://opendatacommons.org/licenses/odbl/1.0/">Open
         Data Commons Open Database License</a> (ODbL).
       too_large:
-        body: Cheste aree e je masse grande par espuartâle come dâts XML di GRM.
+        body: Cheste aree e je masse grande par espuartâle come dâts XML di OpenStreetMap.
           Par plasê incrès il zoom, sielç une aree plui piçule o dopre une des sorzints
           ca sot par discjamâ un grum di dâts.
         overpass:
           title: API Overpass
         other:
           title: Altris sorzints
-          description: Altris sorzints elencadis su la wiki di GRM
+          description: Altris sorzints elencadis su la wiki di OpenStreetMap
       options: Opzions
       format: 'Formât:'
       scale: Scjale
@@ -656,7 +656,7 @@ fur:
       west: ovest
   layouts:
     logo:
-      alt_text: Logo di GRM
+      alt_text: Logo di OpenStreetMap
     home: Va al lûc iniziâl
     logout: Jes
     log_in: Jentre
@@ -675,7 +675,7 @@ fur:
     user_diaries_tooltip: Viôt i diaris dai utents
     edit_with: Cambie cun %{editor}
     tag_line: Il WikiMapeMont libar
-    intro_header: Benvignût in GRM!
+    intro_header: Benvignût in OpenStreetMap!
     intro_text: GRM e je une mape dal mont, creade di int come te e di ûs
       libar sot di une licence vierte.
     intro_2_create_account: Cree il to profîl utent
@@ -694,9 +694,9 @@ fur:
     copyright: Copyright
     community: Comunitât
     community_blogs: Blogs de comunitât
-    community_blogs_title: Blogs di bande dai membris de comunitât GRM
+    community_blogs_title: Blogs di bande dai membris de comunitât OpenStreetMap
     foundation: Fondazion
-    foundation_title: La fondazion GRM
+    foundation_title: La fondazion OpenStreetMap
     make_a_donation:
       title: Sosten GRM fasint une donazion monetarie
       text: Done alc
@@ -741,14 +741,14 @@ fur:
       title: wiki.openstreetmap.org
   about_page:
     next: Prossim
-    copyright_html: <span>&copy;</span>Colaboradôrs<br> di GRM
+    copyright_html: <span>&copy;</span>Colaboradôrs<br> di OpenStreetMap
     local_knowledge_title: Cognossince locâl
     open_data_title: Dâts vierts
   notifier:
     diary_comment_notification:
       subject: '[OpenStreetMap] %{user} al à zontât un coment ae tô vôs dal diari'
       hi: Mandi %{to_user},
-      header: '%{from_user} al à zontât un coment ae tô vôs dal diari di GRM
+      header: '%{from_user} al à zontât un coment ae tô vôs dal diari di OpenStreetMap
         cun sogjet %{subject}:'
       footer: Tu puedis ancje lei il coment su %{readurl} e tu puedis zontâ un coment
         su %{commenturl} o ben rispuindi su %{replyurl}
@@ -758,8 +758,8 @@ fur:
       footer_html: Tu puedis ancje lei il messaç su %{readurl} e tu puedis rispuindi
         su %{replyurl}
     friend_notification:
-      subject: '[OpenStreetMap] %{user} ti à zontât come amì su GRM.'
-      had_added_you: '%{user} ti à zontât come amì su GRM.'
+      subject: '[OpenStreetMap] %{user} ti à zontât come amì su OpenStreetMap.'
+      had_added_you: '%{user} ti à zontât come amì su OpenStreetMap.'
       see_their_profile: Tu puedis viodi il sô profîl su %{userurl}.
       befriend_them: Tu puedis ancje zontâlu/le come amì su %{befriendurl}.
     gpx_notification:
@@ -773,7 +773,7 @@ fur:
         loaded_successfully: al sedi stât cjamât cun sucès, cun %{trace_points} suntun
           totâl di %{possible_points} ponts pussibii.
     signup_confirm:
-      subject: '[OpenStreetMap] Benvignût in GRM'
+      subject: '[OpenStreetMap] Benvignût in OpenStreetMap'
     email_confirm:
       subject: '[OpenStreetMap] Conferme la tô direzion di pueste eletroniche'
     email_confirm_plain:
@@ -865,9 +865,9 @@ fur:
       user_page_link: pagjine dal utent
       anon_edits_link_text: Discuvierç parcè che al è cussì.
       flash_player_required: Ti covente un riprodutôr Flash par doprâ Potlatch, l'editôr
-        Flash di GRM. Tu puedis <a href="http://www.adobe.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">discjamâ
+        Flash di OpenStreetMap. Tu puedis <a href="http://www.adobe.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">discjamâ
         il Flash Player di Adobe.com</a>. <a href="http://wiki.openstreetmap.org/wiki/Editing">E
-        je cualchi altre opzion</a> par lavorâ su GRM.
+        je cualchi altre opzion</a> par lavorâ su OpenStreetMap.
       potlatch_unsaved_changes: Tu âs cambiaments no salvâts. (Par salvâ in Potlatch,
         tu varessis di deselezionâ il percors o il pont atuâl, se tu stâs lavorant
         in modalitât live, o fracâ su Salve se tu viodis un boton Salve.)
@@ -1025,7 +1025,7 @@ fur:
       description: Viôt i percors GPS cjamâts sù tai ultins timps
       tagged_with: ' etichetât cun %{tags}'
     georss:
-      title: Percors GPS di GRM
+      title: Percors GPS di OpenStreetMap
     description:
       description_without_count: File GPS di %{user}
   oauth:
@@ -1095,11 +1095,11 @@ fur:
       lost password link: Password pierdude?
       login_button: Jentre
       register now: Regjistriti cumò
-      with username: 'Âstu za un profîl su GRM? Jentre cul to non utent
+      with username: 'Âstu za un profîl su OpenStreetMap? Jentre cul to non utent
         e la tô password:'
       with openid: 'Dopre se no il tô OpenID par jentrâ:'
-      new to osm: Sêstu gnûf su GRM?
-      to make changes: Par cambiâ alc tai dâts di GRM, tu scugnis vê un
+      new to osm: Sêstu gnûf su OpenStreetMap?
+      to make changes: Par cambiâ alc tai dâts di OpenStreetMap, tu scugnis vê un
         profîl.
       create account minute: Cree un profîl. I vûl dome un minût.
       no account: No âstu ancjemò un profîl?
@@ -1123,7 +1123,7 @@ fur:
           alt: Jentre cuntun OpenID di AOL
     logout:
       title: Jes
-      heading: Va fûr di GRM
+      heading: Va fûr di OpenStreetMap
       logout_button: Jes
     lost_password:
       title: Password pierdude
@@ -1417,7 +1417,7 @@ fur:
       reopened_at_html: Tornade a ativâ %{when} indaûr
       reopened_at_by_html: Tornade a ativâ %{when} indaûr di %{user}
     rss:
-      title: Notis di GRM
+      title: Notis di OpenStreetMap
       description_area: Une liste des notis segnaladis, comentadis o risoltis inte
         tô zone [(%{min_lat}|%{min_lon}) -- (%{max_lat}|%{max_lon})]
       description_item: Un canâl RSS per note %{id}
@@ -1480,7 +1480,7 @@ fur:
         data: Dâts de mape
         overlays: Ative i nivei utii par risolvi i problemis de mape
         title: Nivei
-      copyright: © <a href='%{copyright_url}'>Colaboradôrs di GRM</a>
+      copyright: © <a href='%{copyright_url}'>Colaboradôrs di OpenStreetMap</a>
       donate_link_text: <a class='donate-attr' href='%{donate_url}'>Fâs une donazion</a>
     site:
       edit_tooltip: Cambie la mape

@@ -881,7 +881,7 @@ tr:
     user_diaries_tooltip: Kullanıcı günlükleri görüntüle
     edit_with: '%{editor} kullanarak düzenle'
     tag_line: Özgür Viki Dünya Haritası
-    intro_header: GRM'e hoş geldiniz!
+    intro_header: OpenStreetMap'e hoş geldiniz!
     intro_text: GRM senin gibi insanlar tarafından oluşturulan, kullanımı
       serbest ve açık lisans altında olan bir dünya haritasıdır.
     intro_2_create_account: hesap oluşturunuz
@@ -895,7 +895,7 @@ tr:
       şu anda çevrimdışıdır.
     osm_read_only: GRM veritabanı bakım çalışmaları yürütüldüğü için veritabanı
       şu anda sadece okunur durumdadır.
-    donate: Donanım Yükseltme Fonu'na %{link} yaparak GRM'e destek veriniz.
+    donate: Donanım Yükseltme Fonu'na %{link} yaparak OpenStreetMap'e destek veriniz.
     help: Yardım
     about: Hakkında
     copyright: Telif Hakkı
@@ -925,12 +925,12 @@ tr:
       contributors_title_html: Katkıcılarımız
   welcome_page:
     title: Hoş geldiniz!
-    introduction_html: Dünyanın düzenlenebilir ve ücretsiz haritası GRM'e
+    introduction_html: Dünyanın düzenlenebilir ve ücretsiz haritası OpenStreetMap'e
       hoş geldiniz. Şu an kaydoldunuz ve bütün haritalama işlemlerine başlamanız için
       her şey hazır. İşte bilmeniz gereken en önemli şeylerin hızlı bir kılavuzu.
     whats_on_the_map:
       title: Haritada ne bulunur
-      on_html: GRM, <em>gerçek ve güncel</em> şeyleri haritalamak için bir
+      on_html: OpenStreetMap, <em>gerçek ve güncel</em> şeyleri haritalamak için bir
         yerdir. Bu milyonlarca binaları, yolları ve yerler hakkında diğer ayrıntıları
         içerir. İlgini çeken her türlü gerçek dünya özelliklerini haritalayabilirsin.
       off_html: Neyi <em>içermez?</em> Ön yargılı veriler gibi değerlendirmeler, tarihî
@@ -938,7 +938,7 @@ tr:
         Özel izniniz yoksa, çevrim içi ya da kağıt haritaları kopyalamayın.
     basic_terms:
       title: Haritacılığın temel terimleri
-      paragraph_1_html: GRM'in kendine ait bazı argoları vardır. İşte kullanışlı
+      paragraph_1_html: OpenStreetMap'in kendine ait bazı argoları vardır. İşte kullanışlı
         gelecek birkaç anahtar kelime.
       editor_html: <strong>Düzenleyici</strong> haritayı düzenlemek için kullanabileceğiniz
         bir program ya da web sayfasıdır.
@@ -950,7 +950,7 @@ tr:
         Bu bir restoranın ismi ya da yolun hız sınırı olabilir.
     questions:
       title: Sorularınız var mı?
-      paragraph_1_html: GRM, proje hakkında bilgiler içeren, soru sormak
+      paragraph_1_html: OpenStreetMap, proje hakkında bilgiler içeren, soru sormak
         ve soruları cevaplamak için ve işbirliği halinde tartışma yapılan ve haritalama
         konularını belgelemek için çeşitli kaynaklara sahiptir. <a href='%{help_url}'>Buradan
         yardım alın</a>.
@@ -1000,7 +1000,7 @@ tr:
         gönderdi:'
     friend_notification:
       subject: '[OpenStreetMap] kullanıcı %{user} seni arkadaş olarak ekledi'
-      had_added_you: Kullanıcı %{user} seni arkadaş olarak GRM'te ekledi.
+      had_added_you: Kullanıcı %{user} seni arkadaş olarak OpenStreetMap'te ekledi.
       see_their_profile: '%{userurl} üzerinden profillerini görebilirsiniz.'
       befriend_them: '%{befriendurl} üzerinden arkadaş olarak da ekleyebilirsiniz.'
     gpx_notification:
@@ -1356,7 +1356,7 @@ tr:
           alt: AOL OpenID ile giriş
     logout:
       title: Çıkış
-      heading: GRM'den çıkış
+      heading: OpenStreetMap'den çıkış
       logout_button: Çıkış
     lost_password:
       title: Kayıp Şifre

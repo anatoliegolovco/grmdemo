@@ -299,11 +299,11 @@ br:
         description: Enmonedoù nevez e deizlevr GRM gant %{user}
       language:
         title: Enmonedoù deizlevr GRM e %{language_name}
-        description: Enmonedoù nevez a-walc'h e deizlevr implijerien GRM
+        description: Enmonedoù nevez a-walc'h e deizlevr implijerien OpenStreetMap
           e %{language_name}
       all:
-        title: Enmonedoù en deizlevr GRM
-        description: Enmonedoù nevez en deizlevr gant implijerien eus GRM
+        title: Enmonedoù en deizlevr OpenStreetMap
+        description: Enmonedoù nevez en deizlevr gant implijerien eus OpenStreetMap
     comments:
       has_commented_on: ↓%{display_name} en deus graet evezhiadennoù diwar-benn ar
         pennadoù deizlevr-mañ
@@ -319,7 +319,7 @@ br:
       area_to_export: Takad da ezporzhiañ
       manually_select: Diuzañ un takad disheñvel gant an dorn
       format_to_export: Furmad da ezporzhiañ
-      osm_xml_data: Roadennoù XML GRM
+      osm_xml_data: Roadennoù XML OpenStreetMap
       map_image: Skeudenn gartenn (diskouez ur gwiskad boutin)
       embeddable_html: HTML enkorfadus
       licence: Aotre-implijout
@@ -328,15 +328,15 @@ br:
       too_large:
         advice: 'Ma c''hwit an ezporzhiadur amañ a-us, implijit unan eus an elfennoù
           amañ dindan :'
-        body: Re vras eo an takad-mañ evit bezañ ezporzhiet evel roadennoù XML GRM.
+        body: Re vras eo an takad-mañ evit bezañ ezporzhiet evel roadennoù XML OpenStreetMap.
           Zoumit, mar plij, pe diuzit un takad bihanoc'h.
         planet:
           title: Planedenn OSM
-          description: Eilennoù hizivaet ingal eus diaz roadennoù klok GRM
+          description: Eilennoù hizivaet ingal eus diaz roadennoù klok OpenStreetMap
         overpass:
           title: API Treuzell
           description: Pellgargañ ar voest engronnus-mañ diwar ur melezour eus diaz
-            roadennoù GRM
+            roadennoù OpenStreetMap
         geofabrik:
           title: Pellgargañ Geofabrik
           description: Eztennadennoù hizivaet ingal a genvandirioù, a broioù , hag
@@ -346,7 +346,7 @@ br:
           description: Eztennadennoù evit brasañ kêrioù ar bed hag o ardemezioù
         other:
           title: Tarzhioù all
-          description: Mamennoù all a gaver o roll er wiki GRM
+          description: Mamennoù all a gaver o roll er wiki OpenStreetMap
       options: Dibarzhioù
       format: Furmad
       scale: Skeuliad
@@ -894,7 +894,7 @@ br:
       west: kornôg
   layouts:
     logo:
-      alt_text: Logo GRM
+      alt_text: Logo OpenStreetMap
     home: Mont da lec'h ar gêr
     logout: Digevreañ
     log_in: Kevreañ
@@ -933,9 +933,9 @@ br:
     copyright: Copyright & Aotre-implijout
     community: Kumuniezh
     community_blogs: Blogoù ar gumuniezh
-    community_blogs_title: Blogoù izili kumuniezh GRM
+    community_blogs_title: Blogoù izili kumuniezh OpenStreetMap
     foundation: Diazezadur
-    foundation_title: Diazezadur GRM
+    foundation_title: Diazezadur OpenStreetMap
     make_a_donation:
       title: Skoazellañ GRM gant ur road arc'hant
       text: Ober un donezon
@@ -968,9 +968,9 @@ br:
       intro_3_html: "Emañ tammoù hor c'hartennoù hag hon teulioù dindan an aotre-implijout
         <a href=\"http://creativecommons.org/licenses/by-sa/2.0/\">Creative \nCommons
         Attribution-ShareAlike 2.0</a> license (CC-BY-SA)."
-      credit_title_html: Penaos reiñ kred da GRM
+      credit_title_html: Penaos reiñ kred da OpenStreetMap
       credit_1_html: Goulenn a reomp diganeoc'h lakaat en ho kred ar meneg &ldquo;&copy;
-        kenlabourerien GRM&rdquo;.
+        kenlabourerien OpenStreetMap&rdquo;.
       credit_2_html: |-
         Pa vez posupl e tle GRM bezañ ur gourliamm war-du <a
           href="http://www.openstreetmap.org/">http://www.openstreetmap.org/</a>
@@ -1033,10 +1033,10 @@ br:
         <strong>Rouantelezh-Unanet</strong> : Ennañ roadennoù eus Ordnance
            Survey data &copy; Crown copyright and database right 2010-12.
       contributors_footer_1_html: |-
-        ↓Evit muioc'h a vunudoù diwar-benn ar re-se, hag ar mammennoù all a zo bet implijet da sikour da wellaat GRM, sellit ouzh ar <a
-        href="http://wiki.openstreetmap.org/wiki/Contributors">Bajenn Skoazellerien</a> e Wiki GRM.
+        ↓Evit muioc'h a vunudoù diwar-benn ar re-se, hag ar mammennoù all a zo bet implijet da sikour da wellaat OpenStreetMap, sellit ouzh ar <a
+        href="http://wiki.openstreetmap.org/wiki/Contributors">Bajenn Skoazellerien</a> e Wiki OpenStreetMap.
       contributors_footer_2_html: Enlakaat roadennoù e GRM ne empleg ket
-        ez aprou ar bourchaserien orin a endalc'had GRM, na ne bourchasont,
+        ez aprou ar bourchaserien orin a endalc'had OpenStreetMap, na ne bourchasont,
         na ne waratomp pe na ne zegemeront ne vern pe atebegezh e vefe.
       infringement_title_html: Terriñ ar gwir-eilañ
       infringement_1_html: |-
@@ -1050,7 +1050,7 @@ br:
         enlinenn</a>.
   welcome_page:
     title: Deuet-mat oc'h !
-    introduction_html: Degemer mat en GRM, ar gartenn digoust eus ar bed
+    introduction_html: Degemer mat en OpenStreetMap, ar gartenn digoust eus ar bed
       hag a c'haller aozañ. Kevreet oc'h bremañ ha prest oc'h da gregiñ da gartennaouiñ.
       Setu amañ un nebeud displegadennoù diwar-benn an traoù pouezusañ da c'houzout.
     whats_on_the_map:
@@ -1065,7 +1065,7 @@ br:
         pe war baper.
     basic_terms:
       title: Geriaoueg diazez ar c'hartennaouiñ
-      paragraph_1_html: E luc'haj dezhañ e-unan en deus GRM. Setu amañ un
+      paragraph_1_html: E luc'haj dezhañ e-unan en deus OpenStreetMap. Setu amañ un
         nebeud gerioù-alc'hwez a c'hallo talvezout deoc'h.
       editor_html: Un <strong>aozer</strong> zo ur programm pe ul lec'hienn web a
         c'hallit implijout da aozañ ar gartenn.
@@ -1115,7 +1115,7 @@ br:
     welcome:
       url: /welcome
       title: Deuet-mat oc'h en OSM
-      description: Krogit gant ar sturlevr-mañ evit deskiñ diazezoù GRM
+      description: Krogit gant ar sturlevr-mañ evit deskiñ diazezoù OpenStreetMap
     help:
       url: https://help.openstreetmap.org/
       title: help.openstreetmap.org
@@ -1139,7 +1139,7 @@ br:
       GPS ha kartennoù klasel abalamour da wiriañ ez eo reizh ha hizivaet OSM.
     community_driven_title: Renet gant ar gumuniezh
     community_driven_html: |-
-      Liesseurt hag entanet eo kumuniezh GRM. O kreskiñ emañ bemdez. E-mesk hor c'henlabourerien ez eus kartennourien entanet, tud a-vicher eus ar GIS, ijinourien hag a laka servijerien OSM da vont en-dro, denegourien hag a sav kartennoù eus an takadoù gwastet gant gwallreuzioù ha kalz re all.
+      Liesseurt hag entanet eo kumuniezh OpenStreetMap. O kreskiñ emañ bemdez. E-mesk hor c'henlabourerien ez eus kartennourien entanet, tud a-vicher eus ar GIS, ijinourien hag a laka servijerien OSM da vont en-dro, denegourien hag a sav kartennoù eus an takadoù gwastet gant gwallreuzioù ha kalz re all.
       Evit gouzout hiroc'h diwar-benn ar gumuniezh, sellit ouzh <a href='%{diary_path}'>deizlevrioù an implijerien</a>, <a href='http://blogs.openstreetmap.org/'>blogoù ar gumuniezh</a>, hag lec'hienn web <a href='http://www.osmfoundation.org/'>Diazezadur OSM</a>.
     open_data_title: Roadennoù digor
     open_data_html: 'GRM zo <i>open data</i>: gallout a rit implijout anezhañ
@@ -1159,13 +1159,13 @@ br:
         war %{commenturl} pe respont war %{replyurl}
     message_notification:
       hi: Demat %{to_user},
-      header: '%{from_user} en deus kaset deoc''h ur gemennadenn dre GRM
+      header: '%{from_user} en deus kaset deoc''h ur gemennadenn dre OpenStreetMap
         gant an danvez %{subject} :'
       footer_html: Gallout a rit ivez lenn ar gemennadenn e %{readurl} ha respont
         e %{replyurl}
     friend_notification:
       subject: '[OpenStreetMap] %{user} en deus hoc''h ouzhpennet evel mignon'
-      had_added_you: '%{user} en deus hoc''h ouzhpennet evel mignon war GRM.'
+      had_added_you: '%{user} en deus hoc''h ouzhpennet evel mignon war OpenStreetMap.'
       see_their_profile: 'Gallout a rit gwelet o frofil amañ : %{userurl}.'
       befriend_them: 'Tu ''zo deoc''h e ouzhpennañ evel ur mignon amañ : %{befriendurl}.'
     gpx_notification:
@@ -1186,7 +1186,7 @@ br:
         loaded_successfully: karget gant %{trace_points} diwar %{possible_points}
           poent posupl.
     signup_confirm:
-      subject: '[OpenStreetMap] Degemer mat en GRM'
+      subject: '[OpenStreetMap] Degemer mat en OpenStreetMap'
       greeting: Demat !
       created: Unan bennak (c'hwi, emichañs) a zo o paouez krouiñ ur gont war %{site_url}.
       confirm: 'A-raok ober forzh petra hon eus ezhomm da wiriañ hag-eñ ez eo ganeoc''h-c''hwi
@@ -1213,13 +1213,13 @@ br:
     lost_password_plain:
       greeting: Demat,
       hopefully_you: Unan bennak (c'hwi moarvat) en deus goulennet e vefe adderaouekaet
-        ar ger-tremen evit ar chomlec'h postel-mañ war ar gont GRM.org
+        ar ger-tremen evit ar chomlec'h postel-mañ war ar gont openstreetmap.org
       click_the_link: Ma'z eo c'hwi, klikit war al liamm amañ dindan, mar plij, evit
         adderaouekaat ho ker-tremen.
     lost_password_html:
       greeting: Demat,
       hopefully_you: Unan bennak (c'hwi moarvat) en deus goulennet e vefe adderaouekaet
-        ger-tremen ar gont GRM.org gant ar chomlec'h postel-mañ.
+        ger-tremen ar gont openstreetmap.org gant ar chomlec'h postel-mañ.
       click_the_link: Ma'z eo c'hwi, klikit war al liamm amañ dindan evit adderaouekaat
         ho ker-tremen.
     note_comment_notification:
@@ -1348,9 +1348,9 @@ br:
       user_page_link: pajenn implijer
       anon_edits_link_text: Kavit perak.
       flash_player_required: Ezhomm hoc'h eus eus ul lenner Flash evit implijout Potlatch,
-        aozer flash GRM. Gallout a rit <a href="http://www.adobe.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">pellgargañ
+        aozer flash OpenStreetMap. Gallout a rit <a href="http://www.adobe.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">pellgargañ
         Flash Player diwar Adobe.com</a>. <a href="http://wiki.openstreetmap.org/wiki/Editing">Meur
-        a zibarzh</a> a c'haller kaout evit aozañ GRM.
+        a zibarzh</a> a c'haller kaout evit aozañ OpenStreetMap.
       potlatch_unsaved_changes: Kemmoù n'int ket bet enrollet zo ganeoc'h. (Evit enrollañ
         e Potlatch, e tlefec'h diziuzañ an hent pe ar poent red m'emaoc'h oc'h aozañ
         er mod bev, pe klikañ war enrollañ ma vez ur bouton enrollañ ganeoc'h.)
@@ -1560,7 +1560,7 @@ br:
       heading: Stokañ GPX ezlinenn
       message: Ne'z a ket ar sistem stokañ hag enporzhiañ GPX en-dro evit poent.
     georss:
-      title: Roudoù GPS eus GRM
+      title: Roudoù GPS eus OpenStreetMap
     description:
       description_with_count:
         one: restr GPX gant %{count} poent digant %{user}
@@ -1711,7 +1711,7 @@ br:
           alt: Kevreañ gant un AOL OpenID
     logout:
       title: Digevreañ
-      heading: Kuitaat GRM
+      heading: Kuitaat OpenStreetMap
       logout_button: Digevreañ
     lost_password:
       title: Ger-tremen kollet
@@ -1758,8 +1758,8 @@ br:
       use openid: Gallout a rit ivez ober gant %{logo} OpenID evit kevreañ
       openid no password: Gant OpenID n'eo ket dav lakaat ur ger-tremen, kouskoude
         e c'hall un nebeud ostilhoù pe servijerioù zo kaout ezhomm eus unan.
-      openid association: "<p>N'eo ket kevredet hoc'h OpenID gant ur gont GRM
-        evit c'hoazh.</p>\n<ul>\n  <li>M'emaoc'h nevez deuet da GRM, krouit
+      openid association: "<p>N'eo ket kevredet hoc'h OpenID gant ur gont OpenStreetMap
+        evit c'hoazh.</p>\n<ul>\n  <li>M'emaoc'h nevez deuet da OpenStreetMap, krouit
         ur gont nevez en ur ober gant ar furmskrid dindan.</li>\n  <li>\n    M'hoc'h
         eus ur gont dija e c'hallit kevreañ d'ho kont\n    en ur ober gant hoc'h anv
         implijer hag ho ker-tremen a-raok kevrediñ ar gont \n    gant hoc'h OpenID
@@ -2131,7 +2131,7 @@ br:
       reopened_at_html: adweredekaet %{when} zo
       reopened_at_by_html: Adweredekaet %{when} zo gant %{user}
     rss:
-      title: Notennoù GRM
+      title: Notennoù OpenStreetMap
       description_area: Ur roll notennoù, addispleget, gant evezhiadennoù pe serret
         en ho takad [(%{min_lat}|%{min_lon}) -- (%{max_lat}|%{max_lon})]
       description_item: Ur froud rss evit an notenn %{id}
@@ -2195,7 +2195,7 @@ br:
         data: Roadennoù ar gartenn
         overlays: Gweredekaat an adwiskadoù evit dresañ ar gartenn
         title: Gwiskadoù
-      copyright: © <a href='%{copyright_url}'>Kenlabourerien GRM</a>
+      copyright: © <a href='%{copyright_url}'>Kenlabourerien OpenStreetMap</a>
       donate_link_text: <a class='donate-attr' href='%{donate_url}'>Grit un donezon</a>
     site:
       edit_tooltip: Kemmañ ar gartenn

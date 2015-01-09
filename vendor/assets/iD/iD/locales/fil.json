@@ -198,7 +198,7 @@
         "title": "I-save ang mga binago.",
         "description_placeholder": "Maikling paglalarawan ng iyong mga ambag o edits",
         "message_label": "Mag-commit mensahe",
-        "upload_explanation": "Ang mga pagbabagong na-upload ay makikita sa lahat ng mapang gumagamit ng datos ng GRM.",
+        "upload_explanation": "Ang mga pagbabagong na-upload ay makikita sa lahat ng mapang gumagamit ng datos ng OpenStreetMap.",
         "save": "I-save",
         "cancel": "Kanselahin",
         "warnings": "Mga babala",
@@ -222,7 +222,7 @@
         "no_documentation_combination": "Walang documentation para sa kumbinasyon ng mga tag na ginamit",
         "no_documentation_key": "Walang \"documentation\" na magagamit para sa \"key\" na ito.",
         "show_more": "Higit pang detalye",
-        "view_on_osm": "Tingnan sa GRM.org",
+        "view_on_osm": "Tingnan sa openstreetmap.org",
         "all_tags": "Lahat ng tags",
         "all_members": "Lahat ng kasapi",
         "all_relations": "Lahat ng \"relation\"",
@@ -261,7 +261,7 @@
         "help": "I-save ang mga pagbabago sa GRM upang makita ng ibang gumagamit ng datos.",
         "no_changes": "Walang mga pagbabago upang i-save.",
         "error": "May error habang sinusubukang i-save",
-        "uploading": "Ina-upload ang mga pagbabago sa GRM.",
+        "uploading": "Ina-upload ang mga pagbabago sa OpenStreetMap.",
         "unsaved_changes": "Mayroon kang hindi na-save ng mga pagbabago"
     },
     "success": {
@@ -294,7 +294,7 @@
         "untagged_point": "Walang tag na punto o tuldok",
         "untagged_line": "Walang tag na linya",
         "untagged_area": "Walang tag na area o poligon",
-        "many_deletions": "Nagbura ka ng {n} bagay sa mapa. Sigurado ka bang gusto mong gawin ito? Ito ay tatanggalin sa mapa na nakikita sa GRM.org.",
+        "many_deletions": "Nagbura ka ng {n} bagay sa mapa. Sigurado ka bang gusto mong gawin ito? Ito ay tatanggalin sa mapa na nakikita sa openstreetmap.org.",
         "tag_suggests_area": "Ang tag na {tag} ay kalimitang para sa mga area o poligon sublait ito ay nasa linya lamang.",
         "untagged_tooltip": "Pumili ng uri ng \"feature\" na naglalarawan kung ano ang {geometry} na ito.",
         "deprecated_tags": "Hindi na ginagamit na \"tag\": {tags}"
