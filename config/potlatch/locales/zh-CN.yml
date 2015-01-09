@@ -182,7 +182,7 @@ zh-CN:
   prompt_taggedpoints: 在路径上的一些节点有标签，或是关联到了关系中。真的要删除吗?
   prompt_track: 转换 GPS 轨迹至路径
   prompt_unlock: 点击解锁
-  prompt_welcome: 欢迎使用 OpenStreetMap!
+  prompt_welcome: 欢迎使用 GRM!
   retry: 重试
   revert: 恢复
   save: 保存

@@ -235,8 +235,8 @@ be-Tarask:
         title: Запісы ў дзёньніку GRM на %{language_name}
         description: Апошнія запісы ў дзёньніках карыстальнікаў GRM на %{language_name}
       all:
-        title: Запісы ў дзёньніку OpenStreetMap
-        description: Апошнія запісы ў дзёньніку карыстальнікаў OpenStreetMap
+        title: Запісы ў дзёньніку GRM
+        description: Апошнія запісы ў дзёньніку карыстальнікаў GRM
     comments:
       post: Запіс
   export:
@@ -251,7 +251,7 @@ be-Tarask:
       export_details: Зьвесткі GRM даступныя на ўмовах ліцэнзіі <a href="http://opendatacommons.org/licenses/odbl/1.0/">Open
         Data Commons Open Database License</a> (ODbL).
       too_large:
-        body: 'Гэты абшар занадта вялікі для экспарту ў фармаце XML OpenStreetMap.
+        body: 'Гэты абшар занадта вялікі для экспарту ў фармаце XML GRM.
           Калі ласка, зьменшыце маштаб, выберыце меншы абшар, ці паспрабуйце адну
           з наступных крыніцаў для пакетнай запампоўкі зьвестак:'
         planet:
@@ -734,7 +734,7 @@ be-Tarask:
       west: захад
   layouts:
     logo:
-      alt_text: Лягатып OpenStreetMap
+      alt_text: Лягатып GRM
     home: дамоў
     logout: выйсьці
     log_in: увайсьці
@@ -762,9 +762,9 @@ be-Tarask:
     help: Дапамога
     copyright: Аўтарскія правы і ліцэнзія
     community_blogs: Блёгі супольнасьці
-    community_blogs_title: Блёгі чальцоў супольнасьці OpenStreetMap
+    community_blogs_title: Блёгі чальцоў супольнасьці GRM
     foundation: Фундацыя
-    foundation_title: Фундацыя OpenStreetMap
+    foundation_title: Фундацыя GRM
     make_a_donation:
       title: Падтрымаць GRM грашовым ахвяраваньнем
       text: Зрабіць ахвяраваньне
@@ -795,12 +795,12 @@ be-Tarask:
         <a
         href="http://creativecommons.org/licenses/by-sa/2.0/legalcode">legal
         code</a> растлумачыць Вам правы і адказнасьці.
-      credit_title_html: Як спасылацца на OpenStreetMap
+      credit_title_html: Як спасылацца на GRM
       credit_1_html: |-
-        Калі Вы выкарыстоўваеце выявы мапаў OpenStreetMap, мы патрабуем, каб
-        Вы рабілі спасылку хаця б &ldquo;&copy; удзельнікі OpenStreetMap
+        Калі Вы выкарыстоўваеце выявы мапаў GRM, мы патрабуем, каб
+        Вы рабілі спасылку хаця б &ldquo;&copy; удзельнікі GRM
         , CC BY-SA&rdquo;. Калі Вы выкарыстоўваеце толькі картаграфічныя зьвесткі,
-        мы патрабуем наяўнасьць &ldquo;Картаграфічныя зьвесткі &copy; Удзельнікі OpenStreetMap,
+        мы патрабуем наяўнасьць &ldquo;Картаграфічныя зьвесткі &copy; Удзельнікі GRM,
         CC BY-SA&rdquo;.
       credit_2_html: |-
         Дзе магчыма, павінна быць гіпэр-спасылка на GRM <a
@@ -826,7 +826,7 @@ be-Tarask:
         Нашая ліцэнзія CC BY-SA патрабуе ад Вас &ldquo;падаць арыгінальнага аўтара
         у адпаведнасьці з асаблівасьцямі носьбітаў інфармацыі ці іншых выкарыстоўваемых сродкаў
         &rdquo;. Звычайныя ўдзельнікі OSM не патрабуюць пазначэньня аўтарства
-        болей чым &ldquo;удзельнікі OpenStreetMap
+        болей чым &ldquo;удзельнікі GRM
         &rdquo;, але ў GRM ёсьць зьвесткі з нацыянальных
         картаграфічных агенцтваў ці іншых падобных крыніцаў,
         таму, магчыма, мае сэнс спасылацца непасрэдна на іх
@@ -852,13 +852,13 @@ be-Tarask:
         2010.
       contributors_footer_2_html: |-
         Уключэньне зьвестак у GRM не азначае, што пастаўшчыкі пачатковых зьвестак
-        якім-небудзь чынам падтрымліваюць OpenStreetMap, прадстаўляюць гарантыі, ці
+        якім-небудзь чынам падтрымліваюць GRM, прадстаўляюць гарантыі, ці
         прымаюць на сябе якую-небудзь адказнасьць.
   notifier:
     diary_comment_notification:
       subject: '[OpenStreetMap] %{user} пакінуў камэнтар у Вашым дзёньніку'
       hi: Вітаем, %{to_user},
-      header: '%{from_user} пракамэнтаваў Ваш апошні запіс у дзёньніку на OpenStreetMap
+      header: '%{from_user} пракамэнтаваў Ваш апошні запіс у дзёньніку на GRM
         з тэмай %{subject}:'
       footer: Вы таксама можаце чытаць камэнтар %{readurl} і Вы можаце камэнтаваць
         на %{commenturl} ці адказаць на %{replyurl}
@@ -867,7 +867,7 @@ be-Tarask:
       header: '%{from_user} даслаў Вам паведамленьне праз GRM з тэмай %{subject}:'
     friend_notification:
       subject: '[OpenStreetMap] %{user} дадаў Вас у сьпіс сваіх сяброў'
-      had_added_you: '%{user} дадаў Вас у сьпіс сяброў на OpenStreetMap.'
+      had_added_you: '%{user} дадаў Вас у сьпіс сяброў на GRM.'
       see_their_profile: Вы можаце прагледзець яго профіль на %{userurl}.
       befriend_them: Вы таксама можаце дадаць іх у якасьці сябраў на %{befriendurl}.
     gpx_notification:
@@ -908,7 +908,7 @@ be-Tarask:
     lost_password_html:
       greeting: Вітаем,
       hopefully_you: Нехта (магчыма Вы) запытаў зьмену паролю для гэтага адрасу электроннай
-        пошты openstreetmap.org.
+        пошты GRM.org.
       click_the_link: Калі гэта Вы, калі ласка, націсьніце на спасылку ніжэй, каб
         скінуць Ваш пароль.
   message:
@@ -1005,7 +1005,7 @@ be-Tarask:
       flash_player_required: Каб выкарыстоўваць рэдактар Potlatch неабходны Flash-плэер.
         Вы можаце <a href="http://www.adobe.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">
         загрузіць Flash-плэер з Adobe.com</a>. Існуюць і <a href="http://wiki.openstreetmap.org/wiki/Editing">іншыя
-        магчымасьці</a> для рэдагаваньня OpenStreetMap.
+        магчымасьці</a> для рэдагаваньня GRM.
       potlatch_unsaved_changes: Вы маеце незахаваныя зьмены. (Для таго каб захаваць
         зьмены ў Potlatch, Вам неабходна зьняць пазначэньне з цяперашняй дарогі ці
         пункту, калі рэдагуеце ўжывую, ці націснуць кнопку «захаваць».)
@@ -1294,11 +1294,11 @@ be-Tarask:
       lost password link: Забылі пароль?
       login_button: Увайсьці
       register now: Зарэгістравацца зараз
-      with username: 'Ужо маеце рахунак OpenStreetMap? Калі ласка, увайдзіце ў сыстэму
+      with username: 'Ужо маеце рахунак GRM? Калі ласка, увайдзіце ў сыстэму
         з Вашым іменем удзельніка і паролем:'
       with openid: 'Для ўваходу можаце выкарыстаць Ваш OpenID:'
-      new to osm: Упершыню на OpenStreetMap?
-      to make changes: Каб рабіць зьмены ў зьвестках OpenStreetMap, Вам неабходна
+      new to osm: Упершыню на GRM?
+      to make changes: Каб рабіць зьмены ў зьвестках GRM, Вам неабходна
         мець рахунак.
       create account minute: Стварыць рахунак. Гэта зойме ня болей хвіліны.
       account not active: Прабачце, Ваш рахунак пакуль што не актывізаваны.<br />Калі
@@ -1330,7 +1330,7 @@ be-Tarask:
           alt: Увайсьці ў сыстэму з дапамогай AOL OpenID
     logout:
       title: Выйсьці
-      heading: Выйсьці з OpenStreetMap
+      heading: Выйсьці з GRM
       logout_button: Выйсьці
     lost_password:
       title: Згублены пароль
@@ -1376,9 +1376,9 @@ be-Tarask:
       openid no password: Падчас выкарыстаньня OpenID пароль не патрэбны, але некаторыя
         дадатковыя інструмэнты ці сэрвэр могуць яго спытаць.
       openid association: |-
-        <p>Ваш OpenID пакуль ня зьвязаны з рахункам OpenStreetMap.</p>
+        <p>Ваш OpenID пакуль ня зьвязаны з рахункам GRM.</p>
         <ul>
-          <li>Калі Вы ўпершыню на OpenStreetMap, калі ласка, стварыце новы рахунак з дапамогай формы пададзенай ніжэй.</li>
+          <li>Калі Вы ўпершыню на GRM, калі ласка, стварыце новы рахунак з дапамогай формы пададзенай ніжэй.</li>
           <li>
             Калі Вы ўжо маеце рахунак, Вы можаце ўвайсьці ў сыстэму
             з Вашым іменем удзельніка і паролем, а потым зьвязаць яго з Вашым рахункам

@@ -30,18 +30,18 @@ apt-get install -y ruby1.9.1 libruby1.9.1 ruby1.9.1-dev ri1.9.1 \
     libsasl2-dev
 gem1.9.1 install bundle
 
-## install the bundle necessary for openstreetmap-website
+## install the bundle necessary for GRM-website
 pushd /srv/openstreetmap-website
 # do bundle install as a convenience
 sudo -u vagrant -H bundle install
-# create user and database for openstreetmap-website
+# create user and database for GRM-website
 db_user_exists=`sudo -u postgres psql postgres -tAc "select 1 from pg_roles where rolname='vagrant'"`
 if [ "$db_user_exists" != "1" ]; then
 		sudo -u postgres createuser -s vagrant
-		sudo -u vagrant -H createdb -E UTF-8 -O vagrant openstreetmap
+		sudo -u vagrant -H createdb -E UTF-8 -O vagrant GRM
 		sudo -u vagrant -H createdb -E UTF-8 -O vagrant osm_test
 		# add btree_gist extension
-		sudo -u vagrant -H psql -c "create extension btree_gist" openstreetmap
+		sudo -u vagrant -H psql -c "create extension btree_gist" GRM
 fi
 # build and set up postgres extensions
 pushd db/functions

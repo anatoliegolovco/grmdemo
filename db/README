@@ -7,7 +7,7 @@ openstreetmap
 
 You may create it with your preferable client or run next (linux) command:
 
-$ createdb openstreetmap
+$ createdb GRM
 
 Creating functions for PgSQL
 ==============================
@@ -23,7 +23,7 @@ for build to succeed.
 
 Now create the function as follows:
 
-$ psql openstreetmap
+$ psql GRM
 (This may need authentication or a -u <dbowneruid>)
 
 > CREATE FUNCTION maptile_for_point(int8, int8, int4) RETURNS int4 

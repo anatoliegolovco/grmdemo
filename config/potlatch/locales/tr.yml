@@ -169,7 +169,7 @@ tr:
   prompt_taggedpoints: Bu yol üzerindeki bazı noktalara parametreler verilmiş veya bağlantılarda kullanılıyor. Yine de silinsin mi?
   prompt_track: GPS izini, düzenlemek için (kilitli) bir yola dönüştür.
   prompt_unlock: Kilidi açmak için tıkla
-  prompt_welcome: OpenStreetMap'e Hoşgeldin!
+  prompt_welcome: GRM'e Hoşgeldin!
   retry: Tekrar dene
   revert: Geri al
   save: Kaydet

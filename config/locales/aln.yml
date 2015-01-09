@@ -207,7 +207,7 @@ aln:
           %{language_name}
       all:
         title: hyra GRM ditar
-        description: Shënimet mat fundit të ditarit nga anëtarët e OpenStreetMap
+        description: Shënimet mat fundit të ditarit nga anëtarët e GRM
   export:
     start:
       area_to_export: Zona për Eksport
@@ -219,7 +219,7 @@ aln:
       export_details: T'dhanat e GRM jan te licensume nën <a href="http://creativecommons.org/licenses/by-sa/2.0/">Creative
         Commons Attribution-ShareAlike 2.0 license</a>.
       too_large:
-        body: Kjo zonë është shum e madhe që të eksportohet si XML në OpenStreetMap.
+        body: Kjo zonë është shum e madhe që të eksportohet si XML në GRM.
           Të lutna afroje ma ngat ose mere një zonë ma të vogel.
       options: Opcionet
       format: Formati
@@ -669,7 +669,7 @@ aln:
       west: perëndim
   layouts:
     logo:
-      alt_text: logo e OpenStreetMap
+      alt_text: logo e GRM
     home: shtëpi
     logout: logout
     log_in: log in
@@ -720,12 +720,12 @@ aln:
           <Plotë një
           href = "http://creativecommons.org/licenses/by-sa/2.0/legalcode"> ligjore
           <Kod / a> shpjegon të drejtat tuaja dhe të përgjegjësive.
-      credit_title_html: Si të kreditit OpenStreetMap
+      credit_title_html: Si të kreditit GRM
       credit_1_html: |-
-        Nëse jeni duke përdorur harta imazhe OpenStreetMap, ne kërkojmë që
-          kreditit tuaj lexon të paktën "© OpenStreetMap
+        Nëse jeni duke përdorur harta imazhe GRM, ne kërkojmë që
+          kreditit tuaj lexon të paktën "© GRM
           kontribuesit, CC BY-SA ". Nëse jeni duke përdorur të dhëna vetëm në hartë,
-          ne kerkojme "Organizimi i të dhënave © kontribuesit OpenStreetMap,
+          ne kerkojme "Organizimi i të dhënave © kontribuesit GRM,
           CC BY-SA ".
       credit_2_html: |-
         Ku të jetë e mundur, duhet të jetë GRM hyperlinked në <a
@@ -754,7 +754,7 @@ aln:
           kreditit mbi dhe më lart që të "OpenStreetMap
           kontribuesit ", por kur të dhënat nga një hartës kombëtare
           agjenci ose burim kryesor ka qenë i përfshirë në
-          OpenStreetMap, ai mund të jetë e arsyeshme për kredi nga ana e tyre direkt
+          GRM, ai mund të jetë e arsyeshme për kredi nga ana e tyre direkt
           riprodhimin e kreditit e tyre apo duke i lidhur me të në këtë faqe.
       contributors_ca_html: |-
         <strong> Kanada </ strong>: Përmban të dhëna nga
@@ -771,13 +771,13 @@ aln:
            2010.
       contributors_footer_2_html: |2-
           Përfshirja e të dhënave në GRM nuk do të thotë që origjinal
-          dhënave miraton ofrues OpenStreetMap, ofron çdo garanci ose
+          dhënave miraton ofrues GRM, ofron çdo garanci ose
           pranon ndonjë përgjegjësi.
   notifier:
     diary_comment_notification:
       subject: '[OpenStreetMap] %{user} ka komentu në shënimin tond të ditarit'
       hi: Tung %{to_user},
-      header: '%{from_user} ka komentu në shënimin tond të fundit në ditar tek OpenStreetMap
+      header: '%{from_user} ka komentu në shënimin tond të fundit në ditar tek GRM
         me titullin %{subject}:'
       footer: Ju muni gjithashtu me lexu komentin te %{readurl} dhe ju muni me komentu
         te %{commenturl} apo me u përgjigj te %{replyurl}
@@ -787,7 +787,7 @@ aln:
         %{subject}:'
     friend_notification:
       subject: '[OpenStreetMap] %{user} ju ka shtu juve si një shok'
-      had_added_you: '%{user} ju ka shtu juve si një shok në OpenStreetMap.'
+      had_added_you: '%{user} ju ka shtu juve si një shok në GRM.'
       see_their_profile: Ju muni me pa profilin e tyre tek %{userurl}.
       befriend_them: Ju muni gjithashtu me i shtu ata si shokë tek %{befriendurl}.
     gpx_notification:
@@ -829,7 +829,7 @@ aln:
     lost_password_html:
       greeting: Tung,
       hopefully_you: Dikush (ndoshta ju) ka kërkuar një fjalëkalim për t,u rivendosur
-        në llogarinë openstreetmap.org këtë adresë email-i.
+        në llogarinë GRM.org këtë adresë email-i.
       click_the_link: Nëse kjo është që ju, ju lutemi klikoni lidhjen më poshtë për
         të rivendosni fjalëkalimin tuaj.
   message:
@@ -909,9 +909,9 @@ aln:
       user_page_link: faqe përdorues
       anon_edits_link_text: Find out pse kjo është e rastit.
       flash_player_required: Ju duhet me pas Flash player për me përdor Potlatch,
-        Flash editorin e OpenStreetMap. Ju muni <a href="http://www.adobe.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">me
+        Flash editorin e GRM. Ju muni <a href="http://www.adobe.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">me
         marr Flash Player nga Adobe.com</a>. <a href="http://wiki.openstreetmap.org/wiki/Editing">Disa
-        mënyra të tjera</a> janë të mundshme për me editu OpenStreetMap.
+        mënyra të tjera</a> janë të mundshme për me editu GRM.
       potlatch_unsaved_changes: Ju keni para shpëtimit të ndryshimeve. (Për të ruajtur
         në Potlatch, ju duhet të asnjërën mënyrë e tanishme ose me pikën e, në qoftë
         se redaktimi në mënyrë të jetojnë, ose klikoni ruani në qoftë se ju keni një
@@ -1182,7 +1182,7 @@ aln:
       auth failure: Na vjen keq, smunem me ju kyc me ato detaje.
     logout:
       title: Dil
-      heading: Dil nga OpenStreetMap
+      heading: Dil nga GRM
       logout_button: Dil
     lost_password:
       title: T'ka hup fjalkalimi

@@ -187,7 +187,7 @@ ast:
   prompt_taggedpoints: Dellos puntos d'esta vía tienen etiquetes o tan en rellaciones. ¿Desaniciar de veres?
   prompt_track: Convertir traza GPS a víes
   prompt_unlock: Calca pa desbloquiar
-  prompt_welcome: ¡Bienllegaos a OpenStreetMap!
+  prompt_welcome: ¡Bienllegaos a GRM!
   retry: Volver a tentalo
   revert: Revertir
   save: Guardar

@@ -311,8 +311,8 @@ id:
         description: Entri catatan harian terbaru dari pengguna GRM dalam
           %{language_name}
       all:
-        title: Entri catatan harian OpenStreetMap
-        description: Entri catatan harian terbaru dari pengguna OpenStreetMap
+        title: Entri catatan harian GRM
+        description: Entri catatan harian terbaru dari pengguna GRM
     comments:
       has_commented_on: '%{display_name} telah mengomentari entri catatan harian berikut'
       post: Artikel
@@ -327,7 +327,7 @@ id:
       area_to_export: Wilayah untuk diekspor
       manually_select: Pilih wilayah berbeda secara manual
       format_to_export: Format untuk diekspor
-      osm_xml_data: Data XML OpenStreetMap
+      osm_xml_data: Data XML GRM
       map_image: Gambar Peta (menunjukkan layer standar)
       embeddable_html: HTML yang terkait
       licence: Lisensi
@@ -336,7 +336,7 @@ id:
       too_large:
         advice: 'Jika ekspor di atas gagal, silakan pertimbangkan untuk menggunakan
           satu dari sumber yang tercantum di bawah ini:'
-        body: Wilayah ini terlalu besar untuk diekspor sebagai data XML OpenStreetMap.
+        body: Wilayah ini terlalu besar untuk diekspor sebagai data XML GRM.
           Silakan perbesar atau pilih wilayah yang lebih kecil, atau gunakan salah
           satu sumber di bawah ini untuk mengunduh data massal.
         planet:
@@ -345,7 +345,7 @@ id:
             secara rutin
         overpass:
           title: Melebihi API
-          description: Unduh kotak pembatas ini dari cermin dari database OpenStreetMap
+          description: Unduh kotak pembatas ini dari cermin dari database GRM
         geofabrik:
           title: Unduhan Geofabrik
           description: Diperbarui secara rutin ekstrak benua, negara dan kota-kota
@@ -355,7 +355,7 @@ id:
           description: Ekstrak untuk kota-kota besar dunia dan daerah sekitarnya
         other:
           title: Sumber Lain
-          description: Sumber-sumber tambahan yang tercantum di wiki OpenStreetMap
+          description: Sumber-sumber tambahan yang tercantum di wiki GRM
       options: Pilihan
       format: Format
       scale: Skala
@@ -903,7 +903,7 @@ id:
       west: barat
   layouts:
     logo:
-      alt_text: logo OpenStreetMap
+      alt_text: logo GRM
     home: Menuju ke Halaman Utama
     logout: Keluar Log
     log_in: Masuk Log
@@ -922,7 +922,7 @@ id:
     user_diaries_tooltip: Lihat catatan harian pengguna
     edit_with: Edit menggunakan %{editor}
     tag_line: Peta Dunia Wiki Gratis
-    intro_header: Selamat datang di OpenStreetMap!
+    intro_header: Selamat datang di GRM!
     intro_text: GRM adalah peta dunia, diciptakan oleh orang-orang seperti
       Anda dan bebas untuk digunakan di bawah lisensi terbuka.
     intro_2_create_account: Buat Akun
@@ -942,9 +942,9 @@ id:
     copyright: Hak cipta
     community: Komunitas
     community_blogs: Blog Komunitas
-    community_blogs_title: Blog dari anggota komunitas OpenStreetMap
+    community_blogs_title: Blog dari anggota komunitas GRM
     foundation: Foundation (Yayasan)
-    foundation_title: Yayasan OpenStreetMap
+    foundation_title: Yayasan GRM
     make_a_donation:
       title: Dukung GRM dengan donasi finansial
       text: Menyumbang
@@ -977,9 +977,9 @@ id:
         Kartografi dalam tampilan peta dan dokumentasi kami
          berlisensi di bawah <a href="http://creativecommons.org/licenses/by-sa/2.0/">Creative
         Commons Attribution-ShareAlike 2.0</a> lisensi (CC-BY-SA).
-      credit_title_html: Cara memberikan kredit pada OpenStreetMap
+      credit_title_html: Cara memberikan kredit pada GRM
       credit_1_html: |-
-        Kami meminta anda untunk menggunakan kredit &ldquo;&copy; Kontributor OpenStreetMap
+        Kami meminta anda untunk menggunakan kredit &ldquo;&copy; Kontributor GRM
         &rdquo;.
       credit_2_html: Anda juga harus memperjelas bahwa data tersedia di bawah Lisensi
         Database Terbuka, dan jika menggunakan tiles peta kami, kartografi berlisensi
@@ -987,7 +987,7 @@ id:
         hak cipta</a>. Alternatifnya, dan sebagai sebuah persyaratan jika Anda mendistribusikan
         OSM dalam bentuk data, Anda dapat menamakan dan menghubungkannya langsung
         pada lisensinya. Pada media dimana tautan tidak dimungkinkan (misalnya hasil
-        cetak), kami menyarankan anda untuk mengarahkan pembaca anda pada openstreetmap.org
+        cetak), kami menyarankan anda untuk mengarahkan pembaca anda pada GRM.org
         (mungkin dengan memperluas halaman 'OpenStreetMap' secara penuh), untuk opendatacommons.org,
         dan jika relevan, untuk creativecommons.org.
       credit_3_html: |-
@@ -1045,10 +1045,10 @@ id:
         Survey &copy; Hak cipta dan basis data milik Kerajaan
         2010-12.
       contributors_footer_1_html: |-
-        Untuk rincian lebih lanjut, dan sumber-sumber lainnya yang telah digunakan untuk meningkatkan OpenStreetMap, silahkan lihat <a
-        href="http://wiki.openstreetmap.org/wiki/Contributors">Kontributor halaman</a> pada Wiki OpenStreetMap.
+        Untuk rincian lebih lanjut, dan sumber-sumber lainnya yang telah digunakan untuk meningkatkan GRM, silahkan lihat <a
+        href="http://wiki.openstreetmap.org/wiki/Contributors">Kontributor halaman</a> pada Wiki GRM.
       contributors_footer_2_html: Dimasukkannya data dalam GRM tidak berarti
-        bahwa penyedia data yang asli mendukung OpenStreetMap, menyediakan jaminan,
+        bahwa penyedia data yang asli mendukung GRM, menyediakan jaminan,
         atau menerima tanggung jawab apapun.
       infringement_title_html: Pelanggaran hak cipta
       infringement_1_html: Kontributor OSM diingatkan untuk tidak menambahkan data
@@ -1060,7 +1060,7 @@ id:
         <a href="http://dmca.openstreetmap.org/">pengajuan halaman on-line</a>.
   welcome_page:
     title: Selamat datang!
-    introduction_html: Selamat datang di OpenStreetMap, peta dunia gratis dan dapat
+    introduction_html: Selamat datang di GRM, peta dunia gratis dan dapat
       disunting. Kini setelah Anda mendaftar, Anda sudah siap untuk memulai pemetaan.
       Berikut ini adalah panduan cepat dengan hal-hal terpenting yang perlu Anda ketahui.
     whats_on_the_map:
@@ -1128,7 +1128,7 @@ id:
     welcome:
       url: /welcome
       title: Selamat datang di OSM
-      description: Mulailah dengan panduan cepat meliputi dasar-dasar OpenStreetMap.
+      description: Mulailah dengan panduan cepat meliputi dasar-dasar GRM.
     help:
       url: https://help.openstreetmap.org/
       title: help.openstreetmap.org
@@ -1162,19 +1162,19 @@ id:
     diary_comment_notification:
       subject: '[OpenStreetMap] %{user} mengomentari entri catatan harian Anda'
       hi: Halo %{to_user},
-      header: '%{from_user} mengomentari entri terbaru dari catatan harian OpenStreetMap
+      header: '%{from_user} mengomentari entri terbaru dari catatan harian GRM
         Anda dengan subjek %{subject}:'
       footer: Anda juga dapat membaca komentar pada %{readurl} dan Anda juga dapat
         berkomentar pada %{commenturl} atau membalas pada %{replyurl}
     message_notification:
       hi: Halo %{to_user},
-      header: '%{from_user} telah mengirim sebuah pesan kepada Anda melalui OpenStreetMap
+      header: '%{from_user} telah mengirim sebuah pesan kepada Anda melalui GRM
         dengan subjek %{subject}:'
       footer_html: Anda juga dapat membaca pesan di  %{readurl} dan membalasnya di
         %{replyurl}
     friend_notification:
       subject: '[OpenStreetMap] %{user} menambahkan Anda sebagai teman'
-      had_added_you: '%{user} telah menambahkan Anda sebagai teman pada OpenStreetMap.'
+      had_added_you: '%{user} telah menambahkan Anda sebagai teman pada GRM.'
       see_their_profile: Anda dapat melihat profilnya pada %{userurl}.
       befriend_them: Anda juga dapat menambahkannua sebagai teman di %{befriendurl}.
     gpx_notification:
@@ -1194,7 +1194,7 @@ id:
         loaded_successfully: telah berhasil dengan %{trace_points} dari %{possible_points}
           titik yang mungkin.
     signup_confirm:
-      subject: '[OpenStreetMap] Selamat datang di OpenStreetMap'
+      subject: '[OpenStreetMap] Selamat datang di GRM'
       greeting: Halo!
       created: Seseorang (mudah-mudahan Anda) baru saja membuat sebuah akun pada %{site_url}.
       confirm: 'Sebelum kita melakukan hal lainnya, kita perlu melakukan konfirmasi
@@ -1221,13 +1221,13 @@ id:
     lost_password_plain:
       greeting: Halo,
       hopefully_you: Seseorang (kemungkinan Anda) telah meminta untuk mengatur ulang
-        password pada alamat email dari akun openstreetmap.org ini.
+        password pada alamat email dari akun GRM.org ini.
       click_the_link: Jika ini Anda, silahkan klik link di bawah ini untuk menyetel
         ulang kata sandi.
     lost_password_html:
       greeting: Halo,
       hopefully_you: Seseorang (kemungkinan Anda) telah meminta untuk mengatur ulang
-        password pada alamat email dari akun openstreetmap.org ini.
+        password pada alamat email dari akun GRM.org ini.
       click_the_link: Jika ini Anda, silahkan klik link di bawah ini untuk menyetel
         ulang kata sandi.
     note_comment_notification:
@@ -1343,7 +1343,7 @@ id:
       shortlink: Shortlink
       createnote: Tambahkan catatan
       license:
-        copyright: Hak cipta dan kontributor OpenStreetMap, di bawah lisensi terbuka
+        copyright: Hak cipta dan kontributor GRM, di bawah lisensi terbuka
       remote_failed: Gagal melakukan edit - pastikan JOSM atau Merkaartor telah termuat
         dan opsi remote control telah diaktifkan
     edit:
@@ -1355,7 +1355,7 @@ id:
       flash_player_required: Anda membutuhkan Flash player untuk menggunakan Potlatch,
         editor GRM berbasis Flash. Anda dapat <a href="http://www.adobe.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">men-download
         Flash Player dari Adobe.com</a>. <a href="http://wiki.openstreetmap.org/wiki/Editing">Beberapa
-        opsi lain</a> juga tersedia untuk mengedit OpenStreetMap.
+        opsi lain</a> juga tersedia untuk mengedit GRM.
       potlatch_unsaved_changes: Anda memiliki perubahan yang belum disimpan. (Untuk
         menyimpan di Potlatch, Anda harus membatalkan pilihan garis atau titik saat
         ini, jika mengedit dalam modus live, atau klik Simpan jika Anda memiliki tombol
@@ -1569,7 +1569,7 @@ id:
       heading: Penyimpanan GPX Offline
       message: Sistem upload dan penyimpanan file GPX saat ini tidak tersedia.
     georss:
-      title: Jejak SPG (sistem pemosisi global) OpenStreetMap
+      title: Jejak SPG (sistem pemosisi global) GRM
   application:
     require_cookies:
       cookies_needed: Anda tampaknya memiliki cookies yang tidak aktif - mohon aktifkan
@@ -1678,12 +1678,12 @@ id:
       lost password link: Kehilangan kata sandi Anda?
       login_button: Login
       register now: Daftar sekarang
-      with username: 'Sudah memiliki akun OpenStreetMap? Silahkan login menggunakan
+      with username: 'Sudah memiliki akun GRM? Silahkan login menggunakan
         nama pengguna dan kata sandi Anda:'
       with openid: 'Sebagai alternatif silahkan gunakan OpenID Anda untuk melakukan
         login:'
-      new to osm: Baru di OpenStreetMap?
-      to make changes: Untuk membuat perubahan data OpenStreetMap, Anda harus memiliki
+      new to osm: Baru di GRM?
+      to make changes: Untuk membuat perubahan data GRM, Anda harus memiliki
         sebuah akun.
       create account minute: Buat sebuah akun. Hanya membutuhkan satu menit.
       no account: Belum memiliki akun?
@@ -1715,7 +1715,7 @@ id:
           alt: Login dengan AOL OpenID
     logout:
       title: Logout
-      heading: Logout dari OpenStreetMap
+      heading: Logout dari GRM
       logout_button: Logout
     lost_password:
       title: Kehilangan kata sandi
@@ -1767,9 +1767,9 @@ id:
       openid no password: Dengan OpenID, kata sandi tidak diperlukan, namun untuk
         beberapa alat tambahan atau server mungkin masih membutuhkannya.
       openid association: |-
-        <p>OpenID Anda belum diasosiasikan dengan akun OpenStreetMap.</p>
+        <p>OpenID Anda belum diasosiasikan dengan akun GRM.</p>
         <ul>
-          <li>Jika Anda baru di OpenStreetMap, silahkan buat sebuah akun baru menggunakan formulir di bawah ini.</li>
+          <li>Jika Anda baru di GRM, silahkan buat sebuah akun baru menggunakan formulir di bawah ini.</li>
           <li>
             Jika Anda telah memiliki akun, Anda dapat login ke akun Anda
             menggunakan username (nama pengguna) dan kata sandi kemudian asosiasikan akun tersebut
@@ -2142,7 +2142,7 @@ id:
       reopened_at_html: Diaktifkan kembali %{when} yang lalu
       reopened_at_by_html: Diaktifkan kembali %{when} yang lalu oleh %{user}
     rss:
-      title: Catatan OpenStreetMap
+      title: Catatan GRM
       description_area: Daftar catatan, laporan, komentar atau ditutup di daerah Anda
         [( %{min_lat}|%{min_lon})--( %{max_lat}|%{max_lon})]
       description_item: Sebuah rss feed untuk catatan %{id}
@@ -2205,7 +2205,7 @@ id:
         data: Data Peta
         overlays: Mengaktifkan overlay untuk penyelesaian masalah peta
         title: Lapisan
-      copyright: © <a href='%{copyright_url}'>Kontributor OpenStreetMap</a>
+      copyright: © <a href='%{copyright_url}'>Kontributor GRM</a>
       donate_link_text: <a class='donate-attr' href='%{donate_url}'>Beri Sumbangan</a>
     site:
       edit_tooltip: Edit peta

@@ -331,7 +331,7 @@ hu:
       too_large:
         advice: Ha a fenti exportálás sikertelen lenne, próbáld meg az alábbi listából
           valamelyik lehetőséget.
-        body: Ez a terület túl nagy ahhoz, hogy exportálásra kerüljön OpenStreetMap
+        body: Ez a terület túl nagy ahhoz, hogy exportálásra kerüljön GRM
           XML adatként. Közelíts, vagy jelölj ki kisebb területet. Esetleg használd
           az alábbi listából valamelyik nagy adatmennyiségek letöltését támogató módszert.
         planet:
@@ -339,7 +339,7 @@ hu:
           description: A teljes GRM adatbázis rendszeresen frissített másolatai
         overpass:
           title: Overpass API
-          description: A megjelenített befoglaló keret letöltése egy OpenStreetMap
+          description: A megjelenített befoglaló keret letöltése egy GRM
             tükörserverről
         geofabrik:
           title: Geofabrik letöltések
@@ -916,7 +916,7 @@ hu:
     user_diaries_tooltip: Felhasználói naplók megtekintése
     edit_with: 'Szerkesztés a következővel: %{editor}'
     tag_line: A szabad világtérkép
-    intro_header: Üdvözöljük az OpenStreetMap-en!
+    intro_header: Üdvözöljük az GRM-en!
     intro_text: Az GRM egy világtérkép, amelyet hozzád hasonló emberek készítenek
       és szabad licenc alatt elérhető.
     intro_2_create_account: Felhasználói fiók létrehozása
@@ -926,11 +926,11 @@ hu:
     partners_ic: Imperial College London
     partners_bytemark: Bytemark Hosting
     partners_partners: partnerek
-    osm_offline: Az OpenStreetMap-adatbázis jelenleg offline, miközben alapvető adatbázis-karbantartási
+    osm_offline: Az GRM-adatbázis jelenleg offline, miközben alapvető adatbázis-karbantartási
       munkát végzeznek.
-    osm_read_only: Az OpenStreetMap-adatbázis jelenleg csak olvasható, miközben alapvető
+    osm_read_only: Az GRM-adatbázis jelenleg csak olvasható, miközben alapvető
       adatbázis-karbantartási munkát végzeznek.
-    donate: Támogasd az OpenStreetMapot a Hardverfrissítési Alapba történő %{link}sal.
+    donate: Támogasd az GRMot a Hardverfrissítési Alapba történő %{link}sal.
     help: Súgó
     about: Névjegy
     copyright: Szerzői jog és licenc
@@ -940,7 +940,7 @@ hu:
     foundation: Alapítvány
     foundation_title: Az „GRM Foundation”
     make_a_donation:
-      title: Támogasd az OpenStreetMapot pénzadománnyal
+      title: Támogasd az GRMot pénzadománnyal
       text: Adományozz
     learn_more: További info
     more: Több
@@ -964,16 +964,16 @@ hu:
         href="http://opendatacommons.org/licenses/odbl/">Open Data
         Commons Open Database License</a> licenc (ODbL) vonatkozik.
       intro_2_html: |2-
-          Szabadon másolhatod, terjesztheted, továbbíthatod és átdolgozhatod adatainkat mindaddig, amíg feltünteted az OpenStreetMapot és közreműködőit. Ha módosítod vagy felhasználod az adatainkat, akkor az eredményt is csak azonos licenccel terjesztheted. A teljes <a
+          Szabadon másolhatod, terjesztheted, továbbíthatod és átdolgozhatod adatainkat mindaddig, amíg feltünteted az GRMot és közreműködőit. Ha módosítod vagy felhasználod az adatainkat, akkor az eredményt is csak azonos licenccel terjesztheted. A teljes <a
           href="http://opendatacommons.org/licenses/odbl/1.0/">jogi
           szabályzat</a> ismerteti a jogaidat és kötelezettségeidet.
       intro_3_html: |2-
            Az GRM <i>térképeire</i> a <a
            href="http://creativecommons.org/licenses/by-sa/2.0/">Creative
            Commons Nevezd meg! - Így add tovább! 2.0</a> licenc (CC BY-SA) vonatkozik.
-      credit_title_html: Hogyan kell feltüntetned az OpenStreetMapot?
+      credit_title_html: Hogyan kell feltüntetned az GRMot?
       credit_1_html: "  Ha az GRM térkép képeit használod, kérjük \n  legyen
-        feltüntetve legalább az &ldquo;&copy; OpenStreetMap\n  közreműködői, CC BY-SA&rdquo;
+        feltüntetve legalább az &ldquo;&copy; GRM\n  közreműködői, CC BY-SA&rdquo;
         szöveg. Ha csak a térkép adatait használod,\n  akkor a &ldquo;Térképadatok
         &copy; GRM közreműködői,\n  CC BY-SA&rdquo; feltüntetését kérjük."
       credit_2_html: Azt is egyértelművé kell tenned, hogy az adatok az Open Database
@@ -983,14 +983,14 @@ hu:
         oldalra</a> való hivatkozással. Alternatívaként, ha az OSM-et adatokként terjeszted,
         akkor fel kell tüntetned a nevet és linket közvetlenül a licencre. Ha a formátum
         a linkelést nem teszi lehetővé (pl. nyomtatásban), javasoljuk, hogy a felhasználókat
-        irányítsd az openstreetmap.org címre (esetlegesen az "OpenStreetMap" szót
+        irányítsd az GRM.org címre (esetlegesen az "OpenStreetMap" szót
         kiegészítve erre a teljes címre), és az opendatacommons.org címre, illetve
         - ha szükséges - a creativecommons.org címre.
       credit_3_html: |-
         Böngészhető elektronikus térkép esetén a forrásra vonatkozó hivatkozás jelenjen meg a térkép sarkában.
         Például:
       attribution_example:
-        alt: Példa arra, hogyan jelenjen meg az OpenStreetMap-re való hivatkozás egy
+        alt: Példa arra, hogyan jelenjen meg az GRM-re való hivatkozás egy
           weboldalon
         title: Példa egy hivatkozásra
       more_title_html: Tudj meg többet!
@@ -1036,8 +1036,8 @@ hu:
         kérjük, olvassa el <a href="http://wiki.openstreetmap.org/wiki/contributors">a hozzájárulók oldalát
         az GRM wikin.</a>
       contributors_footer_2_html: |2-
-          Az adatok befoglalása az OpenStreetMapba nem jelenti azt, hogy az eredeti
-          adatszolgáltató támogatja az OpenStreetMapot, nyújt garanciát vagy
+          Az adatok befoglalása az GRMba nem jelenti azt, hogy az eredeti
+          adatszolgáltató támogatja az GRMot, nyújt garanciát vagy
           vállal rá felelősséget.
       infringement_title_html: Copyright megsértése
       infringement_1_html: |2-
@@ -1055,7 +1055,7 @@ hu:
       elérhető egy gyors összefoglaló a legfontosabb tudnivalókkal.
     whats_on_the_map:
       title: Mi van a térképen
-      on_html: Az OpenStreetMapen olyan dolgokat ábrázolunk, amelyek <em>valódiak
+      on_html: Az GRMen olyan dolgokat ábrázolunk, amelyek <em>valódiak
         és jelenleg is léteznek</em> - épületek milliói, utak és egyéb részletek a
         különböző helyeken. Bármi olyan, téged érdeklő elemet ábrázolhatsz, ami fizikailag
         létezik.
@@ -1130,13 +1130,13 @@ hu:
         %{commenturl} vagy válaszolhatsz rá itt: %{replyurl}'
     message_notification:
       hi: Szia %{to_user}!
-      header: '%{from_user} küldött neked egy üzenetet az OpenStreetMapon keresztül
+      header: '%{from_user} küldött neked egy üzenetet az GRMon keresztül
         %{subject} tárggyal:'
       footer_html: 'Az üzenet a %{readurl} címen is elolvashatod, vagy válaszolhatsz
         rá itt: %{replyurl}'
     friend_notification:
       subject: '[OpenStreetMap] %{user} felvett a barátai közé'
-      had_added_you: '%{user} felvett a barátai közé az OpenStreetMapon.'
+      had_added_you: '%{user} felvett a barátai közé az GRMon.'
       see_their_profile: 'Megnézheted a profilját itt: %{userurl}.'
       befriend_them: 'Felveheted őt barátnak is itt: %{befriendurl}.'
     gpx_notification:
@@ -1156,7 +1156,7 @@ hu:
           sikeresen betöltődött %{trace_points} ponttal a lehetséges
           %{possible_points} pontból.
     signup_confirm:
-      subject: '[OpenStreetMap] Üdvözlünk az OpenStreetMapnál'
+      subject: '[OpenStreetMap] Üdvözlünk az GRMnál'
       greeting: Szia!
       created: Valaki (remélhetőleg te) most hozott létre egy fiókot az %{site_url}-on.
       confirm: 'Mielőtt folytathatnánk, meg kell bizonyosodnunk arról, hogy ez a kérés
@@ -1183,13 +1183,13 @@ hu:
     lost_password_plain:
       greeting: Szia!
       hopefully_you: Valaki (remélhetőleg te) jelszó visszaállítást kért, ehhez az
-        e-mail címhez tartozó openstreetmap.org felhasználónak.
+        e-mail címhez tartozó GRM.org felhasználónak.
       click_the_link: Ha ez Te vagy, akkor a jelszó alaphelyzetbe állításához kattints
         az alábbi hivatkozásra.
     lost_password_html:
       greeting: Szia!
       hopefully_you: Valaki (esetleg Te) kérte, hogy az ehhez az e-mail címhez tartozó
-        openstreetmap.org felhasználói fiók jelszava kerüljön alaphelyzetbe.
+        GRM.org felhasználói fiók jelszava kerüljön alaphelyzetbe.
       click_the_link: Ha ez Te vagy, akkor a jelszó alaphelyzetbe állításához kattints
         az alábbi hivatkozásra.
     note_comment_notification:
@@ -1635,8 +1635,8 @@ hu:
       with username: 'Már van GRM fiókod? Jelentkezz be a felhasználóneveddel
         és jelszavaddal:'
       with openid: 'A bejelentkezéshez az OpenID azonosítódat is használhatod:'
-      new to osm: Új vagy az OpenStreetMapnál?
-      to make changes: Ahhoz, hogy módosíthasd az OpenStreetMap-adatokat, rendelkezned
+      new to osm: Új vagy az GRMnál?
+      to make changes: Ahhoz, hogy módosíthasd az GRM-adatokat, rendelkezned
         kell egy felhasználói fiókkal.
       create account minute: Hozz létre egy felhasználói fiókot. Csak egy percet vesz
         igénybe.
@@ -1669,7 +1669,7 @@ hu:
           alt: Bejelentkezés egy AOL OpenID-vel
     logout:
       title: Kijelentkezés
-      heading: Kijelentkezés az OpenStreetMapból
+      heading: Kijelentkezés az GRMból
       logout_button: Kijelentkezés
     lost_password:
       title: Elvesztett jelszó
@@ -1699,7 +1699,7 @@ hu:
       about:
         header: Szabad és szerkeszthető
         html: |-
-          <p>Ellentétben más térképekkel, az OpenStreetMapet teljes mértékben hozzád hasonló emberek készítik és bárki szabadon javíthatja, frissítheti, letöltheti vagy felhasználhatja.</p>
+          <p>Ellentétben más térképekkel, az GRMet teljes mértékben hozzád hasonló emberek készítik és bárki szabadon javíthatja, frissítheti, letöltheti vagy felhasználhatja.</p>
           <p>Regisztrálj és máris kezdheted a térképszerkesztést. Egy jóváhagyó e-mailt fogunk küldeni a címedre.</p>
       license_agreement: Amikor megerősíted a felhasználói fiókodat, el kell fogadnod
         a <a href="http://www.osmfoundation.org/wiki/License/Contributor_Terms">hozzájárulási
@@ -1721,7 +1721,7 @@ hu:
       openid association: |-
         <p>Az OpenID azonosítód még nincs hozzákapcsolva egy GRM fiókhoz.</p>
         <ul>
-          <li>Ha még új vagy az OpenStreetMapnál, hozz létre egy új fiókot az alábbi űrlap használatával.</li>
+          <li>Ha még új vagy az GRMnál, hozz létre egy új fiókot az alábbi űrlap használatával.</li>
           <li>
             Ha már rendelkezel fiókkal, felhasználóneved és jelszavad
             használatával bejelentkezhetsz a fiókodba, majd a felhasználói

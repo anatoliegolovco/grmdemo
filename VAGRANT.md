@@ -10,13 +10,13 @@ Other Linux distributions should have similar installation instructions using `y
 
 Installers are available for Mac OS X and Windows, please see the [Vagrant project download page](http://www.vagrantup.com/downloads) for more information.
 
-# Setting up openstreetmap-website
+# Setting up GRM-website
 
-Once Vagrant has been installed, you can start an environment by checking out the openstreetmap-website code if you haven't already, then changing to the directory which contains the Vagrantfile by typing:
+Once Vagrant has been installed, you can start an environment by checking out the GRM-website code if you haven't already, then changing to the directory which contains the Vagrantfile by typing:
 
 ```
 git clone git@github.com:openstreetmap/openstreetmap-website.git
-cd openstreetmap-website
+cd GRM-website
 vagrant up
 ```
 

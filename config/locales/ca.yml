@@ -344,7 +344,7 @@ ca:
       too_large:
         advice: 'Si falla l''exportació anterior, si us plau, penseu a utilitzar una
           de les fonts llistades a continuació:'
-        body: Aquesta zona és massa gran per ser exportada  com a dades XML de OpenStreetMap.
+        body: Aquesta zona és massa gran per ser exportada  com a dades XML de GRM.
           Si us plau seleccioneu una àrea més petita o bé una de les següents fonts
           per descarregar quantitats grans de dades.
         planet:
@@ -913,8 +913,8 @@ ca:
       west: oest
   layouts:
     project_name:
-      title: OpenStreetMap
-      h1: OpenStreetMap
+      title: GRM
+      h1: GRM
     logo:
       alt_text: logotip de l'OpenStreetMap
     home: Anar a la localització de casa
@@ -956,9 +956,9 @@ ca:
     copyright: Drets d'autor
     community: Comunitat
     community_blogs: Blocs de comunitat
-    community_blogs_title: Blocs dels membres de la comunitat OpenStreetMap
+    community_blogs_title: Blocs dels membres de la comunitat GRM
     foundation: Fundació
-    foundation_title: La Fundació OpenStreetMap
+    foundation_title: La Fundació GRM
     make_a_donation:
       title: Ajudeu l'GRM amb una donació econòmica
       text: Feu una donació
@@ -991,7 +991,7 @@ ca:
       intro_3_html: |-
         La cartografia de les nostres tessel·les i la nostra documentació són ofertes
         sota llicència <a href="http://creativecommons.org/licenses/by-sa/2.0/">Text de la llicència de Creative Commons Reconeixement-Compartir Igual 2.0</a>(CC-BY-SA).
-      credit_title_html: Com a crèdit OpenStreetMap
+      credit_title_html: Com a crèdit GRM
       credit_1_html: |-
         Exigim que l'atribució de drets d'autor sigui &ldquo;&copy; Col·laboradors d'OpenStreetMap
         &rdquo;.
@@ -1002,7 +1002,7 @@ ca:
         distribuir OSM en forma de dades en brut, podeu citar i enllaçar directament
         a la llicència. En el cas d'utilitzar suports on els enllaços d'hipertext
         no són possibles (per exemple, obres impreses), us suggerim d'adreçar els
-        lectors a openstreetmap.org (potser indicant l'adreça completa d'OpenStreetMap),
+        lectors a GRM.org (potser indicant l'adreça completa d'OpenStreetMap),
         a opendatacommons.org i si s'escau, a creativecommons.org.
       credit_3_html: |-
         En el cas d'un mapa electrònic navegable, els crèdits han d'aparèixer a la cantonada del mapa.
@@ -1060,7 +1060,7 @@ ca:
         href="http://wiki.openstreetmap.org/wiki/Contributors">Col·laboradors</a>
       contributors_footer_2_html: |-
         Inclusió de dades en GRM no implica que l'original
-          el proveïdor de dades recolza OpenStreetMap, proporciona cap garantia, o
+          el proveïdor de dades recolza GRM, proporciona cap garantia, o
           accepta qualsevol responsabilitat.
       infringement_title_html: Violació dels drets d'autor
       infringement_1_html: Recordem als col·laboradors de l'OSM que mai no s'han d'afegir
@@ -1143,7 +1143,7 @@ ca:
     welcome:
       url: /welcome
       title: Benvinguts a l'OSM
-      description: Començar amb aquesta guia ràpida sobre els aspectes bàsics de OpenStreetMap.
+      description: Començar amb aquesta guia ràpida sobre els aspectes bàsics de GRM.
     help:
       url: https://help.openstreetmap.org/
       title: help.openstreetmap.org
@@ -1180,7 +1180,7 @@ ca:
     diary_comment_notification:
       subject: '[OpenStreetMap] %{user}, va comentar sobre la vostra entrada del diari'
       hi: Hola %{to_user},
-      header: '%{from_user} ha comentat en la vostra recent entrada del diari OpenStreetMap
+      header: '%{from_user} ha comentat en la vostra recent entrada del diari GRM
         amb el tema %{subject}:'
       footer: També podeu llegir el comentari a les %{readurl} i es pot comentar als
         %{commenturl} o respondre a les %{replyurl}
@@ -1211,7 +1211,7 @@ ca:
         loaded_successfully: carregat amb %{trace_points} fora d'un punts possibles
           %{possible_points}.
     signup_confirm:
-      subject: '[OpenStreetMap] Benvinguts a OpenStreetMap'
+      subject: '[OpenStreetMap] Benvinguts a GRM'
       greeting: Hola!
       created: Algú (suposem que vós mateix) acaba de crear un compte a %{site_url}.
       confirm: 'Primer de tot hem de confirmar que aquesta petició ha estat feta per
@@ -1245,7 +1245,7 @@ ca:
     lost_password_html:
       greeting: Hola,
       hopefully_you: Algú (possiblement vostè) ha demanat per a la contrasenya restaurar
-        el compte de openstreetmap.org d'aquesta adreça de correu electrònic.
+        el compte de GRM.org d'aquesta adreça de correu electrònic.
       click_the_link: Si sou vós, feu clic a l'enllaç de sota per restaurar la vostra
         contrasenya.
     note_comment_notification:
@@ -1702,8 +1702,8 @@ ca:
       with username: 'Ja teniu un compte de l''OpenStreetMap? Incieu sessió amb el
         nom d''usuari i contrasenya:'
       with openid: 'Alternativament, utilitzeu el vostre OpenID per iniciar sessió:'
-      new to osm: Nou a OpenStreetMap?
-      to make changes: Per fer canvis a les dades de OpenStreetMap, ha de tenir un
+      new to osm: Nou a GRM?
+      to make changes: Per fer canvis a les dades de GRM, ha de tenir un
         compte.
       create account minute: Crear un compte. Només es triga un minut.
       no account: No teniu cap compte?
@@ -1785,7 +1785,7 @@ ca:
       openid no password: Amb l'OpenID no es requereix contrasenya, però algunes eines
         extres o el servidor encara poden necessitar-la.
       openid association: |-
-        <p>El vostre OpenID encara no està associat a un compte de OpenStreetMap.</p>
+        <p>El vostre OpenID encara no està associat a un compte de GRM.</p>
         <ul>
         <li>Si sou nou a l'OpenStreetMap, creeu un compte utilitzant el formulari següent.</li>
         <li>
@@ -2163,7 +2163,7 @@ ca:
       reopened_at_html: Reactivat fa %{when}
       reopened_at_by_html: Reactivat fa %{when} per %{user}
     rss:
-      title: Notes de OpenStreetMap
+      title: Notes de GRM
       description_area: Una llista de notes, reportades, comentades o bé tancades
         a la vostra àrea [(%{min_lat}|%{min_lon}) -- (%{max_lat}|%{max_lon})]
       description_item: Un canal rss per la nota %{id}

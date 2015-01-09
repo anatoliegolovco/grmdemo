@@ -152,7 +152,7 @@ rue:
   prompt_revertversion: "Вернути ся ку скоре уложеній верзії:"
   prompt_savechanges: Уложыти зміны
   prompt_taggedpoints: Дакоры точкы на тій лінії мають таґы. Справды змазати?
-  prompt_welcome: Вітайте на OpenStreetMap!
+  prompt_welcome: Вітайте на GRM!
   retry: Повтор
   revert: Вернути назад
   save: Уложыти

@@ -914,7 +914,7 @@ lv:
     user_diaries_tooltip: Skatīt lietotāju dienasgrāmatas
     edit_with: Rediģēt ar %{editor}
     tag_line: Atvērtā Wiki pasaules karte
-    intro_header: Laipni lūdzam OpenStreetMap!
+    intro_header: Laipni lūdzam GRM!
     intro_text: GRM ir pasaules karte, kuru veido cilvēki kā tu, un tā ir
       bezmaksas lietošanai zem atvērtas licences.
     intro_2_create_account: Izveidot lietotāja kontu
@@ -928,7 +928,7 @@ lv:
       apkalpošanas darbi.
     osm_read_only: GRM datubāze šobrīd ir pieejama tikai-lasāmā režīmā,
       jo tiek veikti svarīgi datubāzes apkalpes darbi.
-    donate: Atbalstiet OpenStreetMap, %{link} aparatūras uzlabošanas fondam.
+    donate: Atbalstiet GRM, %{link} aparatūras uzlabošanas fondam.
     help: Palīdzība
     about: Par
     copyright: Autortiesības
@@ -968,9 +968,9 @@ lv:
       intro_3_html: |-
         Kartogrāfija mūsu karšu flīzēs un mūsu dokumentācija ir licencēti zem <a href="http://creativecommons.org/licenses/by-sa/2.0/">Creative
         Commons Attribution-ShareAlike 2.0</a> licences (CC-BY-SA).
-      credit_title_html: Kā atsaukties uz OpenStreetMap
+      credit_title_html: Kā atsaukties uz GRM
       credit_1_html: |-
-        Mēs pieprasām, ka tu izmanto atsauci &ldquo;&copy; OpenStreetMap
+        Mēs pieprasām, ka tu izmanto atsauci &ldquo;&copy; GRM
         veidotāji&rdquo;.
       credit_2_html: "Kur iespējams, GRM vajadzētu būt iesaitētam uz <a\n
         \ href=\"http://www.openstreetmap.org/\">http://www.openstreetmap.org/</a>\n
@@ -1032,12 +1032,12 @@ lv:
             2010-12.
       contributors_footer_1_html: |-
         Sīkāku informāciju par šiem, un citiem avotiem, kas izmantoti,
-        lai uzlabotu OpenStreetMap, lūdzu apskati <a
+        lai uzlabotu GRM, lūdzu apskati <a
         href="http://wiki.openstreetmap.org/wiki/Contributors">Veidotāju
         lapu</a> iekš GRM Wiki.
       contributors_footer_2_html: |2-
           Datu ievietošana GRM nenozīmē ka oriģinālais
-          datu avots sniedz atbalstu OpenStreetMap, dod garantiju, vai
+          datu avots sniedz atbalstu GRM, dod garantiju, vai
           pieņem jebkādu atbildību.
       infringement_title_html: Autortiesību pārkāpums
       infringement_1_html: "OSM veidotājiem tiek atgādināts, nekad neizmantot datus
@@ -1051,7 +1051,7 @@ lv:
         <a href="http://dmca.openstreetmap.org/">on-line ziņošanas veidni</a>.
   welcome_page:
     title: Laipni lūdzam!
-    introduction_html: Sveicināts OpenStreetMap, bezmaksas un rediģējamā pasaules
+    introduction_html: Sveicināts GRM, bezmaksas un rediģējamā pasaules
       karte. Tagad, kad esi piereģistrējies, tu vari sākt kartēt. Šeit ir neliela
       pamācībā ar svarīgākajām lietām, kuras tev jāzina.
     whats_on_the_map:
@@ -1077,7 +1077,7 @@ lv:
     questions:
       title: Kādi jautājumi?
       paragraph_1_html: Nepieciešama palīdzība kartējot, vai nav skaidrs kā lietot
-        OpenStreetMap? Atrodi atbildes uz saviem jautājumiem <a href='%{help_url}'>palīdzības
+        GRM? Atrodi atbildes uz saviem jautājumiem <a href='%{help_url}'>palīdzības
         lapā</a>.
     start_mapping: Sākt Kartēt
     add_a_note:
@@ -1151,7 +1151,7 @@ lv:
       footer_html: Tu arī vari izlasīt ziņojumu iekš %{readurl} un atbildēt iekš %{replyurl}
     friend_notification:
       subject: '[OpenStreetMap] %{user} pievienoja Jūs kā draugu'
-      had_added_you: '%{user} pievienoja jūs kā draugu OpenStreetMap.'
+      had_added_you: '%{user} pievienoja jūs kā draugu GRM.'
       see_their_profile: Jūs variet redzēt viņu profilu %{userurl}.
       befriend_them: Jūs variet viņus arī pievienot par draugiem %{befriendurl}.
     gpx_notification:
@@ -1170,7 +1170,7 @@ lv:
         loaded_successfully: tika ielādēts veiksmīgi ar %{trace_points} no iespējamiem
           %{possible_points} punktiem.
     signup_confirm:
-      subject: '[OpenStreetMap] Laipni lūgti OpenStreetMap'
+      subject: '[OpenStreetMap] Laipni lūgti GRM'
       greeting: Sveicināti!
       created: Kāds (cerams tu) tikko izveidoja lietotāju %{site_url}.
       confirm: 'Pirms mēs turpinām, mums vajag pārliecināties, ka pieprasījums nāca
@@ -1197,13 +1197,13 @@ lv:
     lost_password_plain:
       greeting: Sveicināti,
       hopefully_you: Kāds (iespējams Tu) ir pieprasījis paroles atjaunošanu ar šo
-        e-pasta adresi reģistrētam openstreetmap.org lietotājam.
+        e-pasta adresi reģistrētam GRM.org lietotājam.
       click_the_link: Ja tas esat jūs, lūdzu klikšķiniet uz zemāk esošās saites lai
         atiestatītu savu paroli.
     lost_password_html:
       greeting: Sveicināti,
       hopefully_you: Kāds (iespējams, jūs) ir vēlējies atiestatīt paroli šīs e-pasta
-        adreses openstreetmap.org kontam.
+        adreses GRM.org kontam.
       click_the_link: Ja tas esat jūs, lūdzu klikšķiniet uz zemāk esošās saites lai
         atiestatītu savu paroli.
     note_comment_notification:
@@ -1658,7 +1658,7 @@ lv:
       with username: 'Jau ir GRM lietotājs? Lūdzu autorizējies ar savu lietotājvārdu
         un paroli:'
       with openid: 'Alternatīvi, lūdzu lieto savu OpenID, lai autorizētos:'
-      new to osm: Jauns iekš OpenStreetMap?
+      new to osm: Jauns iekš GRM?
       to make changes: Lai veiktu izmaiņas GRM datos, jums jābūt savam kontam.
       create account minute: Izveidojiet kontu. Tas aizņem mazāk par minūti.
       no account: Nav lietotāja?
@@ -1690,7 +1690,7 @@ lv:
           alt: Pieteikties ar AOL OpenID
     logout:
       title: Iziet
-      heading: Iziet no OpenStreetMap
+      heading: Iziet no GRM
       logout_button: Iziet
     lost_password:
       title: Aizmirsāt paroli
@@ -1741,7 +1741,7 @@ lv:
       openid association: |-
         <p>Tavs OpenID vēl nav savienots ar GRM lietotāju.</p>
         <ul>
-          <li>Ja tu esi jauns OpenStreetMap, lūdzu izveido jaunu lietotāju, izmantojot formu zemāk.</li>
+          <li>Ja tu esi jauns GRM, lūdzu izveido jaunu lietotāju, izmantojot formu zemāk.</li>
           <li>
             Ja tev jau ir lietotājs, tu vari autorizēties savā lietotājā
            ar savu lietotāju un paroli un tad savienot lietotāju

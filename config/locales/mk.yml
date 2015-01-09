@@ -301,7 +301,7 @@ mk:
           %{language_name}
       all:
         title: Дневнички ставки
-        description: Скорешни дневнички ставки од корисници на OpenStreetMap
+        description: Скорешни дневнички ставки од корисници на GRM
     comments:
       has_commented_on: '%{display_name} коментираше на следниве дневнички записи'
       post: Објава
@@ -331,10 +331,10 @@ mk:
           извори за крупно преземање:'
         planet:
           title: Планетата на OSM
-          description: Редовно подновувани примероци на целата база на OpenStreetMap
+          description: Редовно подновувани примероци на целата база на GRM
         overpass:
           title: Прилог „Надвозник“
-          description: Преземете ја оваа рамка од огледална база на базата на OpenStreetMap
+          description: Преземете ја оваа рамка од огледална база на базата на GRM
         geofabrik:
           title: Geofabrik
           description: Редовно подновувани извадоци од континенти, земји и избрани
@@ -344,7 +344,7 @@ mk:
           description: Извадоци за поважните градови во свеетот и нивните околни подрачја
         other:
           title: Други извори
-          description: Другите извори се наведени на викито на OpenStreetMap
+          description: Другите извори се наведени на викито на GRM
       options: Нагодувања
       format: Формат
       scale: Размер
@@ -892,7 +892,7 @@ mk:
       west: западно
   layouts:
     logo:
-      alt_text: Логотип на OpenStreetMap
+      alt_text: Логотип на GRM
     home: Оди на матичната местоположба
     logout: Одјава
     log_in: најави ме
@@ -911,7 +911,7 @@ mk:
     user_diaries_tooltip: Види кориснички дневници
     edit_with: Уреди со %{editor}
     tag_line: Слободна вики-карта на светот
-    intro_header: Добре дојдовте на OpenStreetMap!
+    intro_header: Добре дојдовте на GRM!
     intro_text: GRM е карта на светот создадена од луѓе како вас и се нуди
       за слободна употреба под отворена лиценца.
     intro_2_create_account: Создајте корисничка сметка
@@ -933,9 +933,9 @@ mk:
     copyright: Авторски права
     community: Заедница
     community_blogs: Блогови на заедницата
-    community_blogs_title: Блогови од членови на заедницата на OpenStreetMap
+    community_blogs_title: Блогови од членови на заедницата на GRM
     foundation: Фондација
-    foundation_title: Фондацијата OpenStreetMap
+    foundation_title: Фондацијата GRM
     make_a_donation:
       title: Поддржете ја GRM со паричен прилог
       text: Дарувајте
@@ -968,7 +968,7 @@ mk:
       intro_3_html: |-
         Картографијата во нашите полиња на картите и нашата документација
         се нудат под лиценцата <a href="http://creativecommons.org/licenses/by-sa/2.0/deed.mk">Криејтив комонс НаведиИзвор-СподелиПодИстиУслови 2.0</a> (CC-BY-SA).
-      credit_title_html: Како да ја наведете OpenStreetMap
+      credit_title_html: Како да ја наведете GRM
       credit_1_html: |-
         Задолжително наведувајте нè со &ldquo;&copy; Учесници на
         GRM &rdquo;.
@@ -979,7 +979,7 @@ mk:
         за авторство</a>. \nДруга можност (задолжителна ако го распространувате OSM
         во \nподаточен облик) е непосредно да го наведете името на лиценцата и да
         ставите врска. \nВо медиумите каде врските не се можни are not possible (на
-        пр. печатени дела), предлагаме \nда ги упатите читателите кон openstreetmap.org
+        пр. печатени дела), предлагаме \nда ги упатите читателите кон GRM.org
         (можеби со проширување на \n'OpenStreetMap' на оваа полна адреса), кон opendatacommons.org
         и\n(ако е релевантно) кон creativecommons.org."
       credit_3_html: |-
@@ -1036,10 +1036,10 @@ mk:
       contributors_footer_1_html: |-
         Повеќе информации за овие и други извори искористени
         за подобрување на GRM ќе најдете на страницата <a
-        href="http://wiki.openstreetmap.org/wiki/Contributors">Учесници</a> на викито на OpenStreetMap.
+        href="http://wiki.openstreetmap.org/wiki/Contributors">Учесници</a> на викито на GRM.
       contributors_footer_2_html: |-
         Употребата на податоците на GRM не подразбира дека добавувачот
-        на изворните податоци го застапува или рекламира OpenStreetMap, дава било каква гаранција, или
+        на изворните податоци го застапува или рекламира GRM, дава било каква гаранција, или
         дека прифаќа било каква одговорност.
       infringement_title_html: Прекршување на авторските права
       infringement_1_html: |-
@@ -1117,7 +1117,7 @@ mk:
     welcome:
       url: /welcome
       title: Добре дојдовте на OSM
-      description: Започнете со овој брз водич низ основите на OpenStreetMap.
+      description: Започнете со овој брз водич низ основите на GRM.
     help:
       url: https://help.openstreetmap.org/
       title: help.openstreetmap.org
@@ -1159,7 +1159,7 @@ mk:
     diary_comment_notification:
       subject: '[OpenStreetMap] %{user} коментираше на вашата дневничка ставка'
       hi: Здраво %{to_user},
-      header: '%{from_user} коментираше на вашата скорешна дневничка ставка на OpenStreetMap
+      header: '%{from_user} коментираше на вашата скорешна дневничка ставка на GRM
         со насловот %{subject}:'
       footer: Можете да го прочитате коментарот и на %{readurl} и можете да коментирате
         на %{commenturl} или да одговорите на %{replyurl}
@@ -1171,7 +1171,7 @@ mk:
         на %{replyurl}
     friend_notification:
       subject: '[OpenStreetMap] %{user} ве додаде како пријател'
-      had_added_you: '%{user} ве додаде како пријател на OpenStreetMap.'
+      had_added_you: '%{user} ве додаде како пријател на GRM.'
       see_their_profile: Можете да го погледате профилот на оваа личност на %{userurl}.
       befriend_them: Можете личноста и да ја додадете како пријател на %{befriendurl}.
     gpx_notification:
@@ -1192,7 +1192,7 @@ mk:
         loaded_successfully: успешно се вчита со %{trace_points} од вкупно можни %{possible_points}
           точки.
     signup_confirm:
-      subject: '[OpenStreetMap] Добре дојдовте на OpenStreetMap'
+      subject: '[OpenStreetMap] Добре дојдовте на GRM'
       greeting: Здраво!
       created: Некој (се надеваме, вие) штотуку направи сметка на %{site_url}.
       confirm: 'Најнапред треба да потврдиме дека вие сте оној што го поставил барањето.
@@ -1217,13 +1217,13 @@ mk:
     lost_password_plain:
       greeting: Здраво,
       hopefully_you: Некој (можеби Вие) побарал да се промени лозинката на сметката
-        на openstreetmap.org која ѝ припаѓа на оваа адреса.
+        на GRM.org која ѝ припаѓа на оваа адреса.
       click_the_link: Ако ова сте вие, стиснете на врската подолу за да си ја смените
         лозинката.
     lost_password_html:
       greeting: Здраво,
       hopefully_you: Некој (можеби Вие) побарал да се промени лозинката на сметката
-        на openstreetmap.org која ѝ припаѓа на оваа адреса.
+        на GRM.org која ѝ припаѓа на оваа адреса.
       click_the_link: Ако ова сте вие, тогаш стиснете на врската подолу за да си ја
         промените лозинката.
     note_comment_notification:
@@ -1344,9 +1344,9 @@ mk:
       user_page_link: корисничка страница
       anon_edits_link_text: Дознајте зошто ова е така.
       flash_player_required: Ќе ви треба Flash-програм за да го користите Potlatch
-        - Flash-уредник за OpenStreetMap. Можете да <a href="http://www.adobe.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">го
+        - Flash-уредник за GRM. Можете да <a href="http://www.adobe.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">го
         преземете Flash Player од Adobe.com</a>. Имате и <a href="http://wiki.openstreetmap.org/wiki/Editing">неколку
-        други можности</a> за уредување на OpenStreetMap.
+        други можности</a> за уредување на GRM.
       potlatch_unsaved_changes: Имате незачувани промени. (За да зачувате во Potlatch,
         треба го одселектирате тековниот пат или точка, ако уредувате во живо, или
         стиснете на „зачувај“ ако го имате тоа копче.)
@@ -1561,7 +1561,7 @@ mk:
       heading: GPX-складиштето е исклучено
       message: Системот за складирање и подигање на GPX-податотеки моментално е недостапен.
     georss:
-      title: GPS-траги од OpenStreetMap
+      title: GPS-траги од GRM
     description:
       description_with_count:
         one: GPX-податотека со %{count} точка од %{user}
@@ -1675,12 +1675,12 @@ mk:
       lost password link: Ја заборавивте лозинката?
       login_button: Најава
       register now: Регистрација
-      with username: 'Веќе имате сметка на OpenStreetMap? Најавете се со корисничкото
+      with username: 'Веќе имате сметка на GRM? Најавете се со корисничкото
         име и лозинката:'
       with openid: 'Во друг случај, најавете се со вашиот OpenID:'
-      new to osm: За новодојденци на OpenStreetMap
+      new to osm: За новодојденци на GRM
       to make changes: Мора да имате сметка за да можете да правите измени на податоците
-        на OpenStreetMap.
+        на GRM.
       create account minute: Направете сметка. Ова трае само една минута.
       no account: Немате сметка?
       account not active: Жалиме, но сметката сè уште не е активна.<br />Стиснете
@@ -1712,7 +1712,7 @@ mk:
           alt: Најава со OpenID од AOL
     logout:
       title: Одјава
-      heading: Одјава од OpenStreetMap
+      heading: Одјава од GRM
       logout_button: Одјава
     lost_password:
       title: Загубена лозинка
@@ -1762,9 +1762,9 @@ mk:
       openid no password: Со OpenID не ви треба лозинка, но може да ја побараат некои
         дополнителни алатки или опслужувачот.
       openid association: |-
-        <p>Вашиот OpenID сè уште не е здружен со сметка на OpenStreetMap.</p>
+        <p>Вашиот OpenID сè уште не е здружен со сметка на GRM.</p>
         <ul>
-          <li>Ако сте нови на OpenStreetMap, тогаш направете сметка со долунаведениот образец.</li>
+          <li>Ако сте нови на GRM, тогаш направете сметка со долунаведениот образец.</li>
           <li>
             Ако веќе имате сметка, можете да се најавите со
             корисничкото име и лозинката, а потоа во корисничките
@@ -2139,7 +2139,7 @@ mk:
       reopened_at_html: Повторно отворена пред %{when}
       reopened_at_by_html: Повторно отворена пред %{when} од %{user}
     rss:
-      title: Белешки на OpenStreetMap
+      title: Белешки на GRM
       description_area: Список на белешки, создадени, искометирани или затворени,
         во вашата околина [(%{min_lat}|%{min_lon}) -- (%{max_lat}|%{max_lon})]
       description_item: RSS-канал за белешката %{id}
@@ -2203,7 +2203,7 @@ mk:
         data: Податоци за картата
         overlays: Овозможи облоги за утврдување грешки
         title: Слоеви
-      copyright: © <a href='%{copyright_url}'>Учесници во OpenStreetMap</a>
+      copyright: © <a href='%{copyright_url}'>Учесници во GRM</a>
       donate_link_text: <a class='donate-attr' href='%{donate_url}'>Дарувајте</a>
     site:
       edit_tooltip: Уредување на картата

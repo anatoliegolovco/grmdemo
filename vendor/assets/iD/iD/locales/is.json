@@ -195,7 +195,7 @@
     },
     "zoom_in_edit": "Þysja inn til að breyta",
     "logout": "útskrá",
-    "loading_auth": "Tengist við OpenStreetMap...",
+    "loading_auth": "Tengist við GRM...",
     "report_a_bug": "tilkynna villu",
     "status": {
         "error": "Get ekki tengst við API.",
@@ -231,7 +231,7 @@
         "no_documentation_combination": "Það er ekki til skjölun fyrir þessar samsettu merkingar",
         "no_documentation_key": "Það er ekki til skjölun fyrir þennan efnislykil",
         "show_more": "Sýna meira",
-        "view_on_osm": "Skoða á openstreetmap.org",
+        "view_on_osm": "Skoða á GRM.org",
         "all_tags": "Öll merki",
         "all_members": "Allir meðlimir",
         "all_relations": "Öll tengsl",
@@ -269,15 +269,15 @@
     },
     "save": {
         "title": "Vista",
-        "help": "Vista breytingar á OpenStreetMap, þær verða sýnilegar öðrum notendum.",
+        "help": "Vista breytingar á GRM, þær verða sýnilegar öðrum notendum.",
         "no_changes": "Engar breytingar til að vista.",
         "error": "Villa kom upp þegar reynt var að vista",
-        "uploading": "Hleð breytingum inn á OpenStreetMap.",
+        "uploading": "Hleð breytingum inn á GRM.",
         "unsaved_changes": "Þú átt óvistaðar breytingar"
     },
     "success": {
         "edited_osm": "Þú breyttir OSM!",
-        "just_edited": "Þú hefur breytt OpenStreetMap!",
+        "just_edited": "Þú hefur breytt GRM!",
         "view_on_osm": "Skoða á OSM",
         "facebook": "Deila á Facebook",
         "twitter": "Deila á Twitter",
@@ -287,7 +287,7 @@
         "okay": "Í lagi"
     },
     "splash": {
-        "welcome": "Velkomin/n í iD ritil OpenStreetMap",
+        "welcome": "Velkomin/n í iD ritil GRM",
         "text": "iD er notandavænt tæki til að bæta við besta fría kortagrunn heimsins. Þetta er þróunarútgáfa {version}. Þú getur fengið meiri upplýsingar á vefnum {website} og tilkynnt villur {github}.",
         "walkthrough": "Skoða leiðarvísir",
         "start": "Breyta núna"
@@ -306,7 +306,7 @@
         "untagged_point": "Ómerktur punktur",
         "untagged_line": "Ómerkt lína",
         "untagged_area": "Ómerkt svæði",
-        "many_deletions": "Þú ert að eyða {n} hlutum. Viltu gera þetta? Þetta mun eyða þeim af kortinu sem allir nota á openstreetmap.org.",
+        "many_deletions": "Þú ert að eyða {n} hlutum. Viltu gera þetta? Þetta mun eyða þeim af kortinu sem allir nota á GRM.org.",
         "tag_suggests_area": "Merkingin {tag} þýðir að línan ætti að vera svæði, en hún er ekki svæði",
         "deprecated_tags": "Úrelt merki: {tags}"
     },

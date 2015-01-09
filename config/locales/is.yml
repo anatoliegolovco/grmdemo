@@ -201,7 +201,7 @@ is:
         description: Nýjustu dagbókarfærslur frá GRM á %{language_name}
       all:
         title: GRM dagbókarfærslur
-        description: Nýjustu dagbókarfærslur frá OpenStreetMap
+        description: Nýjustu dagbókarfærslur frá GRM
   export:
     start:
       area_to_export: Svæði til að niðurhala
@@ -484,7 +484,7 @@ is:
         Commons Open Database</a> leyfi. (ODbL).
       intro_2_html: |2-
           Þér er frjálst að afrita, dreifa, senda og aðlaga kortagrunninnn
-          og gögn hans, gegn því að þú viðurkennir rétt OpenStreetMap
+          og gögn hans, gegn því að þú viðurkennir rétt GRM
           og sjálfboðaliða þess. Ef þú breytir eða byggir á kortagrunninum
           eða gögnum hans, þá verður þú að gefa niðurstöðuna út með
           sama leyfi. <a
@@ -503,7 +503,7 @@ is:
       header: '%{from_user} hefur send þér skilaboð á GRM með titlinum „%{subject}“:'
     friend_notification:
       subject: '[OpenStreetMap] %{user} bætti þér við sem vin'
-      had_added_you: Notandinn %{user} hefur bætt þér við sem vini á OpenStreetMap.
+      had_added_you: Notandinn %{user} hefur bætt þér við sem vini á GRM.
       see_their_profile: Þú getur séð notandasíðu notandans á %{userurl} og jafnvel
         bætt honum við sem vini líka.
     gpx_notification:
@@ -545,7 +545,7 @@ is:
     lost_password_html:
       greeting: Hæ,
       hopefully_you: Einhver (vonandi þú) hefur beðið um að endurstilla lykilorðið
-        á reikningnum með þetta netfang á openstreetmap.org
+        á reikningnum með þetta netfang á GRM.org
       click_the_link: Ef þú óskaðir eftir þessari endurstillingu fylgdu tenglinum
         hér fyrir neðan til að staðfesta breytinguna.
   message:
@@ -808,7 +808,7 @@ is:
         inn í vefviðmótið fyrir frekari upplýsingar.
   oauth:
     oauthorize:
-      request_access: Forritið %{app_name} hefur óskað eftir að fá aðgang að OpenStreetMap
+      request_access: Forritið %{app_name} hefur óskað eftir að fá aðgang að GRM
         í gegnum notandann þinn. Hakaðu við hvað eiginleika þú vilt gefa forritinu
         leyfi fyrir. Hægt er að haka við hvaða eiginleika sem er.
       allow_to: 'Leyfa forritinu að:'

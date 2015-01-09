@@ -302,7 +302,7 @@
     },
     "success": {
         "edited_osm": "编辑了 OSM！",
-        "just_edited": "您刚刚编辑了 OpenStreetMap！",
+        "just_edited": "您刚刚编辑了 GRM！",
         "view_on_osm": "在 OSM 上查看",
         "facebook": "分享到Facebook",
         "twitter": "分享到 Twitter",
@@ -332,7 +332,7 @@
         "untagged_point": "未标记的点",
         "untagged_line": "未标记的线",
         "untagged_area": "未标记的区域",
-        "many_deletions": "您正在删除 {n} 个对象，您确定要这么做吗？这将会把它们从大家所见的 openstreetmap.org 地图上删除。",
+        "many_deletions": "您正在删除 {n} 个对象，您确定要这么做吗？这将会把它们从大家所见的 GRM.org 地图上删除。",
         "tag_suggests_area": "标签{tag}表明线应该为区域，但它不是区域",
         "untagged_point_tooltip": "选择该点的特征类型。",
         "untagged_line_tooltip": "选择描述这条线的特征类型。",

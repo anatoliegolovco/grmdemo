@@ -111,7 +111,7 @@ If you want to add in the full history later on, perhaps to run `git blame` or `
 We use [Bundler](http://gembundler.com/) to manage the rubygems required for the project.
 
 ```
-cd openstreetmap-website
+cd GRM-website
 bundle install
 ```
 

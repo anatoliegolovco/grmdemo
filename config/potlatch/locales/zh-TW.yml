@@ -86,7 +86,7 @@ zh-TW:
   prompt_savechanges: 儲存變更
   prompt_taggedpoints: 這個路徑上的部分 point 已有標籤。確定要刪除？
   prompt_track: 將您的 GPS 追蹤轉換為 (鎖定的) 路徑以便編輯。
-  prompt_welcome: 歡迎使用 OpenStreetMap！
+  prompt_welcome: 歡迎使用 GRM！
   retry: 重試
   tip_addrelation: 加入關係
   tip_addtag: 加入新的標籤

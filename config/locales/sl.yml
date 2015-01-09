@@ -292,8 +292,8 @@ sl:
         title: Dnevnik GRM v jeziku %{language_name}
         description: Nedavni zapisi v dnevnik uporabnikov GRM v jeziku %{language_name}
       all:
-        title: Dnevnik OpenStreetMap
-        description: Nedavni zapisi v dnevnik uporabnikov OpenStreetmap
+        title: Dnevnik GRM
+        description: Nedavni zapisi v dnevnik uporabnikov GRM
     comments:
       has_commented_on: '%{display_name} je komentiral naslednje vaše vnose v dnevnik'
       post: Objavi
@@ -320,7 +320,7 @@ sl:
           virov za obsežen prenos podatkov:'
         planet:
           title: Planet OSM
-          description: Redno posodabljane kopije celotne podatkovne zbirke OpenStreetMap
+          description: Redno posodabljane kopije celotne podatkovne zbirke GRM
         geofabrik:
           title: Prenosi Geofabrik
           description: Redno posodabljani izvlečki celin, držav in izbranih mest
@@ -329,7 +329,7 @@ sl:
           description: Izvlečki za največja mesta na svetu in njihovo okolico
         other:
           title: Drugi viri
-          description: Dodatni viri, navedeni v wikiju OpenStreetMap
+          description: Dodatni viri, navedeni v wikiju GRM
       options: Možnosti
       format: Oblika
       scale: Merilo
@@ -893,7 +893,7 @@ sl:
     user_diaries_tooltip: Pregled dnevnikov uporabnikov
     edit_with: Za urejanje uporabljaj %{editor}
     tag_line: Prost wiki zemljevid sveta
-    intro_header: Dobrodošli na OpenStreetMap!
+    intro_header: Dobrodošli na GRM!
     intro_text: GRM je zemljevid sveta, ki ga ustvarjajo ljudje kot ste
       vi, brezplačen za uporabo z odprto licenco.
     intro_2_create_account: Ustvarite uporabniški račun
@@ -912,7 +912,7 @@ sl:
     copyright: Avtorske pravice
     community: Skupnost
     community_blogs: Blogi skupnosti
-    community_blogs_title: Blogi članov skupnosti OpenStreetMap
+    community_blogs_title: Blogi članov skupnosti GRM
     foundation: Fundacija
     foundation_title: GRM Fubdacija
     make_a_donation:
@@ -940,7 +940,7 @@ sl:
       infringement_title_html: Kršitev avtorskih pravic
   welcome_page:
     title: Dobrodošli!
-    introduction_html: Dobrodošli na OpenStreetMap, brezplačni zemljevid sveta, ki
+    introduction_html: Dobrodošli na GRM, brezplačni zemljevid sveta, ki
       ga je mogoče tudi urejati. Zdaj, ko ste vpisani, ste pripravljeni za začetek
       kartiranja. Tu dobite hitri vodnik z najbolj pomembnimi stvarmi, ki jih morate
       vedeti.
@@ -994,7 +994,7 @@ sl:
       tem.
     welcome:
       title: Dobrodošli v OSM
-      description: Začnite s tem hitrim vodičem, ki zajema osnove OpenStreetMap.
+      description: Začnite s tem hitrim vodičem, ki zajema osnove GRM.
     help:
       description: Zastavite vprašanje ali poiščete odgovore v OSM zbirki vprašanj
         in odgovorov.
@@ -1021,7 +1021,7 @@ sl:
         na %{replyurl}
     friend_notification:
       subject: '[OpenStreetMap] %{user} vas je dodal med prijatelje'
-      had_added_you: '%{user} vas je dodal med prijatelje na OpenStreetMap.'
+      had_added_you: '%{user} vas je dodal med prijatelje na GRM.'
       see_their_profile: Njegov profil si lahko ogledate na %{userurl}.
       befriend_them: Lahko ga tudi dodate kot prijatelja na %{befriendurl}.
     gpx_notification:
@@ -1043,7 +1043,7 @@ sl:
           bila uspešno uvožena z %{trace_points} od vseh možnih
           %{possible_points} točk.
     signup_confirm:
-      subject: '[OpenStreetMap] Dobrodošli na OpenStreetMap'
+      subject: '[OpenStreetMap] Dobrodošli na GRM'
       greeting: Pozdravljeni!
       created: Nekdo (upamo da ste to vi) je pravkar ustvarili račun na %{site_url}.
       confirm: 'Pred karkoli drugim, morate potrditi, da je ta zahteva prišla od vas.
@@ -1069,12 +1069,12 @@ sl:
     lost_password_plain:
       greeting: Pozdravljeni,
       hopefully_you: Nekdo (upamo da ste to vi) je zahteval ponastavitev gesla uporabniškega
-        računa openstreetmap.org s tem e-poštnim naslovom.
+        računa GRM.org s tem e-poštnim naslovom.
       click_the_link: Če ste to vi, vas prosimo, da kliknete na spodnjo povezavo za
         ponastavitev gesla.
     lost_password_html:
       greeting: Pozdravljeni,
-      hopefully_you: Nekdo (upamo, da vi) je zahteval ponastavitev gesla openstreetmap.org
+      hopefully_you: Nekdo (upamo, da vi) je zahteval ponastavitev gesla GRM.org
         uporabniškega računa s tem naslovom e-pošte.
       click_the_link: Če ste to vi, vas prosimo, da kliknete na spodnjo povezavo za
         ponastavitev gesla.
@@ -1202,10 +1202,10 @@ sl:
         niso javni. Označite jih lahko kot javne na %{user_page}.
       user_page_link: strani vašega uporabniškega računa
       anon_edits_link_text: Pojasnilo zakaj je temu tako.
-      flash_player_required: Za uporabo Potlatcha, urejevalnika OpenStreetMap, potrebujete
+      flash_player_required: Za uporabo Potlatcha, urejevalnika GRM, potrebujete
         urejevalnik Flash. Prenesete ga lahko s strani <a href="http://www.adobe.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">Adobe.com</a>.
         Na razpolago so tudi <a href="http://wiki.openstreetmap.org/wiki/Editing">druge
-        možnosti</a> za urejanje zemljevidov OpenStreetMap.
+        možnosti</a> za urejanje zemljevidov GRM.
       potlatch_unsaved_changes: Imate neshranjene spremembe. (Za shranjevanje v Potlatch-u,
         od-izberite trenutno pot ali vozlišče (v načinu v živo), ali pa kliknite na
         gumb Save (shrani), če ga imate.)
@@ -1416,7 +1416,7 @@ sl:
       heading: GPX-sistem trenutno ni dostopen.
       message: Sistem za nalaganje GPX-datotek in GPX-sistem trenutno nista na razpolago.
     georss:
-      title: OpenStreetMap-sledi GPS
+      title: GRM-sledi GPS
     description:
       description_with_count:
         one: Datoteka GPX z %{count} točko uporabnika %{user}
@@ -1535,8 +1535,8 @@ sl:
       with username: 'Že imate GRM račun? Prosim, prijavite se s svojim
         uporabniškim imenom in geslom:'
       with openid: 'Lahko se prijavite tudi s svojim OpenID-jrm:'
-      new to osm: Ste novi na OpenStreetMap?
-      to make changes: Če želite spreminjati podatke na OpenStreetMap, morate imeti
+      new to osm: Ste novi na GRM?
+      to make changes: Če želite spreminjati podatke na GRM, morate imeti
         račun.
       create account minute: Naredite si račun. To vam bo vzelo le minuto.
       no account: Še nimate uporabniškega računa?
@@ -1568,7 +1568,7 @@ sl:
           alt: Prijava z AOL OpenID
     logout:
       title: Odjava
-      heading: Odjava iz OpenStreetMap
+      heading: Odjava iz GRM
       logout_button: Odjava
     lost_password:
       title: pozabljeno geslo
@@ -1622,7 +1622,7 @@ sl:
       openid association: |-
         <p>Vaš OpenID še ni povezan z GRM računom.</p>
         <ul>
-          <li>Če ste novi v OpenStreetMap, ustvarite nov račun s pomočjo spodnjega obrazca.</li>
+          <li>Če ste novi v GRM, ustvarite nov račun s pomočjo spodnjega obrazca.</li>
           <li>Če že imate račun, se prijavite na svoj račun z vašim uporabniškim imenom in geslom in nato povežete račun z OpenID-jem v uporabniških nastavitvah.</li>
         </ul>
       continue: Prijavite se

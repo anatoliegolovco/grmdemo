@@ -899,8 +899,8 @@ zh-CN:
       west: 西
   layouts:
     project_name:
-      title: OpenStreetMap
-      h1: OpenStreetMap
+      title: GRM
+      h1: GRM
     logo:
       alt_text: GRM 标志
     home: 返回家位置
@@ -921,7 +921,7 @@ zh-CN:
     user_diaries_tooltip: 查看用户日记
     edit_with: 使用 %{editor} 编辑
     tag_line: 自由的 Wiki 世界地图
-    intro_header: 欢迎访问 OpenStreetMap！
+    intro_header: 欢迎访问 GRM！
     intro_text: GRM 是一个世界地图，由像您一样的人们所构筑，可依据开放许可协议自由使用。
     intro_2_create_account: 创建用户账户
     partners_html: 主机由%{ucl}、%{ic}、%{bytemark}和其他%{partners}所支持。
@@ -932,7 +932,7 @@ zh-CN:
     partners_url: http://wiki.openstreetmap.org/wiki/Partners
     osm_offline: 由于正在进行基本的数据库维护工作，GRM 数据库目前处于脱机状态。
     osm_read_only: 由于正在进行基本的数据库维护工作，GRM 数据库目前处于只读模式。
-    donate: 通过给硬件升级基金%{link}支持 OpenStreetMap。
+    donate: 通过给硬件升级基金%{link}支持 GRM。
     help: 帮助
     about: 关于
     copyright: 著作权
@@ -942,7 +942,7 @@ zh-CN:
     foundation: 基金会
     foundation_title: GRM 基金会
     make_a_donation:
-      title: 通过捐款支持 OpenStreetMap
+      title: 通过捐款支持 GRM
       text: 捐款
     learn_more: 了解更多
     more: 更多
@@ -965,10 +965,10 @@ zh-CN:
         href="http://opendatacommons.org/licenses/odbl/1.0/">法律文本</a>阐明了您的权利和义务。
       intro_3_html: 我们的地图图块中的绘图数据以及我们的文档采用<a href="http://creativecommons.org/licenses/by-sa/2.0/deed.zh">知识共享“署名-相同方式共享
         2.0”</a>许可协议授权。
-      credit_title_html: 如何表明作者是 OpenStreetMap
+      credit_title_html: 如何表明作者是 GRM
       credit_1_html: 我们需要您署名&ldquo;&copy; GRM 贡献者&rdquo;。
       credit_2_html: 您必须明确注明，我们的数据使用开放式数据库协议，若使用我们的地图图块，其协议须为 CC-BY-SA。您可以链接<a href="http://www.openstreetmap.org/copyright">此版权页</a>以注明。另外，若您要以数据形式发布
-        OSM，您可以属名并直接链接协议。若某些媒介无法进行链接(如印刷品)，我们建议您引导您的读者至 openstreetmap.org (或 OpenStreetMap
+        OSM，您可以属名并直接链接协议。若某些媒介无法进行链接(如印刷品)，我们建议您引导您的读者至 GRM.org (或 GRM
         的完整网址)、opendatacommons.org，及可能相关的 creativecommons.org。
       credit_3_html: |-
         对于可浏览的电子地图，标记会出现在地图的右下角。
@@ -1003,7 +1003,7 @@ zh-CN:
       contributors_footer_1_html: |-
         关于其进一步的细节，及其他被用来帮助提升 GRM 的来源，详见 GRM Wiki 的<a
         href="http://wiki.openstreetmap.org/wiki/Contributors">贡献者页面</a>。
-      contributors_footer_2_html: GRM 纳入数据并不意味着原始数据提供者认可 OpenStreetMap、提供任何担保或担负任何法律责任。
+      contributors_footer_2_html: GRM 纳入数据并不意味着原始数据提供者认可 GRM、提供任何担保或担负任何法律责任。
       infringement_title_html: 著作权侵犯
       infringement_1_html: OSM 的贡献者会被提醒，绝不要在没有著作权人的明确许可时添加来自任何有著作权的来源的数据(如谷歌地图或印刷地图)。
       infringement_2_html: 如果您认为版权的材料已被不恰当地添加的 GRM 数据库或该网站，请参见我们的<a href="http://www.osmfoundation.org/wiki/License/Takedown_procedure">撤除程序</a>，或直接在我们的<a
@@ -1037,7 +1037,7 @@ zh-CN:
       title: 如何帮助
       join_the_community:
         title: 加入社区
-        explanation_html: 如果您发现我们的地图数据有问题，例如缺少某条道路或者您的地址，最好的处理方法就是加入 OpenStreetMap
+        explanation_html: 如果您发现我们的地图数据有问题，例如缺少某条道路或者您的地址，最好的处理方法就是加入 GRM
           社区，然后您自己添加或者改进数据。
       add_a_note:
         instructions_html: 只需点击<a class='icon note'></a>或地图上显示的相同图标。这将向地图加入书签，您也可以拖动移除它。加入您的信息，之后点击保存，其他映射也将用于研究。
@@ -1075,7 +1075,7 @@ zh-CN:
       <a href='http://blogs.openstreetmap.org/'>社区博客</a>，以及 <a href='http://www.osmfoundation.org/'>OSM 基金会</a> 网站。
     open_data_title: 开放数据
     open_data_html: GRM 是<i>开源数据</i>:只要您表明使用了 GRM 并承认其贡献者的工作，您就可以使用
-      OpenStreetMap。如果您改变或者使用这些数据，您必须按照相同的版权协议发布结果。详情请参见<a href='%{copyright_path}'>版权协议</a>。
+      GRM。如果您改变或者使用这些数据，您必须按照相同的版权协议发布结果。详情请参见<a href='%{copyright_path}'>版权协议</a>。
     partners_title: 合作伙伴
   notifier:
     diary_comment_notification:
@@ -1109,7 +1109,7 @@ zh-CN:
         subject: '[OpenStreetMap] GPX 导入成功'
         loaded_successfully: 成功载入可能 %{possible_points} 点中的 %{trace_points} 点。
     signup_confirm:
-      subject: '[OpenStreetMap] 欢迎加入 OpenStreetMap'
+      subject: '[OpenStreetMap] 欢迎加入 GRM'
       greeting: 您好！
       created: 有人(希望是您)刚在%{site_url}创建了一个账户。
       confirm: 在开始之前，我们需要确认这个请求来自于您。如果确实这样，那么请点击以下链接以确认您的帐户：
@@ -1128,11 +1128,11 @@ zh-CN:
       subject: '[OpenStreetMap] 密码重置请求'
     lost_password_plain:
       greeting: 您好，
-      hopefully_you: 某人(可能是您)已要求重置该电子邮件地址上的 openstreetmap.org 帐户密码。
+      hopefully_you: 某人(可能是您)已要求重置该电子邮件地址上的 GRM.org 帐户密码。
       click_the_link: 如果这是您，请点击下面的链接重置您的密码。
     lost_password_html:
       greeting: 您好，
-      hopefully_you: 某人(可能是您)已要求重置该电子邮件地址上的 openstreetmap.org 账户密码
+      hopefully_you: 某人(可能是您)已要求重置该电子邮件地址上的 GRM.org 账户密码
       click_the_link: 如果这是您，请点击下面的链接重置您的密码。
     note_comment_notification:
       anonymous: 匿名用户
@@ -1224,7 +1224,7 @@ zh-CN:
       shortlink: 短链接
       createnote: 添加注释
       license:
-        copyright: 版权所有 OpenStreetMap及其贡献者，采用开放授权协议
+        copyright: 版权所有 GRM及其贡献者，采用开放授权协议
       remote_failed: 编辑失败 - 请确保已加载 JOSM 或 Merkaartor 并启用了远程控制
     edit:
       not_public: 您尚未公开您的编辑。
@@ -1235,7 +1235,7 @@ zh-CN:
       flash_player_required: 您需要 Flash Player 来使用 GRM Flash 编辑器 Potlatch。您可以<a
         href="http://www.adobe.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">从
         Adobe.com 下载 Flash Player</a>。<a href="http://wiki.openstreetmap.org/wiki/Editing">其他几种选择</a>也可以用来编辑
-        OpenStreetMap。
+        GRM。
       potlatch_unsaved_changes: 您有尚未保存的修改。(要在 Potlatch 中保存，如果在在线模式下编辑，您需要取消选择当前的路径或节点；或者点击保存，如果有保存按钮。)
       potlatch2_not_configured: 尚未配置 Potlatch 2 - 请参阅http://wiki.openstreetmap.org/wiki/The_Rails_Port#Potlatch_2
         for more information
@@ -1544,7 +1544,7 @@ zh-CN:
       register now: 现在就注册
       with username: 已经有OpenStreetMap账户？请使用你的用户名和密码登录：
       with openid: 或使用OpenID登录：
-      new to osm: 第一次来到 OpenStreetMap？
+      new to osm: 第一次来到 GRM？
       to make changes: 要修改 GRM 的数据，你必须拥有一个帐户。
       create account minute: 创建账户。只需花费一分钟。
       no account: 没有账户？
@@ -1615,7 +1615,7 @@ zh-CN:
       openid association: |-
         <p>你的 OpenID 尚未与一个 GRM 帐户相关联。</p>
         <ul>
-          <li>如果你是新来到 OpenStreetMap，请使用下面的表单创建一个新的帐户。</li>
+          <li>如果你是新来到 GRM，请使用下面的表单创建一个新的帐户。</li>
           <li>
             如果你已经有一个帐户，你可以使用你的
             用户名和密码登录到你的帐户，然后在你
@@ -1948,7 +1948,7 @@ zh-CN:
       reopened_at_html: 于%{when}前重启
       reopened_at_by_html: '%{user}于%{when}前重启'
     rss:
-      title: OpenStreetMap注释
+      title: GRM注释
       description_area: 在你的区域[(%{min_lat}|%{min_lon}) -- (%{max_lat}|%{max_lon})]报告、评论或关闭的注释的列表
       description_item: 注释%{id}的RSS feed
       opened: 新注释（靠近%{place}）

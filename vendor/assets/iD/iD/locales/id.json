@@ -216,7 +216,7 @@
     },
     "zoom_in_edit": "Perbesar untuk bisa menyunting",
     "logout": "keluar",
-    "loading_auth": "Menghubungkan dengan OpenStreetMap...",
+    "loading_auth": "Menghubungkan dengan GRM...",
     "report_a_bug": "laporkan sebuah kerusakan",
     "status": {
         "error": "Tak bisa terhubung dengan API.",
@@ -227,8 +227,8 @@
         "title": "Simpan Perubahan",
         "description_placeholder": "Deskripsi singkat kontribusi Anda",
         "message_label": "Sampaikan pesan",
-        "upload_explanation": "Perubahan yang anda unggah akan tampil di seluruh peta yang menggunakan data OpenStreetMap.",
-        "upload_explanation_with_user": "Perubahan yang anda unggah sebagai {user} akan tampil di seluruh peta yang menggunakan data OpenStreetMap.",
+        "upload_explanation": "Perubahan yang anda unggah akan tampil di seluruh peta yang menggunakan data GRM.",
+        "upload_explanation_with_user": "Perubahan yang anda unggah sebagai {user} akan tampil di seluruh peta yang menggunakan data GRM.",
         "save": "Simpan",
         "cancel": "Batal",
         "warnings": "Peringatan",
@@ -252,7 +252,7 @@
         "no_documentation_combination": "Tidak ada dokumentasi yang tersedia untuk kombinasi tanda ini",
         "no_documentation_key": "Tidak ada dokumentasi tersedia untuk kunci ini",
         "show_more": "Tampilkan Lainnya",
-        "view_on_osm": "Lihat di openstreetmap.org",
+        "view_on_osm": "Lihat di GRM.org",
         "all_tags": "Semua Tags",
         "all_members": "Semua anggota",
         "all_relations": "Seluruh relasi",
@@ -294,15 +294,15 @@
     },
     "save": {
         "title": "Simpan",
-        "help": "Simpan perubahan ke OpenStreetMap, jadikan mereka terlihat oleh pengguna lain.",
+        "help": "Simpan perubahan ke GRM, jadikan mereka terlihat oleh pengguna lain.",
         "no_changes": "Tak ada perubahan yang bisa disimpan.",
         "error": "Sebuah kesalahan terjadi ketika penyimpanan.",
-        "uploading": "Mengunggah perubahan ke OpenStreetMap.",
+        "uploading": "Mengunggah perubahan ke GRM.",
         "unsaved_changes": "Anda mememiliki perubahan yang belum tersimpan"
     },
     "success": {
         "edited_osm": "OSM tersunting!",
-        "just_edited": "Anda baru saja menyunting OpenStreetMap!",
+        "just_edited": "Anda baru saja menyunting GRM!",
         "view_on_osm": "Lihat di OSM",
         "facebook": "Bagikan di Facebook",
         "twitter": "Berbagi di Twitter",
@@ -313,7 +313,7 @@
         "okay": "Baiklah"
     },
     "splash": {
-        "welcome": "Selamat datang di penyuting iD OpenStreetMap",
+        "welcome": "Selamat datang di penyuting iD GRM",
         "text": "iD begitu bersahabat namun juga alat yang kuat untuk berperan dalam peta dunia gratis terbaik. Ini adalah versi {version}. Untuk informasi lebih lihat {website} dan laporkan kesalahan di {github}.",
         "walkthrough": "Memulai Perjalanan",
         "start": "Sunting Sekarang"
@@ -332,7 +332,7 @@
         "untagged_point": "Titik Tak-bertanda",
         "untagged_line": "Garis tak bertanda",
         "untagged_area": "Area tak bertanda",
-        "many_deletions": "Anda menghapus {n} obyek. Apakah anda yakin? Ini akan menghapus dari peta yang semua orang lihat pada openstreetmap.org.",
+        "many_deletions": "Anda menghapus {n} obyek. Apakah anda yakin? Ini akan menghapus dari peta yang semua orang lihat pada GRM.org.",
         "tag_suggests_area": "Penanda {tag} menyarankan garis sebaiknya dalam bentuk area, tapi ini bukan sebuah area",
         "untagged_point_tooltip": "Pilih tipe fitur yang menjelaskan apa identitas poin ini.",
         "untagged_line_tooltip": "Pilih tipe fitur yang menjelaskan apa identitas garis ini.",

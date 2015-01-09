@@ -847,7 +847,7 @@ lt:
         Commons Attribution-ShareAlike 2.0</a> licenciją (CC-BY-SA).
       credit_title_html: Ką pažymėti prisidėjus prie projekto
       credit_1_html: |-
-        Mes reikalaujame, kad jūs kredituotumėte "© OpenStreetMap
+        Mes reikalaujame, kad jūs kredituotumėte "© GRM
          autoriai ".
       credit_2_html: Jums turi būti aišku, kad duomenys kurie yra prieinami atvirai,
         ir jei jūs naudojatės mūsų žemėlapiu, kuri licencijuota pagal CC-BY-SA. Jūs
@@ -855,7 +855,7 @@ lt:
         autorinių teisių puslapį</a>. Kita vertus, ir kaip reikalavimas jei platinate
         OSM duomenų forma, jūs galite nurodyti licenciją (-as). Žiniasklaidos priemonėse,
         kur nuorodos pateikimas yra neįmanoma (pvz. spausdinti darbai), mes siūlome
-        jūsų skaitytojus nukreipti į openstreetmap.org (ko gero išplečiant OpenStreetMap
+        jūsų skaitytojus nukreipti į GRM.org (ko gero išplečiant GRM
         iki pilno adreso), į opendatacommons.org ir jei tinka, į creativecommons.org
       credit_3_html: |-
         Naršymui po elektroninį žemėlapį, kūrėjų sąrašas turėtų pasirodyti žemėlapio kampe.
@@ -906,10 +906,10 @@ lt:
         Survey data &copy; Karūnos autorinės teisės ir duomenų teisės
         2010-12.
       contributors_footer_1_html: Kad sužinotumėte daugiau apie tuos, ir kitus šaltinius,
-        kurie buvo naudojami padėti vystyti OpenStreetMap, peržiūrėkite <a href="http://wiki.openstreetmap.org/wiki/Contributors">Vystytojų
+        kurie buvo naudojami padėti vystyti GRM, peržiūrėkite <a href="http://wiki.openstreetmap.org/wiki/Contributors">Vystytojų
         puslapį</a> GRM dokumentacijoje
       contributors_footer_2_html: Duomenų įtraukimas GRM nereiškia, kad
-        originalių duomenų tiekėjas patvirtina OpenStreetMap, nenumatyta jokių garantijų
+        originalių duomenų tiekėjas patvirtina GRM, nenumatyta jokių garantijų
         ir neprisiimama jokios atsakomybės.
       infringement_title_html: Autorių teisių pažeidimas
       infringement_1_html: OSM pildytojai primenami niekada nesinaudoti autorių teisėmis
@@ -959,7 +959,7 @@ lt:
         subject: '[OpenStreetMap] Sėkmingai įkeltas pėdsakas (GPX)'
         loaded_successfully: sėkminga įkelta su %{trace_points} taškų iš galimų %{possible_points}.
     signup_confirm:
-      subject: '[OpenStreetMap] Sveiki atvykę į OpenStreetMap'
+      subject: '[OpenStreetMap] Sveiki atvykę į GRM'
       greeting: Sveiki!
       created: 'Kažkas (tikimės, kad jūs) sukūrė paskyrą svetainėje: %{site_url}.'
       confirm: Prieš ką nors darant kito, mes turime patvirtinti, kad ši užklausa
@@ -986,13 +986,13 @@ lt:
     lost_password_plain:
       greeting: Sveiki,
       hopefully_you: Kažkas (tikriausiai jūs) paprašė anuliuoti slaptažodį, susijusį
-        su šio pašto adreso openstreetmap.org paskyra.
+        su šio pašto adreso GRM.org paskyra.
       click_the_link: Jei tai jūs, paspauskite žemiau esančią nuorodą, kad iš naujo
         nustatytumėte slaptažodį.
     lost_password_html:
       greeting: Sveiki,
       hopefully_you: Kažkas (tikriausiai jūs) paprašė anuliuoti slaptažodį, susijusį
-        su šio pašto adreso openstreetmap.org paskyra.
+        su šio pašto adreso GRM.org paskyra.
       click_the_link: Jei tai jūs, spauskite žemiau pateikiamą nuorodą.
     note_comment_notification:
       anonymous: Anoniminis naudotojas
@@ -1114,7 +1114,7 @@ lt:
       flash_player_required: Jums reikalingas Flash player norint redaguoti su Potlatch
         (atvirojo žemėlapio Flash redagavimo įrankis). Jūs galite <a href="http://www.adobe.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">parsisiųsti
         Flash Player iš Adobe.com</a>. <a href="http://wiki.openstreetmap.org/wiki/Editing">Taip
-        pat yra daugybė kitų būdų</a>, kuriais galėsite prisidėti prie OpenStreetMap
+        pat yra daugybė kitų būdų</a>, kuriais galėsite prisidėti prie GRM
         žemėlapio redagavimo.
       potlatch_unsaved_changes: Turite neįrašytų keitimų. Norint įrašyti keitimą Potlatch'e,
         jūs turite nuimti pažymėtus taškus ir kelius jei redaguojate gyvai (live mode)
@@ -1429,7 +1429,7 @@ lt:
       with username: 'Jau turite GRM paskyrą? Prašome prisijunkite savo
         naudotojo vardu ir slaptažodžiu:'
       with openid: 'Taipogi prisijungimui galite naudoti savo OpenID:'
-      new to osm: Nesusipažinę su OpenStreetMap?
+      new to osm: Nesusipažinę su GRM?
       to make changes: Norėdami keisti GRM duomenis, turite turėti savo
         paskyrą.
       create account minute: Sukurkite paskyra. Tai užtruks tik minutę.
@@ -1462,7 +1462,7 @@ lt:
           alt: Prisijungti su Yahoo OpenID
     logout:
       title: Atsijungti
-      heading: Atsijungti nuo OpenStreetMap
+      heading: Atsijungti nuo GRM
       logout_button: Atsijungti
     lost_password:
       title: Pamiršau slaptažodį
@@ -1507,7 +1507,7 @@ lt:
       openid association: |-
         <p>Jūsų OpenID kol kas nėra susieta su GRM paskyra</p>
         <ul>
-          <li>Jei esi naujas OpenStreetMap, sukurkite naują paskyrą, pasitelkiant forma žemiau</li>
+          <li>Jei esi naujas GRM, sukurkite naują paskyrą, pasitelkiant forma žemiau</li>
           <li>
             Jei jau turite paskyrą, jūs galite prisijungti prie jūsų pakyros, naudojant savo naudotojo vardą ir slaptažodį ir tada susieti paskyrą su savo OpenID savo naudotojo nustatymuose
           </li>

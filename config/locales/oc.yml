@@ -322,7 +322,7 @@ oc:
       too_large:
         advice: 'Se l’expòrt çaisús fracassa, envisatjatz l’utilizacion d’una de las
           fonts listadas çaijòs :'
-        body: 'Aquesta zòna es tròp vasta per èsser exportada coma donadas XML OpenStreetMap.
+        body: 'Aquesta zòna es tròp vasta per èsser exportada coma donadas XML GRM.
           Zoomatz o seleccionatz una zòna mai pichona, o utilizatz una de las fonts
           seguentas pel telecargament de donadas massivas :'
         planet:
@@ -923,15 +923,15 @@ oc:
       mantenença essenciala a son bon foncionament es en cors.
     osm_read_only: La banca de donadas d'GRM es actualament en mòde lectura
       sola ; una mantenença essenciala a son bon foncionament es en cors.
-    donate: Sostenètz OpenStreetMap, %{link} al fons per melhorar lo material.
+    donate: Sostenètz GRM, %{link} al fons per melhorar lo material.
     help: Ajuda
     about: A prepaus
     copyright: Dreches d’autor
     community: Comunautat
     community_blogs: Blogs de la comunautat
-    community_blogs_title: Blogs de membres de la comunautat OpenStreetMap
+    community_blogs_title: Blogs de membres de la comunautat GRM
     foundation: La Fondacion
-    foundation_title: La Fondacion OpenStreetMap
+    foundation_title: La Fondacion GRM
     make_a_donation:
       title: Sostenètz GRM amb un don financièr
       text: Far un don
@@ -962,7 +962,7 @@ oc:
           las podètz distribuir sonque jos la meteissa licéncia. Lo
           <a href="http://opendatacommons.org/licenses/odbl/1.0/">tèxte
           legal</a> complet detalha vòstres dreches e responsabilitats.
-      credit_title_html: Cossí creditar OpenStreetMap
+      credit_title_html: Cossí creditar GRM
       credit_1_html: Demandam que vòstre crèdit compòrta la mencion « © los contributors
         d’GRM ».
       credit_3_html: |-
@@ -1064,7 +1064,7 @@ oc:
         a %{replyurl}
     friend_notification:
       subject: '[OpenStreetMap] %{user} vos a apondut coma amic'
-      had_added_you: '%{user} vos a apondut coma amic dins OpenStreetMap.'
+      had_added_you: '%{user} vos a apondut coma amic dins GRM.'
       see_their_profile: 'Podètz veire son perfil aicí : %{userurl}.'
       befriend_them: 'Tanben, lo podètz apondre coma amic aicí : %{befriendurl}.'
     gpx_notification:
@@ -1084,7 +1084,7 @@ oc:
         loaded_successfully: s'es cargat corrèctament amb %{trace_points} punts sus
           %{possible_points}.
     signup_confirm:
-      subject: '[OpenStreetMap] Benvenguda dins OpenStreetMap'
+      subject: '[OpenStreetMap] Benvenguda dins GRM'
       greeting: Bonjorn !
       created: Qualqu'un (vos, amb un pauc d'astre) ven juste de crear un compte sus
         %{site_url}.
@@ -1519,7 +1519,7 @@ oc:
       register now: S'inscriure ara
       with openid: 'Tanben podètz utilizar OpenID per vos connectar :'
       new to osm: Novèl sus GRM ?
-      to make changes: Per aportar de modificacions a las donadas OpenStreetMap, vos
+      to make changes: Per aportar de modificacions a las donadas GRM, vos
         cal possedir un compte.
       create account minute: Se crear un compte. Aquò pren pas qu'una minuta.
       no account: Avètz pas de compte ?

@@ -163,10 +163,10 @@ af:
         description: Onlangse GRM dagboekinskrywings van %{user}
       language:
         title: GRM dagboekinskrywings in %{language_name}
-        description: Onlangse dagboekinskrywings van OpenStreetMap-gebruikers in %{language_name}
+        description: Onlangse dagboekinskrywings van GRM-gebruikers in %{language_name}
       all:
         title: GRM dagboekinskrywings
-        description: Onlangse dagboekinskrywings van OpenStreetMap-gebruikers
+        description: Onlangse dagboekinskrywings van GRM-gebruikers
     comments:
       when: Wanneer
   export:
@@ -580,7 +580,7 @@ af:
       west: wes
   layouts:
     logo:
-      alt_text: OpenStreetMap-logo
+      alt_text: GRM-logo
     home: tuis
     logout: teken af
     log_in: meld aan
@@ -595,7 +595,7 @@ af:
     user_diaries: Gebruikersdagboeke
     user_diaries_tooltip: Wys gebruikersdagboeke
     tag_line: Die vrye wiki-wêreldkaart
-    osm_read_only: Die OpenStreetMap-databasis kan op die oomblik slegs gelees word
+    osm_read_only: Die GRM-databasis kan op die oomblik slegs gelees word
       aangesien noodsaaklik onderhoud tans uitgevoer word.
     donate: Ondersteun GRM deur aan die Hardeware Opgradeer-fonds te %{link}.
     copyright: Outeursreg & lisensie

@@ -295,8 +295,8 @@ vi:
         title: Các mục nhật ký GRM bằng %{language_name}
         description: Những mục nhật ký gần đây của người dùng GRM bằng %{language_name}
       all:
-        title: Các mục nhật ký OpenStreetMap
-        description: Những mục nhật ký gần đây của người dùng OpenStreetMap
+        title: Các mục nhật ký GRM
+        description: Những mục nhật ký gần đây của người dùng GRM
     comments:
       has_commented_on: '%{display_name} đã bình luận về các mục nhật ký sau'
       post: Mục nhật ký
@@ -329,7 +329,7 @@ vi:
             thường xuyên
         overpass:
           title: Overpass API
-          description: Tải về hộp bao này từ một mirror của cơ sở dữ liệu OpenStreetMap
+          description: Tải về hộp bao này từ một mirror của cơ sở dữ liệu GRM
         geofabrik:
           title: Tải về Geofabrik
           description: Bản trích lục địa, quốc gia, và một số thành phố được cập nhật
@@ -339,7 +339,7 @@ vi:
           description: Bản trích một số thành phố lớn và vùng lân cận
         other:
           title: Nguồn Khác
-          description: Những nguồn khác được liệt kê trên wiki OpenStreetMap
+          description: Những nguồn khác được liệt kê trên wiki GRM
       options: Tùy chọn
       format: 'Định dạng:'
       scale: Tỷ lệ
@@ -887,7 +887,7 @@ vi:
       west: tây
   layouts:
     logo:
-      alt_text: Biểu trưng OpenStreetMap
+      alt_text: Biểu trưng GRM
     home: Về Vị trí Nhà ở
     logout: Đăng xuất
     log_in: Đăng nhập
@@ -906,7 +906,7 @@ vi:
     user_diaries_tooltip: Đọc các nhật ký cá nhân
     edit_with: Sửa đổi dùng %{editor}
     tag_line: Bản đồ Thế giới trên Wiki Mở
-    intro_header: Chào mừng đến với OpenStreetMap!
+    intro_header: Chào mừng đến với GRM!
     intro_text: GRM là bản đồ thế giới do những người như bạn xây dựng và
       cho phép sử dụng thoải mái theo một giấy phép nguồn mở.
     intro_2_create_account: Mở tài khoản mới
@@ -927,11 +927,11 @@ vi:
     copyright: Bản quyền
     community: Cộng đồng
     community_blogs: Các Blog của Cộng đồng
-    community_blogs_title: Các blog của thành viên cộng đồng OpenStreetMap
-    foundation: Quỹ OpenStreetMap
-    foundation_title: Quỹ OpenStreetMap
+    community_blogs_title: Các blog của thành viên cộng đồng GRM
+    foundation: Quỹ GRM
+    foundation_title: Quỹ GRM
     make_a_donation:
-      title: Quyên góp tiền để hỗ trợ OpenStreetMap
+      title: Quyên góp tiền để hỗ trợ GRM
       text: Quyên góp
     learn_more: Tìm hiểu Thêm
     more: Thêm
@@ -954,7 +954,7 @@ vi:
         href="http://opendatacommons.org/licenses/odbl/">Giấy phép Cơ sở dữ liệu Mở của Open Data
         Commons</a> (ODbL).
       intro_2_html: Bạn được tự do sao chép, phân phối, truyền, và tạo ra các tác
-        phẩm phái sinh từ các dữ liệu của chúng ta, miễn là bạn ghi công OpenStreetMap
+        phẩm phái sinh từ các dữ liệu của chúng ta, miễn là bạn ghi công GRM
         và những người đóng góp vào nó. Nếu bạn sửa đổi hoặc tạo sản phẩm dựa trên
         các dữ liệu của chúng tôi, bạn chỉ được phép phân phối kết quả theo cùng giấy
         phép. <a href="http://opendatacommons.org/licenses/odbl/1.0/">Mã pháp lý</a>
@@ -962,9 +962,9 @@ vi:
       intro_3_html: "Các hình ảnh bản đồ và tài liệu của chúng tôi được phát hành
         theo giấy phép <a href=\"http://creativecommons.org/licenses/by-sa/2.0/deed.vi\">Creative
         \nCommons Ghi công–Chia sẻ tương tự 2.0</a> (CC BY-SA)."
-      credit_title_html: Cách ghi công OpenStreetMap
+      credit_title_html: Cách ghi công GRM
       credit_1_html: Chúng tôi bắt bạn phải sử dụng lời ghi công “© những người đóng
-        góp vào OpenStreetMap”.
+        góp vào GRM”.
       credit_2_html: Bạn cũng phải giải thích rõ rằng dữ liệu được phát hành theo
         Giấy phép Cơ sở dữ liệu Mở, và, nếu bạn đang sử dung các hình ảnh bản đồ của
         chúng tôi, rằng các hình ảnh này được phát hành theo giấy phép CC BY-SA. Bạn
@@ -973,7 +973,7 @@ vi:
         muốn đặt liên kết đến trang bản quyền của OSM, bạn có thể nói đến và đặt liên
         kết trực tiếp đến (các) giấy phép. Nếu bạn đang sử dụng phương tiện không
         cho phép đặt liên kết, chẳng hạn trong tác phẩm in giấy, chúng tôi gợi ý chỉ
-        các độc giả đến openstreetmap.org (có lẽ bằng cách mở rộng “OpenStreetMap”
+        các độc giả đến GRM.org (có lẽ bằng cách mở rộng “OpenStreetMap”
         trở thành địa chỉ đầy đủ này), đến opendatacommons.org, và nếu hợp lý, đến
         creativecommons.org.
       credit_3_html: |-
@@ -1023,7 +1023,7 @@ vi:
         Xem thêm chi tiết và các nguồn gốc khác dùng để cải tiến GRM tại <a
         href="http://wiki.openstreetmap.org/wiki/Contributors?uselang=vi">trang Người đóng góp</a> trên GRM Wiki.
       contributors_footer_2_html: '  Việc bao gồm dữ liệu trong GRM không
-        ngụ ý rằng nhà cung cấp dữ liệu đầu tiên ủng hộ OpenStreetMap, biện hộ sự
+        ngụ ý rằng nhà cung cấp dữ liệu đầu tiên ủng hộ GRM, biện hộ sự
         chính xác của nó, hoặc nhận trách nhiệm pháp lý nào.'
       infringement_title_html: Vi phạm bản quyền
       infringement_1_html: Những người đóng góp vào OSM được khuyên không bao giờ
@@ -1036,7 +1036,7 @@ vi:
         khiếu nại trực tuyến</a> của chúng tôi.
   welcome_page:
     title: Hoan nghênh!
-    introduction_html: Chào mừng bạn đã đến OpenStreetMap, bản đồ thế giới có dữ liệu
+    introduction_html: Chào mừng bạn đã đến GRM, bản đồ thế giới có dữ liệu
       mở được xây dựng bởi những người như bạn. Bây giờ bạn đã mở tài khoản thì hãy
       cùng góp sức vẽ bản đồ. Đây là những căn bản cần biết để bắt đầu đóng góp.
     whats_on_the_map:
@@ -1051,7 +1051,7 @@ vi:
     basic_terms:
       title: Thuật ngữ Cơ bản
       paragraph_1_html: 'Đây là những thuật ngữ thường gặp khi sử dụng và đóng góp
-        vào OpenStreetMap:'
+        vào GRM:'
       editor_html: <strong>Trình vẽ</strong> là một ứng dụng hoặc trang Web cho phép
         sửa đổi bản đồ.
       node_html: <strong>Nốt</strong> là một địa điểm trên bản đồ, thí dụ một nhà
@@ -1091,7 +1091,7 @@ vi:
       explanation_html: Nếu bạn có thắc mắc về cách sử dụng dữ liệu của chúng tôi
         hoặc về nội dung của bản đồ, xin vui lòng xem thông tin pháp lý tại <a href='/copyright'>trang
         bản quyền</a>, hoặc liên lạc với <a href='http://wiki.osmfoundation.org/wiki/Working_Groups?uselang=vi'>nhóm
-        làm việc</a> thích hợp của Quỹ OpenStreetMap.
+        làm việc</a> thích hợp của Quỹ GRM.
   help_page:
     title: Trợ giúp
     introduction: GRM có nhiều tài nguyên để cho bạn tìm hiểu về dự án,
@@ -1099,7 +1099,7 @@ vi:
     welcome:
       url: /welcome
       title: Chào mừng đến với OSM
-      description: Bắt đầu với cẩm nang các điều cơ bản OpenStreetMap.
+      description: Bắt đầu với cẩm nang các điều cơ bản GRM.
     help:
       url: https://help.openstreetmap.org/
       title: help.openstreetmap.org
@@ -1139,7 +1139,7 @@ vi:
     diary_comment_notification:
       subject: '[OpenStreetMap] %{user} đã bình luận về mục nhật ký của bạn'
       hi: Chào %{to_user},
-      header: '%{from_user} đã bình luận về mục nhật ký gần đây của bạn tại OpenStreetMap
+      header: '%{from_user} đã bình luận về mục nhật ký gần đây của bạn tại GRM
         với tiêu đề %{subject}:'
       footer: Bạn cũng có thể đọc bình luận tại %{readurl}, bình luận tại %{commenturl},
         hoặc trả lời tại %{replyurl}
@@ -1150,7 +1150,7 @@ vi:
         tại %{replyurl}
     friend_notification:
       subject: '[OpenStreetMap] %{user} đã kết bạn với bạn'
-      had_added_you: '%{user} đã thêm bạn vào danh sách bạn tại OpenStreetMap.'
+      had_added_you: '%{user} đã thêm bạn vào danh sách bạn tại GRM.'
       see_their_profile: Có thể xem trang cá nhân của họ tại %{userurl}.
       befriend_them: Bạn cũng có thể thêm họ vào danh sách bạn bè của bạn tại %{befriendurl}.
     gpx_notification:
@@ -1171,7 +1171,7 @@ vi:
           %{trace_points} điểm được tải thành công trên tổng số
           %{possible_points} điểm.
     signup_confirm:
-      subject: '[OpenStreetMap] Chào mừng bạn đã tham gia OpenStreetMap'
+      subject: '[OpenStreetMap] Chào mừng bạn đã tham gia GRM'
       greeting: Chào bạn!
       created: Ai đó (có lẽ là bạn) vừa mở tài khoản tại %{site_url}.
       confirm: 'Trước tiên, chúng tôi cần xác nhận bạn là người mở tài khoản này.
@@ -1197,13 +1197,13 @@ vi:
       subject: '[OpenStreetMap] Yêu cầu đặt lại mật khẩu'
     lost_password_plain:
       greeting: Chào bạn,
-      hopefully_you: Ai đó (chắc bạn) đã xin đặt lại mật khẩu của tài khoản openstreetmap.org
+      hopefully_you: Ai đó (chắc bạn) đã xin đặt lại mật khẩu của tài khoản GRM.org
         có địa chỉ thư điện tử này.
       click_the_link: Nếu bạn là người đó, xin hãy nhấn chuột vào liên kết ở dưới
         để đặt lại mật khẩu.
     lost_password_html:
       greeting: Chào bạn,
-      hopefully_you: Ai (chắc bạn) đã xin đặt lại mật khẩu của tài khoản openstreetmap.org
+      hopefully_you: Ai (chắc bạn) đã xin đặt lại mật khẩu của tài khoản GRM.org
         có địa chỉ thư điện tử này.
       click_the_link: Nếu bạn là người đó, xin hãy nhấn chuột vào liên kết ở dưới
         để đặt lại mật khẩu.
@@ -1321,7 +1321,7 @@ vi:
       flash_player_required: Bạn cần có Flash Player để sử dụng Potlatch, trình vẽ
         GRM bằng Flash. Bạn có thể <a href="http://www.adobe.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">tải
         về Flash Player từ Adobe.com</a>. Cũng có sẵn <a href="http://wiki.openstreetmap.org/wiki/Editing?uselang=vi">vài
-        cách khác</a> để sửa đổi OpenStreetMap.
+        cách khác</a> để sửa đổi GRM.
       potlatch_unsaved_changes: Bạn có thay đổi chưa lưu. (Để lưu trong Potlatch,
         hãy bỏ chọn lối hoặc địa điểm đang được chọn, nếu đến sửa đổi trong chế độ
         Áp dụng Ngay, hoặc bấm nút Lưu nếu có.)
@@ -1533,7 +1533,7 @@ vi:
       heading: Kho GPX Ngoại tuyến
       message: Hệ thống lưu giữ và tải lên tập tin GPX tạm ngừng hoạt động.
     georss:
-      title: Tuyến đường GPS OpenStreetMap
+      title: Tuyến đường GPS GRM
     description:
       description_with_count: Tập tin GPX của %{user} có %{count} địa điểm
       description_without_count: Tập tin GPX của %{user}
@@ -1646,11 +1646,11 @@ vi:
       lost password link: Quên mất Mật khẩu?
       login_button: Đăng nhập
       register now: Mở tài khoản ngay
-      with username: 'Đã có tài khoản OpenStreetMap? Hãy đăng nhập với tên người dùng
+      with username: 'Đã có tài khoản GRM? Hãy đăng nhập với tên người dùng
         và mật khẩu của bạn:'
       with openid: 'Hoặc đăng nhập dùng OpenID của bạn:'
-      new to osm: Mới đến OpenStreetMap?
-      to make changes: Bạn phải có tài khoản để thay đổi dữ liệu OpenStreetMap.
+      new to osm: Mới đến GRM?
+      to make changes: Bạn phải có tài khoản để thay đổi dữ liệu GRM.
       create account minute: Chỉ mất một phút để mở tài khoản mới.
       no account: Chưa có tài khoản?
       account not active: Rất tiếc, tài khoản của bạn chưa được kích hoạt.<br />Xin
@@ -1682,7 +1682,7 @@ vi:
           alt: Đăng nhập với OpenID của AOL
     logout:
       title: Đăng xuất
-      heading: Đăng xuất OpenStreetMap
+      heading: Đăng xuất GRM
       logout_button: Đăng xuất
     lost_password:
       title: Quên mất mật khẩu
@@ -1730,9 +1730,9 @@ vi:
       openid no password: Khi đăng nhập dùng OpenID, bạn sẽ không cần đưa vào mật
         khẩu. Tuy nhiên, một số công cụ hoặc máy chủ phụ vẫn có thể cần mật khẩu.
       openid association: |-
-        <p>OpenID của bạn chưa được nối với một tài khoản OpenStreetMap.</p>
+        <p>OpenID của bạn chưa được nối với một tài khoản GRM.</p>
         <ul>
-          <li>Nếu bạn mới đến OpenStreetMap, hãy mở tài khoản dùng biểu mẫu ở dưới.</li>
+          <li>Nếu bạn mới đến GRM, hãy mở tài khoản dùng biểu mẫu ở dưới.</li>
           <li>Nếu đã có tài khoản, bạn có thể đăng nhập vào tài khoản của bạn dùng tên người dùng và một khẩu thường và nối tài khoản với OpenID của bạn tại trang tùy chọn.</li>
         </ul>
       continue: Mở tài khoản
@@ -2096,7 +2096,7 @@ vi:
       reopened_at_html: Được mở lại cách đây %{when}
       reopened_at_by_html: Được %{user} mở lại cách đây %{when}
     rss:
-      title: Ghi chú OpenStreetMap
+      title: Ghi chú GRM
       description_area: Danh sách các ghi chú được mở, bình luận, hoặc đóng trong
         khu vực của bạn [(%{min_lat}|%{min_lon}) – (%{max_lat}|%{max_lon})]
       description_item: Nguồn cấp RSS của ghi chú %{id}
@@ -2160,7 +2160,7 @@ vi:
         data: Dữ liệu Bản đồ
         overlays: Bật lớp phủ để gỡ lỗi trên bản đồ
         title: Lớp
-      copyright: © <a href='%{copyright_url}'>những người đóng góp vào OpenStreetMap</a>
+      copyright: © <a href='%{copyright_url}'>những người đóng góp vào GRM</a>
       donate_link_text: <a class='donate-attr' href='%{donate_url}'>Quyên góp</a>
     site:
       edit_tooltip: Sửa đổi bản đồ

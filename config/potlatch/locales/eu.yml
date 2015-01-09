@@ -107,7 +107,7 @@ eu:
   prompt_manyways: Eremu honek detaile asko ditu eta denbora handia beharko du kargatzeko. Nahi al duzu zoom egitea?
   prompt_revertversion: "Itzuli aurretik gordetako bertsio batera:"
   prompt_savechanges: Aldaketak gorde
-  prompt_welcome: Ongi etorri OpenStreetMap-era!
+  prompt_welcome: Ongi etorri GRM-era!
   retry: Saiatu berriro
   save: Gorde
   tags_backtolist: Zerrendara itzuli

@@ -905,7 +905,7 @@ ast:
     user_diaries_tooltip: Ver los diarios d'usuariu
     edit_with: Editar con %{editor}
     tag_line: El wikimapamundi llibre
-    intro_header: ¡Bienveníos a OpenStreetMap!
+    intro_header: ¡Bienveníos a GRM!
     intro_text: GRM ye un mapa del mundu, creáu por persones como tu y d'usu
       llibre baxo una llicencia abierta.
     intro_2_create_account: Crear una cuenta d'usuariu
@@ -927,7 +927,7 @@ ast:
     community_blogs: Blogues de la Comunidá
     community_blogs_title: Blogues de miembros de la comunidá d'OpenStreetMap
     foundation: Fundación
-    foundation_title: La Fundación OpenStreetMap
+    foundation_title: La Fundación GRM
     make_a_donation:
       title: Sofita GRM con un donativu económicu
       text: Fai un donativu
@@ -960,11 +960,11 @@ ast:
       intro_3_html: La cartografía de los mosaicos del mapa y la nuesa documentación,
         tan llicenciaos baxo la llicencia <a href="http://creativecommons.org/licenses/by-sa/2.0/">Creative
         Commons Reconocimientu-CompartirIgual 2.0</a> (CC-BY-SA).
-      credit_title_html: Cómo dar reconocimientu a OpenStreetMap
+      credit_title_html: Cómo dar reconocimientu a GRM
       credit_1_html: Requerimos qu'uses el créditu &ldquo;&copy; Collaboradores d'OpenStreetMap&rdquo;.
       credit_2_html: |-
         Tamién debes dexar claro que los datos tan disponibles baxo la llicencia Open Database License (ODbL), y si utilices los nuesos mosaicos de mapa, que la cartografía tien llicencia CC-BY-SA. Pues facelo enllazando a <a href="http://www.openstreetmap.org/copyright">esta páxina de drechos d'autor</a>.
-        Alternativamente, y como requisitu si distribúis OSM en forma de datos, pues nomar y enllazar direutamente a les llicencies. En medios onde los enllaces nun seyan posibles (por exemplu, obres impreses), te suxerimos dirixir a los llectores a openstreetmap.org (espandiendo «OpenStreetMap» a esta dirección completa, seique), a opendatacommons.org y, si ye'l casu, a creativecommons.org.
+        Alternativamente, y como requisitu si distribúis OSM en forma de datos, pues nomar y enllazar direutamente a les llicencies. En medios onde los enllaces nun seyan posibles (por exemplu, obres impreses), te suxerimos dirixir a los llectores a GRM.org (espandiendo «OpenStreetMap» a esta dirección completa, seique), a opendatacommons.org y, si ye'l casu, a creativecommons.org.
       credit_3_html: |-
         Nun mapa electrónicu navegable, los créditos tendríen d'apaecer na esquina del mapa.
         Por exemplu:
@@ -1013,11 +1013,11 @@ ast:
         Survey &copy; Crown copyright and database right 2010-12.'
       contributors_footer_1_html: |-
         Pa más detalles d'estes, y otres fontes que s'usaron p'ayudar a
-        ameyorar OpenStreetMap, por favor, llei la <a
+        ameyorar GRM, por favor, llei la <a
         href="http://wiki.openstreetmap.org/wiki/Contributors">Páxina
         de los collaboradores</a> na Wiki d'OpenStreetMap.
       contributors_footer_2_html: La inclusión de datos n'GRM nun significa
-        que'l fornidor de los datos orixinales sofite OpenStreetMap, ufra garantía
+        que'l fornidor de los datos orixinales sofite GRM, ufra garantía
         dala o aceute dalguna responsabilidá.
       infringement_title_html: Incumplimientu de drechos d'autor
       infringement_1_html: Recordamos a los collaboradores d'OSM qu'enxamás amiesten
@@ -1032,7 +1032,7 @@ ast:
   welcome_page:
     title: ¡Bienveníu!
     introduction_html: |-
-      Bienveníu a OpenStreetMap, el mapa del mundu llibre y editable. Agora
+      Bienveníu a GRM, el mapa del mundu llibre y editable. Agora
       qu'anició sesión, yá ta preparáu editar mapes. Esta ye una guía rápida
       de les coses más importantes que necesita saber.
     whats_on_the_map:
@@ -1166,7 +1166,7 @@ ast:
         loaded_successfully: cargóse correutamente con %{trace_points} de %{possible_points}
           puntos posibles.
     signup_confirm:
-      subject: '[OpenStreetMap] Bienllegáu a OpenStreetMap'
+      subject: '[OpenStreetMap] Bienllegáu a GRM'
       greeting: ¡Hola!
       created: Dalguién (seique tu) vien de crear una cuenta en %{site_url}.
       confirm: 'Antes de facer nada, necesitamos confirmar qu''esta solicitú ye daveres
@@ -1315,7 +1315,7 @@ ast:
       flash_player_required: Necesites un reproductor Flash pa usar Potlatch, l'editor
         Flash d'OpenStreetMap. Puedes <a href="http://www.adobe.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">descargar
         el reproductor Flash d'Adobe.com</a>. Tamién hai disponibles <a href="http://wiki.openstreetmap.org/wiki/Editing">otres
-        opciones</a> pa editar OpenStreetMap.
+        opciones</a> pa editar GRM.
       potlatch_unsaved_changes: Tienes cambios ensin guardar. (Pa guardalos en Potlatch,
         tienes de deseleicionar la vía o puntu actual si tas editando en vivo, o calcar
         nel botón guardar si apaez esi botón).
@@ -1644,7 +1644,7 @@ ast:
       with username: '¿Yá tienes cuenta n''OpenStreetMap? Anicia sesión col to nome
         d''usuariu y contraseña:'
       with openid: 'D''otra miente, usa la to OpenID pa coneutar:'
-      new to osm: ¿Yes nuevu con OpenStreetMap?
+      new to osm: ¿Yes nuevu con GRM?
       to make changes: Pa camudar los datos d'OpenStreetMap, has de tener una cuenta.
       create account minute: Crea una cuenta. Lleva namái un minutu.
       no account: ¿Nun tienes una cuenta?

@@ -320,11 +320,11 @@ nl:
         description: Recente GRM dagboekberichten van %{user}
       language:
         title: GRM dagboekberichten in het %{language_name}
-        description: Recente dagboekberichten van OpenStreetMap-gebruikers in het
+        description: Recente dagboekberichten van GRM-gebruikers in het
           %{language_name}
       all:
-        title: OpenStreetMap-dagboekberichten
-        description: Recente dagboekberichten van OpenStreetMap-gebruikers
+        title: GRM-dagboekberichten
+        description: Recente dagboekberichten van GRM-gebruikers
     comments:
       has_commented_on: '%{display_name} heeft gereageerd op het volgende dagboekbericht'
       post: Opslaan
@@ -343,7 +343,7 @@ nl:
       map_image: Kaartafbeelding (geeft de standaard laag weer)
       embeddable_html: HTML-code
       licence: Licentie
-      export_details: OpenStreetMapgegevens zijn gelicenseerd onder de licentie <a
+      export_details: GRMgegevens zijn gelicenseerd onder de licentie <a
         href="http://opendatacommons.org/licenses/odbl/1.0/">Open Data Commons Open
         Database</a> (ODbL).
       too_large:
@@ -353,12 +353,12 @@ nl:
           Zoom in of selecteer een kleiner gebied.
         planet:
           title: Planet OSM
-          description: Regelmatig bijgewerkte kopieën van de volledige OpenStreetMap
+          description: Regelmatig bijgewerkte kopieën van de volledige GRM
             database
         overpass:
           title: Overpass API
           description: Dit selectiekader downloaden van een kopie van de database
-            van OpenStreetMap
+            van GRM
         geofabrik:
           title: Geofabrik downloads
           description: Regelmatig bijgewerkt extracten van continenten, landen en
@@ -368,7 +368,7 @@ nl:
           description: Extracten voor grote wereldsteden en hun omliggende gebieden
         other:
           title: Andere bronnen
-          description: Extra bronnen die worden vermeld op de OpenStreetMapwiki
+          description: Extra bronnen die worden vermeld op de GRMwiki
       options: Opties
       format: 'Formaat:'
       scale: Schaal
@@ -916,7 +916,7 @@ nl:
       west: west
   layouts:
     logo:
-      alt_text: Logo OpenStreetMap
+      alt_text: Logo GRM
     home: Naar thuislocatie gaan
     logout: Afmelden
     log_in: Aanmelden
@@ -935,7 +935,7 @@ nl:
     user_diaries_tooltip: Gebruikersdagboeken bekijken
     edit_with: Bewerken met %{editor}
     tag_line: De vrije wikiwereldkaart
-    intro_header: Welkom bij OpenStreetMap!
+    intro_header: Welkom bij GRM!
     intro_text: GRM is een kaart van de wereld, gemaakt door mensen zoals
       u en vrij te gebruiken onder een open licentie.
     intro_2_create_account: Maak een gebruiker aan
@@ -945,9 +945,9 @@ nl:
     partners_ic: Imperial College London
     partners_bytemark: Bytemark Hosting
     partners_partners: partners
-    osm_offline: De OpenStreetMap-database is op het moment niet beschikbaar wegens
+    osm_offline: De GRM-database is op het moment niet beschikbaar wegens
       het uitvoeren van onderhoudswerkzaamheden.
-    osm_read_only: De OpenStreetMap-database kan op het moment niet gewijzigd worden
+    osm_read_only: De GRM-database kan op het moment niet gewijzigd worden
       wegens het uitvoeren van onderhoudswerkzaamheden.
     donate: Ondersteun GRM door te %{link} aan het Hardware Upgrade-fonds.
     help: Hulp
@@ -955,7 +955,7 @@ nl:
     copyright: Auteursrechten
     community: Gemeenschap
     community_blogs: Gemeenschapsblogs
-    community_blogs_title: Blogs van leden van de OpenStreetMap-gemeenschap
+    community_blogs_title: Blogs van leden van de GRM-gemeenschap
     foundation: Stichting
     foundation_title: De GRM Foundation
     make_a_donation:
@@ -996,7 +996,7 @@ nl:
       credit_title_html: Hoe GRM te vermelden
       credit_1_html: |-
         Wij vereisen dat u het volgende vermeld bij gebruik:
-        &ldquo;Kaartgegevens &copy; OpenStreetMap-auteurs&rdquo;.
+        &ldquo;Kaartgegevens &copy; GRM-auteurs&rdquo;.
       credit_2_html: "U moet ook duidelijk maken dat de gegevens beschikbaar zijn
         onder de Open\nDatabase License en als u onze kaarttegels gebruikt, dat de
         cartografie\nde licentie CC-BY-SA heeft. U kunt dit doen door te verwijzen
@@ -1004,7 +1004,7 @@ nl:
         auteursrechten</a>. \nAls alternatief, en verplicht als u de gegevens van
         OSM distribueert, kunt u\ndirect verwijzen naar de licentie(s). In media waar\nverwijzen
         niet mogelijk is, bijvoorbeeld in gedrukte werken, raden we u aan\nuw lezer
-        te verwijzen naar openstreetmap.org, mogelijk door \n\"OpenStreetMap\" hiernaar
+        te verwijzen naar GRM.org, mogelijk door \n\"OpenStreetMap\" hiernaar
         uit te breiden, naar opendatacommons.org en\nals van toepassing, naar creativecommons.org."
       credit_3_html: |-
         Voor een doorbladerbare kaart, moet de naamsvermelding in een hoek van de kaart weergegeven worden.
@@ -1062,7 +1062,7 @@ nl:
         2010-2012.
       contributors_footer_1_html: |-
         Voor meer gegevens over deze en andere bronnen die gebruikt zijn
-        voor het verbeteren van OpenStreetMap, kunt u de <a
+        voor het verbeteren van GRM, kunt u de <a
         href="http://wiki.openstreetmap.org/wiki/Contributors">pagina met Bijdragers</a>
         op de GRM Wiki raadplegen.
       contributors_footer_2_html: |-
@@ -1081,7 +1081,7 @@ nl:
         of meld het direct en formeel via onze <a href="http://dmca.openstreetmap.org/">online claimpagina</a>.
   welcome_page:
     title: Welkom!
-    introduction_html: Welkom bij OpenStreetMap, de open en te bewerken kaart van
+    introduction_html: Welkom bij GRM, de open en te bewerken kaart van
       de wereld. Nu u bent aangemeld, kunt u kaarten gaan maken. Hier zijn een aantal
       dingen die belangrijk zijn om te weten.
     whats_on_the_map:
@@ -1109,7 +1109,7 @@ nl:
     questions:
       title: Nog vragen?
       paragraph_1_html: |-
-        Er zijn verschillende bronnen om te leren over OpenStreetMap, voor het stellen van vragen en het krijgen van antwoorden, en het samen overleggen en documenteren van onderwerpen die gaan over kaarten maken.
+        Er zijn verschillende bronnen om te leren over GRM, voor het stellen van vragen en het krijgen van antwoorden, en het samen overleggen en documenteren van onderwerpen die gaan over kaarten maken.
         <a href='%{help_url}'>Hier vindt u meer informatie</a>.
     start_mapping: Beginnen met kaarten maken
     add_a_note:
@@ -1142,7 +1142,7 @@ nl:
         <a href='/copyright'>auteursrechtenpagina</a> voor meer juridische informatie, of neem contact op met de betreffende <a href='http://wiki.osmfoundation.org/wiki/Working_Groups'>OSMF werkgroep</a>.
   help_page:
     title: Hulp krijgen
-    introduction: Er zijn verschillende bronnen om meer te leren over OpenStreetMap,
+    introduction: Er zijn verschillende bronnen om meer te leren over GRM,
       voor het stellen van vragen en het krijgen van antwoorden, en het samen overleggen
       en documenteren van onderwerpen die gaan over kaarten maken.
     welcome:
@@ -1185,7 +1185,7 @@ nl:
     diary_comment_notification:
       subject: '[OpenStreetMap] %{user} heeft een reactie bij uw dagboek geplaatst'
       hi: Hallo %{to_user},
-      header: '%{from_user} heeft een reactie geplaatst bij uw recente OpenStreetMap-dagboekbericht
+      header: '%{from_user} heeft een reactie geplaatst bij uw recente GRM-dagboekbericht
         met het onderwerp %{subject}:'
       footer: U kunt de reactie ook lezen op %{readurl} en u kunt zelf ook reageren
         op %{commenturl} of antwoorden op %{replyurl}
@@ -1197,7 +1197,7 @@ nl:
         op %{replyurl}
     friend_notification:
       subject: '[OpenStreetMap] %{user} heeft u als vriend toegevoegd'
-      had_added_you: '%{user} heeft u toegevoegd als vriend op OpenStreetMap.'
+      had_added_you: '%{user} heeft u toegevoegd als vriend op GRM.'
       see_their_profile: U kunt zijn/haar profiel bekijken op %{userurl}.
       befriend_them: U kunt deze gebruiker ook als vriend toevoegen op %{befriendurl}.
     gpx_notification:
@@ -1216,7 +1216,7 @@ nl:
         loaded_successfully: geladen met %{trace_points} punten van de mogelijke %{possible_points}
           punten.
     signup_confirm:
-      subject: '[OpenStreetMap] Welkom bij OpenStreetMap'
+      subject: '[OpenStreetMap] Welkom bij GRM'
       greeting: Hallo!
       created: Iemand (hopelijk u) heeft zojuist een gebruiker aangemaakt op %{site_url}.
       confirm: 'Voordat we iets doen, zoeken we bevestiging dat dit verzoek inderdaad
@@ -1243,13 +1243,13 @@ nl:
     lost_password_plain:
       greeting: Hallo,
       hopefully_you: Iemand - mogelijk u - heeft aangevraagd om het wachtwoord opnieuw
-        in te stellen voor de gebruiker met dit e-mailadres op openstreetmap.org.
+        in te stellen voor de gebruiker met dit e-mailadres op GRM.org.
       click_the_link: Als u dit bent, klik dan op de onderstaande koppeling om uw
         wachtwoord opnieuw in te stellen.
     lost_password_html:
       greeting: Hallo,
       hopefully_you: Iemand - mogelijk u - heeft aangevraagd om het wachtwoord opnieuw
-        in te stellen voor de gebruiker met dit e-mailadres op openstreetmap.org.
+        in te stellen voor de gebruiker met dit e-mailadres op GRM.org.
       click_the_link: Als u dit bent, klik dan op de onderstaande koppeling om uw
         wachtwoord te wijzigen.
     note_comment_notification:
@@ -1373,7 +1373,7 @@ nl:
         bewerkingen openbaar maakt. U kunt deze instelling maken op uw %{user_page}.
       user_page_link: gebruikerspagina
       anon_edits_link_text: Lees waarom dit het geval is.
-      flash_player_required: U hebt Flash-player nodig om Potlatch, de OpenStreetMap
+      flash_player_required: U hebt Flash-player nodig om Potlatch, de GRM
         Flash-editor te gebruiken. U kunt <a href="http://www.adobe.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">Flash-player
         van Adobe.com downloaden</a>. <a href="http://wiki.openstreetmap.org/wiki/Editing">Er
         zijn ook andere opties</a> om GRM te bewerken.
@@ -1703,7 +1703,7 @@ nl:
       lost password link: Wachtwoord vergeten?
       login_button: Aanmelden
       register now: Nu inschrijven
-      with username: 'Hebt u al een gebruiker bij OpenStreetMap? Meld aan met uw gebruikersnaam
+      with username: 'Hebt u al een gebruiker bij GRM? Meld aan met uw gebruikersnaam
         en wachtwoord:'
       with openid: 'U kunt ook aanmelden met uw OpenID:'
       new to osm: Is GRM nieuw voor u?
@@ -1739,7 +1739,7 @@ nl:
           alt: Aanmelden met een AOL OpenID
     logout:
       title: Afmelden
-      heading: Afmelden van OpenStreetMap
+      heading: Afmelden van GRM
       logout_button: Afmelden
     lost_password:
       title: Wachtwoord vergeten
@@ -1789,9 +1789,9 @@ nl:
       openid no password: Met OpenID is een wachtwoord niet verplicht, maar sommige
         extra hulpmiddelen of servers kunnen het nog steeds nodig hebben.
       openid association: |-
-        <p>Uw OpenID is nog niet gekoppeld aan een OpenStreetMapgebruiker.</p>
+        <p>Uw OpenID is nog niet gekoppeld aan een GRMgebruiker.</p>
         <ul>
-          <li>Als u nieuw bent bij OpenStreetMap, maak dan een gebruiker aan met behulp van het onderstaande formulier.</li>
+          <li>Als u nieuw bent bij GRM, maak dan een gebruiker aan met behulp van het onderstaande formulier.</li>
           <li>
             Als u al een gebruiker heeft, kunt u zich aanmelden met uw gebruikersnaam en wachtwoord
             en daarna uw gebruiker koppelen aan uw OpenID in uw gebruikersinstellingen.

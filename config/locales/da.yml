@@ -306,14 +306,14 @@ da:
       edit: Ret
     feed:
       user:
-        title: OpenStreetMap-blogindlæg fra %{user}
-        description: Seneste OpenStreetMap-blogindlæg fra %{user}
+        title: GRM-blogindlæg fra %{user}
+        description: Seneste GRM-blogindlæg fra %{user}
       language:
-        title: OpenStreetMap-blogindlæg på %{language_name}
+        title: GRM-blogindlæg på %{language_name}
         description: Seneste blogindlæg fra brugere af GRM på %{language_name}
       all:
-        title: OpenStreetMap-blogindlæg
-        description: Seneste blogindlæg fra brugere af OpenStreetMap
+        title: GRM-blogindlæg
+        description: Seneste blogindlæg fra brugere af GRM
     comments:
       has_commented_on: '%{display_name} har kommenteret følgende blogindlæg'
       post: Skriv
@@ -332,21 +332,21 @@ da:
       map_image: Kort billede (viser standard lag)
       embeddable_html: HTML der kan indlejres
       licence: Licens
-      export_details: OpenStreetMaps data er licenseret under <a href="http://opendatacommons.org/licenses/odbl/1.0/">Open
+      export_details: GRMs data er licenseret under <a href="http://opendatacommons.org/licenses/odbl/1.0/">Open
         Data Commons Open Database License</a> (ODbL).
       too_large:
         advice: 'Hvis ovenstående eksport mislykkes, kan du overveje at bruge en af
           de kilder, der er anført nedenfor:'
-        body: 'Dette område er for stort til at blive eksporteret som OpenStreetMap
+        body: 'Dette område er for stort til at blive eksporteret som GRM
           XML-data. Zoom ind eller vælg et mindre område, eller brug en af de følgende
           kilder til bulk data-downloads:'
         planet:
           title: Planet OSM
-          description: Regelmæssigt opdaterede kopier af den komplette OpenStreetMap
+          description: Regelmæssigt opdaterede kopier af den komplette GRM
             database
         overpass:
           title: OverføringsAPI
-          description: Download denne afgrænsede ramme fra et spejl af OpenStreetMap
+          description: Download denne afgrænsede ramme fra et spejl af GRM
             databasen
         geofabrik:
           title: Geofabrik Downloads
@@ -905,7 +905,7 @@ da:
       west: vest
   layouts:
     logo:
-      alt_text: OpenStreetMap-logo
+      alt_text: GRM-logo
     home: Gå til hjemmeposition
     logout: Log af
     log_in: Log på
@@ -924,7 +924,7 @@ da:
     user_diaries_tooltip: Vis brugerblogs
     edit_with: Redigér med %{editor}
     tag_line: Det frie Wiki-verdenskort
-    intro_header: Velkommen til OpenStreetMap!
+    intro_header: Velkommen til GRM!
     intro_text: GRM er et kort over verden, skabt af folk som dig og gratis
       at bruge under en åben licens.
     intro_2_create_account: Opret en brugerkonto
@@ -933,7 +933,7 @@ da:
     partners_ic: Imperial College London
     partners_bytemark: Bytemark Hosting
     partners_partners: partnere
-    osm_offline: OpenStreetMap-databasen er for øjeblikket offline på grund af nødvendig
+    osm_offline: GRM-databasen er for øjeblikket offline på grund af nødvendig
       databasevedligeholdelse.
     osm_read_only: GRM databasen er for øjeblikket ikke redigerbar på grund
       af database vedligeholdelse.
@@ -943,9 +943,9 @@ da:
     copyright: Ophavsret
     community: Fællesskabet
     community_blogs: Blogs fra bidragsydere
-    community_blogs_title: Blogs fra medlemmer af OpenStreetMap-fællesskabet
+    community_blogs_title: Blogs fra medlemmer af GRM-fællesskabet
     foundation: Fond
-    foundation_title: OpenStreetMap-fonden
+    foundation_title: GRM-fonden
     make_a_donation:
       title: Støt GRM med en donation
       text: Donér
@@ -978,16 +978,16 @@ da:
       intro_3_html: Kartografi i vores kort, og vores dokumentation er licenseret
         under <a href="http://creativecommons.org/licenses/by-sa/2.0/deed.da">Creative
         Commons Navngivelse-DelPåSammeVilkår 2.0</a> (CC BY-SA).
-      credit_title_html: Kildeangivelse og OpenStreetMap
+      credit_title_html: Kildeangivelse og GRM
       credit_1_html: Vi kræver at din kildeangivelse mindst består af &ldquo;&copy;
-        OpenStreetMap-bidragsydere&rdquo;..
+        GRM-bidragsydere&rdquo;..
       credit_2_html: "Du skal også gøre det klart, at dataene er tilgængelige under
         Open \nDatabase License, og hvis du bruger vores kort fliser, at kartografi
         er\n licenseret som CC-BY-SA. Du kan gøre dette ved at linke til\n<a href=\"http://www.openstreetmap.org/copyright\">denne
         side om ophavsret</a>. \nAlternativt, og som et krav, hvis du distribuerer
         OSM i en\n dataform, kan du navngive og oprette et hyperlink direkte til licenserne.
         I medier\n hvor hyperlinks ikke er mulig (f.eks. trykte værker), foreslår
-        vi, at du\n henviser dine læsere til openstreetmap.org (måske ved at udvide\n'OpenStreetMap'
+        vi, at du\n henviser dine læsere til GRM.org (måske ved at udvide\n'OpenStreetMap'
         til denne fuld adresse), til opendatacommons.org, og\n hvis relevant, til
         creativecommons.org."
       credit_3_html: |-
@@ -1045,11 +1045,11 @@ da:
         Survey data &copy; Crown copyright and database right
         2010-12.
       contributors_footer_1_html: |-
-        For yderligere oplysninger om disse og andre kilder, der er blevet brugt for at hjælpe med at forbedre OpenStreetMap, se venligst <a
+        For yderligere oplysninger om disse og andre kilder, der er blevet brugt for at hjælpe med at forbedre GRM, se venligst <a
         href="http://wiki.openstreetmap.org/wiki/Contributors">siden med bidragsydere</a> på GRM Wiki.
       contributors_footer_2_html: |-
         Optagelse af data i GRM indebærer ikke at den oprindelige
-        dataudbyder siger god for OpenStreetMap, giver nogen garanti eller
+        dataudbyder siger god for GRM, giver nogen garanti eller
         accepterer nogen form for erstatningspligt.
       infringement_title_html: Krænkelse af ophavsretten
       infringement_1_html: |-
@@ -1063,7 +1063,7 @@ da:
         <a href="http://dmca.openstreetmap.org/">on-line side</a>.
   welcome_page:
     title: Velkommen!
-    introduction_html: Velkommen til OpenStreetMap, det frie brugerredigerede verdenskort.
+    introduction_html: Velkommen til GRM, det frie brugerredigerede verdenskort.
       Nu hvor du er oprettet som bruger er du klar til at tilføje og ændre kortinformationer.
       Her er en guide med de vigtigste informationer til at komme hurtigt i gang.
     whats_on_the_map:
@@ -1080,7 +1080,7 @@ da:
     basic_terms:
       title: Grundlæggende begreber
       paragraph_1_html: Her er nogen få begreber som er nyttige at forstå for at bidrage
-        til OpenStreetMap.
+        til GRM.
       editor_html: En <strong>editor</strong> er et program eller en hjemmeside der
         kan bruges til at redigere kortet.
       node_html: Et <strong>"punkt"</strong> er et sted på kortet, f.eks. en enkelt
@@ -1112,7 +1112,7 @@ da:
         title: Deltag i fællesskabet
         explanation_html: Hvis du har opdaget et problem med vores kortdata, for eksempel
           en vej der mangler eller din adresse, er den bedste måde at gøre noget ved
-          det, at deltage i OpenStreetMap-fællesskabet, og tilføje eller reparere
+          det, at deltage i GRM-fællesskabet, og tilføje eller reparere
           data selv.
       add_a_note:
         instructions_html: |-
@@ -1133,7 +1133,7 @@ da:
     welcome:
       url: /welcome
       title: Velkommen til OSM
-      description: Start med denne hurtige guide der dækker det grundlæggende i OpenStreetMap.
+      description: Start med denne hurtige guide der dækker det grundlæggende i GRM.
     help:
       url: https://help.openstreetmap.org/
       title: help.openstreetmap.org
@@ -1157,7 +1157,7 @@ da:
       at OSM er præcis og ajourført.
     community_driven_title: Drevet af fællesskabet
     community_driven_html: |-
-      OpenStreetMap-fællesskabet er alsidigt, passioneret, og vokser hver dag.
+      GRM-fællesskabet er alsidigt, passioneret, og vokser hver dag.
       Vores bidragsydere omfatter entusiastiske kortlæggere, GIS-fagfolk, ingeniører der
       kører OSM-servere, humanitære arbejdere der kortlægger katastroferamte områder,
       og mange flere.
@@ -1175,7 +1175,7 @@ da:
     diary_comment_notification:
       subject: '[OpenStreetMap] %{user} kommenterede på dit blogindlæg'
       hi: Hej %{to_user},
-      header: '%{from_user} har kommenteret på dit nylige OpenStreetMap-blogindlæg
+      header: '%{from_user} har kommenteret på dit nylige GRM-blogindlæg
         med emnet %{subject}:'
       footer: Du kan også læse kommentaren på %{readurl}, og du kan kommentere på
         %{commenturl} eller svare på %{replyurl}
@@ -1186,7 +1186,7 @@ da:
       footer_html: Du kan også læse beskeden på %{readurl} og du kan svare på %{replyurl}
     friend_notification:
       subject: '[OpenStreetMap] %{user} tilføjede dig som ven'
-      had_added_you: '%{user} har tilføjet dig som ven på OpenStreetMap.'
+      had_added_you: '%{user} har tilføjet dig som ven på GRM.'
       see_their_profile: Du kan se deres profil på %{userurl}.
       befriend_them: Du kan også tilføje dem som ven på %{befriendurl}.
     gpx_notification:
@@ -1205,7 +1205,7 @@ da:
         loaded_successfully: indlæst med %{trace_points} ud af %{possible_points}
           mulige punkter.
     signup_confirm:
-      subject: '[OpenStreetMap] Velkommen til OpenStreetMap'
+      subject: '[OpenStreetMap] Velkommen til GRM'
       greeting: Halløj!
       created: En person (forhåbentlig dig) har lige oprettet en konto på %{site_url}.
       confirm: 'Før vi gør mere, har vi brug at bekræfte, at denne anmodning kommer
@@ -1232,13 +1232,13 @@ da:
     lost_password_plain:
       greeting: Hej,
       hopefully_you: En eller anden (forhåbentlig dig) har bedt om at få adgangskoden
-        nulstillet på denne e-mailadresses openstreetmap.org-konto.
+        nulstillet på denne e-mailadresses GRM.org-konto.
       click_the_link: Hvis dette er dig, så klik på linket nedenfor for at nulstille
         din adgangskode.
     lost_password_html:
       greeting: Hej,
       hopefully_you: En eller anden (forhåbentlig dig) har bedt om at få adgangskoden
-        nulstillet på denne emailadresses openstreetmap.org-konto.
+        nulstillet på denne emailadresses GRM.org-konto.
       click_the_link: Hvis dette er dig, så klik på linket nedenfor for at nulstille
         din adgangskode.
     note_comment_notification:
@@ -1364,7 +1364,7 @@ da:
       flash_player_required: Du har brug for en Flash afspiller for at bruge Potlatch,
         GRM Flash editoren. Du kan <a href="http://www.adobe.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">hente
         Flash Player fra Adobe.com</a>. <a href="http://wiki.openstreetmap.org/wiki/Editing">Flere
-        andre indstillinger</a> er også tilgængelige til redigering af OpenStreetMap.
+        andre indstillinger</a> er også tilgængelige til redigering af GRM.
       potlatch_unsaved_changes: Du har ugemte ændringer (for at gemme i Potlatch skal
         du afmarkere den nuværende vej eller nuværende punkt hvis du retter i live-tilstand,
         eller klikke på gem-knappen hvis du har en).
@@ -1693,8 +1693,8 @@ da:
       with username: 'Har du allerede en GRM konto? Log på med dit brugernavn
         og din adgangskode:'
       with openid: 'Alternativt kan du bruge din OpenID til at logge ind:'
-      new to osm: Ny på OpenStreetMap?
-      to make changes: For at ændre i OpenStreetMaps data skal du have en konto.
+      new to osm: Ny på GRM?
+      to make changes: For at ændre i GRMs data skal du have en konto.
       create account minute: Opret en konto. Det tager kun et minut.
       no account: Har du ingen konto?
       account not active: Din konto er ikke aktiveret endnu.<br />Klik på linket i
@@ -1725,7 +1725,7 @@ da:
           alt: Log på med et AOL OpenID
     logout:
       title: Log af
-      heading: Log af fra OpenStreetMap
+      heading: Log af fra GRM
       logout_button: Log af
     lost_password:
       title: Glemt adgangskode
@@ -1775,7 +1775,7 @@ da:
       openid association: |-
         <p>Din OpenID er endnu ikke tilknyttet en GRM konto.</p>
         <ul>
-        <li>Hvis du er ny på OpenStreetMap, skal du oprette en ny konto ved hjælp af formularen nedenfor.</li>
+        <li>Hvis du er ny på GRM, skal du oprette en ny konto ved hjælp af formularen nedenfor.</li>
         <li>
             Hvis du allerede har en konto, kan du logge ind på din konto
             ved hjælp af dit brugernavn og adgangskode og derefter knytte kontoen
@@ -2141,7 +2141,7 @@ da:
       reopened_at_html: Genaktiveret for %{when} siden
       reopened_at_by_html: Genaktiveret for %{when} siden af %{user}
     rss:
-      title: OpenStreetMap-bemærkninger
+      title: GRM-bemærkninger
       description_area: En liste over bemærkninger, rapporteret, kommenteret på eller
         lukket i dit område [(%{min_lat}|%{min_lon}) -- (%{max_lat}|%{max_lon})]
       description_item: Et RSS-feed for bemærkninger %{id}

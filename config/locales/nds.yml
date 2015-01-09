@@ -412,7 +412,7 @@ nds:
       west: westen
   layouts:
     logo:
-      alt_text: OpenStreetMap-Logo
+      alt_text: GRM-Logo
     logout: afmellen
     log_in: anmellen
     log_in_tooltip: Mit dien Brukerkonto anmellen

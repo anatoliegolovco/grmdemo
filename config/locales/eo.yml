@@ -192,7 +192,7 @@ eo:
       area_to_export: Eksportonta areo
       manually_select: Mane elekti alian aeron.
       format_to_export: Formato por Eksportado
-      osm_xml_data: XML datumoj de OpenStreetMap
+      osm_xml_data: XML datumoj de GRM
       licence: Permesilo
       options: Opcioj
       format: Formato
@@ -328,7 +328,7 @@ eo:
       west: okcidento
   layouts:
     logo:
-      alt_text: Emblemo de OpenStreetMap
+      alt_text: Emblemo de GRM
     home: hejmo
     logout: elsaluti
     log_in: ensaluti
