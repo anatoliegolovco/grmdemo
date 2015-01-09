@@ -292,11 +292,11 @@ ia:
       edit: Modificar
     feed:
       user:
-        title: Entratas de diario de GRM de %{user}
-        description: Entratas recente de diario de GRM de %{user}
+        title: Entratas de diario de OpenStreetMap de %{user}
+        description: Entratas recente de diario de OpenStreetMap de %{user}
       language:
-        title: Entratas de diario de GRM in %{language_name}
-        description: Entratas de diario recente de usatores de GRM in %{language_name}
+        title: Entratas de diario de OpenStreetMap in %{language_name}
+        description: Entratas de diario recente de usatores de OpenStreetMap in %{language_name}
       all:
         title: Entratas de diario de OpenStreetMap
         description: Entratas recente de diario de ustores de OpenStreetMap
@@ -318,7 +318,7 @@ ia:
       map_image: Imagine de carta (monstra le strato standard)
       embeddable_html: HTML incorporabile
       licence: Licentia
-      export_details: Le datos de GRM es licentiate sub le <a href="http://opendatacommons.org/licenses/odbl/1.0/">Open
+      export_details: Le datos de OpenStreetMap es licentiate sub le <a href="http://opendatacommons.org/licenses/odbl/1.0/">Open
         Data Commons Open Database License</a> (ODbL).
       too_large:
         advice: 'Si iste exportation falle, considera usar un del fontes listate hic
@@ -911,7 +911,7 @@ ia:
     edit_with: Modificar con %{editor}
     tag_line: Le wiki-carta libere del mundo
     intro_header: Benvenite a OpenStreetMap!
-    intro_text: GRM es un carta del mundo, create per gente como tu e libere
+    intro_text: OpenStreetMap es un carta del mundo, create per gente como tu e libere
       de usar sub un licentia aperte.
     intro_2_create_account: Crea un conto de usator
     partners_html: Le allogiamento web es supportate per %{ucl}, %{ic} e %{bytemark},
@@ -921,11 +921,11 @@ ia:
     partners_bytemark: Bytemark Hosting
     partners_partners: partners
     partners_url: http://wiki.openstreetmap.org/wiki/Partners
-    osm_offline: Le base de datos de GRM non es disponibile al momento debite
+    osm_offline: Le base de datos de OpenStreetMap non es disponibile al momento debite
       a operationes de mantenentia essential.
-    osm_read_only: Le base de datos de GRM es al momento in modo de solmente
+    osm_read_only: Le base de datos de OpenStreetMap es al momento in modo de solmente
       lectura durante le execution de mantenentia essential.
-    donate: Supporta GRM per %{link} al Fundo de Actualisation de Hardware.
+    donate: Supporta OpenStreetMap per %{link} al Fundo de Actualisation de Hardware.
     help: Adjuta
     about: A proposito
     copyright: Derectos de autor
@@ -935,7 +935,7 @@ ia:
     foundation: Fundation
     foundation_title: Le fundation OpenStreetMap
     make_a_donation:
-      title: Supporta GRM con un donation monetari
+      title: Supporta OpenStreetMap con un donation monetari
       text: Facer un donation
     learn_more: Leger plus
     more: Plus
@@ -955,12 +955,12 @@ ia:
     legal_babble:
       title_html: Copyright e Licentia
       intro_1_html: |-
-        GRM es <i>datos aperte</i>, licentiate sub le <a
+        OpenStreetMap es <i>datos aperte</i>, licentiate sub le <a
         href="http://opendatacommons.org/licenses/odbl/">Open Data
         Commons Open Database License</a> (ODbL).
       intro_2_html: |2-
           Vos es libere de copiar, distribuer, transmitter e adaptar nostre cartas
-          e datos, a condition que vos da recognoscentia a GRM e su
+          e datos, a condition que vos da recognoscentia a OpenStreetMap e su
           contributores. Si vos altera o extende nostre cartas e datos, vos
           pote distribuer le resultato solmente sub le mesme licentia. Le
           complete <a href="http://opendatacommons.org/licenses/odbl/1.0/">codice
@@ -979,7 +979,7 @@ ia:
       credit_3_html: 'Pro un carta electronic navigabile, le recognoscentia debe apparer
         in le angulo del carta. Per exemplo:'
       attribution_example:
-        alt: Exemplo de como recognoscer GRM in un pagina web
+        alt: Exemplo de como recognoscer OpenStreetMap in un pagina web
         title: Exemplo de recognoscentia
       more_title_html: Pro saper plus
       more_1_html: |2-
@@ -987,7 +987,7 @@ ia:
           href="http://wiki.openstreetmap.org/wiki/Legal_FAQ">FAQ
           Legal</a>.
       more_2_html: |-
-        Ben que GRM es datos aperte, nos non pote fornir un API cartographic gratuite pro disveloppatores tertie. Vide nostre <a href="http://wiki.openstreetmap.org/wiki/API_usage_policy">politica pro le uso del API</a>,
+        Ben que OpenStreetMap es datos aperte, nos non pote fornir un API cartographic gratuite pro disveloppatores tertie. Vide nostre <a href="http://wiki.openstreetmap.org/wiki/API_usage_policy">politica pro le uso del API</a>,
         <a href="http://wiki.openstreetmap.org/wiki/Tile_usage_policy">politica pro le uso de tegulas</a>
         e <a href="http://wiki.openstreetmap.org/wiki/Nominatim#Usage_Policy">politica pro le uso de Nominatim</a>.
       contributors_title_html: Nostre contributores
@@ -1031,7 +1031,7 @@ ia:
         href=""http://wiki.openstreetmap.org/wiki/Contributors">pagina
         de contributores</a> in le wiki de OpenStreetMap.
       contributors_footer_2_html: |2-
-          Le inclusion de datos in GRM non implica que le fornitor
+          Le inclusion de datos in OpenStreetMap non implica que le fornitor
           original del datos indorsa OpenStreetMap, forni alcun garantia, o
           accepta alcun responsabilitate.
       infringement_title_html: Violation de copyright
@@ -1040,7 +1040,7 @@ ia:
           fonte sub derecto de autor (p.ex. Google Maps o cartas imprimite)
           sin explicite permission del titulares del derecto de autor.
       infringement_2_html: Si vos crede que material sub copyright ha essite inserite
-        inappropriatemente in le base de datos de GRM o in iste sito, per
+        inappropriatemente in le base de datos de OpenStreetMap o in iste sito, per
         favor consulta nostre <a href="http://www.osmfoundation.org/wiki/License/Takedown_procedure">procedura
         de remotion</a> o submitte un plancto immediate usante nostre <a href="http://dmca.openstreetmap.org/">formulario
         in linea</a>.
@@ -1051,7 +1051,7 @@ ia:
       Ecce un guida curte con le cosas le plus importante a saper.
     whats_on_the_map:
       title: Que es sur le carta?
-      on_html: GRM es un loco pro cartographiar cosas <em>real e actual</em>;
+      on_html: OpenStreetMap es un loco pro cartographiar cosas <em>real e actual</em>;
         illo include milliones de edificios, stratas e altere detalios sur locos.
         Tu pote cartographiar qualcunque elemento del mundo real que te interessa.
       off_html: Illo <em>non</em> include datos subjective como punctos de appreciation,
@@ -1059,7 +1059,7 @@ ia:
         excludite; non copia cosas ab cartas in linea o de papiro sin permission special!
     basic_terms:
       title: Vocabulario de base pro le cartographia
-      paragraph_1_html: GRM ha un jargon proprie. Ecce alcun parolas clave
+      paragraph_1_html: OpenStreetMap ha un jargon proprie. Ecce alcun parolas clave
         que te essera utile.
       editor_html: Un <strong>editor</strong> es un programma o sito web que tu pote
         usar pro modificar le carta.
@@ -1073,7 +1073,7 @@ ia:
     questions:
       title: Questiones?
       paragraph_1_html: |-
-        GRM ha plure ressources pro apprender a cognoscer le projecto, pro poner e responder a questiones e pro discuter e documentar le subjectos de carthographia in collaboration con alteres.
+        OpenStreetMap ha plure ressources pro apprender a cognoscer le projecto, pro poner e responder a questiones e pro discuter e documentar le subjectos de carthographia in collaboration con alteres.
         <a href='%{help_url}'>Obtene adjuta hic</a>.
     start_mapping: comenciar le cartographia
     add_a_note:
@@ -1091,7 +1091,7 @@ ia:
         title: Adherer al communitate
         explanation_html: Si tu ha trovate un problema con nostre datos cartographic,
           per exemplo si il manca un cammino o tu adresse, lo melior es inscriber
-          te a GRM e adder o reparar le datos tu mesme.
+          te a OpenStreetMap e adder o reparar le datos tu mesme.
       add_a_note:
         instructions_html: Clicca simplemente sur <a class='icon note'></a> o sur
           le mesme icone in le quadro del carta. Un marcator essera addite al carta,
@@ -1105,7 +1105,7 @@ ia:
         de labor OSMF</a> appropriate.
   help_page:
     title: Obtener adjuta
-    introduction: GRM ha plure ressources pro apprender a cognoscer le projecto,
+    introduction: OpenStreetMap ha plure ressources pro apprender a cognoscer le projecto,
       pro poner e responder a questiones e pro discuter e documentar le subjectos
       de cartographia in collaboration con alteres.
     welcome:
@@ -1126,12 +1126,12 @@ ia:
     copyright_html: <span>&copy;</span>Contributores de<br>OpenStreetMap
     used_by: '%{name} forni datos cartographic a centenas de sitos web, applicationes
       mobile e dispositivos physic'
-    lede_text: GRM es construite per un communitate de cartographos que
+    lede_text: OpenStreetMap es construite per un communitate de cartographos que
       contribue e mantene datos sur stratas, sentieros, cafés, stationes ferroviari
       e multo plus, in tote le mundo.
     local_knowledge_title: Cognoscentia local
     local_knowledge_html: |-
-      GRM mitte le emphase sur le cognoscentia local. Contributores usa
+      OpenStreetMap mitte le emphase sur le cognoscentia local. Contributores usa
       imageria aeree, apparatos GPS e cartas ordinari de terreno pro verificar que OSM
       es accurate e actual.
     community_driven_title: Dirigite per le communitate
@@ -1145,7 +1145,7 @@ ia:
         %{commenturl} o responder a %{replyurl}
     message_notification:
       hi: Salute %{to_user},
-      header: '%{from_user} te ha inviate un message per GRM con le subjecto
+      header: '%{from_user} te ha inviate un message per OpenStreetMap con le subjecto
         %{subject}:'
       footer_html: Tu pote anque leger le message a %{readurl} e tu pote responder
         a %{replyurl}
@@ -1307,12 +1307,12 @@ ia:
     index:
       js_1: O tu usa un navigator que non supporta JavaScript, o tu ha disactivate
         JavaScript.
-      js_2: GRM usa JavaScript pro su carta glissante.
+      js_2: OpenStreetMap usa JavaScript pro su carta glissante.
       permalink: Permaligamine
       shortlink: Ligamine curte
       createnote: Adder un nota
       license:
-        copyright: Copyright GRM e contributores, sub licentia aperte
+        copyright: Copyright OpenStreetMap e contributores, sub licentia aperte
       remote_failed: Modification fallite - assecura te que JOSM o Merkaartor es cargate
         e que le plug-in de controlo remote es activate
     edit:

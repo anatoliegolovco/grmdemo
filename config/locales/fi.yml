@@ -346,7 +346,7 @@ fi:
         Data Commons Open Database License</a> (ODbL) (engl.) ehdoilla.
       too_large:
         advice: 'Jos vientitoiminto ei toimi, kokeile myös seuraavia palveluja:'
-        body: 'Näin suurta aluetta ei voi viedä GRM XML-tiedostona. Lähennä
+        body: 'Näin suurta aluetta ei voi viedä OpenStreetMap XML-tiedostona. Lähennä
           karttaa tai valitse pienempi alue, tai vaihtoehtoisesti lataa tiedosto joltakin
           seuraavista:'
         planet:
@@ -930,7 +930,7 @@ fi:
     edit_with: 'Muokkaa: %{editor}'
     tag_line: Vapaa ja avoin maailmankartta
     intro_header: Tervetuloa OpenStreetMapiin!
-    intro_text: GRM on tavallisten ihmisten luoma maailmankartta. Palvelun
+    intro_text: OpenStreetMap on tavallisten ihmisten luoma maailmankartta. Palvelun
       käyttäminen on ilmaista avoimen lisenssin ansiosta.
     intro_2_create_account: luomalla ensin käyttäjätunnuksen
     partners_html: Palvelinta ylläpitää %{ucl}, %{ic} ja %{bytemark} sekä muut %{partners}.
@@ -972,11 +972,11 @@ fi:
     legal_babble:
       title_html: Tekijänoikeus ja lisenssi
       intro_1_html: |-
-        GRM on <i>avointa dataa</i>, joka on lisensoitu <a
+        OpenStreetMap on <i>avointa dataa</i>, joka on lisensoitu <a
         href="http://opendatacommons.org/licenses/odbl/">Open Data
         Commons Open Database Lisenssillä</a> (ODbL).
       intro_2_html: "OpenStreetMapin karttoja ja tietoja voi kopioida, levittää, välittää
-        ja mukauttaa, \nkunhan GRM ja sen tekijät mainitaan. Jos karttoja
+        ja mukauttaa, \nkunhan OpenStreetMap ja sen tekijät mainitaan. Jos karttoja
         tai tietoja muutetaan tai kehitetään, niitä saa levittää vain samalla lisenssillä.\n<a
         href=\"http://opendatacommons.org/licenses/odbl/1.0/\">Lakitekstissä</a> mainitaan
         levittäjän oikeudet ja velvollisuudet."
@@ -986,7 +986,7 @@ fi:
       credit_title_html: OpenStreetMapin mainitseminen
       credit_1_html: OpenStreetMapin sisältöä levitettäessä on mainittava teksti &quot;&copy;
         OpenStreetMapin tekijät&quot; tai sen englanninkielinen vastine &quot;&copy;
-        GRM contributors&quot;.
+        OpenStreetMap contributors&quot;.
       credit_2_html: "Levittäjän tulee tehdä selväksi, että aineisto on saatavilla
         Open Database Lisenssillä,\nja kartta-aineiston olevan lisensoitu CC-BY-SA-lisenssillä.
         Tämä voidaan tehdä sijoittamalla sivulle linkki\n<a href=\"http://www.openstreetmap.org/copyright\">tälle
@@ -995,12 +995,12 @@ fi:
         www.openstreetmap.org, opendatacommons.org ja tarvittaessa myös creativecommons.org."
       credit_3_html: 'Sähköisen karttaikkunan tulee sisältää tekijän nimi kartan alaosassa:'
       attribution_example:
-        alt: Esimerkki siitä, miten nimetä GRM nettisivulla
+        alt: Esimerkki siitä, miten nimetä OpenStreetMap nettisivulla
         title: Nimeämisesimerkki
       more_title_html: Lisätietoja
       more_1_html: Lue lisää aineiston käyttämisestä <a href="http://wiki.openstreetmap.org/wiki/Legal_FAQ">lakiasioiden
         useimmin kysytyimmistä kysymyksistä</a>.
-      more_2_html: "Vaikka GRM on avointa dataa, emme voi tarjota maksutonta
+      more_2_html: "Vaikka OpenStreetMap on avointa dataa, emme voi tarjota maksutonta
         karttarajapintaa (API) kolmannen osapuolen kehittäjille.\n\nTutustu <a href=\"http://wiki.openstreetmap.org/wiki/API_usage_policy\">API:n
         käyttöehtoihin</a>,\n<a href=\"http://wiki.openstreetmap.org/wiki/Tile_usage_policy\">kartta-aineiston
         käyttöehtoihin</a> ja \n<a href=\"http://wiki.openstreetmap.org/wiki/Nominatim#Usage_Policy\">Nominatimin
@@ -1150,8 +1150,8 @@ fi:
       <a href='http://blogs.openstreetmap.org/'>yhteisöblogeja</a> ja
       <a href='http://www.osmfoundation.org/'>OSM-säätiön</a> verkkosivua.
     open_data_title: Avoin data
-    open_data_html: 'GRM on <i>avointa dataa</i>: palvelua saa käyttää vapaasti
-      mihin tahansa, kunhan GRM tekijöineen mainitaan. Jos palvelua kehitetään
+    open_data_html: 'OpenStreetMap on <i>avointa dataa</i>: palvelua saa käyttää vapaasti
+      mihin tahansa, kunhan OpenStreetMap tekijöineen mainitaan. Jos palvelua kehitetään
       tai muuunnellaan, sitä saa levittää eteenpäin vain samalla lisenssillä. Lisätietoja
       on <a href=''%{copyright_path}''>Tekijänoikeus ja lisenssi</a> -sivulla.'
     partners_title: Kumppanit
@@ -1326,7 +1326,7 @@ fi:
   site:
     index:
       js_1: Selain ei tue JavaScriptiä tai sen suorittaminen on estetty.
-      js_2: GRM tarvitsee JavaScriptin liikuteltavaan karttaan.
+      js_2: OpenStreetMap tarvitsee JavaScriptin liikuteltavaan karttaan.
       permalink: Ikilinkki
       shortlink: Lyhytosoite
       createnote: Ilmoita karttavirheestä
@@ -1729,7 +1729,7 @@ fi:
       about:
         header: Muokkaa vapaasti
         html: |-
-          <p>Toisin kuin muut karttapalvelut, GRM on täysin yhteisön eli vapaaehtoisten ihmisten luoma. Palvelun käyttö ja muokkaaminen on täysin ilmaista ja vapaata.</p>
+          <p>Toisin kuin muut karttapalvelut, OpenStreetMap on täysin yhteisön eli vapaaehtoisten ihmisten luoma. Palvelun käyttö ja muokkaaminen on täysin ilmaista ja vapaata.</p>
           <p>Aloita kartan kehittäminen rekisteröitymällä. Tämän jälkeen vahvista käyttäjätunnus napsauttamalla linkkiä sähköpostitse lähetettävässä aktivointiviestissä.</p>
       license_agreement: Kun vahvistat tilisi sinun on sitouduttava <a href="http://www.osmfoundation.org/wiki/License/Contributor_Terms">osallistujan
         ehtoihin</a>.

@@ -64,12 +64,12 @@ sl:
   editingoffline: Urejanje brez povezave
   emailauthor: \n\nProsim pošljite e-mail richard@systemeD.net z opisom napake in opišite kaj ste pred tem počeli.
   error_anonymous: Ne morete kontaktirati anonimnega kartografa.
-  error_connectionfailed: Oprostite - povezava s strežnikom GRM prekinjena. Nedavne spremembe se niso shranile.\n\nŽelite poskusiti znova?
+  error_connectionfailed: Oprostite - povezava s strežnikom OpenStreetMap prekinjena. Nedavne spremembe se niso shranile.\n\nŽelite poskusiti znova?
   error_microblog_long: "Poriljanje $1 ni uspelo:\nHTTP koda: $2\nNapaka: $3\n$1 napaka: $4"
   error_nopoi: POI ni mogoče najti (morda ste se prestavili drugam?), tako da ne morem razveljaviti.
   error_nosharedpoint: Poti $1 in $2 nimata več skupne točke, tako da ne morem razveljaviti razbijanja.
   error_noway: Pot ni mogoče najti (morda ste se prestavili drugam?), tako da ne morem razveljaviti.
-  error_readfailed: Oprostite - GRM strežnik se ni odzval z želenimi podatki.\n\nAli želite poskusiti znova?
+  error_readfailed: Oprostite - OpenStreetMap strežnik se ni odzval z želenimi podatki.\n\nAli želite poskusiti znova?
   existingrelation: Dodaj v obstoječo zvezo
   findrelation: Poišči zvezo
   gpxpleasewait: Počakajte, da se obdela GPX sled.
@@ -180,7 +180,7 @@ sl:
   prompt_editsave: Urejanje s shranjevanjem
   prompt_helpavailable: Nov uporabnik? Uporabite pomoč v spodnjem levem vogalu.
   prompt_launch: Zaženi zunanji URL
-  prompt_live: Pri načinu vnosa v živo  se bo vsaka sprememba takoj shranil v GRM zbirko podatkov. Ta način vnosa ni priporočljiv za začetnike. Ali ste prepričani?
+  prompt_live: Pri načinu vnosa v živo  se bo vsaka sprememba takoj shranil v OpenStreetMap zbirko podatkov. Ta način vnosa ni priporočljiv za začetnike. Ali ste prepričani?
   prompt_manyways: To območje je zelo podrobno in se bo dolgo nalagalo. se želite približati?
   prompt_microblog: Objavi v $1 ($2 na voljo)
   prompt_revertversion: "Restavriranje na shranjene različice:"

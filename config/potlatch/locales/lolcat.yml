@@ -24,7 +24,7 @@ lolcat:
   delete: Deleet
   deleting: deletin
   emailauthor: \n\NPLEAES e-male richard\@systemed.net wif a bug report, meaowin whut yoo werz doin at teh tyme.
-  error_connectionfailed: "OHNOES! teh GRM servah connecshun has a FAIL. I no saveded n e recent chanzes.\n\nYoo wants tri agin?"
+  error_connectionfailed: "OHNOES! teh OPENSTREETMAP servah connecshun has a FAIL. I no saveded n e recent chanzes.\n\nYoo wants tri agin?"
   error_nopoi: I had a plase but I losteded it, so noes can undo. :(
   error_nosharedpoint: waiz $1 adn $2 dun shaer a common point n e moar , sow I noes kan undo teh spleet.
   error_noway: I had a wai $1 but I losteded it, so noes can undo. :(

@@ -294,13 +294,13 @@ ko:
       edit: 편집
     feed:
       user:
-        title: '%{user} 사용자에 대한 GRM 일기 항목'
-        description: '%{user} 사용자의 최근 GRM 일기 항목'
+        title: '%{user} 사용자에 대한 OpenStreetMap 일기 항목'
+        description: '%{user} 사용자의 최근 OpenStreetMap 일기 항목'
       language:
-        title: '%{language_name}의 GRM 일기 항목'
-        description: '%{language_name}로 된 GRM 최근 일기 항목'
+        title: '%{language_name}의 OpenStreetMap 일기 항목'
+        description: '%{language_name}로 된 OpenStreetMap 최근 일기 항목'
       all:
-        title: GRM 일기 항목
+        title: OpenStreetMap 일기 항목
         description: OpenStreetMap의 사용자의 최근 일기 항목
     comments:
       has_commented_on: '%{display_name} 사용자가 다음 일기 항목에 덧글을 남겼습니다'
@@ -316,22 +316,22 @@ ko:
       area_to_export: 지역 내보내기
       manually_select: 수동으로 다른 지역 선택
       format_to_export: 내보내기 형식
-      osm_xml_data: GRM XML 데이터
+      osm_xml_data: OpenStreetMap XML 데이터
       map_image: 지도 그림 (표준 레이어 보이기)
       embeddable_html: 내장된 HTML
       licence: 라이선스
-      export_details: GRM 데이터는 <a href="http://opendatacommons.org/licenses/odbl/1.0/">오픈
+      export_details: OpenStreetMap 데이터는 <a href="http://opendatacommons.org/licenses/odbl/1.0/">오픈
         데이터 커먼즈 오픈 데이터베이스 라이선스</a>(ODbL)에 따라 사용할 수 있습니다.
       too_large:
         advice: '위의 내보내기가 실패하면, 아래에 나열된 원본 중 하나를 사용하는 것을 고려해주세요:'
-        body: '이 지역은 GRM XML 데이터로 내보내는 데 너무 넓습니다. 확대하거나 작은 지역을 선택하거나, 대량
+        body: '이 지역은 OpenStreetMap XML 데이터로 내보내는 데 너무 넓습니다. 확대하거나 작은 지역을 선택하거나, 대량
           데이터 다운로드에 대한 다음 소스 중 하나를 사용하세요:'
         planet:
           title: 플래닛 OSM
-          description: 완전한 GRM 데이터베이스가 정기적으로 업데이트되는 복사본
+          description: 완전한 OpenStreetMap 데이터베이스가 정기적으로 업데이트되는 복사본
         overpass:
           title: Overpass API
-          description: GRM 데이터베이스의 미러에서 이 테두리 상자를 다운로드
+          description: OpenStreetMap 데이터베이스의 미러에서 이 테두리 상자를 다운로드
         geofabrik:
           title: Geofabrik 다운로드
           description: 대륙, 국가 및 선택한 도시가 정기적으로 업데이트되는 추출본
@@ -340,7 +340,7 @@ ko:
           description: 세계 주요 도시와 그 주변 지역에 대한 추출본
         other:
           title: 다른 원본
-          description: GRM 위키에 나와있는 추가 원본
+          description: OpenStreetMap 위키에 나와있는 추가 원본
       options: 설정
       format: 형식
       scale: 축척
@@ -888,7 +888,7 @@ ko:
       west: 서
   layouts:
     logo:
-      alt_text: GRM 로고
+      alt_text: OpenStreetMap 로고
     home: 집 위치로 가기
     logout: 로그아웃
     log_in: 로그인
@@ -923,11 +923,11 @@ ko:
     copyright: 저작권
     community: 커뮤니티
     community_blogs: 커뮤니티 블로그
-    community_blogs_title: GRM 커뮤니티의 구성원에서의 블로그
+    community_blogs_title: OpenStreetMap 커뮤니티의 구성원에서의 블로그
     foundation: 재단
-    foundation_title: GRM 재단
+    foundation_title: OpenStreetMap 재단
     make_a_donation:
-      title: 금전적인 기부와 GRM 지원
+      title: 금전적인 기부와 OpenStreetMap 지원
       text: 기부하기
     learn_more: 더 알아보기
     more: 더 보기
@@ -949,7 +949,7 @@ ko:
         href="http://opendatacommons.org/licenses/odbl/">오픈 데이터
         커먼즈 오픈 데이터베이스 라이선스</a>(ODbL)에 따라 사용할 수 있습니다.
       intro_2_html: |-
-        당신은 가능하면 GRM 제작진과 기여로
+        당신은 가능하면 OpenStreetMap 제작진과 기여로
         자유롭게 복사, 배포, 전송 및 데이터를 적용할 수 있습니다.
         데이터를 바꾸거나 데이터에 기초로 할 때는 오로지
         같은 라이선스에 따라서만 결과를 배포할 수 있습니다.
@@ -959,9 +959,9 @@ ko:
         지도 타일의 지도 제작과 설명서는
         <a href="http://creativecommons.org/licenses/by-sa/2.0/">크리에이티브
         커먼즈 저작자표시-동일조건변경허락 2.0</a> 라이선스(CC-BY-SA)에 따라 사용할 수 있습니다.
-      credit_title_html: GRM 제작진 넣는 방법
+      credit_title_html: OpenStreetMap 제작진 넣는 방법
       credit_1_html: |-
-        &ldquo;&copy; GRM 기여자&rdquo;로 제작진을 넣어야
+        &ldquo;&copy; OpenStreetMap 기여자&rdquo;로 제작진을 넣어야
         합니다.
       credit_2_html: |-
         또한 명확하게 데이터는 오픈 데이터베이스 라이선스에 따라 사용할 수 있으며,
@@ -1029,7 +1029,7 @@ ko:
         2010-12를 포함합니다.
       contributors_footer_1_html: |-
         자세한 내용과 OpenStreetMap을 개선하는 데 도움이 되는 데 사용한
-        기타 자료에 대해서는 GRM 위키에 있는 <a
+        기타 자료에 대해서는 OpenStreetMap 위키에 있는 <a
         href="http://wiki.openstreetmap.org/wiki/Contributors">기여자 문서</a>
         를 참고하세요.
       contributors_footer_2_html: |-
@@ -1042,7 +1042,7 @@ ko:
         저작권이 있는 자료(예를 들어 Google 지도 또는 인쇄된 지도)에서
         데이터를 반입하지 않도록 주의하여야 합니다.
       infringement_2_html: |-
-        저작권을 가진 자료가 부적절하게 GRM 데이터베이스나 이 사이트에
+        저작권을 가진 자료가 부적절하게 OpenStreetMap 데이터베이스나 이 사이트에
         추가되었다고 생각하면 <a href="http://www.osmfoundation.org/wiki/License/Takedown_procedure">게시
         중단 절차</a>를 참고하거나 <a href="http://dmca.openstreetmap.org/">온라인
         신고 페이지</a>에서 직접 제출하세요.
@@ -1096,7 +1096,7 @@ ko:
         title: 공동체에 가입하기
         explanation_html: |-
           우리의 지도 데이터에, 예를 들어 도로가 없거나 여러분의 주소에 문제가 있음을 보았다면, 진행하는 가장 좋은 방법은
-          GRM 공동체에 가입하고 스스로 데이터를 추가하거나 고치는 것입니다.
+          OpenStreetMap 공동체에 가입하고 스스로 데이터를 추가하거나 고치는 것입니다.
       add_a_note:
         instructions_html: |-
           <a class='icon note'></a>나 보이는 지도에 같은 아이콘을 클릭하세요.
@@ -1116,7 +1116,7 @@ ko:
     welcome:
       url: /welcome
       title: OSM에 오신 것을 환영합니다
-      description: GRM 기초를 다루는 이 퀵 가이드로 시작합니다.
+      description: OpenStreetMap 기초를 다루는 이 퀵 가이드로 시작합니다.
     help:
       url: https://help.openstreetmap.org/
       title: help.openstreetmap.org
@@ -1157,7 +1157,7 @@ ko:
     diary_comment_notification:
       subject: '[OpenStreetMap] %{user}님이 당신의 일기 항목에 덧글을 남겼습니다'
       hi: 안녕하세요 %{to_user}님,
-      header: '%{from_user}님이 %{subject} 제목의 GRM 일기 항목에 덧글을 남겼습니다:'
+      header: '%{from_user}님이 %{subject} 제목의 OpenStreetMap 일기 항목에 덧글을 남겼습니다:'
       footer: '%{readurl}에서도 덧글을 확인할 수 있습니다. %{commenturl}에서 덧글을 남기거나 %{replyurl}에서
         답글을 남길 수 있습니다.'
     message_notification:
@@ -1166,7 +1166,7 @@ ko:
       footer_html: 또한 %{readurl}에서 메시지를 읽을 수 있고 %{replyurl}에서 회신할 수 있습니다.
     friend_notification:
       subject: '[OpenStreetMap] %{user}님이 당신을 친구로 추가했습니다'
-      had_added_you: '%{user}님이 당신을 GRM 친구로 추가했습니다.'
+      had_added_you: '%{user}님이 당신을 OpenStreetMap 친구로 추가했습니다.'
       see_their_profile: '%{userurl} 에서 그들의 프로필을 볼 수 있습니다.'
       befriend_them: 또한 %{befriendurl}에서 친구로 추가할 수 있습니다.
     gpx_notification:
@@ -1320,10 +1320,10 @@ ko:
         설정할 수 있습니다.
       user_page_link: 사용자 문서
       anon_edits_link_text: 왜 이러한지 알아보세요.
-      flash_player_required: GRM 플래시 편집기인 Potlatch를 사용하려면 플래시 플레이어가 필요합니다.
+      flash_player_required: OpenStreetMap 플래시 편집기인 Potlatch를 사용하려면 플래시 플레이어가 필요합니다.
         <a href="http://www.adobe.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">Adobe.com에서
         플래시 플레이어를 다운로드</a>할 수 있습니다. <a href="http://wiki.openstreetmap.org/wiki/Editing">몇
-        가지 다른 설정</a> 또한 GRM 편집을 위해 사용할 수 있습니다.
+        가지 다른 설정</a> 또한 OpenStreetMap 편집을 위해 사용할 수 있습니다.
       potlatch_unsaved_changes: 바뀜을 저장하지 않았습니다. (Potlatch에 저장하려면 라이브 모드에서 편집하는 경우,
         현재의 방식이나 지점을 선택을 해제하거나 저장 버튼이 있다면 저장을 클릭해야 합니다.)
       potlatch2_not_configured: Potlatch 2가 설정되지 않았습니다 - 자세한 정보는 http://wiki.openstreetmap.org/wiki/The_Rails_Port
@@ -1527,7 +1527,7 @@ ko:
       heading: GPX 저장소 오프라인
       message: GPX 파일 저장소와 올리기 시스템은 현재 사용할 수 없습니다.
     georss:
-      title: GRM GPS 추적
+      title: OpenStreetMap GPS 추적
     description:
       description_with_count:
         one: '%{user}에서의 %{count} 지점으로 된 GPX 파일'
@@ -1636,10 +1636,10 @@ ko:
       lost password link: 비밀번호를 잊으셨나요?
       login_button: 로그인
       register now: 지금 등록하세요
-      with username: '이미 GRM 계정을 가지고 있나요? 계정 이름과 비밀번호로 로그인하세요:'
+      with username: '이미 OpenStreetMap 계정을 가지고 있나요? 계정 이름과 비밀번호로 로그인하세요:'
       with openid: '또는 OpenID로 로그인하세요:'
       new to osm: OpenStreetMap이 처음이세요?
-      to make changes: GRM 데이터를 바꾸려면 계정이 있어야 합니다.
+      to make changes: OpenStreetMap 데이터를 바꾸려면 계정이 있어야 합니다.
       create account minute: 계정을 만듭니다. 1분도 걸리지 않습니다.
       no account: 계정이 없나요?
       account not active: 죄송합니다, 계정을 아직 활성화하지 않았습니다.<br />계정을 활성화하려면 계정 확인 이메일에 있는
@@ -1711,7 +1711,7 @@ ko:
       use openid: 또는 %{logo} OpenID를 사용하여 로그인하세요
       openid no password: OpenID로 비밀번호가 필요하지 않지만 몇 가지 추가 도구나 서버는 여전히 비밀번호가 필요할 수 있습니다.
       openid association: |-
-        <p>OpenID는 아직 GRM 계정과 연결되지 않았습니다.</p>
+        <p>OpenID는 아직 OpenStreetMap 계정과 연결되지 않았습니다.</p>
         <ul>
           <li>OpenStreetMap에 새로 가입하려면 아래의 양식을 사용하여 새 계정을 만드세요.</li>
           <li>
@@ -2049,7 +2049,7 @@ ko:
       reopened_at_html: '%{when} 전에 다시 활성화함'
       reopened_at_by_html: '%{user} 사용자가 %{when} 전에 다시 활성화함'
     rss:
-      title: GRM 참고
+      title: OpenStreetMap 참고
       description_area: 내 지역[(%{min_lat}|%{min_lon}) -- (%{max_lat}|%{max_lon})]에
         참고, 덧글 또는 닫힌 참고 목록
       description_item: '%{id} 참고에 대한 RSS 피드'
@@ -2112,7 +2112,7 @@ ko:
         data: 지도 데이터
         overlays: 지도 문제를 해결하기 위해 오버레이를 활성화
         title: 레이어
-      copyright: © <a href='%{copyright_url}'>GRM 기여자</a>
+      copyright: © <a href='%{copyright_url}'>OpenStreetMap 기여자</a>
       donate_link_text: <a class='donate-attr' href='%{donate_url}'>기부하기</a>
     site:
       edit_tooltip: 지도 편집

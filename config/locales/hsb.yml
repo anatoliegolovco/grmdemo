@@ -293,13 +293,13 @@ hsb:
       edit: Wobdźěłać
     feed:
       user:
-        title: GRM dźenikowe zapiski za wužiwarja %{user}
-        description: Najnowše dźenikowe zapiski GRM wot wužiwarja %{user}
+        title: OpenStreetMap dźenikowe zapiski za wužiwarja %{user}
+        description: Najnowše dźenikowe zapiski OpenStreetMap wot wužiwarja %{user}
       language:
-        title: GRM dźenikowe zapiski %{language_name}
-        description: Najnowše dźenikowe zapiski wot wužiwarjow GRM %{language_name}
+        title: OpenStreetMap dźenikowe zapiski %{language_name}
+        description: Najnowše dźenikowe zapiski wot wužiwarjow OpenStreetMap %{language_name}
       all:
-        title: GRM dźenikowe zapiski
+        title: OpenStreetMap dźenikowe zapiski
         description: Najnowše dźenikowe zapiski wužiwarjow OpenStreetMap
     comments:
       has_commented_on: '%{display_name} je slědowace dźenikowe zapiski komentował'
@@ -315,11 +315,11 @@ hsb:
       area_to_export: Wobłuk za eksport
       manually_select: Druhi wobłuk manuelnje wubrać
       format_to_export: Format za eksport
-      osm_xml_data: GRM XML-daty
+      osm_xml_data: OpenStreetMap XML-daty
       map_image: Kartowy wobraz (pokazuje standardnu runinu)
       embeddable_html: Zasadźujomny HTML
       licence: Licenca
-      export_details: Daty GRM su pod licencu <a href="http://opendatacommons.org/licenses/odbl/1.0/">Open
+      export_details: Daty OpenStreetMap su pod licencu <a href="http://opendatacommons.org/licenses/odbl/1.0/">Open
         Data Commons Open Database</a> (ODbL).
       too_large:
         advice: 'Jeli horni eksport so njeradźi, prošu wuwaž, hač wužiwaš jednu ze
@@ -892,7 +892,7 @@ hsb:
       west: zapad
   layouts:
     logo:
-      alt_text: GRM logo
+      alt_text: OpenStreetMap logo
     home: K domjacemu stejnišću
     logout: Wotzjewić
     log_in: Přizjewić
@@ -912,7 +912,7 @@ hsb:
     edit_with: Z %{editor} wobdźěłać
     tag_line: Swobodna swětowa karta
     intro_header: Witaj k OpenStreetMap!
-    intro_text: GRM je karta swěta, wutworjena wot ludźi kaž ty a hodźi
+    intro_text: OpenStreetMap je karta swěta, wutworjena wot ludźi kaž ty a hodźi
       so swobodnje pod wotewrjenej licencu wužiwać.
     intro_2_create_account: Załož wužiwarske konto
     partners_html: Hostowanje so wot %{ucl}, %{ic}, %{bytemark} a druhich %{partners}
@@ -922,11 +922,11 @@ hsb:
     partners_bytemark: Bytemark Hosting
     partners_partners: partnerow
     partners_url: http://wiki.openstreetmap.org/wiki/Partners
-    osm_offline: Datowa banka GRM je tuchwilu offline, dokelž so wažne wobhladowankse
+    osm_offline: Datowa banka OpenStreetMap je tuchwilu offline, dokelž so wažne wobhladowankse
       dźěła na datowej bance přewjedu.
-    osm_read_only: Datowa banka GRM je tuchwilu jenož čitajomna, dokelž
+    osm_read_only: Datowa banka OpenStreetMap je tuchwilu jenož čitajomna, dokelž
       so wažne wothladowanske dźěła na datowej bance přewjedu.
-    donate: Podpěraj GRM přez %{link} k fondsej aktualizacije hardwary.
+    donate: Podpěraj OpenStreetMap přez %{link} k fondsej aktualizacije hardwary.
     help: Pomoc
     about: Wo
     copyright: Awtorske prawo
@@ -936,7 +936,7 @@ hsb:
     foundation: Załožba
     foundation_title: Załožba OpenStreetMap
     make_a_donation:
-      title: GRM z pjenježnym darom podpěrać
+      title: OpenStreetMap z pjenježnym darom podpěrać
       text: Darić
     learn_more: Dalše informacije
     more: Wjace
@@ -955,18 +955,18 @@ hsb:
     legal_babble:
       title_html: Awtorske prawo a licenca
       intro_1_html: |-
-        GRM su <i>zjawne daty</i>, licencowane pod licencu <a
+        OpenStreetMap su <i>zjawne daty</i>, licencowane pod licencu <a
         href="http://opendatacommons.org/licenses/odbl/">Open Data
         Commons Open Database</a> (ODbL).
       intro_2_html: Móžeš naše daty kopěrować, rozdźělić, přenjesć a přiměrić, tak
-        dołho kaž GRM a jich sobuskutkowacych naspominaš. Jeli změniš naše
+        dołho kaž OpenStreetMap a jich sobuskutkowacych naspominaš. Jeli změniš naše
         daty abo zepěraš so na nje, móžeš wuslědk jenož pod samsnej licencu rozdźělić.
         Dospołny <a href="http://opendatacommons.org/licenses/odbl/1.0/">prawniski
         kod</a> wujasnja twoje prawa a zamołwitosće.
       intro_3_html: Kartografija w našich kartowych kachličkach a naša dokumentacija
         stej pod licencu <a href="http://creativecommons.org/licenses/by-sa/2.0/">Creative
         Commons Attribution-ShareAlike 2.0</a> (CC-BY-SA) licencowanej.
-      credit_title_html: Kak awtorstwo GRM naspomnić
+      credit_title_html: Kak awtorstwo OpenStreetMap naspomnić
       credit_1_html: Žadamy sej, zo  podawaš sobuskutkowarjow &ldquo;&copy; OpenStreetMap&rdquo;.
       credit_2_html: Dyrbiš tež wujasnić, zo daty steja pod licencu Open Database,
         a, jeli so naše kartowe kachlicy wužiwaja, zo kartografija so pod CC-BY-SA
@@ -980,13 +980,13 @@ hsb:
       credit_3_html: 'Za přepytujomnu elektronisku kartu měło so dźakprajenje w róžku
         karty jewić. Na přikład:'
       attribution_example:
-        alt: Přikład, kak so na webstronje na GRM pokazuje
+        alt: Přikład, kak so na webstronje na OpenStreetMap pokazuje
         title: Připokazanski přikład
       more_title_html: Dalše informacije
       more_1_html: Čitaj wjace wo wužiwanju našich datow a kak hodźi so nas připóznać,
         pod <a href="http://wiki.openstreetmap.org/wiki/Legal_FAQ">Huste prawniske
         prašenja</a>.
-      more_2_html: "Hačrunjež GRM wobsteji ze zjawnych datow, njemóžemy
+      more_2_html: "Hačrunjež OpenStreetMap wobsteji ze zjawnych datow, njemóžemy
         darmotny kartowy API za wuwiwarjow třećich poskićić. \nHlej naše <a href=\"http://wiki.openstreetmap.org/wiki/API_usage_policy\">prawidła
         za wužiwanje API</a>, <a href=\"http://wiki.openstreetmap.org/wiki/Tile_usage_policy\">Prawidła
         za wužiwanje polow</a> a <a href=\"http://wiki.openstreetmap.org/wiki/Nominatim#Usage_Policy\">Prawidła
@@ -1020,17 +1020,17 @@ hsb:
         z Ordnance Survey (Zarjadniske krajměrjenstwo) &copy; Awtorske prawo a prawo
         za datowe banki 2010-2012.'
       contributors_footer_1_html: Za dalše podrobnosće za to a druhe žórła, kotrež
-        su so wužili, zo bychu GRM polěpšili, hlej prošu <a href="http://wiki.openstreetmap.org/wiki/Contributors">stronu
+        su so wužili, zo bychu OpenStreetMap polěpšili, hlej prošu <a href="http://wiki.openstreetmap.org/wiki/Contributors">stronu
         sobuskutkowarjow</a> na wikiju OpenStreetMap.
-      contributors_footer_2_html: Zapřijimanje datow do GRM njerěka, zo
-        poskićowar originalnych datow GRM připóznawa, někajku garantiju
+      contributors_footer_2_html: Zapřijimanje datow do OpenStreetMap njerěka, zo
+        poskićowar originalnych datow OpenStreetMap připóznawa, někajku garantiju
         dodawa abo rukowanje přewozmje.
       infringement_title_html: Přeńdźenje awtorskeho prawa
       infringement_1_html: Sobuskutkowacych OSM namołwjamy, zo ženje daty ze žórłow,
         kotrež su přez awtorske prawo škitane (na př. z Google Maps abo z wućišćanych
         kartow) bjez wurazneje dowolnosće awtorow  njepřidawaja.
       infringement_2_html: Jeli měniš, zo awtorskoprawnisce škitany material je so
-        datowej bance GRM abo tutomu sydłu bjez dowolnosće přidał, poćahuj
+        datowej bance OpenStreetMap abo tutomu sydłu bjez dowolnosće přidał, poćahuj
         so prošu na naše <a href="http://www.osmfoundation.org/wiki/License/Takedown_procedure">postupowanje
         za wotstronjenje wobsaha</a>abo zdźěl to direktnje na našej <a href="http://dmca.openstreetmap.org/">formularnej
         stronje</a>.
@@ -1041,7 +1041,7 @@ hsb:
       nawod z najwažnišimi informacijemi, kotrež dyrbiš wědźeć.
     whats_on_the_map:
       title: Štož na kartu słuša
-      on_html: GRM je městno za kartěrowanje wěcow, kotrež su <em>realne
+      on_html: OpenStreetMap je městno za kartěrowanje wěcow, kotrež su <em>realne
         a aktualne</em> - wobsahuje miliony twarjenjow, pućow a druhe podrobnosće
         wo městnach. Móžeš kartěrować, štožkuli će we woprawdźitym swěće zajimuje.
       off_html: Štož <em>nje</em>ma wobsahować, su subjektiwne daty kaž pohódnoćenja,
@@ -1050,7 +1050,7 @@ hsb:
         dowolnosć.
     basic_terms:
       title: Zakładne zapřijeća za kartěrowanje
-      paragraph_1_html: GRM někotre wosebite zapřijeća wužiwa. Tu su někotre
+      paragraph_1_html: OpenStreetMap někotre wosebite zapřijeća wužiwa. Tu su někotre
         z nich, kotrež móhli ći wužitne być.
       editor_html: <strong>Editor</strong> je program abo websydło, kotrež móžeš wužiwać,
         zo by kartu wobdźěłał.
@@ -1062,7 +1062,7 @@ hsb:
     questions:
       title: Maš hišće prašenja?
       paragraph_1_html: |-
-        GRM ma wšelake resursy za zeznaće projekta, prašenja a wotmołwy wo něčim a zhromadnu diskusiju a dokumentowanje kartěrowanske temy.
+        OpenStreetMap ma wšelake resursy za zeznaće projekta, prašenja a wotmołwy wo něčim a zhromadnu diskusiju a dokumentowanje kartěrowanske temy.
         <a href='%{help_url}'>Pomoc</a>.
     start_mapping: Kartěrowanje započeć
     add_a_note:
@@ -1080,7 +1080,7 @@ hsb:
         title: Do zhromadźenstwa zastupić
         explanation_html: Jeli sy problem z našimi kartowymi datami pytnył, na přikład
           dróha abo twoja adresa faluje, je najlěpše wašnje, z tym pokročować, so
-          zhromadźenstwu GRM přiidružić a sam daty přidać abo korigować.
+          zhromadźenstwu OpenStreetMap přiidružić a sam daty přidać abo korigować.
       add_a_note:
         instructions_html: |-
           Klikń prosće na <a class='icon note'></a> abo na samsny symbol w zwobraznjenju karty.
@@ -1094,12 +1094,12 @@ hsb:
         skupinu</a> do zwiska.
   help_page:
     title: Wo pomoc prosyć
-    introduction: GRM ma wšelake resursy za zeznaće projekta, prašenja a
+    introduction: OpenStreetMap ma wšelake resursy za zeznaće projekta, prašenja a
       wotmołwy wo něčim a zhromadnu diskusiju a dokumentowanje kartěrowanskich temow.
     welcome:
       url: /welcome
       title: Witaj k OSM
-      description: Započń z tutym spěšnym nawodom, kotryž zakłady GRM wobsahuje.
+      description: Započń z tutym spěšnym nawodom, kotryž zakłady OpenStreetMap wobsahuje.
     help:
       url: https://help.openstreetmap.org/
       title: help.openstreetmap.org
@@ -1114,21 +1114,21 @@ hsb:
     copyright_html: <span>&copy; </span>sobuskutkowacy<br>OpenStreetMap
     used_by: '%{name} staja kartowe daty za sta websydłow, mobilne nałoženja a graty
       k dispoziciji'
-    lede_text: GRM twori so wot zhromadźenstwa kartěrowarjow, kotřiž daty
+    lede_text: OpenStreetMap twori so wot zhromadźenstwa kartěrowarjow, kotřiž daty
       wo hasach, pućach, kofejownjach, dwórnišćach a wjele wjace na cyłym swěće přinošuja
       a hladaja.
     local_knowledge_title: Lokalna wěda
-    local_knowledge_html: GRM kładźe wažnosć na lokalnu wědu. Sobuskutkowacy
+    local_knowledge_html: OpenStreetMap kładźe wažnosć na lokalnu wědu. Sobuskutkowacy
       wužiwaja powětrowe wobrazy, GPS-graty a pólne karty, zo bychu přepruwowali,
       zo by OSM je dokładny a aktualny.
     community_driven_title: Wot zhromadźenstwa spěchowany
     community_driven_html: |-
-      Zhromadźenstwo GRM je wšelakore, rozpalite a rosće kóždy dźeń.
+      Zhromadźenstwo OpenStreetMap je wšelakore, rozpalite a rosće kóždy dźeń.
       Naši sobuskutkowacy su zahorići kartěrowarjo, GIS-profijo, inženjerojo, kotřiž OSM-serwery ćěrja, pomocnicy, kotřiž kónčiny katastrofow kartěruja a wjele wjace.
       Zo by wjace wo zhromadźenstwje zhonił, hlej <a href='%{diary_path}'>wužiwarske dźeniki</a>, <a href='http://blogs.openstreetmap.org/'>blogi zhromadźenstwa</a> a websydło załožby <a href='http://www.osmfoundation.org/'>OSM Foundation</a>
     open_data_title: Zjawne daty
-    open_data_html: 'GRM wobsahuje <i>zjawne daty</i>: Móžeš je za kóždy
-      zaměr wužiwać, dołhož GRM a jeho sobuskutkowacych naspomnješ. Jeli
+    open_data_html: 'OpenStreetMap wobsahuje <i>zjawne daty</i>: Móžeš je za kóždy
+      zaměr wužiwać, dołhož OpenStreetMap a jeho sobuskutkowacych naspomnješ. Jeli
       daty na wěste wašnje změniš abo wutworiš, móžeš wuslědk jenož pod samsnej licencu
       rozdźělić.Hlej <a href=''%{copyright_path}''>stronu awtorskeho prawa a licency</a>
       za podrobnosće.'
@@ -1137,18 +1137,18 @@ hsb:
     diary_comment_notification:
       subject: '[OpenStreetMap] %{user} je twój dźenikowy zapisk komentował'
       hi: Witaj %{to_user},
-      header: '%{from_user} je twój najnowši dźenikowy zapisk GRM z temowym
+      header: '%{from_user} je twój najnowši dźenikowy zapisk OpenStreetMap z temowym
         nadpismom %{subject} skomentował:'
       footer: Móžeš tež komentar na %{readurl} čitać a na %{commenturl} komentować
         abo na %{replyurl} wotmołwić
     message_notification:
       hi: Witaj %{to_user},
-      header: '%{from_user} je ći přez GRM powěsć z temowym nadpismom %{subject}
+      header: '%{from_user} je ći přez OpenStreetMap powěsć z temowym nadpismom %{subject}
         pósłał:'
       footer_html: Móžeš powěsć pod %{readurl} čitać a móžeš pod %{replyurl} wotmołwić
     friend_notification:
       subject: '[OpenStreetMap] %{user} je će jako přećela přidał'
-      had_added_you: '%{user} je će na GRM jako přećela přidał.'
+      had_added_you: '%{user} je će na OpenStreetMap jako přećela přidał.'
       see_their_profile: Móžeš jeho abo jeje profil na %{userurl} widźeć.
       befriend_them: Móžeš jich na %{befriendurl} jako přećelow přidać.
     gpx_notification:
@@ -1314,12 +1314,12 @@ hsb:
     index:
       js_1: Pak wužiwaš wobhladowak, kotryž JavaScript njepodpěruje, pak sy JavaScript
         znjemóžnił.
-      js_2: GRM JavaScript za slippy map wužiwa.
+      js_2: OpenStreetMap JavaScript za slippy map wužiwa.
       permalink: Trajny wotkaz
       shortlink: Krótki wotkaz
       createnote: Pokazku přidać
       license:
-        copyright: Copyright GRM a sobuskutkowarjo, pod wotewrjenej licencu
+        copyright: Copyright OpenStreetMap a sobuskutkowarjo, pod wotewrjenej licencu
       remote_failed: Wobdźěłowanje je so njeporadźiło - zawěsć, zo JOSM abo Merkaartor
         je začitany a dalokowodźenska opcija je zmóžnjena
     edit:
@@ -1331,7 +1331,7 @@ hsb:
       flash_player_required: Trjebaš wothrawak Flash, zo by Potlatch, editor OpenStreetMap
         Flash wužiwał. Móžeš <a href="http://www.adobe.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">wothrawak
         Flash wot Adobe.com sćahnyć</a>. <a href="http://wiki.openstreetmap.org/wiki/Editing">Někotre
-        druhe móžnosće</a> tež za wobdźěłowanje GRM k dispoziciji steja.
+        druhe móžnosće</a> tež za wobdźěłowanje OpenStreetMap k dispoziciji steja.
       potlatch_unsaved_changes: Nimaš njeskładowane změny. (Zo by w programje Potlatch
         składował, wotstroń woznamjenjenje aktualneho puća abo dypka, jeli w dynamiskim
         modusu wobdźěłuješ, abo klikń na Składować, jeli składowanske tłóčatko eksistuje.
@@ -1547,7 +1547,7 @@ hsb:
       message: Składowanje a nahrawanski system GPX-datajow tuchwilu k dispoziciji
         steji.
     georss:
-      title: GRM GPS-slědy
+      title: OpenStreetMap GPS-slědy
     description:
       description_with_count:
         few: GPX-dataja z %{count} dypkami wot %{user}
@@ -1667,7 +1667,7 @@ hsb:
         mjenom a hesłom:'
       with openid: 'Hewak wužij prošu swój OpenID, zo by so přizjewił:'
       new to osm: Nowy w OpenStreetMap?
-      to make changes: Zo by daty GRM změnił, dyrbiš konto měć.
+      to make changes: Zo by daty OpenStreetMap změnił, dyrbiš konto měć.
       create account minute: Załož konto. Traje jenož chwilku.
       no account: Nimaš žane konto?
       account not active: Bohužel je twoje konto hišće aktiwne njeje.<br />Prošu klikń
@@ -1698,7 +1698,7 @@ hsb:
           alt: Z OpenID z AOL přizjewić
     logout:
       title: Wotzjewić
-      heading: Z GRM wotzjewić
+      heading: Z OpenStreetMap wotzjewić
       logout_button: Wotzjewić
     lost_password:
       title: Hesło zabyte
@@ -1728,7 +1728,7 @@ hsb:
       about:
         header: Swobodny a wobdźěłujomny
         html: |-
-          <p>Na rozdźěl wot druhich kartow, so GRM dospołnje wot ludźi kaž ty twori, a kóždy móže ju korigować, aktualizować, sćahnyć a wužiwać.</p>
+          <p>Na rozdźěl wot druhich kartow, so OpenStreetMap dospołnje wot ludźi kaž ty twori, a kóždy móže ju korigować, aktualizować, sćahnyć a wužiwać.</p>
           <p>Zregistruj so a skutkuj sobu. Budźemy ći e-mejlku słać, zo bychmy twoje konto wobkrućili.</p>
       license_agreement: Hdyž swoje konto wubkrućeš, dyrbiš <a href="http://www.osmfoundation.org/wiki/License/Contributor_Terms">wuměnjenjam
         za sobuskutkowarjow</a> přihłosować.

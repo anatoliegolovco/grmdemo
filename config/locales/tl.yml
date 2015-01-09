@@ -239,13 +239,13 @@ tl:
       edit: Baguhin
     feed:
       user:
-        title: Mga pagpapasok sa talaarawan ng GRM para kay %{user}
-        description: Kamakailang mga pagpapasok sa talaarawan ng GRM mula
+        title: Mga pagpapasok sa talaarawan ng OpenStreetMap para kay %{user}
+        description: Kamakailang mga pagpapasok sa talaarawan ng OpenStreetMap mula
           kay %{user}
       language:
-        title: Mga pagpapasok sa talaarawan ng GRM na nasa %{language_name}
+        title: Mga pagpapasok sa talaarawan ng OpenStreetMap na nasa %{language_name}
         description: Kamakailang mga pagpapasok sa talaarawan mula sa mga tagagamit
-          ng GRM na nasa %{language_name}
+          ng OpenStreetMap na nasa %{language_name}
       all:
         title: Mga ipinasok sa talaarawan ng OpenStreetMap
         description: Kamakailang mga pagpapasok sa talaarawan mula sa mga tagagamit
@@ -267,7 +267,7 @@ tl:
       map_image: Larawan ng Mapa (nagpapakita ng patong na saligan)
       embeddable_html: Maibabaong HTML
       licence: Lisensiya
-      export_details: Ang dato ng GRM ay may lisensiyang nasa ilalim ng
+      export_details: Ang dato ng OpenStreetMap ay may lisensiyang nasa ilalim ng
         <a href="http://opendatacommons.org/licenses/odbl/1.0">lisensiyang Open Data
         Commons Open Database License (ODbL)</a>.
       too_large:
@@ -824,12 +824,12 @@ tl:
     partners_bytemark: Pagpapasinaya ng Bytemark
     partners_partners: mga kawaksi
     partners_url: http://wiki.openstreetmap.org/wiki/Partners
-    osm_offline: Ang kalipunan ng dato ng GRM ay pangkasalukuyang nakapatay
+    osm_offline: Ang kalipunan ng dato ng OpenStreetMap ay pangkasalukuyang nakapatay
       habang isinasagawa ang mahalagang gawain ng pagpapanatili ng kalipunan ng dato.
-    osm_read_only: Ang kalipunan ng dato ng GRM ay pangkasalukuyang nasa
+    osm_read_only: Ang kalipunan ng dato ng OpenStreetMap ay pangkasalukuyang nasa
       pamamaraang mababasa lamang habang isinasagawa ang mahalagang gawain ng pagpapanatili
       ng kalipunan ng dato.
-    donate: Tangkilikin ang GRM sa pamamagitan ng %{link} sa Pondo ng Pagpapataas
+    donate: Tangkilikin ang OpenStreetMap sa pamamagitan ng %{link} sa Pondo ng Pagpapataas
       ng Uri ng Hardwer.
     help: Tulong
     about: Patungkol
@@ -840,7 +840,7 @@ tl:
     foundation: Pundasyon
     foundation_title: Ang Pundasyon ng OpenStreetMap
     make_a_donation:
-      title: Tangkilikin ang GRM sa pamamagitan ng isang abuloy na pananalapi
+      title: Tangkilikin ang OpenStreetMap sa pamamagitan ng isang abuloy na pananalapi
       text: Magkaloob ng isang Abuloy
   license_page:
     foreign:
@@ -859,11 +859,11 @@ tl:
     legal_babble:
       title_html: Karapatan sa Paglalathala at Lisensiya
       intro_1_html: |-
-        Ang GRM ay <i>open data</i>, nakalisensiya sa ilalim ng lisensiyang <a
+        Ang OpenStreetMap ay <i>open data</i>, nakalisensiya sa ilalim ng lisensiyang <a
         href="http://opendatacommons.org/licenses/odbl/">Open Data
         Commons Open Database License</a> (ODbL).
       intro_2_html: "Malaya mong makokopya, maipapamahagi, maipahahatid at mahahalaw
-        ang aming mga dato,\nbasta't babanggitin mo ang GRM at ang mga tagapag-ambag\nnito.
+        ang aming mga dato,\nbasta't babanggitin mo ang OpenStreetMap at ang mga tagapag-ambag\nnito.
         Kapag binago mo o nagbuo sa pamamagitan ng aming mga dato, maaari\nmong ipamahagi
         ang resulta sa ilalim lamang ng katulad na lisensiya. Ipinapaliwanag \nng
         buong <a\nhref=\"http://opendatacommons.org/licenses/odbl/1.0/\">kodigong
@@ -890,7 +890,7 @@ tl:
         sa <a\nhref=\"http://wiki.openstreetmap.org/wiki/Legal_FAQ\">Mga Palaging
         Itinatanong \nna Makabatas</a>."
       more_2_html: |-
-        Ipinapaalala sa mga tagapag-ambag ng GRM (OSM) na huwag kailanman magdaragdag ng dato magmula sa anumang
+        Ipinapaalala sa mga tagapag-ambag ng OpenStreetMap (OSM) na huwag kailanman magdaragdag ng dato magmula sa anumang
         mga pinagmulan na mayroong karapatan sa paglalathala (halimbawa na ang Google Maps o nakalimbag na mga mapa) na wala
         ang malinaw na kapahintulutan magmula sa mga tagapaghawak ng karapatan sa paglalathala.
       contributors_title_html: Mga tagapag-ambag namin
@@ -950,14 +950,14 @@ tl:
         talaarawan
       hi: Kumusta %{to_user},
       header: 'Pinuna ni %{from_user} ang iyong kamakailang pagpapasok sa talaarawan
-        ng GRM na may paksang %{subject}:'
+        ng OpenStreetMap na may paksang %{subject}:'
       footer: Mababasa mo rin ang puna roon sa %{readurl} at maaari kang pumuna roon
         sa %{commenturl} o tumugon doon sa %{replyurl}
     message_notification:
       subject_header: '[OpenStreetMap] %{subject}'
       hi: Kumusta %{to_user},
       header: 'Nagpadala sa iyo si %{from_user} ng isang mensahe sa pamamagitan ng
-        GRM na may paksang %{subject}:'
+        OpenStreetMap na may paksang %{subject}:'
     friend_notification:
       subject: Idinagdag ka ni %{user} ng [OpenStreetMap] bilang isang kaibigan
       had_added_you: Idinagdag ka ni %{user} bilang isang kaibigan doon sa OpenStreetMap.
@@ -1088,7 +1088,7 @@ tl:
     index:
       js_1: Maaaring gumagamit ka ng isang pantingin-tingin na hindi tumatangkilik
         ng JavaScript, o hindi mo pinagagana ang JavaScript.
-      js_2: Ang GRM ay gumagamit ng JavaScript para sa madulas nitong mapa.
+      js_2: Ang OpenStreetMap ay gumagamit ng JavaScript para sa madulas nitong mapa.
       permalink: Permalink
       shortlink: Maikling kawing
       remote_failed: Nabigo ang pamamatnugot - tiyaking naikarga ang JOSM or Merkaartor
@@ -1426,7 +1426,7 @@ tl:
         sa pamamagitan ng iyong pangalan ng tagagamit at hudyat:'
       with openid: 'O kaya ay gamitin ang OpenID mo upang lumagda:'
       new to osm: Bago pa lamang sa OpenStreetMap?
-      to make changes: Upang makagawa ng mga pagbabago sa dato ng GRM data,
+      to make changes: Upang makagawa ng mga pagbabago sa dato ng OpenStreetMap data,
         kailangang mayroon kang isang akawnt.
       create account minute: Lumikha ng isang akawnt. Aabutin lamang ng isang minuto.
       no account: Wala ka pa bang akawnt?

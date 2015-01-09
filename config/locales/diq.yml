@@ -656,7 +656,7 @@ diq:
           alt: AOL OpenID ya dekewê de
     logout:
       title: Veciyayış
-      heading: GRM ra vıcyayış
+      heading: OpenStreetMap ra vıcyayış
       logout_button: Veciyayış
     lost_password:
       title: Parolaya vınibyayi

@@ -280,11 +280,11 @@ sk:
       edit: Editovať
     feed:
       user:
-        title: Záznamy GRM denníka používateľa %{user}
-        description: Nedávne záznamy GRM denníka používateľa %{user}
+        title: Záznamy OpenStreetMap denníka používateľa %{user}
+        description: Nedávne záznamy OpenStreetMap denníka používateľa %{user}
       language:
-        title: Záznamy GRM denníka v jazyku %{language_name}
-        description: Nedávne záznamy v denníkoch používateľov GRM v jazyku
+        title: Záznamy OpenStreetMap denníka v jazyku %{language_name}
+        description: Nedávne záznamy v denníkoch používateľov OpenStreetMap v jazyku
           %{language_name}
       all:
         title: Denníkové záznamy OpenStreetMap
@@ -303,16 +303,16 @@ sk:
       area_to_export: Oblasť pre export
       manually_select: Manuálne vybrať inú oblasť
       format_to_export: Formát pre export
-      osm_xml_data: GRM XML dáta
+      osm_xml_data: OpenStreetMap XML dáta
       map_image: Obrázok (obsahuje štandardné vrstvy)
       embeddable_html: Vložiteľné HTML
       licence: Licencia
-      export_details: Údaje GRM sú k dispozícii pod licenciou <a href="http://opendatacommons.org/licenses/odbl/">Open
+      export_details: Údaje OpenStreetMap sú k dispozícii pod licenciou <a href="http://opendatacommons.org/licenses/odbl/">Open
         Data Commons Open Database License</a> (ODbL).
       too_large:
         advice: 'Ak tento export zlyhá, zvážte použitie niektorého z nasledovných
           zdrojov:'
-        body: Táto oblasť je príliš veľká pre export GRM XML dát. Priblížte
+        body: Táto oblasť je príliš veľká pre export OpenStreetMap XML dát. Priblížte
           prosím mapu, alebo vyberte menšiu oblasť.
         planet:
           title: Planéta OSM
@@ -329,7 +329,7 @@ sk:
           description: Extrakty pre hlavné svetové mestá a ich okolie
         other:
           title: Iné zdroje
-          description: Ďalšie zdroje sú uvedené na GRM wiki
+          description: Ďalšie zdroje sú uvedené na OpenStreetMap wiki
       options: Možnosti
       format: Formát
       scale: Mierka
@@ -897,7 +897,7 @@ sk:
     edit_with: Upraviť pomocou %{editor}
     tag_line: Slobodná wiki-mapa sveta
     intro_header: Vitajte v OpenStreetMap!
-    intro_text: GRM je mapa sveta, vytvorené ľuďmi ako vy, voľne využiteľná
+    intro_text: OpenStreetMap je mapa sveta, vytvorené ľuďmi ako vy, voľne využiteľná
       pod slobodnou licenciou.
     intro_2_create_account: Založte si konto
     partners_html: Prevádzku podporujú %{ucl}, %{ic}, %{bytemark} a iní %{partners}.
@@ -906,11 +906,11 @@ sk:
     partners_bytemark: Bytemark Hosting
     partners_partners: partneri
     partners_url: http://wiki.openstreetmap.org/wiki/Partners
-    osm_offline: GRM databáza je teraz offline, zatiaľ čo potrebná údržba
+    osm_offline: OpenStreetMap databáza je teraz offline, zatiaľ čo potrebná údržba
       databázy naďalej prebieha.
-    osm_read_only: GRM databáza je teraz len v móde čítania (bez možnosti
+    osm_read_only: OpenStreetMap databáza je teraz len v móde čítania (bez možnosti
       zapisovania), zatiaľ čo potrebná údržba databázy naďalej prebieha.
-    donate: Podporte GRM %{link} Fondu na obnovu hardwaru
+    donate: Podporte OpenStreetMap %{link} Fondu na obnovu hardwaru
     help: Pomoc
     about: O projekte
     copyright: Copyright
@@ -918,9 +918,9 @@ sk:
     community_blogs: Komunitné blogy
     community_blogs_title: Blogy členov komunity OpenStreetMap
     foundation: Nadácia
-    foundation_title: Nadácia GRM Foundation
+    foundation_title: Nadácia OpenStreetMap Foundation
     make_a_donation:
-      title: Podporte GRM finančným príspevkom
+      title: Podporte OpenStreetMap finančným príspevkom
       text: Darovanie
     learn_more: Viac info
     more: Ďalšie
@@ -938,11 +938,11 @@ sk:
       mapping_link: začať mapovať
     legal_babble:
       title_html: Autorské práva a licencia
-      intro_1_html: GRM sú <em>slobodné dáta</em>, ponúkané za podmienok
+      intro_1_html: OpenStreetMap sú <em>slobodné dáta</em>, ponúkané za podmienok
         licencie <a href="http://opendatacommons.org/licenses/odbl/">Open Data Commons
         Open Database License</a> (ODbL).
       intro_2_html: '  Môžete kopírovať, distribuovať, oznamovať verejnosti a upravovať
-        naše dáta, pokiaľ ako zdroj uvediete „<em>GRM a jeho prispievatelia</em>“.
+        naše dáta, pokiaľ ako zdroj uvediete „<em>OpenStreetMap a jeho prispievatelia</em>“.
         Ak naše mapy alebo dáta budete upravovať alebo ich použijete vo svojom diele,
         musíte výsledné dielo šíriť pod rovnakou licenciou. Vaše práva a povinnosti
         sú vysvetlené v <a href="http://opendatacommons.org/licenses/odbl/">plnom
@@ -960,14 +960,14 @@ sk:
         V prípade interaktívnej elektronickej mapy by autorstvo malo byť uvedené v rohu mapy.
         Napríklad:
       attribution_example:
-        alt: Príklad, ako uvádzať autorstvo GRM na webovej stránke
+        alt: Príklad, ako uvádzať autorstvo OpenStreetMap na webovej stránke
         title: Príklad uvedenia autorstva
       more_title_html: Ďalšie informácie
       more_1_html: O používaní našich dát a spôsobe citovania, sa môžete dočítať viac
         v našich <a href="http://wiki.openstreetmap.org/wiki/Legal_FAQ">Často kladených
         právnych otázkach</a>.
       more_2_html: |-
-        Hoci GRM tvorí slobodné dáta, nemôžeme zadarmo poskytovať tretím stranám mapové API.
+        Hoci OpenStreetMap tvorí slobodné dáta, nemôžeme zadarmo poskytovať tretím stranám mapové API.
         Pozrite naše <a href="http://wiki.openstreetmap.org/wiki/API_usage_policy">Pravidlá použitia API</a>, <a href="http://wiki.openstreetmap.org/wiki/Tile_usage_policy">Pravidlá použitia mapových dlaždíc</a> a <a href="http://wiki.openstreetmap.org/wiki/Nominatim#Usage_Policy">Pravidlá použitia nástroja Nominatim</a>.
       contributors_title_html: Naši prispievatelia
       contributors_intro_html: 'Naši prispievatelia sú tisícky jednotlivcov. Máme
@@ -996,8 +996,8 @@ sk:
         Survey © Crown copyright a právo k databáze 2010-12.'
       contributors_footer_1_html: |-
         Podrobnosti o týchto a ďalších zdrojoch, ktoré boli použité pre vylepšenie OpenStreetMap, nájdete na <a
-        href="http://wiki.openstreetmap.org/wiki/Contributors">stránke Contributors</a> na GRM wiki.
-      contributors_footer_2_html: '  Zahrnutie dát do GRM neznamená, že
+        href="http://wiki.openstreetmap.org/wiki/Contributors">stránke Contributors</a> na OpenStreetMap wiki.
+      contributors_footer_2_html: '  Zahrnutie dát do OpenStreetMap neznamená, že
         pôvodný poskytovateľ dát podporuje OpenStreetMap, ponúka akúkoľvek záruku,
         alebo prijíma akúkoľvek zodpovednosť.'
       infringement_title_html: Porušenie autorských práv
@@ -1005,7 +1005,7 @@ sk:
         dáta zo zdrojov chránených autorským právom (napr. Google Maps či tlačené
         mapy) bez výslovného súhlasu držiteľov práv.
       infringement_2_html: Ak sa domnievate, že materiál podliehajúci autorským právam
-        bol neoprávnene pridaný do databázy GRM alebo na tieto stránky,
+        bol neoprávnene pridaný do databázy OpenStreetMap alebo na tieto stránky,
         prosíme vás, aby ste si pozreli náš <a href="http://www.osmfoundation.org/wiki/License/Takedown_procedure">postup
         odstraňovania</a> alebo podajte žiadosť priamo na <a href="http://dmca.openstreetmap.org/">stránke
         pre podávanie sťažností</a>.
@@ -1016,7 +1016,7 @@ sk:
       ktoré potrebujete vedieť.
     whats_on_the_map:
       title: Čo patrí do mapy
-      on_html: GRM je miesto pre mapovanie vecí, ktoré sú zároveň <em>reálne
+      on_html: OpenStreetMap je miesto pre mapovanie vecí, ktoré sú zároveň <em>reálne
         aj aktuálne</em> - obsahuje milióny budov, ciest a ďalšie podrobnosti o miestach.
         Môžete mapovať čokoľvek, čo vás zaujíma.
       off_html: Čo <em>nezahŕňa</em> sú názory ako hodnotenia, historické či hypotetické
@@ -1024,7 +1024,7 @@ sk:
         oprávnenie, nekopírujte z online nebo papierových máp.
     basic_terms:
       title: Základné pojmy pre mapovanie
-      paragraph_1_html: GRM má svoj vlastný žargón. Tu je niekoľko kľúčových
+      paragraph_1_html: OpenStreetMap má svoj vlastný žargón. Tu je niekoľko kľúčových
         slov, ktoré vám prídu vhod.
       editor_html: <strong>Editor</strong> je program alebo webovej stránky pomocou
         ktorej upravujete mapu.
@@ -1037,7 +1037,7 @@ sk:
     questions:
       title: Akékoľvek otázky?
       paragraph_1_html: Potrebujete pomoc s mapovaním alebo vám nie je jasné, ako
-        GRM používať? Odpovede na svoje otázky môžete získať na <a href='http://help.openstreetmap.org/'>webe
+        OpenStreetMap používať? Odpovede na svoje otázky môžete získať na <a href='http://help.openstreetmap.org/'>webe
         s nápovedou</a>.
     start_mapping: Začať mapovať
     add_a_note:
@@ -1061,13 +1061,13 @@ sk:
     diary_comment_notification:
       subject: '[OpenStreetMap] %{user} okomentoval záznam vo vašom denníku'
       hi: Ahoj %{to_user},
-      header: '%{from_user} okomentoval váš nedávny záznam v GRM denníku
+      header: '%{from_user} okomentoval váš nedávny záznam v OpenStreetMap denníku
         s predmetom %{subject}:'
       footer: Môžete si tiež prečítať komentár na %{readurl}, komentovať na %{commenturl},
         alebo odpovedať na %{replyurl}
     message_notification:
       hi: Ahoj %{to_user},
-      header: '%{from_user} vám zaslal správu cez GRM s predmetom %{subject}:'
+      header: '%{from_user} vám zaslal správu cez OpenStreetMap s predmetom %{subject}:'
     friend_notification:
       subject: '[OpenStreetMap] %{user} vás pridal ako priateľa'
       had_added_you: '%{user} vás pridal ako priateľa na OpenStreetMap.'
@@ -1208,12 +1208,12 @@ sk:
   site:
     index:
       js_1: Používate prehliadač bez podpory JavaScriptu, alebo máte JavaScript vypnutý.
-      js_2: GRM používa pre interaktívnu mapu JavaScript.
+      js_2: OpenStreetMap používa pre interaktívnu mapu JavaScript.
       permalink: Trvalý odkaz
       shortlink: Krátky odkaz
       createnote: Pridať poznámku
       license:
-        copyright: Chránené autorskými právami GRM a prispievateľov pod
+        copyright: Chránené autorskými právami OpenStreetMap a prispievateľov pod
           slobodnou licenciou
       remote_failed: Editácia sa nepodarila – skontrolujte, či je JOSM alebo Merkaartor
         spustený a je v ňom povolená funkcia Diaľkové ovládanie (Remote control)
@@ -1225,7 +1225,7 @@ sk:
       anon_edits_link_text: Prečo to tak je?
       flash_player_required: Ak chcete používať Potlatch, flashový editor OpenStreetMap,
         potrebujete Flash prehrávač. Môžete si <a href="http://www.adobe.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">stiahnuť
-        Flash Player z Adobe.com</a>. Pre editáciu GRM existuje <a href="http://wiki.openstreetmap.org/wiki/Editing">viacero
+        Flash Player z Adobe.com</a>. Pre editáciu OpenStreetMap existuje <a href="http://wiki.openstreetmap.org/wiki/Editing">viacero
         ďalších možností</a>.
       potlatch_unsaved_changes: Nemáte uložené zmeny. (V Potlatchu odznačte aktuálnu
         cestu alebo bod ak editujete v živom režime, alebo kliknite na tlačítko Uložiť
@@ -1531,10 +1531,10 @@ sk:
       lost password link: Stratili ste heslo?
       login_button: Prihlásiť
       register now: Zaregistrujte se
-      with username: 'Už máte na GRM konto? Prihláste sa svojim menom a
+      with username: 'Už máte na OpenStreetMap konto? Prihláste sa svojim menom a
         heslom:'
       with openid: 'Alternatívne sa môžete prihlásiť svojím OpenID:'
-      new to osm: Ste na GRM nový?
+      new to osm: Ste na OpenStreetMap nový?
       to make changes: Ak chcete upravovať OpenStreetMap, musíte mať používateľské
         konto.
       create account minute: Založte si konto. Zaberie to len chvíľku.
@@ -1612,7 +1612,7 @@ sk:
       openid association: |-
         <p>Vaše OpenID zatiaľ nebolo prepojené s kontom na OpenStreetMap.</p>
         <ul>
-          <li>Ak ste na GRM nový, vytvorte si konto pomocou formulára nižšie.</li>
+          <li>Ak ste na OpenStreetMap nový, vytvorte si konto pomocou formulára nižšie.</li>
           <li>
            Ak už konto máte, môžete sa prihlásiť
            pomocou používateľského mena a hesla a následne ho

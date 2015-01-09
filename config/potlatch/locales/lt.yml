@@ -67,7 +67,7 @@ lt:
   editingoffline: Redaguojama neprisijungus
   emailauthor: \n\nKreipkitės į richard@systemeD.net ir praneškite, ką tuo metu darėte.
   error_anonymous: Jūs negalite susisiekti su anoniminiu žemėlapių kūrėju.
-  error_connectionfailed: Atsiprašome - ryšys su GRM serverio nutrūko. Naujausi pakeitimai nebuvo išsaugoti. \n\nNorite pabandyti dar kartą?
+  error_connectionfailed: Atsiprašome - ryšys su OpenStreetMap serverio nutrūko. Naujausi pakeitimai nebuvo išsaugoti. \n\nNorite pabandyti dar kartą?
   error_microblog_long: "Pranešimų siuntimas į $1 nepavyko:\nHTTP kodas: $2\nKlaidos pranešimas: $3\n$1 error: $4"
   existingrelation: Pridėti į esamą ryšį
   findrelation: Rasti ryšį, kurio sudėtyje yra

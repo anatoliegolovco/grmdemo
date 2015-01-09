@@ -195,7 +195,7 @@ ka:
       area_to_export: ტერიტორია ექსპორტისათვის
       manually_select: სხვა რეგიონის გამოყოფა ხელით
       format_to_export: ექსპორტის ფორმატი
-      osm_xml_data: GRM XML–ის მონაცემები
+      osm_xml_data: OpenStreetMap XML–ის მონაცემები
       map_image: რუკის სურათი (სტანდარტული ფენის ჩვენება)
       licence: ლიცენზია
       options: პარამეტრები

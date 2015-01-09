@@ -177,7 +177,7 @@
         "view_on_osm": "Kyk daarna op openstreetmap.org",
         "choose": "Kies funksie tipe",
         "results": "{n} resultate vir {search}",
-        "reference": "Kyk daarna op GRM Wiki",
+        "reference": "Kyk daarna op OpenStreetMap Wiki",
         "remove": "Verwyder"
     },
     "background": {
@@ -205,7 +205,7 @@
         "view_on_osm": "Besigtig op OSM"
     },
     "splash": {
-        "welcome": "Welkom by die iD GRM program",
+        "welcome": "Welkom by die iD OpenStreetMap program",
         "walkthrough": "Begin die Deurloop",
         "start": "Verander Nou"
     },
@@ -240,7 +240,7 @@
     },
     "intro": {
         "navigation": {
-            "drag": "Die hoofkaartarea toon GRM data aan op 'n agtergrond. Jy kan navigeer deur te trek en te sleep net soos met enige ander web gebaseerde kaart. **Probeer dit nou!**",
+            "drag": "Die hoofkaartarea toon OpenStreetMap data aan op 'n agtergrond. Jy kan navigeer deur te trek en te sleep net soos met enige ander web gebaseerde kaart. **Probeer dit nou!**",
             "select": "Kaart eienskappe word verteenwoordig op drie maniere: punte, lyne en areas. All eienskappe kan uitgekies word deur daarop te klick. **Klick op 'n punt om dit uit te kies.**",
             "header": "Die opskrif wys ons die eienskap tipe.",
             "pane": "Die itemkieslys word vertoon sodra jy 'n item op die kaart kies. Die opskrif dui die itemtipe aan en die hoofpaneel dui die item se eienskappe aan soos 'n naam en adres. **Om die itemkieslys toe te maak druk die knoppie regs bo.**"

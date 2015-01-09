@@ -977,7 +977,7 @@ sr:
         Више о употреби података и како да нас наводите можете пронаћи на <a
           href="http://wiki.openstreetmap.org/wiki/Legal_FAQ">Правним ЧПП</a>.
       more_2_html: |-
-        Иако GRM ради с отвореним подацима, не можемо
+        Иако OpenStreetMap ради с отвореним подацима, не можемо
         понудити бесплатан АПИ за мапе независним програмерима.
         Погледајте <a href="http://wiki.openstreetmap.org/wiki/API_usage_policy">правила о употреби АПИ-ја</a>,
         <a href="http://wiki.openstreetmap.org/wiki/Tile_usage_policy">правила о употреби поља</a>
@@ -1249,7 +1249,7 @@ sr:
   site:
     index:
       js_1: Користите прегледач који не подржава јаваскрипт или сте га онемогућили.
-      js_2: GRM користи јаваскрипт за приказивање мапа.
+      js_2: OpenStreetMap користи јаваскрипт за приказивање мапа.
       permalink: Трајна веза
       shortlink: Кратка веза
       createnote: Додај белешку

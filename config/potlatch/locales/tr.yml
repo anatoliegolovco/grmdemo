@@ -61,7 +61,7 @@ tr:
   editingoffline: Çevrimdışı düzenleniyor
   emailauthor: \n\nLütfen bu hata konusunda richard\@systemeD.net'e bir e.posta at
   error_anonymous: Anonim haritacılarla iletişime geçemezsin.
-  error_connectionfailed: Maalesef GRM sunucusuyla bağlantı koptu. Son değişiklikler kaydedilmedi.\n\nBir daha denemek ister misin?
+  error_connectionfailed: Maalesef OpenStreetMap sunucusuyla bağlantı koptu. Son değişiklikler kaydedilmedi.\n\nBir daha denemek ister misin?
   error_microblog_long: "$1'ün yüklenmesi başarsız oldu:\nHTTP kodu: $2\nHata mesajı: $3\n$1 hata: $4"
   error_nopoi: POI bulunamadı (belki başka bir yere taşıdınız), bundan dolayı geri alamıyorum.
   error_nosharedpoint: $1 ve $2 yollarının paylaştıkları ortak bir nokta artık yok, bu yüzden bölmeyi geri alamıyorum.

@@ -189,7 +189,7 @@
     },
     "zoom_in_edit": "Mag-zoom in para makapag-edit",
     "logout": "Mag-logout",
-    "loading_auth": "Kumokonekta sa GRM ...",
+    "loading_auth": "Kumokonekta sa OpenStreetMap ...",
     "report_a_bug": "I-ulat ang bug",
     "status": {
         "error": "Hindi maka-konekta sa API."
@@ -229,7 +229,7 @@
         "new_relation": "Bagong relation ...",
         "choose": "Pumili ng uri ng \"features\"",
         "results": "{n} mga resulta para sa {search}",
-        "reference": "Tingnan sa GRM Wiki",
+        "reference": "Tingnan sa OpenStreetMap Wiki",
         "back_tooltip": "Baguhin ang \"feature\"",
         "remove": "Alisin",
         "search": "Mag-search",
@@ -258,7 +258,7 @@
     },
     "save": {
         "title": "I-save",
-        "help": "I-save ang mga pagbabago sa GRM upang makita ng ibang gumagamit ng datos.",
+        "help": "I-save ang mga pagbabago sa OpenStreetMap upang makita ng ibang gumagamit ng datos.",
         "no_changes": "Walang mga pagbabago upang i-save.",
         "error": "May error habang sinusubukang i-save",
         "uploading": "Ina-upload ang mga pagbabago sa OpenStreetMap.",
@@ -275,7 +275,7 @@
         "okay": "Okay"
     },
     "splash": {
-        "welcome": "Maligayang pagdating sa iD GRM editor",
+        "welcome": "Maligayang pagdating sa iD OpenStreetMap editor",
         "text": "Ang iD ay isang simple ngunit magandang editor para sa pag-edit ng libreng mapa ng buong mundo.  Ito ay bersyon {version}. Para sa karagdagang impormasyon tingnan ang {website} at i-ulat ang mga bugs sa {github}.",
         "walkthrough": "Simulan ang \"Walkthrough\"",
         "start": "Simulan ang pag-edit"

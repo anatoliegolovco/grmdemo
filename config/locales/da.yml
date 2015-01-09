@@ -310,7 +310,7 @@ da:
         description: Seneste OpenStreetMap-blogindlæg fra %{user}
       language:
         title: OpenStreetMap-blogindlæg på %{language_name}
-        description: Seneste blogindlæg fra brugere af GRM på %{language_name}
+        description: Seneste blogindlæg fra brugere af OpenStreetMap på %{language_name}
       all:
         title: OpenStreetMap-blogindlæg
         description: Seneste blogindlæg fra brugere af OpenStreetMap
@@ -328,7 +328,7 @@ da:
       area_to_export: Område som skal eksporteres
       manually_select: Vælg et andet område manuelt
       format_to_export: Format for eksport
-      osm_xml_data: GRM XML-data
+      osm_xml_data: OpenStreetMap XML-data
       map_image: Kort billede (viser standard lag)
       embeddable_html: HTML der kan indlejres
       licence: Licens
@@ -357,7 +357,7 @@ da:
           description: Uddrag af verdens største byer og de omkringliggende områder
         other:
           title: Andre kilder
-          description: Yderligere kilder der er anført på GRM wiki
+          description: Yderligere kilder der er anført på OpenStreetMap wiki
       options: Indstillinger
       format: Format
       scale: Skala
@@ -925,7 +925,7 @@ da:
     edit_with: Redigér med %{editor}
     tag_line: Det frie Wiki-verdenskort
     intro_header: Velkommen til OpenStreetMap!
-    intro_text: GRM er et kort over verden, skabt af folk som dig og gratis
+    intro_text: OpenStreetMap er et kort over verden, skabt af folk som dig og gratis
       at bruge under en åben licens.
     intro_2_create_account: Opret en brugerkonto
     partners_html: Hosting understøttes af %{ucl}, %{ic} og %{bytemark} og andre %{partners}.
@@ -935,9 +935,9 @@ da:
     partners_partners: partnere
     osm_offline: OpenStreetMap-databasen er for øjeblikket offline på grund af nødvendig
       databasevedligeholdelse.
-    osm_read_only: GRM databasen er for øjeblikket ikke redigerbar på grund
+    osm_read_only: OpenStreetMap databasen er for øjeblikket ikke redigerbar på grund
       af database vedligeholdelse.
-    donate: Støt GRM med en %{link} til Hardware-upgradefonden.
+    donate: Støt OpenStreetMap med en %{link} til Hardware-upgradefonden.
     help: Hjælp
     about: Om
     copyright: Ophavsret
@@ -947,7 +947,7 @@ da:
     foundation: Fond
     foundation_title: OpenStreetMap-fonden
     make_a_donation:
-      title: Støt GRM med en donation
+      title: Støt OpenStreetMap med en donation
       text: Donér
     learn_more: Lær mere
     more: Mere
@@ -967,11 +967,11 @@ da:
     legal_babble:
       title_html: Ophavsret og licens
       intro_1_html: |-
-        GRM er <i>åbne data</i>, licenseret under <a
+        OpenStreetMap er <i>åbne data</i>, licenseret under <a
         href="http://opendatacommons.org/licenses/odbl/">Open Data
         Commons Open Database License</a> (ODbL).
       intro_2_html: "Du kan frit kopiere, distribuere, overføre og tilpasse vores
-        data, \nså længe du angiver GRM og dets\nbidragsydere som kilde.
+        data, \nså længe du angiver OpenStreetMap og dets\nbidragsydere som kilde.
         Hvis du ændrer eller bygger på vores\ndata, må du kun distribuere resultatet
         under den samme licens. Den\nfulde <a\nhref=\"http://opendatacommons.org/licenses/odbl/1.0/\">juridiske
         tekst</a>\nforklarer dine rettigheder og pligter."
@@ -994,7 +994,7 @@ da:
         For et navigerbart elektronisk kort, skal kildeangivelsen være i hjørnet af kortet.
         For eksempel:
       attribution_example:
-        alt: Eksempel på hvordan man angiver GRM som kilde for en webside
+        alt: Eksempel på hvordan man angiver OpenStreetMap som kilde for en webside
         title: Eksempel på kildeangivelse
       more_title_html: Læs mere
       more_1_html: |-
@@ -1002,7 +1002,7 @@ da:
         href="http://wiki.openstreetmap.org/wiki/Legal_FAQ">juridiske
         FAQ</a>.
       more_2_html: |-
-        Selvom GRM er åbne data, kan vi ikke levere en
+        Selvom OpenStreetMap er åbne data, kan vi ikke levere en
         gratis kort-API til tredjeparts-udviklere.
 
         Se vores <a href="http://wiki.openstreetmap.org/wiki/API_usage_policy">politik for API-brug</a>,
@@ -1046,9 +1046,9 @@ da:
         2010-12.
       contributors_footer_1_html: |-
         For yderligere oplysninger om disse og andre kilder, der er blevet brugt for at hjælpe med at forbedre OpenStreetMap, se venligst <a
-        href="http://wiki.openstreetmap.org/wiki/Contributors">siden med bidragsydere</a> på GRM Wiki.
+        href="http://wiki.openstreetmap.org/wiki/Contributors">siden med bidragsydere</a> på OpenStreetMap Wiki.
       contributors_footer_2_html: |-
-        Optagelse af data i GRM indebærer ikke at den oprindelige
+        Optagelse af data i OpenStreetMap indebærer ikke at den oprindelige
         dataudbyder siger god for OpenStreetMap, giver nogen garanti eller
         accepterer nogen form for erstatningspligt.
       infringement_title_html: Krænkelse af ophavsretten
@@ -1058,7 +1058,7 @@ da:
         eksplicit tilladelse fra ophavsret-indehaverne.
       infringement_2_html: |-
         Hvis du mener, at ophavsretligt beskyttet materiale uberettiget er
-         føjet til GRM databasen eller dette websted, bedes du følge
+         føjet til OpenStreetMap databasen eller dette websted, bedes du følge
          vores <a href="http://www.osmfoundation.org/wiki/License/Takedown_procedure">procedure til fjernelse a materiale</a> eller udfyld formular direkte på vores
         <a href="http://dmca.openstreetmap.org/">on-line side</a>.
   welcome_page:
@@ -1069,7 +1069,7 @@ da:
     whats_on_the_map:
       title: Hvad kortet indholder
       on_html: |-
-        GRM indeholder elementer, der <em>konkret og aktuelt</em> findes -
+        OpenStreetMap indeholder elementer, der <em>konkret og aktuelt</em> findes -
         f.eks. millioner af bygninger, veje og andre detaljer om steder. Du kan kortlægge
         enhver detalje fra den virkelige verden som du interesserer dig for.
       off_html: |-
@@ -1093,7 +1093,7 @@ da:
     questions:
       title: Spørgsmål?
       paragraph_1_html: |-
-        Behøver du hjælp til at kortlægge eller er du usikker på hvordan GRM bruges? Få svar på dine spørgsmål på
+        Behøver du hjælp til at kortlægge eller er du usikker på hvordan OpenStreetMap bruges? Få svar på dine spørgsmål på
         <a href='%{help_url}'>OpenStreetMaps hjælpeside</a>.
     start_mapping: Editér kortet
     add_a_note:
@@ -1127,7 +1127,7 @@ da:
         <a href='http://wiki.osmfoundation.org/wiki/Working_Groups'>OSMF arbejdsgruppe</a>.
   help_page:
     title: Få hjælp
-    introduction: GRM har flere ressourcer til at lære om projektet, stille
+    introduction: OpenStreetMap har flere ressourcer til at lære om projektet, stille
       og besvare spørgsmål og i fællesskab diskutere og dokumentere emner omkring
       kortlægning.
     welcome:
@@ -1148,11 +1148,11 @@ da:
     copyright_html: <span>&copy;</span>OpenStreetMap<br>bidragsydere
     used_by: '%{name} stiller kortdata til rådighed for hundredvis af websteder, mobile
       apps og hardware-enheder'
-    lede_text: GRM er bygget af et fællesskab af kortlæggere, der bidrager
+    lede_text: OpenStreetMap er bygget af et fællesskab af kortlæggere, der bidrager
       og vedligeholder data om veje, stier, caféer, jernbanestationer og meget mere,
       over hele verden.
     local_knowledge_title: Lokal viden
-    local_knowledge_html: GRM lægger vægt på lokal viden. Bidragsydere bruger
+    local_knowledge_html: OpenStreetMap lægger vægt på lokal viden. Bidragsydere bruger
       luftfotografier, GPS-enheder og lavteknologiske feltkort til at kontrollere
       at OSM er præcis og ajourført.
     community_driven_title: Drevet af fællesskabet
@@ -1166,8 +1166,8 @@ da:
        <a href='http://www.osmfoundation.org/'>OSM Foundations</a> hjemmeside.
     open_data_title: Åbne Data
     open_data_html: |-
-      GRM er <i>åbne data</i>: du må bruge dem til ethvert formål,
-      så længe du nævner GRM og dets bidragsydere. Hvis du ændrer eller
+      OpenStreetMap er <i>åbne data</i>: du må bruge dem til ethvert formål,
+      så længe du nævner OpenStreetMap og dets bidragsydere. Hvis du ændrer eller
       bygger oven på data på bestemte måder, må du kun distribuere resultatet under
       den samme licens. Se siden om <a href='%{copyright_path}'>ophavsret og licens</a> for detaljer.
     partners_title: Partnere
@@ -1181,7 +1181,7 @@ da:
         %{commenturl} eller svare på %{replyurl}
     message_notification:
       hi: Hej %{to_user},
-      header: '%{from_user} har sendt dig en besked gennem GRM med emnet
+      header: '%{from_user} har sendt dig en besked gennem OpenStreetMap med emnet
         %{subject}:'
       footer_html: Du kan også læse beskeden på %{readurl} og du kan svare på %{replyurl}
     friend_notification:
@@ -1346,12 +1346,12 @@ da:
     index:
       js_1: Du bruger enten en browser som ikke understøtter Javascript, eller du
         har deaktiveret Javascript.
-      js_2: GRM bruger JavaScript til det interaktive kort.
+      js_2: OpenStreetMap bruger JavaScript til det interaktive kort.
       permalink: Permalink
       shortlink: Kort link
       createnote: Tilføj en bemærkning
       license:
-        copyright: Ophavsret tilhører GRM og bidragsydere, under en open
+        copyright: Ophavsret tilhører OpenStreetMap og bidragsydere, under en open
           license
       remote_failed: Redigering mislykkede - tjek at JOSM eller Merkaartor er startet
         og fjernbetjening er aktiveret
@@ -1362,7 +1362,7 @@ da:
       user_page_link: brugerside
       anon_edits_link_text: Find ud af hvorfor.
       flash_player_required: Du har brug for en Flash afspiller for at bruge Potlatch,
-        GRM Flash editoren. Du kan <a href="http://www.adobe.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">hente
+        OpenStreetMap Flash editoren. Du kan <a href="http://www.adobe.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">hente
         Flash Player fra Adobe.com</a>. <a href="http://wiki.openstreetmap.org/wiki/Editing">Flere
         andre indstillinger</a> er også tilgængelige til redigering af OpenStreetMap.
       potlatch_unsaved_changes: Du har ugemte ændringer (for at gemme i Potlatch skal
@@ -1576,7 +1576,7 @@ da:
       message: Systemet der håndterer upload og lagring af GPX-filer er på nuværende
         tidspunkt ikke tilgængelig
     georss:
-      title: GRM GPS spor
+      title: OpenStreetMap GPS spor
     description:
       description_with_count:
         one: GPX fil med %{count} punkt fra %{user}
@@ -1690,7 +1690,7 @@ da:
       lost password link: Glemt din adgangskode?
       login_button: Log på
       register now: Opret nu
-      with username: 'Har du allerede en GRM konto? Log på med dit brugernavn
+      with username: 'Har du allerede en OpenStreetMap konto? Log på med dit brugernavn
         og din adgangskode:'
       with openid: 'Alternativt kan du bruge din OpenID til at logge ind:'
       new to osm: Ny på OpenStreetMap?
@@ -1755,7 +1755,7 @@ da:
       about:
         header: Fri og redigerbar
         html: |-
-          <p>I modsætning til andre kort, er GRM helt lavet af folk som dig, og det er frit for alle at rette, opdatere, downloade og bruge.</p>
+          <p>I modsætning til andre kort, er OpenStreetMap helt lavet af folk som dig, og det er frit for alle at rette, opdatere, downloade og bruge.</p>
           <p>Tilmeld dig for at komme i gang med at bidrage. Vi vil sende en e-mail for at bekræfte din konto.</p>
       license_agreement: Når du bekræfter din konto, skal du acceptere <a href="http://www.osmfoundation.org/wiki/License/Contributor_Terms">vilkårene
         for bidragsydere</a>.
@@ -1773,7 +1773,7 @@ da:
       openid no password: Med OpenID kræves ikke en adgangskode, men nogle ekstraværktøjer
         eller en server kan muligvis stadig have brug for en.
       openid association: |-
-        <p>Din OpenID er endnu ikke tilknyttet en GRM konto.</p>
+        <p>Din OpenID er endnu ikke tilknyttet en OpenStreetMap konto.</p>
         <ul>
         <li>Hvis du er ny på OpenStreetMap, skal du oprette en ny konto ved hjælp af formularen nedenfor.</li>
         <li>

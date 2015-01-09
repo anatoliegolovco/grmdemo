@@ -59,16 +59,16 @@ gcf:
     user_diaries: Jounal
     tag_line: Lyannaj pou kat lib
     osm_offline: >
-      Base a doné a GRM dékonekté
+      Base a doné a OpenStreetMap dékonekté
       atchelman ; Yo ka fè on gwo travay
       enpòtan asi-y pou-y maché bien.
     osm_read_only: >
       Atchelman ou pé li selamn base a doné
-      a GRM ; Yo ka fè on gwo
+      a OpenStreetMap ; Yo ka fè on gwo
       travay enpòtan asi-y pou-y maché bien.
-    donate: 'Ba GRM on Fòs, %{link} Pou fè matériel la vansé.'
+    donate: 'Ba OpenStreetMap on Fòs, %{link} Pou fè matériel la vansé.'
     make_a_donation:
-      text: Ba GRM On Fòs
+      text: Ba OpenStreetMap On Fòs
   site:
     index:
       js_1: >
@@ -76,7 +76,7 @@ gcf:
         sipòté Javascript ouben Javascript
         éten.
       js_2: >
-        GRM ka sèvi èvè Javascript
+        OpenStreetMap ka sèvi èvè Javascript
         pou kat glisad.
       permalink: Permalink
     edit:

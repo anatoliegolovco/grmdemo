@@ -64,12 +64,12 @@ hr:
   editingoffline: Uređujete offline
   emailauthor: \n\nMolim pošalji e-mail richard\@systemeD.net sa izvješćem o bug-u, recite što ste radili u to vrijeme.
   error_anonymous: Ne možete kontaktirati anonimnog mappera.
-  error_connectionfailed: Žao mi je, veza sa GRM serverom nije uspjela. Neke nedavne promjene nisu spremljene.\n\nŽelite li pokušati ponovno?
+  error_connectionfailed: Žao mi je, veza sa OpenstreetMap serverom nije uspjela. Neke nedavne promjene nisu spremljene.\n\nŽelite li pokušati ponovno?
   error_microblog_long: "Slanje na $1 nije uspjelo:\nHTTP kod pogreške: $2\nTekst pogreške: $3\n$1 pogreška: $4"
   error_nopoi: POI se ne može naći (možda ste pomakli kartu), tako da ne mogu poništiti.
   error_nosharedpoint: Putevi $1 i $2 više ne dijele zajedničku točku, pa se ne mogu razdvojiti.
   error_noway: Put $1 se ne može pronaći (možda ste pomakli kartu?), pa ne mogu poništiti.
-  error_readfailed: Žao mi je, GRM server nije reagirao kada je bio upitan za podatke.\n\nŽelite li pokušati ponovno?
+  error_readfailed: Žao mi je, OpenStreetMap server nije reagirao kada je bio upitan za podatke.\n\nŽelite li pokušati ponovno?
   existingrelation: Dodaj postojećoj relaciji
   findrelation: Nađi relaciju koja sadrži
   gpxpleasewait: Molim pričekajte dok se GPX trag obrađuje.
@@ -181,7 +181,7 @@ hr:
   prompt_editsave: Uredi sa spremanjem
   prompt_helpavailable: Novi korisnik? Pogledaj dolje lijevo za pomoć.
   prompt_launch: Pokreni eksterni URL
-  prompt_live: U načinu "Uredi uživo", svaka stavka koju promjenite će biti trenutno spremljena u GRM bazu podataka - nije preporučljivo za početnike. Jeste li sigurni?
+  prompt_live: U načinu "Uredi uživo", svaka stavka koju promjenite će biti trenutno spremljena u OpenstreetMap bazu podataka - nije preporučljivo za početnike. Jeste li sigurni?
   prompt_manyways: Ovo područje je vrlo detaljno i trebati će puno vremena za učitavanje. Želite li zoomirati?
   prompt_microblog: Šalji na $1 ($2 ostalo)
   prompt_revertversion: "Vrati na prijašnju spremljenu verziju:"

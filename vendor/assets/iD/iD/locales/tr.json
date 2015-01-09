@@ -227,8 +227,8 @@
         "title": "Değişiklikleri kaydet",
         "description_placeholder": "Katkı sağlayanlar hakkında kısa açıklama",
         "message_label": "Mesajı işle",
-        "upload_explanation": "Yüklediğin değişiklikler GRM verilerini kullanan bütün haritalarda görülebilecek. ",
-        "upload_explanation_with_user": "{user} olarak yüklediğin değişiklikler GRM verilerini kullanan bütün haritalarda görülebilecek. ",
+        "upload_explanation": "Yüklediğin değişiklikler OpenStreetMap verilerini kullanan bütün haritalarda görülebilecek. ",
+        "upload_explanation_with_user": "{user} olarak yüklediğin değişiklikler OpenStreetMap verilerini kullanan bütün haritalarda görülebilecek. ",
         "save": "Kaydet",
         "cancel": "İptal",
         "warnings": "Uyarılar",
@@ -260,7 +260,7 @@
         "role": "Görev",
         "choose": "Kısım tipini seçiniz",
         "results": "{search} kelimesi için {n} adet sonuç ",
-        "reference": "GRM Wiki'de gör",
+        "reference": "OpenStreetMap Wiki'de gör",
         "back_tooltip": "Özelliği değiştir",
         "remove": "Kaldır",
         "search": "Ara",
@@ -312,7 +312,7 @@
         "okay": "Tamam"
     },
     "splash": {
-        "welcome": "GRM Editörü iD'ye hoşgeldiniz",
+        "welcome": "OpenStreetMap Editörü iD'ye hoşgeldiniz",
         "text": "iD, dünyanın en iyi özgür dünya haritasına katkıda bulunmak için, kolay ama güçlü bir araç. Bu sürüm {version}. Daha çok bilgi için {website} yerliğine bak ve yanlışlıkları ya da böcekleri {github} aracılığıyla bildir.",
         "walkthrough": "Örnek çalışmaya başla",
         "start": "Şimdi Düzenle"
@@ -351,12 +351,12 @@
     },
     "help": {
         "title": "Yardım",
-        "help": "# Yardım\n\nBu, dünyanın özgür ve düzenlenebilir haritası [OpenStreetMap](http://www.openstreetmap.org/)\niçin bir düzenleyici. Bunu bulunduğunuz bölgeyle ilgili bir veri\neklemek ya da güncellemek, böylece herkes için daha iyi bir açık kaynak\nve açık veri  bir dünya haritası oluşturmak için kullanabilirsiniz\n\nBu haritada yaptığınız düzenlemeler GRM kullanan herkesçe\ngörülebilir olacak. Düzenleyebilek için bir \n[ücretsiz GRM kullanıcısına](https://www.openstreetmap.org/user/new)\ngereksiniminiz var.\n\n[iD düzenleyicisi](http://ideditor.com/) ortak çaba ürünü bir proje ya da başka deyişle tasarı ve [kaynak kodu GitHub üzerinden erişilebilir](https://github.com/openstreetmap/iD).\n"
+        "help": "# Yardım\n\nBu, dünyanın özgür ve düzenlenebilir haritası [OpenStreetMap](http://www.openstreetmap.org/)\niçin bir düzenleyici. Bunu bulunduğunuz bölgeyle ilgili bir veri\neklemek ya da güncellemek, böylece herkes için daha iyi bir açık kaynak\nve açık veri  bir dünya haritası oluşturmak için kullanabilirsiniz\n\nBu haritada yaptığınız düzenlemeler OpenStreetMap kullanan herkesçe\ngörülebilir olacak. Düzenleyebilek için bir \n[ücretsiz OpenStreetMap kullanıcısına](https://www.openstreetmap.org/user/new)\ngereksiniminiz var.\n\n[iD düzenleyicisi](http://ideditor.com/) ortak çaba ürünü bir proje ya da başka deyişle tasarı ve [kaynak kodu GitHub üzerinden erişilebilir](https://github.com/openstreetmap/iD).\n"
     },
     "intro": {
         "navigation": {
             "title": "Navigasyon",
-            "drag": "Ana harita alanı GRM verisini arka plan olarak size sunmaktadır. Diğer harita uygulamalarında olduğu gibi sürekleyip yaklaş/uzaklaş ile haritada dolaşabilirsiniz. **Haritayı sürükleyin!** ",
+            "drag": "Ana harita alanı OpenStreetMap verisini arka plan olarak size sunmaktadır. Diğer harita uygulamalarında olduğu gibi sürekleyip yaklaş/uzaklaş ile haritada dolaşabilirsiniz. **Haritayı sürükleyin!** ",
             "select": "Harita nesneleri üç farklı şekilde gösterilir : noktalar, çizgiler ve alanlar. Tüm nesneler üzerine tıklanarak seçilebilir. **Bir nokta üzerine tıklayarak seçiniz.**",
             "header": "Başlık bize nesne tipini göstermektedir.",
             "pane": "Bir nesne seçildiği zaman, nesne editörü görünür hale gelir. Başlık kısmı bize nesnenin tipini, ana panel ise nesnenin adı ya da adresi gibi özelliklerini gösterir. **Nesne editörünü sağ üst köşesindeki kapat butonu yardımıyla kapatınız.**"

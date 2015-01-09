@@ -68,7 +68,7 @@ tl:
   error_nopoi: Hindi matagpuan ang Tuldok na Kagigiliwan (POI) (marahil inasay mo ito?) kaya't hindi ko maibalik sa dati.
   error_nosharedpoint: Ang mga daanang $1 ay $2 hindi na nag-aamutan ng isang pangkaraniwang tuldok, kaya't hindi ko mabuo ulit mula sa pagkakahiwa.
   error_noway: Hindi matagpuan ang daanang $1 (marahil inasay mo ito?) kaya't hindi ko maibalik sa dati.
-  error_readfailed: Paumanhin - hindi tumugon ang tagapaghain ng GRM noong humingi ng dato.\n\nNais mo bang subukang muli?
+  error_readfailed: Paumanhin - hindi tumugon ang tagapaghain ng OpenStreetMap noong humingi ng dato.\n\nNais mo bang subukang muli?
   existingrelation: Idagdag sa isang umiiral na kaugnayan
   findrelation: Maghanap ng isang kaugnayan na naglalaman ng
   gpxpleasewait: Mangyaring maghintay habang isinasagawa ang bakas ng GPX.
@@ -179,7 +179,7 @@ tl:
   prompt_editsave: Mamatnugot na may pagsagip
   prompt_helpavailable: Bagong tagagamit? Tumingin sa pang-ilalim na kaliwa para sa saklolo.
   prompt_launch: Ilunsad ang panlabas na URL
-  prompt_live: Sa pamamaraang buhay, ang bawat bagay na binabago mo ay kaagad na sasagipin sa loob ng kalipunan ng dato ng GRM - hindi ito iminumungkahi para sa mga nagsisimula pa lamang. Nakatitiyak ka ba?
+  prompt_live: Sa pamamaraang buhay, ang bawat bagay na binabago mo ay kaagad na sasagipin sa loob ng kalipunan ng dato ng OpenStreetMap - hindi ito iminumungkahi para sa mga nagsisimula pa lamang. Nakatitiyak ka ba?
   prompt_manyways: Talagang madetalye ang pook na ito at mangangailangan ng isang matagal na panahon upang maikarga. Mas nanaisin mo bang lumapit?
   prompt_microblog: Ipaskil sa $1 ($2 ang natitira pa)
   prompt_revertversion: "Manumbalik sa isang mas maagang nasagip na bersyon:"

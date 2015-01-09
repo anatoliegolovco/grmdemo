@@ -254,7 +254,7 @@
         "okay": "Aceutar"
     },
     "splash": {
-        "welcome": "Bienllegáu al editor d'GRM iD",
+        "welcome": "Bienllegáu al editor d'OpenStreetMap iD",
         "text": "iD ye una ferramienta amistosa pero potente pa collaborar col meyor mapamundi llibre del mundu. Esta ye la versión {version}. Pa más información visite {website} ya informe de fallos en {github}.",
         "walkthrough": "Aniciar la Visita guiada",
         "start": "Editar yá"
@@ -293,7 +293,7 @@
     "intro": {
         "navigation": {
             "title": "Navegacion",
-            "drag": "L'área principal del mapa presenta los datos d'GRM enriba d'un fondu. Pue navegar arrastrando y moviendo, igual que cualquier mapa web. **¡Arrastre'l mapa!**",
+            "drag": "L'área principal del mapa presenta los datos d'OpenStreetMap enriba d'un fondu. Pue navegar arrastrando y moviendo, igual que cualquier mapa web. **¡Arrastre'l mapa!**",
             "select": "Les carauterístiques del mapa representense de trés maneres: usando puntos, llinies o árees. Toles carauterístiques puen seleicionase calcando nelles. **Calque nel puntu pa selicionalu.**",
             "header": "La testera amuesanos el tipu de carauterística.",
             "pane": "Al seleicionar una carauterística, s'amuesa l'editor de carauterístiques. La testera amuesa el tipu de carauterística ya'l panel principal amuesa los atributos de la carauterística, como'l so nome y direición. **Zarre l'editor de carauterístiques col botón zarrar d'arriba a la drecha.**"

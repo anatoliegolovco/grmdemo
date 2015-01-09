@@ -261,9 +261,9 @@ sq:
       area_to_export: Zona per Eksport
       manually_select: Manualisht zgedhe ni zon te ndryshme
       format_to_export: Formati per Eksport
-      osm_xml_data: GRM XML të dhana
+      osm_xml_data: OpenStreetMap XML të dhana
       licence: Licensa
-      export_details: Të dhënat e GRM janë të licencuara nëpërmjet <a href="http://creativecommons.org/licenses/by-sa/2.0/">Creative
+      export_details: Të dhënat e OpenStreetMap janë të licencuara nëpërmjet <a href="http://creativecommons.org/licenses/by-sa/2.0/">Creative
         Commons Attribution-ShareAlike 2.0 license</a>.
       too_large:
         body: Kjo zonë është shum e madhe që të eksportohet si XML në OpenStreetMap.
@@ -463,7 +463,7 @@ sq:
     legal_babble:
       title_html: Të drejtat autoriale dhe licenca
       intro_1_html: |-
-        GRM is <i>open data</i>, licensed under the <a
+        OpenStreetMap is <i>open data</i>, licensed under the <a
         href="http://opendatacommons.org/licenses/odbl/">Open Data
         Commons Open Database License</a> (ODbL).
       intro_2_html: "  Ju jeni të lirë të kopjoni, shpërndani, transmetoni dhe adoptoni
@@ -478,7 +478,7 @@ sq:
         CC BY-SA&rdquo;. Nëse ju përdorni vetëm të dhëna të hartave\n  ne kërkojmë
         citimin e kontribuuesve &ldquo;të të dhënave të hartave &copy; të OpenStreetMap,\n
         \ CC BY-SA&rdquo;."
-      credit_2_html: "  Ku është e mundur, GRM duhet të hyperlinked to <a\n
+      credit_2_html: "  Ku është e mundur, OpenStreetMap duhet të hyperlinked to <a\n
         \ href=\"http://www.openstreetmap.org/\">http://www.openstreetmap.org/</a>\n
         \ dhe  CC BY-SA to <a\n  href=\"http://creativecommons.org/licenses/by-sa/2.0/\">http://creativecommons.org/licenses/by-sa/2.0/</a>.
         Nëse jeni duke përdorur një medium ku nuk mund të bëhen linka (p.sh. a\n  letër
@@ -514,7 +514,7 @@ sq:
       contributors_gb_html: |-
         <strong>Britani e Madhe</strong>: Përmban të dhëna nga Ordnance
            Survey&copy;. Crown i ka të drejtat autoriale dhe të databazës.
-      contributors_footer_2_html: "  Përfshirja e të dhënave në GRM nuk
+      contributors_footer_2_html: "  Përfshirja e të dhënave në OpenStreetMap nuk
         thekson se të ofruesi origjinal i të \n  dhënave përdor OpenStreetMap, ofron
         garancion, apo\n  pranon çfarëdo anekse."
   notifier:

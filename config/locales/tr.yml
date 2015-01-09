@@ -294,8 +294,8 @@ tr:
         title: '%{language_name} dillindeki günlük girdileri'
         description: Kullanıcıların %{language_name} dillindeki en son günlük girdileri
       all:
-        title: GRM günlük girdileri
-        description: GRM kullanıcıların en son günlük kayıtları
+        title: OpenStreetMap günlük girdileri
+        description: OpenStreetMap kullanıcıların en son günlük kayıtları
     comments:
       has_commented_on: '%{display_name} aşağıdaki günlük girdilerini yorumladı'
       post: Yazı
@@ -310,14 +310,14 @@ tr:
       area_to_export: Çıkartılacak alan
       manually_select: Fare kullanarak farklı bir alan seç
       format_to_export: Çıkartma biçimi
-      osm_xml_data: GRM XML Veri
+      osm_xml_data: OpenStreetMap XML Veri
       map_image: Harita (varsayılan katmanı gösterir)
       embeddable_html: Gömülebilir HTML
       licence: Lisans
-      export_details: GRM verileri, <a href="http://opendatacommons.org/licenses/odbl/1.0/">Open
+      export_details: OpenStreetMap verileri, <a href="http://opendatacommons.org/licenses/odbl/1.0/">Open
         Data Commons Open Database License</a>  (ODbL) altında lisanslanmıştır.
       too_large:
-        body: Bu alan GRM XML verisi olarak verilmesine kadar büyüktür.
+        body: Bu alan OpenStreetMap XML verisi olarak verilmesine kadar büyüktür.
           Lütfen yakınlaştır veya daha küçük bir alan seç ya da aşağıdaki verilen
           diğer kaynakları kullan.
         planet:
@@ -862,7 +862,7 @@ tr:
       west: batı
   layouts:
     logo:
-      alt_text: GRM logosu
+      alt_text: OpenStreetMap logosu
     home: Kendin Konuma Git
     logout: Çıkış
     log_in: Oturum aç
@@ -882,7 +882,7 @@ tr:
     edit_with: '%{editor} kullanarak düzenle'
     tag_line: Özgür Viki Dünya Haritası
     intro_header: OpenStreetMap'e hoş geldiniz!
-    intro_text: GRM senin gibi insanlar tarafından oluşturulan, kullanımı
+    intro_text: OpenStreetMap senin gibi insanlar tarafından oluşturulan, kullanımı
       serbest ve açık lisans altında olan bir dünya haritasıdır.
     intro_2_create_account: hesap oluşturunuz
     partners_html: Barındırma hizmeti, %{ucl}, %{ic}, %{bytemark} ve diğer %{partners}
@@ -891,9 +891,9 @@ tr:
     partners_ic: Imperial College London
     partners_bytemark: Bytemark Hosting
     partners_partners: ortaklar
-    osm_offline: GRM veritabanı bakım çalışmaları yürütüldüğü için veritabanı
+    osm_offline: OpenStreetMap veritabanı bakım çalışmaları yürütüldüğü için veritabanı
       şu anda çevrimdışıdır.
-    osm_read_only: GRM veritabanı bakım çalışmaları yürütüldüğü için veritabanı
+    osm_read_only: OpenStreetMap veritabanı bakım çalışmaları yürütüldüğü için veritabanı
       şu anda sadece okunur durumdadır.
     donate: Donanım Yükseltme Fonu'na %{link} yaparak OpenStreetMap'e destek veriniz.
     help: Yardım
@@ -901,11 +901,11 @@ tr:
     copyright: Telif Hakkı
     community: Topluluk
     community_blogs: Üye Blogları
-    community_blogs_title: GRM üyelerinin blogları
+    community_blogs_title: OpenStreetMap üyelerinin blogları
     foundation: Vakıf
-    foundation_title: GRM Vakfı
+    foundation_title: OpenStreetMap Vakfı
     make_a_donation:
-      title: GRM para bağışı ile destek verebilirsiniz
+      title: OpenStreetMap para bağışı ile destek verebilirsiniz
       text: Bağış Yapın
     learn_more: Daha Fazla Bilgi
     more: Daha fazla
@@ -973,7 +973,7 @@ tr:
     title: Yardım Almak
     welcome:
       title: OSM'ye hoşgeldin!
-      description: GRM temellerini öğrenmek için kısa bir kılavuz ile başla.
+      description: OpenStreetMap temellerini öğrenmek için kısa bir kılavuz ile başla.
     help:
       url: https://help.openstreetmap.org/
       title: help.openstreetmap.org
@@ -992,11 +992,11 @@ tr:
     diary_comment_notification:
       subject: '[OpenStreetMap] günlük kayıdın %{user} tarafından yorumlandı'
       hi: Merhaba %{to_user},
-      header: '%{from_user} senin %{subject} konulu GRM günlüğü girdisi
+      header: '%{from_user} senin %{subject} konulu OpenStreetMap günlüğü girdisi
         yorumladı:'
     message_notification:
       hi: Merhaba %{to_user},
-      header: 'GRM kullanıcı %{from_user} sana %{subject} konulu bir mesaj
+      header: 'OpenStreetMap kullanıcı %{from_user} sana %{subject} konulu bir mesaj
         gönderdi:'
     friend_notification:
       subject: '[OpenStreetMap] kullanıcı %{user} seni arkadaş olarak ekledi'
@@ -1096,12 +1096,12 @@ tr:
       deleted: Mesaj silindi
   site:
     index:
-      js_2: GRM harita gösterim için JavaScript kullanıyor.
+      js_2: OpenStreetMap harita gösterim için JavaScript kullanıyor.
       permalink: Kalıcı Bağlantı
       shortlink: Kısa Bağlantı
       createnote: Bir not ekle
       license:
-        copyright: Telif Hakkı GRM ve katılımcılar, açık lisans altında
+        copyright: Telif Hakkı OpenStreetMap ve katılımcılar, açık lisans altında
     edit:
       user_page_link: kullanıcı sayfası
       anon_edits: (%{link})
@@ -1289,7 +1289,7 @@ tr:
     offline:
       heading: GPX Yükleme Servisi Çevrimdışı
     georss:
-      title: GRM GPS İzleri
+      title: OpenStreetMap GPS İzleri
   oauth:
     oauthorize_success:
       verification: Doğrulama kodu %{code}.
@@ -1323,11 +1323,11 @@ tr:
       lost password link: Şifren mi unuttun?
       login_button: Gir
       register now: Şimdi kayıt ol
-      with username: 'GRM hesabınız var mı? Lütfen kullanıcı adı ve şifrenizle
+      with username: 'OpenStreetMap hesabınız var mı? Lütfen kullanıcı adı ve şifrenizle
         giriş yapınız:'
       with openid: 'Bunun yerine, OpenID kullanarak giriş yapın:'
-      new to osm: GRM sitesinde yeni misiniz?
-      to make changes: GRM verileri değiştirmek için bir hesabın olması
+      new to osm: OpenStreetMap sitesinde yeni misiniz?
+      to make changes: OpenStreetMap verileri değiştirmek için bir hesabın olması
         gerekir.
       create account minute: Bir hesap oluştur. Bir dakika bile sürmez.
       no account: Hesabın yok mu?
@@ -1376,7 +1376,7 @@ tr:
       about:
         header: Ücretsiz ve düzenlenebilir
         html: |-
-          <p>Diğer haritaların aksine, GRM tamamıyla sizin gibi insanlar tarafından oluşturulur ve düzeltme, güncelleme, indirme ve kullanma herkes için ücretsizdir.</p>
+          <p>Diğer haritaların aksine, OpenStreetMap tamamıyla sizin gibi insanlar tarafından oluşturulur ve düzeltme, güncelleme, indirme ve kullanma herkes için ücretsizdir.</p>
           <p>Katkıda bulunmaya başlamak için kayıt olun. Hesabınızın onaylanması için size bir e-posta göndereceğiz.</p>
       email address: 'E-posta Adresi:'
       confirm email address: E-posta Adresini Onayla
@@ -1678,7 +1678,7 @@ tr:
         data: Harita Verileri
         overlays: Sorun giderebilmek için kaplamaları etkinleştir
         title: Katmanlar
-      copyright: © <a href='%{copyright_url}'>GRM katkıda bulunanları</a>
+      copyright: © <a href='%{copyright_url}'>OpenStreetMap katkıda bulunanları</a>
       donate_link_text: <a class='donate-attr' href='%{donate_url}'>Bağış Yapın</a>
     site:
       edit_tooltip: Haritayı düzenle

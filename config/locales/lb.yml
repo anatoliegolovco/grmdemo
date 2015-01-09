@@ -221,7 +221,7 @@ lb:
             Datebank
         other:
           title: Aner Quellen
-          description: Zousätzlech Quelle stinn an der GRM Wiki
+          description: Zousätzlech Quelle stinn an der OpenStreetMap Wiki
       options: Optiounen
       format: Format
       scale: Maassstab
@@ -545,7 +545,7 @@ lb:
       west: westlech
   layouts:
     logo:
-      alt_text: GRM Logo
+      alt_text: OpenStreetMap Logo
     home: Op déi Plaz zréckgoen déi als Doheem definéiert ass
     logout: Ausloggen
     log_in: Aloggen
@@ -558,7 +558,7 @@ lb:
     edit_with: Ännere mat %{editor}
     intro_2_create_account: E Benotzerkont uleeën
     partners_partners: Partner
-    osm_offline: D'GRM Datebank ass elo net disponibel well dru geschafft
+    osm_offline: D'OpenStreetMap Datebank ass elo net disponibel well dru geschafft
       muss ginn.
     help: Hëllef
     about: Iwwer
@@ -567,7 +567,7 @@ lb:
     foundation: Fondatioun
     foundation_title: D'OpenStreetMao Fondatioun
     make_a_donation:
-      title: Ënnerstëtzt GRM mat engem Don
+      title: Ënnerstëtzt OpenStreetMap mat engem Don
       text: En Don maachen
     learn_more: Méi wëssen
     more: Méi
@@ -857,7 +857,7 @@ lb:
           title: Alogge mat AOL
     logout:
       title: Ofmellen
-      heading: Vun GRM ofmellen
+      heading: Vun OpenStreetMap ofmellen
       logout_button: Ofmellen
     lost_password:
       title: Passwuert vergiess
@@ -1071,7 +1071,7 @@ lb:
       back: All Späre weisen
   note:
     rss:
-      title: GRM Notizen
+      title: OpenStreetMap Notizen
     entry:
       comment: Bemierkung
     mine:

@@ -227,8 +227,8 @@
         "title": "바뀜 저장",
         "description_placeholder": "기여에 대한 간단한 설명",
         "message_label": "커밋 메시지",
-        "upload_explanation": "올린 바뀜은 GRM 데이터를 사용하는 모든 지도에 보여집니다.",
-        "upload_explanation_with_user": "{user} 사용자로 올린 바뀜은 GRM 데이터를 사용하는 모든 지도에 보여집니다.",
+        "upload_explanation": "올린 바뀜은 OpenStreetMap 데이터를 사용하는 모든 지도에 보여집니다.",
+        "upload_explanation_with_user": "{user} 사용자로 올린 바뀜은 OpenStreetMap 데이터를 사용하는 모든 지도에 보여집니다.",
         "save": "저장",
         "cancel": "취소",
         "warnings": "경고",
@@ -260,7 +260,7 @@
         "role": "역할",
         "choose": "기능 유형 선택",
         "results": "{search}에 대한 결과 {n}개",
-        "reference": "GRM 위키에서 보기",
+        "reference": "OpenStreetMap 위키에서 보기",
         "back_tooltip": "기능 바꾸기",
         "remove": "제거",
         "search": "검색",
@@ -313,7 +313,7 @@
         "okay": "확인"
     },
     "splash": {
-        "welcome": "iD GRM 편집기에 오신 것을 환영합니다",
+        "welcome": "iD OpenStreetMap 편집기에 오신 것을 환영합니다",
         "text": "iD는 세계 최고의 자유 세계 지도에 기여하기 위한 친절하지만 강력한 도구입니다. 버전은 {version}입니다. 자세한 정보에 대해서는 {website}을 참고하고 {github}에서 버그를 보고하세요.",
         "walkthrough": "연습 시작",
         "start": "지금 편집"
@@ -370,7 +370,7 @@
     "intro": {
         "navigation": {
             "title": "둘러보기",
-            "drag": "주 지도 지역은 배경의 위에 GRM 데이터를 보여줍니다. 어떤 웹 지도와 같이 드래그하고 스크롤해서 둘러볼 수 있습니다. **지도를 드래그하세요!**",
+            "drag": "주 지도 지역은 배경의 위에 OpenStreetMap 데이터를 보여줍니다. 어떤 웹 지도와 같이 드래그하고 스크롤해서 둘러볼 수 있습니다. **지도를 드래그하세요!**",
             "select": "지도 기능은 세 길로 표현됩니다: 사용 중인 지점, 선이나 지역. 모든 기능은 이를 클릭해서 선택할 수 있습니다. **선택하려면 지점을 클릭하세요.**",
             "header": "머리 부분은 기능 유형을 보여줍니다.",
             "pane": "기능이 선택되면, 기능 편집기가 보여집니다. 머리 부분은 기능 유형을 보여주고 주 패널은 이름과 주소와 같은 기능의 특성을 보여줍니다. **위 오른쪽의 닫기 버튼으로 기능 편집기를 닫으세요.**"

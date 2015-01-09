@@ -194,26 +194,26 @@ is:
       edit: breyta
     feed:
       user:
-        title: GRM dagbókarfærslur eftir %{user}
+        title: OpenStreetMap dagbókarfærslur eftir %{user}
         description: Nýjustu dagbókarfærslur eftir %{user}
       language:
-        title: GRM dagbókarfærslur á %{language_name}
-        description: Nýjustu dagbókarfærslur frá GRM á %{language_name}
+        title: OpenStreetMap dagbókarfærslur á %{language_name}
+        description: Nýjustu dagbókarfærslur frá OpenStreetMap á %{language_name}
       all:
-        title: GRM dagbókarfærslur
+        title: OpenStreetMap dagbókarfærslur
         description: Nýjustu dagbókarfærslur frá OpenStreetMap
   export:
     start:
       area_to_export: Svæði til að niðurhala
       manually_select: Velja annað svæði á kortinu
       format_to_export: Skráasnið
-      osm_xml_data: GRM XML gögn
+      osm_xml_data: OpenStreetMap XML gögn
       embeddable_html: HTML til að bæta á vefsíðu
       licence: Leyfi
-      export_details: GRM gögnin eru undir <a href="http://creativecommons.org/licenses/by-sa/2.0/">Creative
+      export_details: OpenStreetMap gögnin eru undir <a href="http://creativecommons.org/licenses/by-sa/2.0/">Creative
         Commons Attribution-ShareAlike 2.0 leyfinu</a>.
       too_large:
-        body: Svæðið sem þú ert að reyna að setja inn á GRM á XML formi
+        body: Svæðið sem þú ert að reyna að setja inn á OpenStreetMap á XML formi
           er of stórt. Vinsamlegast þysjaðu inn eða veldu smærra svæði.
       options: Valmöguleikar
       format: 'Snið:'
@@ -438,7 +438,7 @@ is:
       west: vestur
   layouts:
     logo:
-      alt_text: GRM merkið
+      alt_text: OpenStreetMap merkið
     home: heim
     logout: útskrá
     log_in: innskrá
@@ -453,13 +453,13 @@ is:
     user_diaries: Blogg notenda
     user_diaries_tooltip: Sjá blogg notenda
     tag_line: Frjálsa wiki heimskortið
-    osm_offline: GRM gagnagrunnurinn er niðri vegna viðhalds.
-    osm_read_only: Ekki er hægt að skrifa í GRM gagnagrunninn í augnablikinu
+    osm_offline: OpenStreetMap gagnagrunnurinn er niðri vegna viðhalds.
+    osm_read_only: Ekki er hægt að skrifa í OpenStreetMap gagnagrunninn í augnablikinu
       vegna viðhalds.
-    donate: Hjálpaðu GRM verkefninu með %{link} í vélbúnaðarsjóðinn.
+    donate: Hjálpaðu OpenStreetMap verkefninu með %{link} í vélbúnaðarsjóðinn.
     copyright: Höfundaréttur & leyfi
     make_a_donation:
-      title: Hjálpaðu GRM verkefninu með fjárframlagi
+      title: Hjálpaðu OpenStreetMap verkefninu með fjárframlagi
       text: Fjárframlagssíða
   license_page:
     foreign:
@@ -479,7 +479,7 @@ is:
     legal_babble:
       title_html: Höfundaréttur og leyfi
       intro_1_html: |-
-        GRM er <i>frjáls kortagrunnur</i> undir <a
+        OpenStreetMap er <i>frjáls kortagrunnur</i> undir <a
         href="http://opendatacommons.org/licenses/odbl/">Open Data
         Commons Open Database</a> leyfi. (ODbL).
       intro_2_html: |2-
@@ -494,13 +494,13 @@ is:
     diary_comment_notification:
       subject: '[OpenStreetMap] %{user} bætti við athugasemd á bloggfærslu þína'
       hi: Hæ %{to_user},
-      header: '%{from_user} hefur bætt við athugasemd á GRM bloggið þitt
+      header: '%{from_user} hefur bætt við athugasemd á OpenStreetMap bloggið þitt
         með titlinum „%{subject}“:'
       footer: Þú getur einnig lesið athugasemdina á %{readurl} og skrifað athugasemd
         á %{commenturl} eða svarað á %{replyurl}
     message_notification:
       hi: Hæ %{to_user},
-      header: '%{from_user} hefur send þér skilaboð á GRM með titlinum „%{subject}“:'
+      header: '%{from_user} hefur send þér skilaboð á OpenStreetMap með titlinum „%{subject}“:'
     friend_notification:
       subject: '[OpenStreetMap] %{user} bætti þér við sem vin'
       had_added_you: Notandinn %{user} hefur bætt þér við sem vini á OpenStreetMap.
@@ -611,7 +611,7 @@ is:
     index:
       js_1: Þú ert annaðhvort að nota vafra sem styður ekki JavaScript eða hefur slökkt
         á JavaScript stuðning.
-      js_2: GRM notar JavaScript til að útfæra gagnvirk kort.
+      js_2: OpenStreetMap notar JavaScript til að útfæra gagnvirk kort.
       permalink: Varanlegur tengill
       shortlink: Varanlegur smátengill
     edit:
@@ -623,7 +623,7 @@ is:
       flash_player_required: Þú þarft Flash spilara til að nota Potlatch ritilinn.
         Þú getur <a href="http://www.adobe.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">sótt
         niður Flash spilara frá Adobe.com</a> eða notað <a href="http://wiki.openstreetmap.org/index.php?uselang=is&title=Editing">aðra
-        GRM ritla</a> sem ekki krefjast Flash.
+        OpenStreetMap ritla</a> sem ekki krefjast Flash.
       potlatch_unsaved_changes: Þú ert með óvistaðar breytingar. Til að vista í Potlatch
         þarf að af-velja núverandi val ef þú ert í „Live“-ham, eða ýta á „Save“ hnappinn
         til að vista ef sá hnappur er sjáanlegur.

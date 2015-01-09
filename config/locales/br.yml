@@ -295,10 +295,10 @@ br:
       edit: Kemmañ
     feed:
       user:
-        title: Enmonedoù deizlevr GRM evit %{user}
-        description: Enmonedoù nevez e deizlevr GRM gant %{user}
+        title: Enmonedoù deizlevr OpenStreetMap evit %{user}
+        description: Enmonedoù nevez e deizlevr OpenStreetMap gant %{user}
       language:
-        title: Enmonedoù deizlevr GRM e %{language_name}
+        title: Enmonedoù deizlevr OpenStreetMap e %{language_name}
         description: Enmonedoù nevez a-walc'h e deizlevr implijerien OpenStreetMap
           e %{language_name}
       all:
@@ -323,7 +323,7 @@ br:
       map_image: Skeudenn gartenn (diskouez ur gwiskad boutin)
       embeddable_html: HTML enkorfadus
       licence: Aotre-implijout
-      export_details: Roadennoù GRM zo dindan an aotre-implijout <a href="http://opendatacommons.org/licenses/odbl/1.0/">Open
+      export_details: Roadennoù OpenStreetMap zo dindan an aotre-implijout <a href="http://opendatacommons.org/licenses/odbl/1.0/">Open
         Data Commons Open Database License</a> (ODbL).
       too_large:
         advice: 'Ma c''hwit an ezporzhiadur amañ a-us, implijit unan eus an elfennoù
@@ -913,7 +913,7 @@ br:
     user_diaries_tooltip: Gwelet deizlevrioù an implijerien
     edit_with: Kemmañ gant %{editor}
     tag_line: Kartenn digoust eus ar bed Wiki
-    intro_header: Donemat en GRM !
+    intro_header: Donemat en OpenStreetMap !
     intro_text: Ur gartenn eus ar bed eo OprenStreetMap, krouet gant tud eveldoc'h
       ha frank hec'h implij dindan un aotre-implij digor.
     intro_2_create_account: Krouiñ ur gont implijer
@@ -923,11 +923,11 @@ br:
     partners_ic: Skolaj impalaerel Londrez
     partners_bytemark: ↓Herberc'hiañ Bytemark
     partners_partners: Kevelourien
-    osm_offline: Ezlinenn eo diaz roadennoù GRM evit bremañ e-pad ma pleder
+    osm_offline: Ezlinenn eo diaz roadennoù OpenStreetMap evit bremañ e-pad ma pleder
       gant ul labour kempenn bras.
-    osm_read_only: Diaz roadennoù GRM zo da lenn hepken evit bremañ evit
+    osm_read_only: Diaz roadennoù OpenStreetMap zo da lenn hepken evit bremañ evit
       bremañ abalamour da labourioù kempenn bras.
-    donate: Skoazellit GRM dre %{link} d'an Hardware Upgrade Fund.
+    donate: Skoazellit OpenStreetMap dre %{link} d'an Hardware Upgrade Fund.
     help: Skoazell
     about: Diwar-benn
     copyright: Copyright & Aotre-implijout
@@ -937,7 +937,7 @@ br:
     foundation: Diazezadur
     foundation_title: Diazezadur OpenStreetMap
     make_a_donation:
-      title: Skoazellañ GRM gant ur road arc'hant
+      title: Skoazellañ OpenStreetMap gant ur road arc'hant
       text: Ober un donezon
     learn_more: Gouzout hiroc'h
     more: Muioc'h
@@ -956,11 +956,11 @@ br:
     legal_babble:
       title_html: Copyright hag aotre-implijout
       intro_1_html: |-
-        GRM zo <i>dindan un aotre-implijout digor</i>, a c'haller kavout en <a
+        OpenStreetMap zo <i>dindan un aotre-implijout digor</i>, a c'haller kavout en <a
         href="http://opendatacommons.org/licenses/odbl/">Open Data
         Commons Open Database License</a> (ODbL).
       intro_2_html: "Dieub oc'h da eilañ, da skignañ, da gas ha da azasaat hor c'hartennoù\n
-        \ hag hor roadennoù, gant ma root kred da GRM ha d'e\n  genlabourerien.
+        \ hag hor roadennoù, gant ma root kred da OpenStreetMap ha d'e\n  genlabourerien.
         Ma kemmit pe ma implijit hor c'hartennoù pe hor roadennoù e labourioù all,\n
         \ ne c'hallit ket skignañ ar re-se dindan un aotre-implijout all. En \n  <a
         href=\"http://opendatacommons.org/licenses/odbl/1.0/\">legal\ncode</a> e kavot
@@ -972,7 +972,7 @@ br:
       credit_1_html: Goulenn a reomp diganeoc'h lakaat en ho kred ar meneg &ldquo;&copy;
         kenlabourerien OpenStreetMap&rdquo;.
       credit_2_html: |-
-        Pa vez posupl e tle GRM bezañ ur gourliamm war-du <a
+        Pa vez posupl e tle OpenStreetMap bezañ ur gourliamm war-du <a
           href="http://www.openstreetmap.org/">http://www.openstreetmap.org/</a>
           ha CC BY-SA war-du <a
           href="http://creativecommons.org/licenses/by-sa/2.0/">http://creativecommons.org/licenses/by-sa/2.0/</a>.
@@ -985,14 +985,14 @@ br:
         Evit ur gartenn elektronek a c'haller merdeiñ enni e tlefe ar c'hred dont war wel e korn ar gartenn.
         Da skouer :
       attribution_example:
-        alt: Skouer eus penaos deverkañ GRM war ur bajenn web
+        alt: Skouer eus penaos deverkañ OpenStreetMap war ur bajenn web
         title: Skouer deverkadur
       more_title_html: Titouroù ouzhpenn
       more_1_html: |-
         Ma fell deoc'h kaout muioc'h a ditouroù diwar-benn adimplij hor roadennoù, lennit <a
           href="http://wiki.openstreetmap.org/wiki/Legal_FAQ">FAG ar reolennoù</a>.
       more_2_html: |-
-        Daoust da GRM bezañ un hollad roadennoù digor, n'omp ket evit pourchas
+        Daoust da OpenStreetMap bezañ un hollad roadennoù digor, n'omp ket evit pourchas
           un API digoust evit an diorroerien diavaez.
           Sellit ouzh hor <a href="http://wiki.openstreetmap.org/wiki/API_usage_policy">reolennoù evit implijout an API</a>,
           <a href="http://wiki.openstreetmap.org/wiki/Tile_usage_policy">reolennoù evit implijout ar gartenn</a>
@@ -1035,7 +1035,7 @@ br:
       contributors_footer_1_html: |-
         ↓Evit muioc'h a vunudoù diwar-benn ar re-se, hag ar mammennoù all a zo bet implijet da sikour da wellaat OpenStreetMap, sellit ouzh ar <a
         href="http://wiki.openstreetmap.org/wiki/Contributors">Bajenn Skoazellerien</a> e Wiki OpenStreetMap.
-      contributors_footer_2_html: Enlakaat roadennoù e GRM ne empleg ket
+      contributors_footer_2_html: Enlakaat roadennoù e OpenStreetMap ne empleg ket
         ez aprou ar bourchaserien orin a endalc'had OpenStreetMap, na ne bourchasont,
         na ne waratomp pe na ne zegemeront ne vern pe atebegezh e vefe.
       infringement_title_html: Terriñ ar gwir-eilañ
@@ -1056,7 +1056,7 @@ br:
     whats_on_the_map:
       title: Petra zo war ar gartenn
       on_html: |-
-        GRM zo ul lec'h evit kartennaouiñ traoù <em>gwirion hag a vremañ </em> war un dro
+        OpenStreetMap zo ul lec'h evit kartennaouiñ traoù <em>gwirion hag a vremañ </em> war un dro
         -
         Ennañ ez eus milionoù a savadurioù, a hentoù, hag a vunudoù all diwar-benn lec'hioù. Gallout a rit kartennaouiñ forzh peseurt tra eus ar bed gwirion hag a zedenn ac'hanoc'h.
       off_html: Ar pezh <em>na gaver ket</em> avat eo ar roadennoù evit notennoù roet
@@ -1096,7 +1096,7 @@ br:
         title: Mont er gumuniezh-mañ
         explanation_html: M'ho peus merzet ez eus ur gudenn gant roadennoù hor c'hartennoù,
           da skouer un hent diank pe ho chomlec'h, an doare d'ober gwellañ eo mont
-          d'ar gumuniezh GRM hag ouzhpennañ pe dresañ ar roadennoù hoc'h-unan.
+          d'ar gumuniezh OpenStreetMap hag ouzhpennañ pe dresañ ar roadennoù hoc'h-unan.
       add_a_note:
         instructions_html: |-
           Klikit war <a class='icon note'></a> pe war ar memes arlun war ar gartenn.
@@ -1109,7 +1109,7 @@ br:
         OSMF</a> a zere.
   help_page:
     title: Tapout sikour
-    introduction: GRM zo gantañ meur a zoare da c'houzout hiroc'h diwar-benn
+    introduction: OpenStreetMap zo gantañ meur a zoare da c'houzout hiroc'h diwar-benn
       ar raktres, d'ober goulennoù ha da respont da c'houlennoù, ha da gendivizout
       ha da deuliaduriñ sujedoù ar c'hartennoù.
     welcome:
@@ -1130,11 +1130,11 @@ br:
     copyright_html: <span>&copy;</span>OpenStreetMap<br>kenlabourerien
     used_by: '%{name} a bourchas kartennoù da gantadoù a lec''hiennoù web, da arloadoù
       hezoug ha da vekanikoù'
-    lede_text: Savet eo GRM gant ur gumuniezh gartennerien a-youl vat a
+    lede_text: Savet eo OpenStreetMap gant ur gumuniezh gartennerien a-youl vat a
       genlabour hag a gempenn roadennoù diwar-benn hentoù, gwenodennoù, kafedioù,
       tiez-gar, ha muioc'h c'hoazh, er bed a-bezh.
     local_knowledge_title: Gouiziegezh lec'hel
-    local_knowledge_html: GRM a laka ar pouez war an anaoudegezh eus an
+    local_knowledge_html: OpenStreetMap a laka ar pouez war an anaoudegezh eus an
       dachenn. Implijout a ra ar genlabourerien skeudennoù tapet diwar nij, mekanikoù
       GPS ha kartennoù klasel abalamour da wiriañ ez eo reizh ha hizivaet OSM.
     community_driven_title: Renet gant ar gumuniezh
@@ -1142,8 +1142,8 @@ br:
       Liesseurt hag entanet eo kumuniezh OpenStreetMap. O kreskiñ emañ bemdez. E-mesk hor c'henlabourerien ez eus kartennourien entanet, tud a-vicher eus ar GIS, ijinourien hag a laka servijerien OSM da vont en-dro, denegourien hag a sav kartennoù eus an takadoù gwastet gant gwallreuzioù ha kalz re all.
       Evit gouzout hiroc'h diwar-benn ar gumuniezh, sellit ouzh <a href='%{diary_path}'>deizlevrioù an implijerien</a>, <a href='http://blogs.openstreetmap.org/'>blogoù ar gumuniezh</a>, hag lec'hienn web <a href='http://www.osmfoundation.org/'>Diazezadur OSM</a>.
     open_data_title: Roadennoù digor
-    open_data_html: 'GRM zo <i>open data</i>: gallout a rit implijout anezhañ
-      evit forzh pseeurt pal keit ha ma roit kred da GRM ha d''ar re a labour
+    open_data_html: 'OpenStreetMap zo <i>open data</i>: gallout a rit implijout anezhañ
+      evit forzh pseeurt pal keit ha ma roit kred da OpenStreetMap ha d''ar re a labour
       warnañ. Ma cheñchit ar roadennoù pe ma harpit warno e doareoù zo, e c''hallit
       skignañ an disoc''h dindan ar memes aotre-implij hepken. Sellit ouzh <a href=''%{copyright_path}''>Aotre-eilañ
       ha pajenn an aotre-implij</a> evit gouzout hiroc''h.'
@@ -1154,7 +1154,7 @@ br:
         en deizlevr'
       hi: Demat %{to_user},
       header: '%{from_user} en deus lezet un addispleg war hoc''h enmoned nevez e
-        deizlevr GRM gant an danvez %{subject} :'
+        deizlevr OpenStreetMap gant an danvez %{subject} :'
       footer: Gallout a rit ivez lenn an addispleg war %{readurl}, lezel addisplegoù
         war %{commenturl} pe respont war %{replyurl}
     message_notification:
@@ -1331,12 +1331,12 @@ br:
     index:
       js_1: Pe emaoc'h oc'h implijout ur merdeer ha ne skor ket JavaScript, pe hoc'h
         eus diweredekaet JavaScript.
-      js_2: GRM a implij JavaScript evit e gartenn risklus.
+      js_2: OpenStreetMap a implij JavaScript evit e gartenn risklus.
       permalink: Peurliamm
       shortlink: Liamm berr
       createnote: Ouzhpennañ un notenn
       license:
-        copyright: Gwir-eilañ gant GRM hag ar genlabourerien, dindan un
+        copyright: Gwir-eilañ gant OpenStreetMap hag ar genlabourerien, dindan un
           aotre-implijout digor
       remote_failed: C'hwitet eo ar c'hemm - gwiriit hag-eñ eo karget JOSM or Merkaartor
         ha gweredekaet an dibarzh kontroll a-bell
@@ -1674,11 +1674,11 @@ br:
       lost password link: Ankouaet ho ker-tremen ganeoc'h ?
       login_button: Kevreañ
       register now: En em enskrivañ bremañ
-      with username: 'Ur gont GRM hoc''h eus dija ? Digorit un dalc''h en
+      with username: 'Ur gont OpenStreetMap hoc''h eus dija ? Digorit un dalc''h en
         ur verkañ hoc''h anv implijer hag ho ker-tremen :'
       with openid: 'Gallout a rit ivez ober gant hoc''h OpenID evit kevreañ :'
-      new to osm: Nevez war GRM ?
-      to make changes: Evit kemmañ roadennoù GRM e rankit kaout ur gont.
+      new to osm: Nevez war OpenStreetMap ?
+      to make changes: Evit kemmañ roadennoù OpenStreetMap e rankit kaout ur gont.
       create account minute: Krouiñ ur gont. Ne bad nemet ur vunutenn.
       no account: N'hoc'h eus kont ebet ?
       account not active: Ho tigarez, n'eo ket oberiant ho kont c'hoazh. <br/>Klikit
@@ -1740,7 +1740,7 @@ br:
       about:
         header: Digoust hag aozadus
         html: |-
-          <p>E kemm gant kartennoù all, GRM zo krouet penn-da-benn gant tud eveldoc'h. Forzh piv a c'hall dresañ, hizivaat, pellgargañ hag implijout anezhi.</p>
+          <p>E kemm gant kartennoù all, OpenStreetMap zo krouet penn-da-benn gant tud eveldoc'h. Forzh piv a c'hall dresañ, hizivaat, pellgargañ hag implijout anezhi.</p>
           <p>Lakait hoc'h anv evit kregiñ da genlabourat. Kas a raimp ur postel deoc'h da gadarnaat ho kont.</p>
       license_agreement: Pa gadarnaot ho kont e tleot asantiñ da <a href="http://www.osmfoundation.org/wiki/License/Contributor_Terms">ziferadennoù
         ar c'henlabourer</a>.

@@ -299,15 +299,15 @@ hu:
       edit: Szerkesztés
     feed:
       user:
-        title: '%{user} GRM naplóbejegyzései'
-        description: Legutóbbi GRM naplóbejegyzések %{user} felhasználótól
+        title: '%{user} OpenStreetMap naplóbejegyzései'
+        description: Legutóbbi OpenStreetMap naplóbejegyzések %{user} felhasználótól
       language:
-        title: GRM naplóbejegyzések %{language_name} nyelven
-        description: Legutóbbi naplóbejegyzések az GRM felhasználóitól %{language_name}
+        title: OpenStreetMap naplóbejegyzések %{language_name} nyelven
+        description: Legutóbbi naplóbejegyzések az OpenStreetMap felhasználóitól %{language_name}
           nyelven
       all:
-        title: GRM naplóbejegyzések
-        description: Legutóbbi naplóbejegyzések az GRM felhasználóitól
+        title: OpenStreetMap naplóbejegyzések
+        description: Legutóbbi naplóbejegyzések az OpenStreetMap felhasználóitól
     comments:
       has_commented_on: '%{display_name} hozzászólt az alábbi naplóbejegyzésekhez'
       post: Hozzászólás
@@ -322,11 +322,11 @@ hu:
       area_to_export: Exportálandó terület
       manually_select: Más terület kézi kijelölése
       format_to_export: Exportálás formátuma
-      osm_xml_data: GRM XML adat
+      osm_xml_data: OpenStreetMap XML adat
       map_image: Térkép (Alapértelmezett réteg)
       embeddable_html: Beágyazható HTML
       licence: Licenc
-      export_details: Az GRM adatokra az <a href="http://opendatacommons.org/licenses/odbl/1.0/">Open
+      export_details: Az OpenStreetMap adatokra az <a href="http://opendatacommons.org/licenses/odbl/1.0/">Open
         Data Commons Open Database licenc </a> vonatkozik. (ODbL)
       too_large:
         advice: Ha a fenti exportálás sikertelen lenne, próbáld meg az alábbi listából
@@ -336,7 +336,7 @@ hu:
           az alábbi listából valamelyik nagy adatmennyiségek letöltését támogató módszert.
         planet:
           title: Planet OSM
-          description: A teljes GRM adatbázis rendszeresen frissített másolatai
+          description: A teljes OpenStreetMap adatbázis rendszeresen frissített másolatai
         overpass:
           title: Overpass API
           description: A megjelenített befoglaló keret letöltése egy OpenStreetMap
@@ -349,7 +349,7 @@ hu:
           title: Metro Extracts
         other:
           title: Más források
-          description: További források az GRM wiki oldalán találhatók
+          description: További források az OpenStreetMap wiki oldalán találhatók
       options: Beállítások
       format: 'Formátum:'
       scale: Méretarány
@@ -897,7 +897,7 @@ hu:
       west: nyugatra
   layouts:
     logo:
-      alt_text: GRM logó
+      alt_text: OpenStreetMap logó
     home: Ugrás az otthonodhoz
     logout: Kijelentkezés
     log_in: Bejelentkezés
@@ -917,7 +917,7 @@ hu:
     edit_with: 'Szerkesztés a következővel: %{editor}'
     tag_line: A szabad világtérkép
     intro_header: Üdvözöljük az OpenStreetMap-en!
-    intro_text: Az GRM egy világtérkép, amelyet hozzád hasonló emberek készítenek
+    intro_text: Az OpenStreetMap egy világtérkép, amelyet hozzád hasonló emberek készítenek
       és szabad licenc alatt elérhető.
     intro_2_create_account: Felhasználói fiók létrehozása
     partners_html: A szerver üzemeltetését támogatja az %{ucl}, %{ic} és %{bytemark},
@@ -936,9 +936,9 @@ hu:
     copyright: Szerzői jog és licenc
     community: Közösség
     community_blogs: Közösségi blogok
-    community_blogs_title: Blogok az GRM közösség tagjaitól
+    community_blogs_title: Blogok az OpenStreetMap közösség tagjaitól
     foundation: Alapítvány
-    foundation_title: Az „GRM Foundation”
+    foundation_title: Az „OpenStreetMap Foundation”
     make_a_donation:
       title: Támogasd az OpenStreetMapot pénzadománnyal
       text: Adományozz
@@ -960,7 +960,7 @@ hu:
     legal_babble:
       title_html: Szerzői jog és licenc
       intro_1_html: |2-
-           Az GRM egy <i>szabad adathalmaz</i>, amelyre az <a
+           Az OpenStreetMap egy <i>szabad adathalmaz</i>, amelyre az <a
         href="http://opendatacommons.org/licenses/odbl/">Open Data
         Commons Open Database License</a> licenc (ODbL) vonatkozik.
       intro_2_html: |2-
@@ -968,14 +968,14 @@ hu:
           href="http://opendatacommons.org/licenses/odbl/1.0/">jogi
           szabályzat</a> ismerteti a jogaidat és kötelezettségeidet.
       intro_3_html: |2-
-           Az GRM <i>térképeire</i> a <a
+           Az OpenStreetMap <i>térképeire</i> a <a
            href="http://creativecommons.org/licenses/by-sa/2.0/">Creative
            Commons Nevezd meg! - Így add tovább! 2.0</a> licenc (CC BY-SA) vonatkozik.
       credit_title_html: Hogyan kell feltüntetned az OpenStreetMapot?
-      credit_1_html: "  Ha az GRM térkép képeit használod, kérjük \n  legyen
+      credit_1_html: "  Ha az OpenStreetMap térkép képeit használod, kérjük \n  legyen
         feltüntetve legalább az &ldquo;&copy; OpenStreetMap\n  közreműködői, CC BY-SA&rdquo;
         szöveg. Ha csak a térkép adatait használod,\n  akkor a &ldquo;Térképadatok
-        &copy; GRM közreműködői,\n  CC BY-SA&rdquo; feltüntetését kérjük."
+        &copy; OpenStreetMap közreműködői,\n  CC BY-SA&rdquo; feltüntetését kérjük."
       credit_2_html: Azt is egyértelművé kell tenned, hogy az adatok az Open Database
         Licenc alatt elérhetőek, illetve ha a mi térkép csempéinket használod akkor
         azt, hogy a grafikai megjelenítés a CC-BY-SA licenc feltételeivel használható.
@@ -999,7 +999,7 @@ hu:
           href="http://wiki.openstreetmap.org/wiki/Legal_FAQ">Jogi
           GYIK</a>-ban.
       more_2_html: |-
-        Habár az GRM egy nyílt adatforrás, nem tudunk ingyenes térkép API elérést biztosítani külső fejlesztőknek.
+        Habár az OpenStreetMap egy nyílt adatforrás, nem tudunk ingyenes térkép API elérést biztosítani külső fejlesztőknek.
 
         Lásd az <a href="http://wiki.openstreetmap.org/wiki/API_usage_policy">API Felhasználási Irányelveinket</a>, a <a href="http://wiki.openstreetmap.org/wiki/Tile_usage_policy">Csempe Felhasználási Irányelveinket</a> és a <a href="http://wiki.openstreetmap.org/wiki/Nominatim#Usage_Policy">Nominatim Felhasználási Irányelveinket</a>.
       contributors_title_html: Közreműködőink
@@ -1032,9 +1032,9 @@ hu:
       contributors_gb_html: "<strong>Egyesült Királyság</strong>:  Térképészeti Szolgálat
         adatokat &copy; Királyi szerzői és adatbázisjog \n2010 - 12."
       contributors_footer_1_html: |-
-        További részletekért, és az GRM javításához használt más forrásokról,
+        További részletekért, és az OpenStreetMap javításához használt más forrásokról,
         kérjük, olvassa el <a href="http://wiki.openstreetmap.org/wiki/contributors">a hozzájárulók oldalát
-        az GRM wikin.</a>
+        az OpenStreetMap wikin.</a>
       contributors_footer_2_html: |2-
           Az adatok befoglalása az OpenStreetMapba nem jelenti azt, hogy az eredeti
           adatszolgáltató támogatja az OpenStreetMapot, nyújt garanciát vagy
@@ -1045,12 +1045,12 @@ hu:
           szerzői jogvédett forrásból se (pl. Google Térkép vagy nyomtatott térképek) a
           szerzői jog tulajdonosának kifejezett engedélye nélkül.
       infringement_2_html: |-
-        Ha úgy gondolod, hogy jogvédett anyag került jogszerűtlenül az GRM adatbázisba vagy erre a weblapra, kérjük olvasd el az <a href="http://www.osmfoundation.org/wiki/License/Takedown_procedure">eltávolítási
+        Ha úgy gondolod, hogy jogvédett anyag került jogszerűtlenül az OpenStreetMap adatbázisba vagy erre a weblapra, kérjük olvasd el az <a href="http://www.osmfoundation.org/wiki/License/Takedown_procedure">eltávolítási
         folyamat leírását</a> vagy jelentsd be közvetlenül az
         <a href="http://dmca.openstreetmap.org/">online bejelentő oldalon</a>.
   welcome_page:
     title: Üdvözlet!
-    introduction_html: Üdvözöl az GRM - a szabad és szerkeszthető világtérkép
+    introduction_html: Üdvözöl az OpenStreetMap - a szabad és szerkeszthető világtérkép
       - közössége. Most, hogy regisztráltál, máris elkezdheted a térképezést. Itt
       elérhető egy gyors összefoglaló a legfontosabb tudnivalókkal.
     whats_on_the_map:
@@ -1076,7 +1076,7 @@ hu:
         mint például egy étterem neve vagy egy sebességkorlátozás mértéke.
     questions:
       title: Kérdésed van?
-      paragraph_1_html: Az GRM számos anyagot kínál fel ahhoz, hogy ismerkedj
+      paragraph_1_html: Az OpenStreetMap számos anyagot kínál fel ahhoz, hogy ismerkedj
         a projekttel, kérdéseket tégy fel vagy válaszolj meg, vagy térképezési témákat
         beszélj meg a közösség tagjaival. <a href='%{help_url}'>Itt találsz segítséget</a>.
     start_mapping: Térképezés indítása
@@ -1094,7 +1094,7 @@ hu:
       join_the_community:
         title: Csatlakozás a közösséghez
         explanation_html: Ha bármilyen hibát találtál a térképadatokban, például hiányzik
-          egy út vagy cím, a legjobb, ha csatlakozol az GRM közösséghez
+          egy út vagy cím, a legjobb, ha csatlakozol az OpenStreetMap közösséghez
           és kijavítod az adatot saját magad.
       add_a_note:
         instructions_html: Csak kattints a <a class='icon note'></a> ikonra a térképnézetben.
@@ -1124,7 +1124,7 @@ hu:
     diary_comment_notification:
       subject: '[OpenStreetMap] %{user} hozzászólt a naplóbejegyzésedhez'
       hi: Szia %{to_user}!
-      header: '%{from_user} hozzászólt a legutóbbi GRM naplóbejegyzésedhez
+      header: '%{from_user} hozzászólt a legutóbbi OpenStreetMap naplóbejegyzésedhez
         %{subject} tárggyal:'
       footer: 'A hozzászólást elolvashatod itt is: %{readurl} és hozzászólhatsz itt:
         %{commenturl} vagy válaszolhatsz rá itt: %{replyurl}'
@@ -1297,12 +1297,12 @@ hu:
     index:
       js_1: Vagy egy olyan böngészőt használsz, amely nem támogatja a JavaScriptet,
         vagy letiltottad a JavaScriptet.
-      js_2: Az GRM JavaScriptet használ a slippy maphoz.
+      js_2: Az OpenStreetMap JavaScriptet használ a slippy maphoz.
       permalink: Permalink
       shortlink: Shortlink
       createnote: Új jegyzet
       license:
-        copyright: Copyright GRM és közreműködői, egy nyílt licenc alatt
+        copyright: Copyright OpenStreetMap és közreműködői, egy nyílt licenc alatt
       remote_failed: A szerkesztés nem sikerült. Győződj meg róla, hogy a JOSM vagy
         a Merkaartor be van töltve, és a távirányító opció engedélyezve van
     edit:
@@ -1311,10 +1311,10 @@ hu:
         meg. Nyilvánossá teheted szerkesztéseidet a %{user_page}adról.
       user_page_link: felhasználói oldal
       anon_edits_link_text: Nézz utána, miért van ez.
-      flash_player_required: A Potlatch, az GRM Flash szerkesztő használatához
+      flash_player_required: A Potlatch, az OpenStreetMap Flash szerkesztő használatához
         Flash Player szükséges. <a href="http://www.adobe.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">Letöltheted
         a Flash Playert az Adobe.com-ról</a>. <a href="http://wiki.openstreetmap.org/wiki/Editing">Számos
-        más lehetőség</a> is elérhető az GRM szerkesztéséhez.
+        más lehetőség</a> is elérhető az OpenStreetMap szerkesztéséhez.
       potlatch_unsaved_changes: Nem mentett módosítások vannak. (Potlatchban való
         mentéshez szüntesd meg a jelenlegi vonal vagy pont kijelölését, ha élő módban
         szerkesztesz, vagy kattints a mentésre, ha van mentés gomb.)
@@ -1523,7 +1523,7 @@ hu:
       heading: A GPX-tároló offline
       message: A GPX-fájltároló és -feltöltő rendszer jelenleg nem érhető el.
     georss:
-      title: GRM GPS nyomvonalak
+      title: OpenStreetMap GPS nyomvonalak
     description:
       description_with_count: GPX fájl %{count} ponttal %{user} felhasználótól
       description_without_count: GPX fájl %{user} felhasználótól
@@ -1632,7 +1632,7 @@ hu:
       lost password link: Elfelejtetted a jelszavad?
       login_button: Bejelentkezés
       register now: Regisztrálj most
-      with username: 'Már van GRM fiókod? Jelentkezz be a felhasználóneveddel
+      with username: 'Már van OpenStreetMap fiókod? Jelentkezz be a felhasználóneveddel
         és jelszavaddal:'
       with openid: 'A bejelentkezéshez az OpenID azonosítódat is használhatod:'
       new to osm: Új vagy az OpenStreetMapnál?
@@ -1719,7 +1719,7 @@ hu:
       openid no password: Az OpenID-vel nincs szükség jelszóra, de szükség lehet néhány
         többleteszközre vagy szerverre.
       openid association: |-
-        <p>Az OpenID azonosítód még nincs hozzákapcsolva egy GRM fiókhoz.</p>
+        <p>Az OpenID azonosítód még nincs hozzákapcsolva egy OpenStreetMap fiókhoz.</p>
         <ul>
           <li>Ha még új vagy az OpenStreetMapnál, hozz létre egy új fiókot az alábbi űrlap használatával.</li>
           <li>
@@ -2094,7 +2094,7 @@ hu:
       reopened_at_html: 'Újra aktiválva: %{when}'
       reopened_at_by_html: Újraaktiválta %{user} %{when}
     rss:
-      title: GRM jegyzetek
+      title: OpenStreetMap jegyzetek
       description_item: RSS hírcsatorna a %{id} jegyzethez
       opened: Új megjegyzés (%{place} közelében)
       commented: Új hozzászólás (%{place} közelében)
@@ -2154,7 +2154,7 @@ hu:
         data: Térképadatok
         overlays: További rétegek engedélyezése a térkép hibáinak javítása érdekében
         title: Rétegek
-      copyright: © <a href='%{copyright_url}'>GRM közreműködők</a>
+      copyright: © <a href='%{copyright_url}'>OpenStreetMap közreműködők</a>
       donate_link_text: <a class='donate-attr' href='%{donate_url}'>Támogatás</a>
     site:
       edit_tooltip: Térkép szerkesztése

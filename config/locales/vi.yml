@@ -290,10 +290,10 @@ vi:
     feed:
       user:
         title: Các mục nhật ký của %{user}
-        description: Những mục gần đây trong nhật ký GRM của %{user}
+        description: Những mục gần đây trong nhật ký OpenStreetMap của %{user}
       language:
-        title: Các mục nhật ký GRM bằng %{language_name}
-        description: Những mục nhật ký gần đây của người dùng GRM bằng %{language_name}
+        title: Các mục nhật ký OpenStreetMap bằng %{language_name}
+        description: Những mục nhật ký gần đây của người dùng OpenStreetMap bằng %{language_name}
       all:
         title: Các mục nhật ký OpenStreetMap
         description: Những mục nhật ký gần đây của người dùng OpenStreetMap
@@ -311,21 +311,21 @@ vi:
       area_to_export: Vùng để Xuất
       manually_select: Chọn vùng khác thủ công
       format_to_export: Định dạng Xuất
-      osm_xml_data: Dữ liệu GRM XML
+      osm_xml_data: Dữ liệu OpenStreetMap XML
       map_image: Hình Bản đồ (Lớp Chuẩn)
       embeddable_html: HTML để Nhúng
       licence: Giấy phép
-      export_details: Dữ liệu GRM được phép sử dụng theo <a href="http://opendatacommons.org/licenses/odbl/1.0/">Giấy
+      export_details: Dữ liệu OpenStreetMap được phép sử dụng theo <a href="http://opendatacommons.org/licenses/odbl/1.0/">Giấy
         phép Cơ sở dữ liệu Mở Open Data Commons</a> (ODbL).
       too_large:
         advice: 'Nếu việc xuất dữ liệu ở trên bị thất bại, hãy nghĩ đến việc sử dụng
           một trong những nguồn bên dưới:'
-        body: 'Khu vực này quá lớn để xuất được dữ liệu GRM XML. Xin vui
+        body: 'Khu vực này quá lớn để xuất được dữ liệu OpenStreetMap XML. Xin vui
           lòng phóng to, chọn khu vực nhỏ hơn, hoặc tải về dữ liệu khối lượng lớn
           từ một dịch vụ sau:'
         planet:
           title: Quả đất OSM
-          description: Các bản sao toàn thể cơ sở dữ liệu GRM được cập nhật
+          description: Các bản sao toàn thể cơ sở dữ liệu OpenStreetMap được cập nhật
             thường xuyên
         overpass:
           title: Overpass API
@@ -907,7 +907,7 @@ vi:
     edit_with: Sửa đổi dùng %{editor}
     tag_line: Bản đồ Thế giới trên Wiki Mở
     intro_header: Chào mừng đến với OpenStreetMap!
-    intro_text: GRM là bản đồ thế giới do những người như bạn xây dựng và
+    intro_text: OpenStreetMap là bản đồ thế giới do những người như bạn xây dựng và
       cho phép sử dụng thoải mái theo một giấy phép nguồn mở.
     intro_2_create_account: Mở tài khoản mới
     partners_html: Dịch vụ nhờ sự hỗ trợ hosting của %{ucl}, %{ic}, và %{bytemark},
@@ -917,11 +917,11 @@ vi:
     partners_bytemark: Bytemark Hosting
     partners_partners: các công ty bảo trợ
     partners_url: http://wiki.openstreetmap.org/wiki/Partners?uselang=vi
-    osm_offline: Cơ sở dữ liệu GRM đang ngoại tuyến trong lúc đang thực
+    osm_offline: Cơ sở dữ liệu OpenStreetMap đang ngoại tuyến trong lúc đang thực
       hiện những công việc bảo quản cơ sở dữ liệu cần thiết.
-    osm_read_only: Cơ sở dữ liệu GRM đang bị khóa không được sửa đổi trong
+    osm_read_only: Cơ sở dữ liệu OpenStreetMap đang bị khóa không được sửa đổi trong
       lúc đang thực hiện những công việc bảo quản cơ sở dữ liệu cần thiết.
-    donate: Hỗ trợ GRM bằng cách %{link} cho Quỹ Nâng cấp Phần cứng.
+    donate: Hỗ trợ OpenStreetMap bằng cách %{link} cho Quỹ Nâng cấp Phần cứng.
     help: Trợ giúp
     about: Giới thiệu
     copyright: Bản quyền
@@ -950,7 +950,7 @@ vi:
     legal_babble:
       title_html: Bản quyền và Giấy phép
       intro_1_html: |-
-        GRM là <i>dữ liệu mở</i> được phát hành theo <a
+        OpenStreetMap là <i>dữ liệu mở</i> được phát hành theo <a
         href="http://opendatacommons.org/licenses/odbl/">Giấy phép Cơ sở dữ liệu Mở của Open Data
         Commons</a> (ODbL).
       intro_2_html: Bạn được tự do sao chép, phân phối, truyền, và tạo ra các tác
@@ -980,13 +980,13 @@ vi:
         Đối với một bản đồ điện tử tương tác, lời ghi công nên xuất hiện ở góc bản đồ.
         Ví dụ:
       attribution_example:
-        alt: Ví dụ ghi công GRM trên một trang Web
+        alt: Ví dụ ghi công OpenStreetMap trên một trang Web
         title: Ví dụ ghi công
       more_title_html: Tìm hiểu thêm
       more_1_html: Hãy đọc thêm chi tiết về việc sử dụng dữ liệu của chúng tôi và
         cách ghi công chúng tôi trong <a href="http://wiki.openstreetmap.org/wiki/Legal_FAQ?uselang=vi">Hỏi
         đáp Pháp lý</a>.
-      more_2_html: Tuy GRM là một nguồn dữ liệu mở, nhưng chúng tôi không
+      more_2_html: Tuy OpenStreetMap là một nguồn dữ liệu mở, nhưng chúng tôi không
         thể cung cấp API miễn phí cho những nhà phát triển bên thứ ba truy cập bản
         đồ. Hãy xem <a href="http://wiki.openstreetmap.org/wiki/API_usage_policy?uselang=vi">Quy
         định Sử dụng API</a>, <a href="http://wiki.openstreetmap.org/wiki/Tile_usage_policy?uselang=vi">Quy
@@ -1020,9 +1020,9 @@ vi:
       contributors_gb_html: '<strong>Vương quốc Anh</strong>: Bao gồm dữ liệu Ordnance
         Survey © bản quyền Crown Copyright và quyền cơ sở dữ liệu 2010–12.'
       contributors_footer_1_html: |-
-        Xem thêm chi tiết và các nguồn gốc khác dùng để cải tiến GRM tại <a
-        href="http://wiki.openstreetmap.org/wiki/Contributors?uselang=vi">trang Người đóng góp</a> trên GRM Wiki.
-      contributors_footer_2_html: '  Việc bao gồm dữ liệu trong GRM không
+        Xem thêm chi tiết và các nguồn gốc khác dùng để cải tiến OpenStreetMap tại <a
+        href="http://wiki.openstreetmap.org/wiki/Contributors?uselang=vi">trang Người đóng góp</a> trên OpenStreetMap Wiki.
+      contributors_footer_2_html: '  Việc bao gồm dữ liệu trong OpenStreetMap không
         ngụ ý rằng nhà cung cấp dữ liệu đầu tiên ủng hộ OpenStreetMap, biện hộ sự
         chính xác của nó, hoặc nhận trách nhiệm pháp lý nào.'
       infringement_title_html: Vi phạm bản quyền
@@ -1030,7 +1030,7 @@ vi:
         bổ sung dữ liệu từ những nguồn có bản quyền (chẳng hạn Bản đồ Google hoặc
         các bản đồ trên giấy) trước khi các nhà giữ bản quyền cho phép rõ ràng.
       infringement_2_html: Nếu bạn tin rằng tài liệu có bản quyền đã được bổ sung
-        vào cơ sở dữ liệu GRM hoặc trang này một cách không thích đáng,
+        vào cơ sở dữ liệu OpenStreetMap hoặc trang này một cách không thích đáng,
         xin vui lòng tham khảo <a href="http://www.osmfoundation.org/wiki/License/Takedown_procedure?uselang=vi">quá
         trình <i>takedown</i></a> hoặc nộp đơn trực tiếp tại <a href="http://dmca.openstreetmap.org/">trang
         khiếu nại trực tuyến</a> của chúng tôi.
@@ -1041,7 +1041,7 @@ vi:
       cùng góp sức vẽ bản đồ. Đây là những căn bản cần biết để bắt đầu đóng góp.
     whats_on_the_map:
       title: Mục đích của Bản đồ
-      on_html: GRM là bản đồ chứa bất cứ những gì <em>hiện tại có thật</em>
+      on_html: OpenStreetMap là bản đồ chứa bất cứ những gì <em>hiện tại có thật</em>
         – nó chứa biết bao tòa nhà, con đường, cửa hàng, cơ sở hạ tầng, cây cối… đủ
         mọi thứ. Mời bạn bổ sung bất cứ những gì thu hút sự quan tâm của bạn.
       off_html: Nó <em>không</em> chứa các ý kiến như bài đánh giá, những gì không
@@ -1063,7 +1063,7 @@ vi:
     questions:
       title: Có thắc mắc?
       paragraph_1_html: |-
-        GRM có nhiều tài nguyên để cho bạn tìm hiểu về dự án, hỏi đáp, và cộng tác soạn thảo tài liệu về các đề tài bản đồ.
+        OpenStreetMap có nhiều tài nguyên để cho bạn tìm hiểu về dự án, hỏi đáp, và cộng tác soạn thảo tài liệu về các đề tài bản đồ.
         <a href='%{help_url}'>Nhận trợ giúp tại đây</a>.
     start_mapping: Bắt đầu Đóng góp
     add_a_note:
@@ -1081,7 +1081,7 @@ vi:
         title: Tham gia cộng đồng
         explanation_html: Nếu bạn nhận thấy một vấn đề trong dữ liệu bản đồ của chúng
           tôi, chẳng hạn thiếu con đường hoặc địa chỉ của bạn, cách xử lý tốt nhất
-          là tham gia cộng đồng GRM để thêm hoặc sửa dữ liệu lấy.
+          là tham gia cộng đồng OpenStreetMap để thêm hoặc sửa dữ liệu lấy.
       add_a_note:
         instructions_html: |-
           Chỉ việc bấm <a class='icon note'></a> hoặc hình tượng này trên bản đồ.
@@ -1094,7 +1094,7 @@ vi:
         làm việc</a> thích hợp của Quỹ OpenStreetMap.
   help_page:
     title: Trợ giúp
-    introduction: GRM có nhiều tài nguyên để cho bạn tìm hiểu về dự án,
+    introduction: OpenStreetMap có nhiều tài nguyên để cho bạn tìm hiểu về dự án,
       hỏi đáp, và cộng tác soạn thảo tài liệu về các đề tài bản đồ.
     welcome:
       url: /welcome
@@ -1114,22 +1114,22 @@ vi:
     copyright_html: <span>&copy;</span>những người<br>đóng góp vào<br>OpenStreetMap
     used_by: '%{name} là nguồn dữ liệu bản đồ của hàng trăm trang Web, ứng dụng di
       động, và thiết bị phần cứng'
-    lede_text: GRM được xây dựng bởi cộng đồng những người đóng góp và bảo
+    lede_text: OpenStreetMap được xây dựng bởi cộng đồng những người đóng góp và bảo
       quản dữ liệu về đường sá, tòa nhà, quán cà phê, nhà ga, và đủ mọi thứ ở khắp
       thế giới.
     local_knowledge_title: Kiến thức Địa phương
-    local_knowledge_html: GRM chú trọng vào kiến thức địa phương. Những
+    local_knowledge_html: OpenStreetMap chú trọng vào kiến thức địa phương. Những
       người đóng góp sử dụng hình ảnh từ không trung, các thiết bị GPS, và các bản
       đồ phác thảo trên giấy để làm cho OSM chính xác và đúng thời.
     community_driven_title: Căn cứ vào Cộng động
     community_driven_html: |-
-      Cộng đồng của GRM gồm đủ loại người nhiệt tình và càng ngày càng phát triển.
+      Cộng đồng của OpenStreetMap gồm đủ loại người nhiệt tình và càng ngày càng phát triển.
       Cộng đồng gồm những người tình nguyện vẽ bản đồ, các chuyên gia GIS, các kỹ sư bảo quản các máy chủ OSM. Chúng ta vẽ bản đồ quê hưởng, những nơi du lịch, những nơi bị thiên tai (để hỗ trợ cơ quan nhân đạo), và nhiều hơn nữa.
       Để tìm hiểu thêm về cộng đồng này, hãy đọc các <a href='%{diary_path}'>nhật ký của người dùng</a>,
       <a href='http://blogs.openstreetmap.org/'>blog của cộng đồng</a>, và trang chủ <a href='http://www.osmfoundation.org/'>Quỹ OSM</a>.
     open_data_title: Dữ liệu Mở
-    open_data_html: 'GRM là <i>dữ liệu mở</i>: bạn được tự do sử dụng nó
-      cho bất cứ mục đích nào, miễn là bạn ghi công GRM và những người đóng
+    open_data_html: 'OpenStreetMap là <i>dữ liệu mở</i>: bạn được tự do sử dụng nó
+      cho bất cứ mục đích nào, miễn là bạn ghi công OpenStreetMap và những người đóng
       góp vào nó. Nếu bạn tạo ra một tác phẩm thay đổi dữ liệu hoặc dựa trên dữ liệu
       theo một số cách nhất định, bạn chỉ được phép phân phối tác phẩm kết quả dưới
       cùng giấy phép này. Hãy xem chi tiết tại <a href=''%{copyright_path}''>trang
@@ -1145,7 +1145,7 @@ vi:
         hoặc trả lời tại %{replyurl}
     message_notification:
       hi: Chào %{to_user},
-      header: '%{from_user} đã gửi thư cho bạn dùng GRM có tiêu đề %{subject}:'
+      header: '%{from_user} đã gửi thư cho bạn dùng OpenStreetMap có tiêu đề %{subject}:'
       footer_html: Bạn cũng có thể đọc tin nhắn này tại %{readurl} và có thể trả lời
         tại %{replyurl}
     friend_notification:
@@ -1303,12 +1303,12 @@ vi:
   site:
     index:
       js_1: Hoặc trình duyệt của bạn không hỗ trợ JavaScript, hoặc bạn đã tắt JavaScript.
-      js_2: GRM sử dụng JavaScript cho chức năng bản đồ trơn.
+      js_2: OpenStreetMap sử dụng JavaScript cho chức năng bản đồ trơn.
       permalink: Liên kết Thường trực
       shortlink: Liên kết Ngắn gọn
       createnote: Thêm ghi chú
       license:
-        copyright: Bản quyền của GRM và những người đóng góp, được phát
+        copyright: Bản quyền của OpenStreetMap và những người đóng góp, được phát
           hành theo giấy phép mở
       remote_failed: Thất bại mở trình vẽ – hãy chắc chắn rằng JOSM hoặc Markaartor
         đã khởi động và tùy chọn phần điều khiển từ xa được kích hoạt
@@ -1319,7 +1319,7 @@ vi:
       user_page_link: trang cá nhân
       anon_edits_link_text: Tại sao vậy?
       flash_player_required: Bạn cần có Flash Player để sử dụng Potlatch, trình vẽ
-        GRM bằng Flash. Bạn có thể <a href="http://www.adobe.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">tải
+        OpenStreetMap bằng Flash. Bạn có thể <a href="http://www.adobe.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">tải
         về Flash Player từ Adobe.com</a>. Cũng có sẵn <a href="http://wiki.openstreetmap.org/wiki/Editing?uselang=vi">vài
         cách khác</a> để sửa đổi OpenStreetMap.
       potlatch_unsaved_changes: Bạn có thay đổi chưa lưu. (Để lưu trong Potlatch,
@@ -1711,7 +1711,7 @@ vi:
       about:
         header: Tự do sử dụng và sửa đổi
         html: |-
-          <p>Khác với mọi bản đồ khác, GRM hoàn toàn được xây dựng bởi những người như bạn và cho phép mọi người chỉnh sửa, cập nhật, tải về, và sử dụng miễn phí cho bất kỳ mục đích.</p>
+          <p>Khác với mọi bản đồ khác, OpenStreetMap hoàn toàn được xây dựng bởi những người như bạn và cho phép mọi người chỉnh sửa, cập nhật, tải về, và sử dụng miễn phí cho bất kỳ mục đích.</p>
           <p>Hãy mở tài khoản để bắt đầu đóng góp. Chúng tôi sẽ gửi thư điện tử để xác nhận tài khoản của bạn.</p>
       license_agreement: Lúc khi xác nhận tài khoản, bạn sẽ phải chấp nhận <a href="http://www.osmfoundation.org/wiki/License/Contributor_Terms?uselang=vi">các
         Điều kiện Đóng góp</a>.

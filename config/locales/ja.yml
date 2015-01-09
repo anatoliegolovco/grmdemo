@@ -299,14 +299,14 @@ ja:
       edit: 編集
     feed:
       user:
-        title: '%{user} さんの GRM 日記エントリ'
-        description: '%{user} さんの最近の GRM 日記エントリ'
+        title: '%{user} さんの OpenStreetMap 日記エントリ'
+        description: '%{user} さんの最近の OpenStreetMap 日記エントリ'
       language:
-        title: '%{language_name} の GRM ユーザーの日記エントリ'
-        description: '%{language_name} の GRM ユーザーの最近の日記エントリ'
+        title: '%{language_name} の OpenStreetMap ユーザーの日記エントリ'
+        description: '%{language_name} の OpenStreetMap ユーザーの最近の日記エントリ'
       all:
-        title: GRM ユーザーの日記エントリ
-        description: GRM ユーザーの最近の日記エントリ
+        title: OpenStreetMap ユーザーの日記エントリ
+        description: OpenStreetMap ユーザーの最近の日記エントリ
     comments:
       has_commented_on: '%{display_name} は以下の日記エントリにコメントしました'
       post: 投稿
@@ -321,18 +321,18 @@ ja:
       area_to_export: エクスポートする領域
       manually_select: ドラッグして別の領域を選択
       format_to_export: エクスポートするファイル形式
-      osm_xml_data: GRM XML データ
+      osm_xml_data: OpenStreetMap XML データ
       map_image: 地図画像 (標準レイヤーを表示)
       embeddable_html: 埋め込み HTML
       licence: ライセンス
-      export_details: GRM のデータは <a href="http://opendatacommons.org/licenses/odbl/1.0/">Open
+      export_details: OpenStreetMap のデータは <a href="http://opendatacommons.org/licenses/odbl/1.0/">Open
         Data Commons Open Database License</a> (ODbL) の下にライセンスされています。
       too_large:
         advice: '上のエクスポートが失敗した場合は、以下に列挙した情報源のいずれかの使用を検討してください:'
-        body: 領域が大きすぎて GRM XML データとしてエクスポートできません。拡大するか、領域を小さくするか、以下に列挙したソースから一括データダウンロードを使用するかしてください。
+        body: 領域が大きすぎて OpenStreetMap XML データとしてエクスポートできません。拡大するか、領域を小さくするか、以下に列挙したソースから一括データダウンロードを使用するかしてください。
         planet:
           title: Planet OSM
-          description: 定期的に更新される、GRM データベースの完全な複製
+          description: 定期的に更新される、OpenStreetMap データベースの完全な複製
         overpass:
           title: Overpass API
           description: OpenStreetMapデータベースのミラーからこの範囲をダウンロード
@@ -344,7 +344,7 @@ ja:
           description: 世界の主要都市とその周辺地域を抽出します
         other:
           title: 他の情報源
-          description: GRM ウィキに記載されている追加の情報源
+          description: OpenStreetMap ウィキに記載されている追加の情報源
       options: オプション
       format: ファイル形式
       scale: 縮尺
@@ -891,7 +891,7 @@ ja:
       west: 西
   layouts:
     logo:
-      alt_text: GRM ロゴ
+      alt_text: OpenStreetMap ロゴ
     home: ホーム地点に移動
     logout: ログアウト
     log_in: ログイン
@@ -910,27 +910,27 @@ ja:
     user_diaries_tooltip: ユーザーの日記を閲覧する
     edit_with: '%{editor} で編集'
     tag_line: 自由なウィキ世界地図
-    intro_header: GRM へようこそ!
-    intro_text: GRM は、あなたのような人々が作成した世界地図であり、オープン ライセンスの下で自由に利用できます。
+    intro_header: OpenStreetMap へようこそ!
+    intro_text: OpenStreetMap は、あなたのような人々が作成した世界地図であり、オープン ライセンスの下で自由に利用できます。
     intro_2_create_account: ユーザー アカウントを作成
     partners_html: 'ホスティング支援者: %{ucl}、%{ic}、%{bytemark}、その他の%{partners}'
     partners_ucl: UCL VR センター
     partners_ic: インペリアル カレッジ ロンドン
     partners_bytemark: バイトマーク ホスティング
     partners_partners: パートナー
-    osm_offline: GRM のデータベースはメンテナンスのため一時的に停止しています。
-    osm_read_only: GRM のデータベースは、メンテナンスのため一時的に読み取り専用モードになっています。
-    donate: ハードウェア アップグレード基金への%{link}で、GRM を支援します。
+    osm_offline: OpenStreetMap のデータベースはメンテナンスのため一時的に停止しています。
+    osm_read_only: OpenStreetMap のデータベースは、メンテナンスのため一時的に読み取り専用モードになっています。
+    donate: ハードウェア アップグレード基金への%{link}で、OpenStreetMap を支援します。
     help: ヘルプ
     about: このサイトについて
     copyright: 著作権
     community: コミュニティ
     community_blogs: コミュニティ ブログ
-    community_blogs_title: GRM コミュニティのメンバーからのブログ
+    community_blogs_title: OpenStreetMap コミュニティのメンバーからのブログ
     foundation: 財団
-    foundation_title: GRM 財団
+    foundation_title: OpenStreetMap 財団
     make_a_donation:
-      title: 金銭を寄贈して GRM を支援
+      title: 金銭を寄贈して OpenStreetMap を支援
       text: 寄付
     learn_more: 詳細
     more: その他
@@ -947,14 +947,14 @@ ja:
     legal_babble:
       title_html: 著作権とライセンス
       intro_1_html: |-
-        GRM は<i>オープンデータ</i>であり、<a
+        OpenStreetMap は<i>オープンデータ</i>であり、<a
         href="http://opendatacommons.org/licenses/odbl/">Open Data Commons Open Database License</a> (ODbL) の下にライセンスされています。
       intro_2_html: OpenStreetMapとその協力者をクレジットすれば、データを自由にコピー、配布、送信、利用することができます。変更したり翻案したりしたデータは、同じライセンスに従って提供することができます。あなたの権利と責任は、<a
         href="http://opendatacommons.org/licenses/odbl/1.0/">ライセンス契約</a>の全文で説明しています。
       intro_3_html: |-
         地図タイルの作成法やドキュメントは、<a href="http://creativecommons.org/licenses/by-sa/2.0/">Creative
         Commons Attribution-ShareAlike 2.0</a> ライセンス (CC BY-SA) に基づいてライセンスされます。
-      credit_title_html: GRM のクレジット表記の仕方
+      credit_title_html: OpenStreetMap のクレジット表記の仕方
       credit_1_html: 「&copy; OpenStreetMapへの協力者」のクレジットを必ず使用してください。
       credit_2_html: あなたはデータが Open Database License に基づいて提供されていること、そして地図タイルを使用する場合は、地図製作が
         CC BY-SA としてライセンスされていることを明確にしなければなりません。<a href="http://www.openstreetmap.org/copyright">著作権表示ページ</a>にリンクすることでこれを表現することができます。また、データの形式でOSMを配布する場合の要件として、名前を表示の上、ライセンスに直接リンクすることができます。リンクを張れないメディア（印刷など）の場合は、openstreetmap.org（OpenStreetMapをアドレスとして展開した形）、opendatacommons.org、あと関連があれば、creativecommons.orgに誘導することをお勧めします。
@@ -962,14 +962,14 @@ ja:
         閲覧可能な電子地図の場合は、地図の隅にクレジットを表示してください。
         例:
       attribution_example:
-        alt: ウェブページに GRM を記述する方法の例
+        alt: ウェブページに OpenStreetMap を記述する方法の例
         title: 権利表示の例
       more_title_html: 詳細を見る
       more_1_html: |-
         データの利用についてやクレジット方法について、詳細は<a
         href="http://wiki.openstreetmap.org/wiki/Legal_FAQ">Legal
         FAQ</a>をお読みください。
-      more_2_html: GRM はオープンデータですが、サードパーティーの開発者のための無料の地図 API は提供できません。 <a
+      more_2_html: OpenStreetMap はオープンデータですが、サードパーティーの開発者のための無料の地図 API は提供できません。 <a
         href="http://wiki.openstreetmap.org/wiki/API_usage_policy">API Usage Policy</a>、<a
         href="http://wiki.openstreetmap.org/wiki/Tile_usage_policy">Tile Usage Policy</a>、<a
         href="http://wiki.openstreetmap.org/wiki/Nominatim#Usage_Policy">Nominatim
@@ -1014,7 +1014,7 @@ ja:
       off_html: 含めては<em>いけない</em>ものは、評価のような主観的なデータ、歴史的または仮想的なもの、著作権のある情報源からのデータです。特別な許可がない場合は、オンラインや紙の地図からコピーをしてはいけません。
     basic_terms:
       title: マッピングのための基本的な用語
-      paragraph_1_html: GRM には独自の用語がいくつかあります。ここでは手早く、いくつかのキーワードを紹介しましょう。
+      paragraph_1_html: OpenStreetMap には独自の用語がいくつかあります。ここでは手早く、いくつかのキーワードを紹介しましょう。
       editor_html: <strong>エディター</strong>は、地図を編集できるプログラムやウェブサイトです。
       node_html: <strong>ノード</strong>は地図上の点です。1 軒のレストランや 1 本の樹木が該当します。
       way_html: <strong>ウェイ</strong>は線または領域です。道路、水路、湖、建物などが該当します。
@@ -1054,7 +1054,7 @@ ja:
     welcome:
       url: /welcome
       title: OSM へようこそ
-      description: GRM の基礎を網羅しているこのクイック ガイドから始めましょう。
+      description: OpenStreetMap の基礎を網羅しているこのクイック ガイドから始めましょう。
     help:
       url: https://help.openstreetmap.org/
       title: help.openstreetmap.org
@@ -1083,15 +1083,15 @@ ja:
     diary_comment_notification:
       subject: '[OpenStreetMap] %{user} さんがあなたの日記エントリにコメントしました'
       hi: こんにちは、%{to_user} さん。
-      header: 'あなたの最近の GRM 日記エントリ (タイトル: %{subject}) に、%{from_user} がコメントしました。'
+      header: 'あなたの最近の OpenStreetMap 日記エントリ (タイトル: %{subject}) に、%{from_user} がコメントしました。'
       footer: '%{readurl}でコメントを読むことができ、%{commenturl} でコメントするか、%{replyurl} で返信できます。'
     message_notification:
       hi: こんにちは、%{to_user} さん。
-      header: '%{from_user} さんが、GRM であなたに件名 %{subject} のメッセージを送信しました:'
+      header: '%{from_user} さんが、OpenStreetMap であなたに件名 %{subject} のメッセージを送信しました:'
       footer_html: メッセージを読むにはこちら %{readurl}、返信するにはこちら %{replyurl}
     friend_notification:
       subject: '[OpenStreetMap] %{user} さんがあなたを友達に追加しました。'
-      had_added_you: GRM で %{user} さんがあなたを友達に追加しました。
+      had_added_you: OpenStreetMap で %{user} さんがあなたを友達に追加しました。
       see_their_profile: '%{userurl} でプロフィールを閲覧できます。'
       befriend_them: '%{befriendurl} で友達になることができます。'
     gpx_notification:
@@ -1220,7 +1220,7 @@ ja:
   site:
     index:
       js_1: JavaScript に対応していないブラウザーを使用しているか、JavaScript を無効にしているかのどちらかです。
-      js_2: GRM は地図の表示に JavaScript を使用します。
+      js_2: OpenStreetMap は地図の表示に JavaScript を使用します。
       permalink: 固定リンク
       shortlink: 短縮リンク
       createnote: メモを追加
@@ -1232,9 +1232,9 @@ ja:
       not_public_description: このようなことをしない限り、あなたは地図を編集できます。あなたは%{user_page}から編集内容を公開できます。
       user_page_link: ユーザーページ
       anon_edits_link_text: なぜこれれが事例なのかを見る。
-      flash_player_required: Flash 版 GRM エディターである Potlatch を使用するには、Flash
+      flash_player_required: Flash 版 OpenStreetMap エディターである Potlatch を使用するには、Flash
         Player が必要です。Flash Player は<a href="http://www.adobe.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">Adobe.com</a>
-        でダウンロードできます。GRM を編集する<a href="http://wiki.openstreetmap.org/wiki/JA:Editing?uselang=ja">他の方法</a>もあります。
+        でダウンロードできます。OpenStreetMap を編集する<a href="http://wiki.openstreetmap.org/wiki/JA:Editing?uselang=ja">他の方法</a>もあります。
       potlatch_unsaved_changes: 保存していない変更があります。(Potlatch では、一覧モードで編集している場合、ウェイや点の選択を解除する必要があります。または、保存ボタンをクリックして保存してください。)
       potlatch2_not_configured: 'Potlatch 2 が設定されていません - 詳細情報はこちらをご覧ください: http://wiki.openstreetmap.org/wiki/The_Rails_Port#Potlatch_2'
       potlatch2_unsaved_changes: 保存していない変更があります。(Potlatch 2 では、保存をクリックして保存する必要があります。)
@@ -1436,7 +1436,7 @@ ja:
       heading: GPX のストレージが利用できません
       message: GPX ファイルのストレージとアップロード システムは現在利用できません。
     georss:
-      title: GRM GPSトレース
+      title: OpenStreetMap GPSトレース
     description:
       description_with_count:
         other: '%{user} による %{count} 地点を含む GPX ファイル'
@@ -1541,10 +1541,10 @@ ja:
       lost password link: パスワードを忘れた場合はこちら
       login_button: ログイン
       register now: 今すぐ登録
-      with username: 'GRM アカウントを既にお持ちですか? 自分のユーザー名とパスワードでログインしてください:'
+      with username: 'OpenStreetMap アカウントを既にお持ちですか? 自分のユーザー名とパスワードでログインしてください:'
       with openid: 'OpenID でもログインできます:'
-      new to osm: GRM は初めてですか?
-      to make changes: GRM データを変更するには、アカウントが必要です。
+      new to osm: OpenStreetMap は初めてですか?
+      to make changes: OpenStreetMap データを変更するには、アカウントが必要です。
       create account minute: アカウントを作成します。1分でできます。
       no account: アカウントを持っていませんか?
       account not active: 申し訳ありませんが、あなたのアカウントはまだ有効ではありません。<br />アカウント確認メール内のリンクをクリックするか、<a
@@ -1573,7 +1573,7 @@ ja:
           alt: AOL の OpenID でログイン
     logout:
       title: ログアウト
-      heading: GRM からログアウト
+      heading: OpenStreetMap からログアウト
       logout_button: ログアウト
     lost_password:
       title: パスワードを忘れた
@@ -1614,9 +1614,9 @@ ja:
       use openid: 代わりに、%{logo} OpenID を使用してログイン
       openid no password: OpenID ではパスワードは不要ですが、特殊なツール/サーバーでは必要な場合があります。
       openid association: |-
-        <p>あなたの OpenID は、まだ GRM のどのアカウントとも関連付けられていません。</p>
+        <p>あなたの OpenID は、まだ OpenStreetMap のどのアカウントとも関連付けられていません。</p>
         <ul>
-          <li>GRM が初めての場合は、下のフォームで新規アカウントを作成してください。</li>
+          <li>OpenStreetMap が初めての場合は、下のフォームで新規アカウントを作成してください。</li>
           <li>
             既にアカウントを持っている場合は、あなたのユーザー名とパスワードでログインしてください。
             ログイン後、ユーザー設定であなたの OpenID と関連付けることができます。
@@ -1945,7 +1945,7 @@ ja:
       reopened_at_html: '%{when}前に再開'
       reopened_at_by_html: '%{user}さんが%{when}に再開'
     rss:
-      title: GRM メモ
+      title: OpenStreetMap メモ
       description_area: あなたのエリア [(%{min_lat}|%{min_lon}) -- (%{max_lat}|%{max_lon})]
         でレポート、コメント、またはクローズされたメモの一覧
       description_item: メモ %{id} の RSS フィード

@@ -32,7 +32,7 @@ ko:
   deleting: 삭제
   editinglive: 라이브 편집
   emailauthor: \n\n버그가 발견되면 richard\@systemeD.net 에게 email을 주십시오. 그리고 귀하가 무슨 작업을 하고 있는지 알려주세요.
-  error_connectionfailed: "죄송합니다. GRM 서버와의 연결이 실패했습니다. 최근 변경사항은 저장되지 않았습니다\n\n접속을 다시 시도하겠습니까?"
+  error_connectionfailed: "죄송합니다. OpenStreetMap 서버와의 연결이 실패했습니다. 최근 변경사항은 저장되지 않았습니다\n\n접속을 다시 시도하겠습니까?"
   error_microblog_long: "$1에 게시 실패 :\nHTTP 코드: $2\n오류 메시지 : $3\n$1 오류:$4"
   error_nopoi: POI를 찾을 수 없습니다. (perhaps you've panned away?) so I can't undo.
   error_nosharedpoint: 길 $1 과 $2 은(는) 같은 포인트를 더이상 공유하지 않습니다. 길 나누기를 취소할 수 없습니다.

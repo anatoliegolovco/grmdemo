@@ -244,14 +244,14 @@ bs:
       edit: Urediti
     feed:
       user:
-        title: Unosi u GRM dnevnik za korisnika %{user}
-        description: Nedavni unosi u GRM dnevnik od %{user}
+        title: Unosi u OpenStreetMap dnevnik za korisnika %{user}
+        description: Nedavni unosi u OpenStreetMap dnevnik od %{user}
       language:
-        title: 'Unosi u GRM dnevnik na jeziku: %{language_name}'
-        description: 'Nedavni unosi u dnevnik GRM korisnika na jeziku: %{language_name}'
+        title: 'Unosi u OpenStreetMap dnevnik na jeziku: %{language_name}'
+        description: 'Nedavni unosi u dnevnik OpenStreetMap korisnika na jeziku: %{language_name}'
       all:
-        title: Unosi u GRM dnevniku
-        description: Nedavni unosi u dnevnik GRM korisnika
+        title: Unosi u OpenStreetMap dnevniku
+        description: Nedavni unosi u dnevnik OpenStreetMap korisnika
     comments:
       has_commented_on: '%{display_name} je komentirao/la sljedeće unose u dnevnik'
       post: Post
@@ -266,18 +266,18 @@ bs:
       area_to_export: Područje za izvoz
       manually_select: Ručno izabrati drukčije područje
       format_to_export: Format za izvoz
-      osm_xml_data: GRM XML podaci
+      osm_xml_data: OpenStreetMap XML podaci
       map_image: Slika karte (prikazuje standardni sloj)
       embeddable_html: HTML kod sa mogućnošću za umetanje
       licence: Dozvola
-      export_details: GRM podaci je licenciran pod <a href="http://opendatacommons.org/licenses/odbl/1.0/">Open
+      export_details: OpenStreetMap podaci je licenciran pod <a href="http://opendatacommons.org/licenses/odbl/1.0/">Open
         Data Commons Open Database License dozvolom</a> (ODbL).
       too_large:
-        body: Ovo područje je preveliko da bi se izvezlo kao GRM XML podaci.
+        body: Ovo područje je preveliko da bi se izvezlo kao OpenStreetMap XML podaci.
           Molimo povećajte (zoom) ili odaberite manje područje.
         other:
           title: Drugi izvori
-          description: Dodatni izvori ponuđeni na GRM wiki
+          description: Dodatni izvori ponuđeni na OpenStreetMap wiki
       options: Opcije
       format: Format
       scale: Skala
@@ -810,7 +810,7 @@ bs:
       west: zapadno
   layouts:
     logo:
-      alt_text: GRM logotip
+      alt_text: OpenStreetMap logotip
     home: Početna
     logout: Odjava
     log_in: Prijava
@@ -828,8 +828,8 @@ bs:
     user_diaries_tooltip: Prikazati dnevnike korisnika
     edit_with: Uredi sa %{editor}
     tag_line: Slobodna wiki karta Svijeta
-    intro_header: Dobordošli na GRM stranicu!
-    intro_text: GRM predstavlja mapu svijeta, kreiranu od strane ljudi kao
+    intro_header: Dobordošli na OpenStreetMap stranicu!
+    intro_text: OpenStreetMap predstavlja mapu svijeta, kreiranu od strane ljudi kao
       što ste vi i može se besplatno koristiti.
     intro_2_create_account: Napravite korisnički račun
     partners_html: Hosting je podržan od strane %{ucl}, %{ic} i %{bytemark}, i drugih
@@ -838,21 +838,21 @@ bs:
     partners_ic: Imperial College London
     partners_bytemark: Bytemark Hosting
     partners_partners: partnera
-    osm_offline: GRM baza podataka je trenutno nedostupna dok se ne završe
+    osm_offline: OpenStreetMap baza podataka je trenutno nedostupna dok se ne završe
       važni radovi na održavanju.
-    osm_read_only: GRM baza podataka je trenutno samo u modu čitanja, dok
+    osm_read_only: OpenStreetMap baza podataka je trenutno samo u modu čitanja, dok
       se ne sprovedu važni radovi na održavanju baze podataka.
-    donate: Podržite GRM sa %{link} Hardware Upgrade Fond-om.
+    donate: Podržite OpenStreetMap sa %{link} Hardware Upgrade Fond-om.
     help: Pomoć
     about: O nama
     copyright: Autorska prava i dozvola
     community: Zajednica
     community_blogs: Blogovi zajednice
-    community_blogs_title: Blogovi članova GRM zajednice
+    community_blogs_title: Blogovi članova OpenStreetMap zajednice
     foundation: Fondacija
-    foundation_title: GRM Fondacija
+    foundation_title: OpenStreetMap Fondacija
     make_a_donation:
-      title: Podržite GRM novčanom donacijom
+      title: Podržite Openstreetmap novčanom donacijom
       text: Donirajte
     learn_more: Saznaj više
   license_page:
@@ -871,22 +871,22 @@ bs:
     legal_babble:
       title_html: Autorska prava i dozvola
       intro_1_html: |2-
-           GRM su <i>otvoreni podaci</i>, licencirani pod <a
+           OpenStreetMap su <i>otvoreni podaci</i>, licencirani pod <a
         href="http://opendatacommons.org/licenses/odbl/">Open Data
         Commons Open Database License dozvolom</a> (ODbL).
       intro_2_html: Slobodni ste kopirati, distribuirati, prenositi i adaptirati naše
-        podatke, sve dok navodite GRM i njegove doprinositelje kao izvor.
+        podatke, sve dok navodite OpenStreetMap i njegove doprinositelje kao izvor.
         Ukoliko izmijenite ili nadogradite naše podatke, možete distribuirati rezultate
         samo pod istom licencom. Puni <a href="http://opendatacommons.org/licenses/odbl/1.0/">pravni
         tekst</a> objašnjava vaša prava i odgovornosti.
       intro_3_html: |-
         Kartografija u našim dijelovima karte, i naša dokumentacija, su licencirani pod <a href="http://creativecommons.org/licenses/by-sa/2.0/">Creative
         Commons Attribution-ShareAlike 2.0</a> licencom (CC-BY-SA).
-      credit_title_html: Kako navesti zasluge GRM projekta kao izvora
+      credit_title_html: Kako navesti zasluge OpenStreetMap projekta kao izvora
       credit_1_html: |-
         Tražimo da koristite navedete zasluge &ldquo;&copy; OpenStreetMap
         contributors&rdquo;.
-      credit_2_html: Gdje je moguće, GRM treba biti kao hyperlink na <a
+      credit_2_html: Gdje je moguće, OpenStreetMap treba biti kao hyperlink na <a
         href="http://www.openstreetmap.org/">http://www.openstreetmap.org/</a>and
         CC BY-SA to <a href="http://creativecommons.org/licenses/by-sa/2.0/">http://creativecommons.org/licenses/by-sa/2.0/</a>.
         Ako koristite medij gdje linkovi nisu mogući (npr. tiskane karte), predlažemo
@@ -895,13 +895,13 @@ bs:
       credit_3_html: 'Za pretraživu elektronsku kartu, navođenje zasluge se treba
         pojaviti u uglu karte. Naprimjer:'
       attribution_example:
-        alt: Primjer kako se navodi zasluga projekta GRM na web stranici
+        alt: Primjer kako se navodi zasluga projekta OpenStreetMap na web stranici
         title: Primjer navođenja zasluge
       more_title_html: Više o
       more_1_html: Čitajte više o korištenju naših podataka na <a href="http://wiki.openstreetmap.org/wiki/Legal_FAQ">Legal
         FAQ</a>.
       more_2_html: |-
-        Iako su GRM podaci otvoreni, mi ne možemo ponuditi besplatni API karte za druge developere (third party).
+        Iako su OpenStreetMap podaci otvoreni, mi ne možemo ponuditi besplatni API karte za druge developere (third party).
         Vidjeti naše <a href="http://wiki.openstreetmap.org/wiki/API_usage_policy">Politika korištenja API</a>,
         <a href="http://wiki.openstreetmap.org/wiki/Tile_usage_policy">Politika korištenja dijelova karte</a>
         i <a href="http://wiki.openstreetmap.org/wiki/Nominatim#Usage_Policy">Politika korištenja usluge Nominatim</a>.
@@ -936,7 +936,7 @@ bs:
       contributors_footer_1_html: |-
         Za dalje detalje o ovome, i drugim izvorima koji su korišteni da bi poboljšali OpenStreetMap, molimo pogledajte <a
         href="http://wiki.openstreetmap.org/wiki/Contributors">Stranica doprinosilaca</a> na Wiki OpenStreetMap.
-      contributors_footer_2_html: '  Uvrštenje podataka u GRM ne podrazumjeva
+      contributors_footer_2_html: '  Uvrštenje podataka u OpenStreetMap ne podrazumjeva
         da se izvorni davatelj podataka podržava OpenStreetMap, pruža bilo kakvu garanciju,
         ili prihvata bilo kakve obaveze.'
       infringement_title_html: Kršenje autorskih prava
@@ -944,13 +944,13 @@ bs:
         sa bilo kojeg izvora koji zadržava autorska prava (npr. Google Maps ili printane
         karte) bez eksplicitne dozvole od strane autora.
       infringement_2_html: Ukoliko vjerujete da je zaštićeni materijal bio dodan bazi
-        podataka GRM ili ovom web sajtu, molimo da pogledate našu <a href="http://www.osmfoundation.org/wiki/License/Takedown_procedure">proceduru
+        podataka OpenStreetMap ili ovom web sajtu, molimo da pogledate našu <a href="http://www.osmfoundation.org/wiki/License/Takedown_procedure">proceduru
         skidanja</a> ili uložite prigovor direktno na našu <a href="http://dmca.openstreetmap.org/">online
         stranicu</a>.
   welcome_page:
     title: Dobrodošli!
     whats_on_the_map:
-      on_html: GRM je mjesto za mapiranje stvari koje su i<em> stvarne i
+      on_html: OpenStreetMap je mjesto za mapiranje stvari koje su i<em> stvarne i
         trenutne</em> - uključuje milione građevina, cesta, i ostalih detalja vezanih
         za mjesta. Vi možete mapirati bilo koji stvarni oblik koji vas interesuje.
     basic_terms:
@@ -971,13 +971,13 @@ bs:
     diary_comment_notification:
       subject: '[OpenStreetMap] %{user} je komentirao tvoj unos u dnevnik'
       hi: Zdravo %{to_user},
-      header: '%{from_user} je komentirao tvoj nedavni GRM unos u dnevnik
+      header: '%{from_user} je komentirao tvoj nedavni OpenStreetMap unos u dnevnik
         sa predmetom %{subject}:'
       footer: Možete pročitati komentare na %{readurl} i komentirati na %{commenturl}
         ili odgovoriti na %{replyurl}
     message_notification:
       hi: Zdravo %{to_user},
-      header: '%{from_user} Vam je poslao poruku preko GRM sa predmetom
+      header: '%{from_user} Vam je poslao poruku preko OpenStreetMap sa predmetom
         %{subject}:'
     friend_notification:
       subject: '[OpenStreetMap] %{user} Vas je dodao kao prijatelja'
@@ -1110,12 +1110,12 @@ bs:
     index:
       js_1: Koristite internet preglednik koji ne podržava JavaScript, ili ste onemogućili
         JavaScript.
-      js_2: GRM koristi JavaScript za slippy kartu.
+      js_2: OpenStreetMap koristi JavaScript za slippy kartu.
       permalink: Trajni link
       shortlink: Kratki link
       createnote: Dodaj bilješku
       license:
-        copyright: Autorska prava GRM i doprinosioci, pod otvorenom dozvolom
+        copyright: Autorska prava OpenStreetMap i doprinosioci, pod otvorenom dozvolom
       remote_failed: Uređivanje nije uspjelo - provjerite da li je JOSM ili Merkaartor
         učitan i da je opcija udaljenog pristupa omogućena
     edit:
@@ -1125,7 +1125,7 @@ bs:
       user_page_link: korisnička stranica
       anon_edits_link_text: Otkrijte zašto je to tako.
       flash_player_required: Potreban Vam je Flash player da bi koristili Potlatch,
-        GRM Flash uređivač. Možete <a href="http://www.adobe.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">preuzeti
+        OpenStreetMap Flash uređivač. Možete <a href="http://www.adobe.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">preuzeti
         Adobe Flash Player sa Adobe.com</a>. <a href="http://wiki.openstreetmap.org/wiki/Editing">Neke
         druge mogućnosti</a> su takođe dostupne za uređivanje OpenStreetMap-a.
       potlatch_unsaved_changes: Imate nespremljene promjene. (Da bi ste spremili u
@@ -1433,7 +1433,7 @@ bs:
         Vašim korisničkim imenom i lozinkom:'
       with openid: 'Alternativno molimo koristite Vaš OtvoreniID da se prijavite:'
       new to osm: Novi na OpenStreetMap?
-      to make changes: Da bi ste mijenjali GRM podatke, morate imati korisnički
+      to make changes: Da bi ste mijenjali OpenStreetMap podatke, morate imati korisnički
         račun.
       create account minute: Otvorite korisnički račun. To traje samo minutu.
       no account: Nemate korisničko ime?
@@ -1510,7 +1510,7 @@ bs:
       openid no password: Lozinka nije potrebna sa OtvorenimID, ali neki ekstra alati
         ili server je još uvijek mogu trebati.
       openid association: |-
-        <p>Vaš OtvoreniID još nije povezan sa GRM računom.</p>
+        <p>Vaš OtvoreniID još nije povezan sa OpenStreetMap računom.</p>
         <ul>
           <li>Ukoliko ste novi na projektu OpenStreetMap, molimo napravite novi račun korištenjem formulara ispod.</li>
           <li>

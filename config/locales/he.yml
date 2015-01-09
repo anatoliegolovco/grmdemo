@@ -304,11 +304,11 @@ he:
       edit: עריכה
     feed:
       user:
-        title: רשומות יומן GRM של %{user}
-        description: רשומות יומן GRM אחרונות מאת %{user}
+        title: רשומות יומן OpenStreetMap של %{user}
+        description: רשומות יומן OpenStreetMap אחרונות מאת %{user}
       language:
-        title: רשומות יומן GRM ב%{language_name}
-        description: רשומות יומן אחרונות מאת משתמשי GRM ב%{language_name}
+        title: רשומות יומן OpenStreetMap ב%{language_name}
+        description: רשומות יומן אחרונות מאת משתמשי OpenStreetMap ב%{language_name}
       all:
         title: רשומות ביומן של OpenStreetMap
         description: רשומות יומן אחרונות מאת משתמשי OpenStreetMap
@@ -330,7 +330,7 @@ he:
       map_image: תמונת מפה (תצוגת שכבה תקנית)
       embeddable_html: HTML שניתן להטמעה
       licence: רישיון
-      export_details: המידע ב־GRM מוגש בכפוף ל<a href="href="http://opendatacommons.org/licenses/odbl/1.0/">רישיון
+      export_details: המידע ב־OpenStreetMap מוגש בכפוף ל<a href="href="http://opendatacommons.org/licenses/odbl/1.0/">רישיון
         Open Data Commons לנתונים פתוחים</a> (ODbL).
       too_large:
         advice: 'אם הייבוא הנ״ל נכשל, נא לנסות להשתמש באחד המקורות להלן:'
@@ -919,7 +919,7 @@ he:
     edit_with: לעריכה עם %{editor}
     tag_line: מפת עולם חופשית בשיטת הוויקי
     intro_header: ברוכים הבאים ל־OpenStreetMap!
-    intro_text: GRM הוא מפה של העולם, נוצר על־ידי אנשים כמוך, וחופשי לשימוש
+    intro_text: OpenStreetMap הוא מפה של העולם, נוצר על־ידי אנשים כמוך, וחופשי לשימוש
       תחת רשיון פתוח.
     intro_2_create_account: נא ליצור חשבון משתמש
     partners_html: האירוח נתמך על־ידי מרכז %{ucl}‏, %{ic} ו%{bytemark}, ועל־ידי %{partners}
@@ -929,11 +929,11 @@ he:
     partners_bytemark: בייטמארק
     partners_partners: שותפים
     partners_url: http://wiki.openstreetmap.org/wiki/Partners
-    osm_offline: מסד הנתונים של אתר GRM אינו מקוון כעת בשל עבודות תחזוקה
+    osm_offline: מסד הנתונים של אתר OpenStreetMap אינו מקוון כעת בשל עבודות תחזוקה
       המבוצעות בו.
-    osm_read_only: מסד הנתונים של אתר GRM נתון כעת במצב קריאה בלבד בשל עבודות
+    osm_read_only: מסד הנתונים של אתר OpenStreetMap נתון כעת במצב קריאה בלבד בשל עבודות
       תחזוקה המבוצעות בו.
-    donate: תִמכו ב־GRM על־ידי %{link} לקרן לשדרוג החומרה.
+    donate: תִמכו ב־OpenStreetMap על־ידי %{link} לקרן לשדרוג החומרה.
     help: עזרה
     about: אודות
     copyright: זכויות יוצרים
@@ -943,7 +943,7 @@ he:
     foundation: קרן
     foundation_title: קרן אופן סטריט מאפ
     make_a_donation:
-      title: תִמכו במיזם GRM על־ידי מתן תרומה כספית
+      title: תִמכו במיזם OpenStreetMap על־ידי מתן תרומה כספית
       text: תרומה
     learn_more: מידע נוסף
     more: עוד
@@ -962,7 +962,7 @@ he:
     legal_babble:
       title_html: זכויות יוצרים ורישיון
       intro_1_html: |-
-        GRM הוא <i>מיזם נתונים פתוחים</i>, לפי רישיון <a
+        OpenStreetMap הוא <i>מיזם נתונים פתוחים</i>, לפי רישיון <a
         href="http://opendatacommons.org/licenses/odbl/">Open Data
         Commons Open Database License</a>&rlm; (ODbL).
       intro_2_html: |-
@@ -992,7 +992,7 @@ he:
       credit_3_html: 'בשביל מפה אלקטרונית שאפשר לעיין בה, הייחוס צריך להופיע בפינת
         המפה. למשל:'
       attribution_example:
-        alt: דוגמה לצורה הנכונה לתת ייחוס ל־GRM באתר האינטרנט
+        alt: דוגמה לצורה הנכונה לתת ייחוס ל־OpenStreetMap באתר האינטרנט
         title: דוגמה לייחוס
       more_title_html: איך למצוא מידע נוסף
       more_1_html: |-
@@ -1000,7 +1000,7 @@ he:
         href="http://wiki.openstreetmap.org/wiki/Legal_FAQ">דף שו״ת
         משפטי</a>.
       more_2_html: |-
-        אף־על־פי ש־GRM הוא מיזם נתונים פתוחים, איננו יכולים לספק
+        אף־על־פי ש־OpenStreetMap הוא מיזם נתונים פתוחים, איננו יכולים לספק
         API מפות בחינם למפתחי צד שלישי.
         ר׳ את דפי המדיניות שלנו: <a href="http://wiki.openstreetmap.org/wiki/API_usage_policy">המדיניות השימוש ב־API</a>,
         <a href="http://wiki.openstreetmap.org/wiki/Tile_usage_policy">מדיניות השימוש באריחים</a>
@@ -1048,7 +1048,7 @@ he:
         href="http://wiki.openstreetmap.org/wiki/Contributors">דף
         התורמים</a> בוויקי של OpenStreetMap.
       contributors_footer_2_html: |-
-        הכללה של נתונים ב־GRM אינה אומרת שהספק המקורי
+        הכללה של נתונים ב־OpenStreetMap אינה אומרת שהספק המקורי
         של הנתוהים תומך ב־OpenStreetMap, לוקח על עצמו אחריות כלשהי, או
         מקבל חבות כלשהי.
       infringement_title_html: הפרת זכויות יוצרים
@@ -1058,7 +1058,7 @@ he:
         אישור מפורש מבעלי הזכויות.
       infringement_2_html: |-
         אם נראה לך שחומר שמוגבל בזכויות יוצרים נוסף באופן לא הולם
-        אל מסד הנתונים של GRM או אל האתר הזה, נא לפנות
+        אל מסד הנתונים של OpenStreetMap או אל האתר הזה, נא לפנות
         אל <a href="http://www.osmfoundation.org/wiki/License/Takedown_procedure">נוהל
         ההסרה</a> שלנו או כתבו תלונה ישירות
         <a href="http://dmca.openstreetmap.org/">בדף התלונות המקוון שלנו</a>.
@@ -1069,7 +1069,7 @@ he:
       החשובים שכדאי לך לדעת.
     whats_on_the_map:
       title: מה על המפה
-      on_html: GRM הוא מקום למיפוי דברים אמתיים ונוכחיים – הוא מכיל מיליוני
+      on_html: OpenStreetMap הוא מקום למיפוי דברים אמתיים ונוכחיים – הוא מכיל מיליוני
         מבנים, דרכים ופרטים אחרים על מקומות. אפשר למפות כל דבר מהעולם מהאמתי שמעניין
         אותך.
       off_html: מה שאין פה זה מידע דעתני כמו דירוגים, מקומות היסטוריים או היפותטיים
@@ -1077,7 +1077,7 @@ he:
         מקוונות או מודפסות אלא אם יש לך אישור מיוחד לכך.
     basic_terms:
       title: מונחים בסיסיים למיפוי
-      paragraph_1_html: למיזם GRM יש עגה משלו. הנה מספר מילות מפתח שיהיו
+      paragraph_1_html: למיזם OpenStreetMap יש עגה משלו. הנה מספר מילות מפתח שיהיו
         שימושיות.
       editor_html: <strong>עורך</strong> הוא תכנה או אתר לעריכת המפה.
       node_html: <strong>צומת</strong> נוא נקודה על מפה, כגון מסעדה אחת או עץ אחד.
@@ -1087,7 +1087,7 @@ he:
     questions:
       title: יש שאלות?
       paragraph_1_html: |-
-        ב־GRM יש מספר משאבים ללימוד על המיזם, לשאלות ותשובות,
+        ב־OpenStreetMap יש מספר משאבים ללימוד על המיזם, לשאלות ותשובות,
         ולדיון ותיעוד שיתופי של נושאי מיפוי.
         <a href='%{help_url}'>מקום לקבל עזרה</a>.
     start_mapping: להתחיל למפות
@@ -1106,7 +1106,7 @@ he:
         title: להצטרף לקהילה
         explanation_html: |-
           אם שמת לב לבעיה על נתוני המפה שלנו, למשל שדרך או שכתובת שלך חסרה, הדרך הטובה ביותר
-          להמשיך היא להצטרף לקהילת GRM ולתקן את הנתונים בעצמך.
+          להמשיך היא להצטרף לקהילת OpenStreetMap ולתקן את הנתונים בעצמך.
       add_a_note:
         instructions_html: |-
           צריך פשוט ללחוץ על <a class='icon note'></a> או על אותו הסמל בתצוגת המפה.
@@ -1121,7 +1121,7 @@ he:
   help_page:
     title: קבלת עזרה
     introduction: |-
-      ב־GRM יש מספר משאבים ללימוד על המיזם, לשאלות ותשובות,
+      ב־OpenStreetMap יש מספר משאבים ללימוד על המיזם, לשאלות ותשובות,
       ולדיון ותיעוד שיתופי של נושאי מיפוי.
     welcome:
       url: /welcome
@@ -1139,16 +1139,16 @@ he:
     next: הבא
     copyright_html: <span>&copy;</span>תורמי<br>OpenStreetMap
     used_by: '%{name} מפעילה את נתוני המפה במאות אתרי אינטרנט, יישומים ומכשירים שונים'
-    lede_text: את GRM בונה קהילת ממפים שתורמים ומתחזקים נתונים על דרכים,
+    lede_text: את OpenStreetMap בונה קהילת ממפים שתורמים ומתחזקים נתונים על דרכים,
       שבילים, בתי־קפה, תחנות רכבת ועוד הרבה יותר, מסביב לעולם.
     local_knowledge_title: ידע מקומי
     local_knowledge_html: |-
-      GRM מדגישה ידע מקומי. התורמים משתמשים
+      OpenStreetMap מדגישה ידע מקומי. התורמים משתמשים
       בתמונות מהאוויר, מכשירי GPS, ומפות שדה „לואו־טק” כדי לוודא ש־OSM
       מדויקת ומעודכנת.
     community_driven_title: מונהג על־ידי הקהילה
     community_driven_html: |-
-      קהילת GRM מגוונת, בעלת תשוקה, וגדלה מיום ליום.
+      קהילת OpenStreetMap מגוונת, בעלת תשוקה, וגדלה מיום ליום.
       בקרב התורמים שלנו יש ממפים נלהבים, מקצועני מערכות מידע גאוגרפיות (GIS), מהנדסים
       שמריצים את שרתי OSM, פעילי סיוע הומניטרי שממפים אזורי מוכי־אסון,
       ורבים אחרים.
@@ -1156,8 +1156,8 @@ he:
       את <a href='http://blogs.openstreetmap.org/'>הבלוגים של הקהילה</a>, ואת האתר של <a href='http://www.osmfoundation.org/'>קרן OSM</a>.
     open_data_title: נתונים פתוחים
     open_data_html: |-
-      GRM היא <strong>נתונים פתוחים</strong>: יש לך הופש להשתמש בה לכל מטרה,
-      כל עוד ניתן ייחוס ל־GRM ולתורמיה. מותר לשנות את הנתונים
+      OpenStreetMap היא <strong>נתונים פתוחים</strong>: יש לך הופש להשתמש בה לכל מטרה,
+      כל עוד ניתן ייחוס ל־OpenStreetMap ולתורמיה. מותר לשנות את הנתונים
       ולבנות על גביהם דברים מסוימים, אך יש להפיץ את התוצאות של זה
       לפי התנאים של אותו הרישיון. ר' את <a href='%{copyright_path}'>דף הרישיון וזכויות היוצרים</a> לפרטים נוספים.
     partners_title: שותפים
@@ -1166,12 +1166,12 @@ he:
       subject: '[אופן סטריט מאפ OpenStreetMap] תגובה מאת %{user} נוספה לרשומת יומן
         שלך'
       hi: שלום %{to_user},
-      header: '%{from_user} הגיב לרשומת היומן שלך ב־GRM עם הנושא %{subject}:'
+      header: '%{from_user} הגיב לרשומת היומן שלך ב־OpenStreetMap עם הנושא %{subject}:'
       footer: אפשר גם לקרוא את התגובה בכתובת %{readurl} ולהגיב בכתובת %{commenturl}
         או להשיב בכתובת %{replyurl}
     message_notification:
       hi: שלום %{to_user},
-      header: 'לתיבתך ב־GRM הגיעה הודעה מאת %{from_user} עם הנושא %{subject}:'
+      header: 'לתיבתך ב־OpenStreetMap הגיעה הודעה מאת %{from_user} עם הנושא %{subject}:'
       footer_html: ניתן גם לקרוא את ההודעה בכתובת %{readurl} ולהגיב באמצעות %{replyurl}
     friend_notification:
       subject: '[אופן סטריט מאפ OpenStreetMap] נוספת לרשימת החברים של %{user}'
@@ -1320,12 +1320,12 @@ he:
   site:
     index:
       js_1: הדפדפן שבו אתה משתמש אינו תומך ב־JavaScript, או שכיבית את השימוש ב־JavaScript.
-      js_2: אתר GRM משתמש ב־JavaScript למפה המחליקה.
+      js_2: אתר OpenStreetMap משתמש ב־JavaScript למפה המחליקה.
       permalink: קישור קבוע
       shortlink: קישור מקוצר
       createnote: הוספת הערה
       license:
-        copyright: 'זכויות היוצרים: מיזם GRM ותורמיו, בכפוף לרישיון פתוח'
+        copyright: 'זכויות היוצרים: מיזם OpenStreetMap ותורמיו, בכפוף לרישיון פתוח'
       remote_failed: העריכה נכשלה – נא לוודא כי JOSM או Merkaartor נטענו ושאפשרות
         השליטה מקחור מופעלת
     edit:
@@ -1715,7 +1715,7 @@ he:
       about:
         header: חופשית וניתנת לעריכה
         html: |-
-          <p>להבדיל ממפות אחרות, GRM נוצרת כולה על־ידי אנשים כמוך,
+          <p>להבדיל ממפות אחרות, OpenStreetMap נוצרת כולה על־ידי אנשים כמוך,
           וכולם חופשיים לתקן, לעדכן ולהוריד אותה ולהשתמש בה.</p>
           <p>כדי להתחיל לתרום יש להירשם. אנו נשלח דואר אלקטרוני כדי לאמת את חשבונך.</p>
       license_agreement: עם אישור החשבון יש לקבל את <a href="http://www.osmfoundation.org/wiki/License/Contributor_Terms">תנאי

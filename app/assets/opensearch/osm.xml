@@ -2,7 +2,7 @@
 <OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/"
                        xmlns:moz="http://www.mozilla.org/2006/browser/search/">
 	<ShortName>OpenStreetMap</ShortName>
-	<LongName>GRM Search</LongName>
+	<LongName>OpenStreetMap Search</LongName>
 	<Description>Search for a place in OpenStreetMap, the Wiki World Map</Description>
 	<InputEncoding>UTF-8</InputEncoding>
 	<OutputEncoding>UTF-8</OutputEncoding>
@@ -13,5 +13,5 @@
 	<Query role="example" searchTerms="Reigate" />
 	<Developer>Jonathan Bennett</Developer>
 	<AdultContent>false</AdultContent>
-	<Attribution>Data &amp;copy; GRM contributors, Some Rights Reserved. CC by-sa 2.0. Geolocation provided by npemap.org.uk, geocoder.us, geocoder.ca and geonames.org.</Attribution>
+	<Attribution>Data &amp;copy; OpenStreetMap contributors, Some Rights Reserved. CC by-sa 2.0. Geolocation provided by npemap.org.uk, geocoder.us, geocoder.ca and geonames.org.</Attribution>
 </OpenSearchDescription>

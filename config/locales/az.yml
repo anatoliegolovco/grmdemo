@@ -220,15 +220,15 @@ az:
       edit: Redaktə
     feed:
       user:
-        title: '%{user} üçün GRM gündəlik yazıları'
-        description: '%{user} üçün axırıncı GRM gündəlik yazıları'
+        title: '%{user} üçün OpenStreetMap gündəlik yazıları'
+        description: '%{user} üçün axırıncı OpenStreetMap gündəlik yazıları'
       language:
-        title: '%{language_name} dilində GRM gündəlik yazıları'
-        description: '%{language_name} dilində GRM istifadəçilərinin axırıncı
+        title: '%{language_name} dilində OpenStreetMap gündəlik yazıları'
+        description: '%{language_name} dilində OpenStreetMap istifadəçilərinin axırıncı
           gündəlik yazıları'
       all:
-        title: GRM gündəlik yazısı
-        description: GRM istifadəçilərinin axırıncı gündəlik yazıları
+        title: OpenStreetMap gündəlik yazısı
+        description: OpenStreetMap istifadəçilərinin axırıncı gündəlik yazıları
     comments:
       has_commented_on: '%{display_name} indicə gündəliyin növbəti yazılarını şərh
         etdi'
@@ -243,7 +243,7 @@ az:
       area_to_export: İxrac üçün Ərazi
       manually_select: Digər ərazini seçmək
       format_to_export: İxracın forması
-      osm_xml_data: GRM XML formasında məlumatlar
+      osm_xml_data: OpenStreetMap XML formasında məlumatlar
       map_image: Xəritənin Şəkili (standart qatı göstərir)
       embeddable_html: Quraşdırılan HTML
       licence: Lisenziya
@@ -769,7 +769,7 @@ az:
       west: qərbə
   layouts:
     logo:
-      alt_text: GRM loqosu
+      alt_text: OpenStreetMap loqosu
     home: evə
     logout: çıxış
     log_in: daxil ol
@@ -795,9 +795,9 @@ az:
     copyright: Müəllif hüquqları və Lisenziyalar
     community: İcma
     community_blogs: İcma bloqları
-    community_blogs_title: GRM icmasının iştirakçılarının bloqları
-    foundation: GRM Fondu
-    foundation_title: GRM Fondu
+    community_blogs_title: OpenStreetMap icmasının iştirakçılarının bloqları
+    foundation: OpenStreetMap Fondu
+    foundation_title: OpenStreetMap Fondu
     make_a_donation:
       title: OpenStreetMap-i dəstəkləmək üçün maddi yardım et
       text: Maddi yardım et
@@ -812,7 +812,7 @@ az:
     legal_babble:
       title_html: Müəllif hüquqları və Lisenziyalar
       intro_1_html: |-
-        GRM <a
+        OpenStreetMap <a
         href="http://opendatacommons.org/licenses/odbl/">Open Data
         Commons Open Database License</a> (ODbL) lisenziyası üzrə istifadə olunan <i>açıq məlumatlardan</i> ibarətdir.
       credit_title_html: OpenStreetMap-ə Necə istinad etmək olar

@@ -818,7 +818,7 @@ sr-Latn:
     legal_babble:
       title_html: Autorska prava i licenca
       intro_1_html: |-
-        GRM is <i>open data</i>, licensed under the <a
+        OpenStreetMap is <i>open data</i>, licensed under the <a
         href="http://opendatacommons.org/licenses/odbl/">Open Data
         Commons Open Database License</a> (ODbL).
       intro_2_html: |2-

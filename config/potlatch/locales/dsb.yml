@@ -63,12 +63,12 @@ dsb:
   editingoffline: Wobźěłujo se offline
   emailauthor: \n\nPšosym pósćel richard\@systemeD.net e-mail z wopisanim zmólki a napisaj, což sy cynił w toś tom wokognuśu.
   error_anonymous: Njamóžoš se z anonymnym kartěrowarjom do zwiska stajiś.
-  error_connectionfailed: Bóžko zwisk ze serwerom GRM jo se njeraźił. Nowše změny njejsu se składli.\n\nCoš hyšći raz wopytaś?
+  error_connectionfailed: Bóžko zwisk ze serwerom OpenStreetMap jo se njeraźił. Nowše změny njejsu se składli.\n\nCoš hyšći raz wopytaś?
   error_microblog_long: "Słanje powěsći do $1 jo se njeraźiło:\nHTTP-kod: $2\nZmólkowa powěźeńka: $3\nZmólka $1: $4"
   error_nopoi: Dypk zajma njedajo se namakaś (snaź sy kórtowu wurězk pśesunuł), togodla anulěrowanje njejo móžno.
   error_nosharedpoint: Puśa $1 a $2 wěcej njamaju zgromadny dypk, togodla rozdźělenje njedajo se anulěrowaś.
   error_noway: Puś $1 njedajo se namakaś (snaź sy kórtowy wurězk pśesunuł?), togodla anulěrowanje njejo móžno.
-  error_readfailed: Bóžko serwer GRM njejo wótegronił, gaž sy wó daty prosył.\n\nCoš hyšći raz wopytaś?
+  error_readfailed: Bóžko serwer OpenStreetMap njejo wótegronił, gaž sy wó daty prosył.\n\nCoš hyšći raz wopytaś?
   existingrelation: Eksistěrujucej relaciji pśidaś
   findrelation: Pytaj relaciju, kótaraž wopśimujo
   gpxpleasewait: Pšosym cakaj, mjaztym až se GPX-cera pśeźěłujo.
@@ -178,7 +178,7 @@ dsb:
   prompt_editsave: Wobźěłaś a składowaś
   prompt_helpavailable: Ty sy nowy wužywaŕ? Glědaj dołojce nalěwo za pomoc.
   prompt_launch: Eksterny URL startowaś
-  prompt_live: W modusu live, kuždy zapisk, kótaryž změnjaš, buźo se ned w datowej bance GRM składowaś - njepśiraźijo se za zachopjeńkarjow. Coš to cyniś?
+  prompt_live: W modusu live, kuždy zapisk, kótaryž změnjaš, buźo se ned w datowej bance OpenStreetMap składowaś - njepśiraźijo se za zachopjeńkarjow. Coš to cyniś?
   prompt_manyways: Tós ten wobłuk wopśimujo wjelgin wjele drobnostkow a buźo dłujko traś, jen zacytaś. Coš lubjej pówětšyś?
   prompt_microblog: Powěsć do 1 ($2 zbytne)
   prompt_revertversion: "K pjerwjejšnej skłaźonej wersiji se wrośiś:"
