@@ -37,6 +37,14 @@ L.OSM.TransportMap = L.OSM.TileLayer.extend({
   }
 });
 
+L.OSM.HartaMD = L.OSM.TileLayer.extend({
+  options: {
+    url: 'http://ots1.hartamd.com/tiles.php?z={z}&x={x}&y={y}',
+    attribution: '© HartaMD.com',
+    tms: true
+  }
+});
+
 L.OSM.MapQuestOpen = L.OSM.TileLayer.extend({
   options: {
     url: document.location.protocol === 'https:' ?
