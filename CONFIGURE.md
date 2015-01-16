@@ -24,7 +24,7 @@ If you create a user by signing up to your local website, you need to confirm th
 
 ```
 $ bundle exec rails console
->> user = User.find_by_display_name("My New User Name")
+>> user = User.find_by_display_name("Anatolie Golovco")
 => #[ ... ]
 >> user.status = "active"
 => "active"
@@ -39,7 +39,7 @@ To give administrator or moderator permissions:
 
 ```
 $ bundle exec rails console
->> user = User.find_by_display_name("My New User Name")
+>> user = User.find_by_display_name("Anatolie Golovco")
 => #[ ... ]
 >> user.roles.create(:role => "administrator", :granter_id => user.id)
 => #[ ... ]
