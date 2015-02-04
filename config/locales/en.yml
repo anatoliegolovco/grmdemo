@@ -920,7 +920,7 @@ en:
     edit_with: Edit with %{editor}
     tag_line: The Free Wiki World Map
     intro_header: Welcome to GRM!
-    intro_text: OpenStreetMap is a map of the world, created by people like you and free to use under an open license.
+    intro_text: GRM is maps creation tool for enterprise needs.
     intro_2_create_account: "Create a user account"
     partners_html: "Hosting is supported by %{ucl}, %{ic} and %{bytemark}, and other %{partners}."
     partners_ucl: "the UCL VR Centre"
@@ -928,19 +928,19 @@ en:
     partners_bytemark: "Bytemark Hosting"
     partners_partners: "partners"
     partners_url: "http://wiki.openstreetmap.org/wiki/Partners"
-    osm_offline: "The OpenStreetMap database is currently offline while essential database maintenance work is carried out."
-    osm_read_only: "The OpenStreetMap database is currently in read-only mode while essential database maintenance work is carried out."
-    donate: "Support OpenStreetMap by %{link} to the Hardware Upgrade Fund."
+    osm_offline: "The GRM database is currently offline while essential database maintenance work is carried out."
+    osm_read_only: "The GRM database is currently in read-only mode while essential database maintenance work is carried out."
+    donate: "--"
     help: Help
     about: About
     copyright: Copyright
     community: Community
     community_blogs: "Community Blogs"
-    community_blogs_title: "Blogs from members of the OpenStreetMap community"
+    community_blogs_title: "Blogs from members of the GRM community"
     foundation: Foundation
-    foundation_title: The OpenStreetMap Foundation
+    foundation_title: The GRM Foundation
     make_a_donation:
-      title: Support OpenStreetMap with a monetary donation
+      title: Support GRM with a monetary donation
       text: Make a Donation
     learn_more: "Learn More"
     more: More
@@ -957,16 +957,9 @@ en:
     legal_babble:
       title_html: Copyright and License
       intro_1_html: |
-        OpenStreetMap is <i>open data</i>, licensed under the <a
-        href="http://opendatacommons.org/licenses/odbl/">Open Data
-        Commons Open Database License</a> (ODbL).
+        GRM is used for<i>corporate data</i>.
       intro_2_html: |
-        You are free to copy, distribute, transmit and adapt our data,
-        as long as you credit OpenStreetMap and its
-        contributors. If you alter or build upon our data, you
-        may distribute the result only under the same licence. The
-        full <a href="http://opendatacommons.org/licenses/odbl/1.0/">legal
-        code</a> explains your rights and responsibilities.
+        Data created in this system is proprietary for 
       intro_3_html: |
         The cartography in our map tiles, and our documentation, are
         licensed under the <a href="http://creativecommons.org/licenses/by-sa/2.0/">Creative
@@ -1065,7 +1058,7 @@ en:
   welcome_page:
     title: Welcome!
     introduction_html: |
-      Welcome to OpenStreetMap, the free and editable map of the world. Now that you're signed
+      Welcome to GRM, the free and editable map of the world. Now that you're signed
       up, you're all set to get started mapping. Here's a quick guide with the most important
       things you need to know.
     whats_on_the_map:
